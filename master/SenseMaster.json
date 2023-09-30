@@ -1210,6 +1210,19 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "Branches" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 130280,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 0,
+        "Type" : 9
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "Branches" : 
         [
@@ -1711,5 +1724,45 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 50,
         "Type" : 3
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 21007 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 1402801
+            }
+        ],
+        "CoolTime" : 35,
+        "Description" : "[:score]倍のスコアを獲得／銀河座のアクターのCTを8秒短縮",
+        "Id" : 140280,
+        "LightCount" : 1,
+        "Name" : "月光が映し出す罪と後悔",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 4
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "Branches" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140290,
+        "LightCount" : 1,
+        "Name" : "甘美なる悪逆へ誘おう",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 1
     }
 ]
