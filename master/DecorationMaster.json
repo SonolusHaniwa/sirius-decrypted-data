@@ -1,5 +1,61 @@
 [
     {
+        "Category" : 900,
+        "Id" : 10,
+        "IsDefault" : true,
+        "Name" : "シリウス",
+        "Order" : 10
+    },
+    {
+        "Category" : 900,
+        "Id" : 11,
+        "IsDefault" : true,
+        "Name" : "シリウス（小）",
+        "Order" : 11
+    },
+    {
+        "Category" : 900,
+        "Id" : 20,
+        "IsDefault" : true,
+        "Name" : "Eden",
+        "Order" : 20
+    },
+    {
+        "Category" : 900,
+        "Id" : 21,
+        "IsDefault" : true,
+        "Name" : "Eden（小）",
+        "Order" : 21
+    },
+    {
+        "Category" : 900,
+        "Id" : 30,
+        "IsDefault" : true,
+        "Name" : "銀河座",
+        "Order" : 30
+    },
+    {
+        "Category" : 900,
+        "Id" : 31,
+        "IsDefault" : true,
+        "Name" : "銀河座（小）",
+        "Order" : 31
+    },
+    {
+        "Category" : 900,
+        "Id" : 40,
+        "IsDefault" : true,
+        "Name" : "劇団電姫",
+        "Order" : 40
+    },
+    {
+        "Category" : 900,
+        "Id" : 41,
+        "IsDefault" : true,
+        "Name" : "劇団電姫（小）",
+        "Order" : 41
+    },
+    {
         "Category" : 3,
         "Id" : 10103,
         "IsDefault" : false,
@@ -33,5 +89,502 @@
         "IsDefault" : false,
         "Name" : "ヒトデの飾り物",
         "Order" : 10305
+    },
+    {
+        "Category" : 20,
+        "Id" : 201011,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（ハート1）",
+        "Order" : 201011
+    },
+    {
+        "Category" : 20,
+        "Id" : 201012,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（ハート2）",
+        "Order" : 201012
+    },
+    {
+        "Category" : 20,
+        "Id" : 201013,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（ハート3）",
+        "Order" : 201013
+    },
+    {
+        "Category" : 20,
+        "Id" : 201014,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（ハート4）",
+        "Order" : 201014
+    },
+    {
+        "Category" : 20,
+        "Id" : 201015,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（ハート5）",
+        "Order" : 201015
+    },
+    {
+        "Category" : 20,
+        "Id" : 201016,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（ハート6）",
+        "Order" : 201016
+    },
+    {
+        "Category" : 20,
+        "Id" : 201021,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（ハート1）",
+        "Order" : 201021
+    },
+    {
+        "Category" : 20,
+        "Id" : 201022,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（ハート2）",
+        "Order" : 201022
+    },
+    {
+        "Category" : 20,
+        "Id" : 201023,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（ハート3）",
+        "Order" : 201023
+    },
+    {
+        "Category" : 20,
+        "Id" : 201024,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（ハート4）",
+        "Order" : 201024
+    },
+    {
+        "Category" : 20,
+        "Id" : 202010,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（キラキラ1）",
+        "Order" : 202010
+    },
+    {
+        "Category" : 20,
+        "Id" : 202020,
+        "IsDefault" : false,
+        "Name" : "ネオン風シール（キラキラ1）",
+        "Order" : 202020
+    },
+    {
+        "Category" : 20,
+        "Id" : 203011,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（薔薇1）",
+        "Order" : 203011
+    },
+    {
+        "Category" : 20,
+        "Id" : 203012,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（薔薇2）",
+        "Order" : 203012
+    },
+    {
+        "Category" : 20,
+        "Id" : 203013,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（薔薇3）",
+        "Order" : 203013
+    },
+    {
+        "Category" : 20,
+        "Id" : 203014,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（薔薇4）",
+        "Order" : 203014
+    },
+    {
+        "Category" : 20,
+        "Id" : 204011,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（星1）",
+        "Order" : 204011
+    },
+    {
+        "Category" : 20,
+        "Id" : 204012,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（星2）",
+        "Order" : 204012
+    },
+    {
+        "Category" : 20,
+        "Id" : 204013,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（星3）",
+        "Order" : 204013
+    },
+    {
+        "Category" : 20,
+        "Id" : 204014,
+        "IsDefault" : true,
+        "Name" : "手書き風シール（星4）",
+        "Order" : 204014
+    },
+    {
+        "Category" : 20,
+        "Id" : 205011,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（パール1）",
+        "Order" : 205011
+    },
+    {
+        "Category" : 20,
+        "Id" : 205012,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（パール2）",
+        "Order" : 205012
+    },
+    {
+        "Category" : 20,
+        "Id" : 205013,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（パール3）",
+        "Order" : 205013
+    },
+    {
+        "Category" : 20,
+        "Id" : 205014,
+        "IsDefault" : false,
+        "Name" : "ラインストーン（パール4）",
+        "Order" : 205014
+    },
+    {
+        "Category" : 20,
+        "Id" : 206011,
+        "IsDefault" : true,
+        "Name" : "デコレーションシール（キャンディ1）",
+        "Order" : 206011
+    },
+    {
+        "Category" : 20,
+        "Id" : 206012,
+        "IsDefault" : true,
+        "Name" : "デコレーションシール（キャンディ2）",
+        "Order" : 206012
+    },
+    {
+        "Category" : 20,
+        "Id" : 206013,
+        "IsDefault" : true,
+        "Name" : "デコレーションシール（キャンディ3）",
+        "Order" : 206013
+    },
+    {
+        "Category" : 20,
+        "Id" : 206014,
+        "IsDefault" : true,
+        "Name" : "デコレーションシール（キャンディ4）",
+        "Order" : 206014
+    },
+    {
+        "Category" : 20,
+        "Id" : 290011,
+        "IsDefault" : false,
+        "Name" : "デコレーションシール（絆創膏1）",
+        "Order" : 290011
+    },
+    {
+        "Category" : 20,
+        "Id" : 290012,
+        "IsDefault" : false,
+        "Name" : "デコレーションシール（絆創膏2）",
+        "Order" : 290012
+    },
+    {
+        "Category" : 20,
+        "Id" : 290013,
+        "IsDefault" : false,
+        "Name" : "デコレーションシール（絆創膏3）",
+        "Order" : 290013
+    },
+    {
+        "Category" : 20,
+        "Id" : 290014,
+        "IsDefault" : false,
+        "Name" : "デコレーションシール（絆創膏4）",
+        "Order" : 290014
+    },
+    {
+        "Category" : 30,
+        "Id" : 301010,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（ぱんだ1）",
+        "Order" : 301010
+    },
+    {
+        "Category" : 30,
+        "Id" : 301020,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（ねこ1）",
+        "Order" : 301020
+    },
+    {
+        "Category" : 30,
+        "Id" : 301030,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（雪だるま1）",
+        "Order" : 301030
+    },
+    {
+        "Category" : 30,
+        "Id" : 380010,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（ジュゴン1）",
+        "Order" : 380010
+    },
+    {
+        "Category" : 30,
+        "Id" : 380020,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（ジュゴン2）",
+        "Order" : 380020
+    },
+    {
+        "Category" : 30,
+        "Id" : 380030,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（ジュゴン3）",
+        "Order" : 380030
+    },
+    {
+        "Category" : 30,
+        "Id" : 380040,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（ユニコーン1）",
+        "Order" : 380040
+    },
+    {
+        "Category" : 30,
+        "Id" : 390010,
+        "IsDefault" : false,
+        "Name" : "デコレーションステッカー（絆創膏1）",
+        "Order" : 390010
+    },
+    {
+        "Category" : 40,
+        "Id" : 401011,
+        "IsDefault" : true,
+        "Name" : "吹き出し（シンプル1）",
+        "Order" : 401011
+    },
+    {
+        "Category" : 40,
+        "Id" : 401012,
+        "IsDefault" : true,
+        "Name" : "吹き出し（シンプル2）",
+        "Order" : 401012
+    },
+    {
+        "Category" : 40,
+        "Id" : 402011,
+        "IsDefault" : true,
+        "Name" : "吹き出し（雲1）",
+        "Order" : 402011
+    },
+    {
+        "Category" : 40,
+        "Id" : 402012,
+        "IsDefault" : true,
+        "Name" : "吹き出し（雲2）",
+        "Order" : 402012
+    },
+    {
+        "Category" : 40,
+        "Id" : 402013,
+        "IsDefault" : true,
+        "Name" : "吹き出し（雲3）",
+        "Order" : 402013
+    },
+    {
+        "Category" : 40,
+        "Id" : 402014,
+        "IsDefault" : true,
+        "Name" : "吹き出し（雲4）",
+        "Order" : 402014
+    },
+    {
+        "Category" : 40,
+        "Id" : 402021,
+        "IsDefault" : true,
+        "Name" : "吹き出し（ポップ1）",
+        "Order" : 402021
+    },
+    {
+        "Category" : 40,
+        "Id" : 402022,
+        "IsDefault" : true,
+        "Name" : "吹き出し（ポップ2）",
+        "Order" : 402022
+    },
+    {
+        "Category" : 40,
+        "Id" : 402023,
+        "IsDefault" : true,
+        "Name" : "吹き出し（ポップ3）",
+        "Order" : 402023
+    },
+    {
+        "Category" : 40,
+        "Id" : 402024,
+        "IsDefault" : true,
+        "Name" : "吹き出し（ポップ4）",
+        "Order" : 402024
+    },
+    {
+        "Category" : 40,
+        "Id" : 402031,
+        "IsDefault" : true,
+        "Name" : "吹き出し（心の声1）",
+        "Order" : 402031
+    },
+    {
+        "Category" : 40,
+        "Id" : 402032,
+        "IsDefault" : true,
+        "Name" : "吹き出し（心の声2）",
+        "Order" : 402032
+    },
+    {
+        "Category" : 40,
+        "Id" : 402033,
+        "IsDefault" : true,
+        "Name" : "吹き出し（心の声3）",
+        "Order" : 402033
+    },
+    {
+        "Category" : 40,
+        "Id" : 402034,
+        "IsDefault" : true,
+        "Name" : "吹き出し（心の声4）",
+        "Order" : 402034
+    },
+    {
+        "Category" : 40,
+        "Id" : 403010,
+        "IsDefault" : true,
+        "Name" : "吹き出し（！マーク）",
+        "Order" : 403010
+    },
+    {
+        "Category" : 40,
+        "Id" : 403020,
+        "IsDefault" : true,
+        "Name" : "吹き出し（？マーク）",
+        "Order" : 403020
+    },
+    {
+        "Category" : 40,
+        "Id" : 403030,
+        "IsDefault" : true,
+        "Name" : "吹き出し（沈黙）",
+        "Order" : 403030
+    },
+    {
+        "Category" : 40,
+        "Id" : 403040,
+        "IsDefault" : true,
+        "Name" : "吹き出し（眠気）",
+        "Order" : 403040
+    },
+    {
+        "Category" : 40,
+        "Id" : 403050,
+        "IsDefault" : true,
+        "Name" : "吹き出し（もやもや）",
+        "Order" : 403050
+    },
+    {
+        "Category" : 50,
+        "Id" : 501010,
+        "IsDefault" : false,
+        "Name" : "エフェクト（ネコミミ）",
+        "Order" : 501010
+    },
+    {
+        "Category" : 50,
+        "Id" : 501020,
+        "IsDefault" : false,
+        "Name" : "エフェクト（ウサミミ）",
+        "Order" : 501020
+    },
+    {
+        "Category" : 50,
+        "Id" : 502010,
+        "IsDefault" : false,
+        "Name" : "エフェクト（ネコヒゲ）",
+        "Order" : 502010
+    },
+    {
+        "Category" : 50,
+        "Id" : 580010,
+        "IsDefault" : false,
+        "Name" : "エフェクト（ケモミミ）",
+        "Order" : 580010
+    },
+    {
+        "Category" : 60,
+        "Id" : 601010,
+        "IsDefault" : false,
+        "Name" : "ネオンフレーム（ハート）",
+        "Order" : 601010
+    },
+    {
+        "Category" : 60,
+        "Id" : 602010,
+        "IsDefault" : false,
+        "Name" : "ネオンフレーム（ノイズ）",
+        "Order" : 602010
+    },
+    {
+        "Category" : 60,
+        "Id" : 602020,
+        "IsDefault" : false,
+        "Name" : "ネオンフレーム（小悪魔）",
+        "Order" : 602020
+    },
+    {
+        "Category" : 70,
+        "Id" : 701010,
+        "IsDefault" : false,
+        "Name" : "ぱんだのメガネ（反射）",
+        "Order" : 701010
+    },
+    {
+        "Category" : 70,
+        "Id" : 780010,
+        "IsDefault" : false,
+        "Name" : "ハートのメガネ（ネオン）",
+        "Order" : 780010
+    },
+    {
+        "Category" : 90,
+        "Id" : 901010,
+        "IsDefault" : false,
+        "Name" : "デコ文字（ｻｱｺﾀｴﾅｻｧｲ…）",
+        "Order" : 901010
+    },
+    {
+        "Category" : 90,
+        "Id" : 901020,
+        "IsDefault" : true,
+        "Name" : "デコ文字（よろしく）",
+        "Order" : 901020
+    },
+    {
+        "Category" : 90,
+        "Id" : 980010,
+        "IsDefault" : true,
+        "Name" : "デコ文字（ごめんなさい）",
+        "Order" : 980010
     }
 ]

@@ -502,5 +502,77 @@
         "StoryMasterId" : 20007,
         "Title" : "互いのいるべき場所で",
         "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000801,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20008,
+        "Title" : "決めてみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000802,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2000801,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20008,
+        "Title" : "行ってみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000803,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2000802,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20008,
+        "Title" : "聞いてみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000804,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2000803,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20008,
+        "Title" : "撮ってみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000805,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2000804,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20008,
+        "Title" : "調べてみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000806,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2000805,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20008,
+        "Title" : "迷っちゃった",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000807,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2000806,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20008,
+        "Title" : "編集してみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2000808,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2000807,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20008,
+        "Title" : "想像、してみた",
+        "UnknownVariable1" : null
     }
 ]

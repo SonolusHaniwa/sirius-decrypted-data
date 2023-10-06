@@ -334,5 +334,117 @@
         ],
         "StoryEventHighScoreBuffMasterId" : 112,
         "StoryEventHighScoreMasterId" : 20006
+    },
+    {
+        "Id" : 2000801,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            11,
+            1,
+            80003,
+            "舞台照明",
+            "アクターの集中力が[:param1]上昇する",
+            "11"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 11,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000802,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            12,
+            1,
+            80002,
+            "舞台スピーカー",
+            "アクターの表現力が[:param1]上昇する",
+            "12"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 12,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000803,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            13,
+            1,
+            80001,
+            "舞台マイク",
+            "アクターの歌唱力が[:param1]上昇する",
+            "13"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 13,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000804,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            14,
+            1,
+            80004,
+            "舞台カーテン",
+            "アクターの演技力が[:param1]％上昇する",
+            "14"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 14,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000805,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            113,
+            2,
+            80017,
+            "パソコン",
+            "アクターの演技力上限値が[:param1]％上昇する　※<color=#33B4DF>凛属性</color>のアクターのみ対象",
+            "113"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 113,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000806,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            114,
+            2,
+            80018,
+            "手持ちカメラ",
+            "<color=#33B4DF>凛属性</color>のアクター1体につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+            "114"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 114,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000807,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            115,
+            2,
+            80019,
+            "紅葉の木",
+            "<color=#33B4DF>凛属性</color>のアクター1体につき、プリンシパルゲージの上限値が[:param1]上昇する",
+            "115"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 115,
+        "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2000808,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            116,
+            2,
+            80020,
+            "鳥居",
+            "<color=#33B4DF>凛属性</color>かつ増幅系統のアクターがセンス発動時、追加で「SP光」を[:param1]個付与する（レベル5以降の時に効果発動／SP光はどの系統の光としても扱われる）",
+            "116"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 116,
+        "StoryEventHighScoreMasterId" : 20008
     }
 ]
