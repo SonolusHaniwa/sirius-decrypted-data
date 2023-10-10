@@ -7533,7 +7533,7 @@
     },
     {
         "Description" : "フォトを[:param]枚現像しよう",
-        "EndDate" : "2099-12-31 05:00:00",
+        "EndDate" : "2023-10-11 05:00:00",
         "EventMasterId" : null,
         "Id" : 100100,
         "JumpTargetId" : null,
@@ -7628,6 +7628,286 @@
             }
         ],
         "StartDate" : "2023-08-26 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "ジュエルショップの「毎日無料パック」を受け取ろう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 100400,
+        "JumpTargetId" : 4,
+        "JumpType" : 3,
+        "MissionCategory" : 4,
+        "MissionViewOrder" : 100100,
+        "Stages" : 
+        [
+            {
+                "Id" : 100401,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130014,
+                        "ThingQuantity" : 1,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2023-10-11 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-11 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200000,
+        "JumpTargetId" : null,
+        "JumpType" : 6,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200000,
+        "Stages" : 
+        [
+            {
+                "Id" : 200001,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110002,
+                        "ThingQuantity" : 2,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 3000,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "演劇リーグを[:param]回プレイしよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200100,
+        "JumpTargetId" : null,
+        "JumpType" : 6,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200100,
+        "Stages" : 
+        [
+            {
+                "Id" : 200101,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130011,
+                        "ThingQuantity" : 50,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200200,
+        "JumpTargetId" : null,
+        "JumpType" : 6,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200200,
+        "Stages" : 
+        [
+            {
+                "Id" : 200201,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120002,
+                        "ThingQuantity" : 200,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "フォトを[:param]枚現像しよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200300,
+        "JumpTargetId" : null,
+        "JumpType" : 8,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200300,
+        "Stages" : 
+        [
+            {
+                "Id" : 200301,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130025,
+                        "ThingQuantity" : 300,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "フォトのレベルを合計[:param]上げよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200400,
+        "JumpTargetId" : null,
+        "JumpType" : 8,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200400,
+        "Stages" : 
+        [
+            {
+                "Id" : 200401,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130035,
+                        "ThingQuantity" : 100,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "マーケットでアイテムを[:param]回交換しよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200500,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200500,
+        "Stages" : 
+        [
+            {
+                "Id" : 200501,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : 13
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "Description" : "「全てのデイリーミッションをクリアしよう」を[:param]回達成しよう",
+        "EndDate" : "2099-12-31 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 200600,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MissionCategory" : 5,
+        "MissionViewOrder" : 200600,
+        "Stages" : 
+        [
+            {
+                "Id" : 200601,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130013,
+                        "ThingQuantity" : 1,
+                        "ThingType" : 1
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2023-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2023-10-16 05:00:00",
         "Title" : "",
         "UnknownVariable1" : null,
         "UnknownVariable2" : null,
