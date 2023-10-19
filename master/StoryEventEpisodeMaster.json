@@ -574,5 +574,77 @@
         "StoryMasterId" : 20008,
         "Title" : "想像、してみた",
         "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001001,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20010,
+        "Title" : "特別なイベント",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001002,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2001001,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20010,
+        "Title" : "このメンバーで",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001003,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2001002,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20010,
+        "Title" : "ヒートアップ",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001004,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2001003,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20010,
+        "Title" : "５人じゃないと",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001005,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2001004,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20010,
+        "Title" : "熱くなる理由",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001006,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2001005,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20010,
+        "Title" : "コンテスト当日",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001007,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2001006,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20010,
+        "Title" : "全力で",
+        "UnknownVariable1" : null
+    },
+    {
+        "Id" : 2001008,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2001007,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20010,
+        "Title" : "みんながいたから",
+        "UnknownVariable1" : null
     }
 ]
