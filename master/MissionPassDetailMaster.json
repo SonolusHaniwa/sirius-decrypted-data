@@ -1672,5 +1672,113 @@
             }
         ],
         "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 8000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 420,
+        "MissionPassMasterId" : 4,
+        "Phase" : 20,
+        "Rewards" : 
+        [
+            {
+                "Id" : 42001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 420,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : 13
+            },
+            {
+                "Id" : 42002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 420,
+                "ThingId" : 1471,
+                "ThingQuantity" : 1,
+                "ThingType" : 5
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 12000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 430,
+        "MissionPassMasterId" : 4,
+        "Phase" : 30,
+        "Rewards" : 
+        [
+            {
+                "Id" : 43001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 430,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : 13
+            },
+            {
+                "Id" : 43002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 430,
+                "ThingId" : 1472,
+                "ThingQuantity" : 1,
+                "ThingType" : 5
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 16000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 440,
+        "MissionPassMasterId" : 4,
+        "Phase" : 40,
+        "Rewards" : 
+        [
+            {
+                "Id" : 44001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 440,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : 13
+            },
+            {
+                "Id" : 44002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 440,
+                "ThingId" : 1473,
+                "ThingQuantity" : 1,
+                "ThingType" : 5
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 20000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 450,
+        "MissionPassMasterId" : 4,
+        "Phase" : 50,
+        "Rewards" : 
+        [
+            {
+                "Id" : 45001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 450,
+                "ThingId" : 130013,
+                "ThingQuantity" : 3,
+                "ThingType" : 1
+            },
+            {
+                "Id" : 45002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 450,
+                "ThingId" : 1474,
+                "ThingQuantity" : 1,
+                "ThingType" : 5
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
     }
 ]

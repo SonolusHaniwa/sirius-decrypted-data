@@ -936,6 +936,30 @@
         "PerformanceGroupId" : null
     },
     {
+        "CostumeMasterIds" : [ 1381, 1382 ],
+        "CostumeWearableCharacterGroupMasterId" : null,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-10-31 17:00:00",
+        "Id" : 138,
+        "IsHairChange" : false,
+        "Name" : "くま",
+        "Order" : 138,
+        "PerformanceGroupId" : null
+    },
+    {
+        "CostumeMasterIds" : [ 1391, 1392 ],
+        "CostumeWearableCharacterGroupMasterId" : 103,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-10-31 17:00:00",
+        "Id" : 139,
+        "IsHairChange" : true,
+        "Name" : "くま",
+        "Order" : 139,
+        "PerformanceGroupId" : null
+    },
+    {
         "CostumeMasterIds" : [ 1421 ],
         "CostumeWearableCharacterGroupMasterId" : 401,
         "Description" : null,
@@ -993,6 +1017,18 @@
         "IsHairChange" : true,
         "Name" : "魔法少女ユークリッド",
         "Order" : 146,
+        "PerformanceGroupId" : null
+    },
+    {
+        "CostumeMasterIds" : [ 1471, 1472, 1473, 1474 ],
+        "CostumeWearableCharacterGroupMasterId" : null,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-11-01 05:00:00",
+        "Id" : 147,
+        "IsHairChange" : false,
+        "Name" : "歌劇姑娘",
+        "Order" : 147,
         "PerformanceGroupId" : null
     }
 ]
