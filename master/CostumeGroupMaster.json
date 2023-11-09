@@ -1030,5 +1030,29 @@
         "Name" : "歌劇姑娘",
         "Order" : 147,
         "PerformanceGroupId" : null
+    },
+    {
+        "CostumeMasterIds" : [ 1501, 1502 ],
+        "CostumeWearableCharacterGroupMasterId" : null,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-11-10 17:00:00",
+        "Id" : 150,
+        "IsHairChange" : false,
+        "Name" : "Thorn Princess",
+        "Order" : 150,
+        "PerformanceGroupId" : null
+    },
+    {
+        "CostumeMasterIds" : [ 1511, 1512 ],
+        "CostumeWearableCharacterGroupMasterId" : 104,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-11-10 17:00:00",
+        "Id" : 151,
+        "IsHairChange" : true,
+        "Name" : "Thorn Princess",
+        "Order" : 151,
+        "PerformanceGroupId" : null
     }
 ]

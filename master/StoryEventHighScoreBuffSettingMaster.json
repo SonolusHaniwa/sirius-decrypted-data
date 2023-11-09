@@ -446,5 +446,117 @@
         ],
         "StoryEventHighScoreBuffMasterId" : 116,
         "StoryEventHighScoreMasterId" : 20008
+    },
+    {
+        "Id" : 2001201,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            11,
+            1,
+            80003,
+            "舞台照明",
+            "アクターの集中力が[:param1]上昇する",
+            "11"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 11,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001202,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            12,
+            1,
+            80002,
+            "舞台スピーカー",
+            "アクターの表現力が[:param1]上昇する",
+            "12"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 12,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001203,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            13,
+            1,
+            80001,
+            "舞台マイク",
+            "アクターの歌唱力が[:param1]上昇する",
+            "13"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 13,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001204,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            14,
+            1,
+            80004,
+            "舞台カーテン",
+            "アクターの演技力が[:param1]％上昇する",
+            "14"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 14,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001205,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            117,
+            2,
+            80021,
+            "ランドセル",
+            "アクターの歌唱力が[:param1]％上昇する　※<color=#FF9314>陽属性</color>のアクターのみ対象",
+            "117"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 117,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001206,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            118,
+            2,
+            80022,
+            "ドッジボール",
+            "アクターの演技力上限値が[:param1]％上昇する　※<color=#FF9314>陽属性</color>のアクターのみ対象",
+            "118"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 118,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001207,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            119,
+            2,
+            80023,
+            "宿題の山",
+            "スターアクト発動に必要な支配の光<color=#ff0000>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>かつ支配系統のアクターのみ対象",
+            "119"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 119,
+        "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001208,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            120,
+            2,
+            80024,
+            "体操着",
+            "<color=#FF9314>陽属性</color>のアクターがセンス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動／SP光はどの系統の光としても扱われる）",
+            "120"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 120,
+        "StoryEventHighScoreMasterId" : 20012
     }
 ]

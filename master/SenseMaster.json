@@ -1262,6 +1262,33 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 20013 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 1303301
+            }
+        ],
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130330,
+        "LightCount" : 1,
+        "Name" : "いっしょに遊びませんか？",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 2
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "Branches" : 
         [
@@ -1949,5 +1976,31 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 70,
         "Type" : 4
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "Branches" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140400,
+        "LightCount" : 1,
+        "Name" : "夕暮れ時には甘えてみて",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 40,
+        "Type" : 2
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "Branches" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140410,
+        "LightCount" : 1,
+        "Name" : "巡り合わせの落葉",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 2
     }
 ]
