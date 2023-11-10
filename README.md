@@ -12,7 +12,7 @@ Include these things:
 - `music/*/music_config.txt`: Music config
 - `music/*/[1~5].txt`: Chart file. `1 => Normal`, `2 => Hard`, `3 => Extra`, `4 => Stella`, `5 => Olivier`
 
-This repository will be synced with `assets.wds-stellarium.com` automatically every 00:00 UTC
+This repository will be synced with `assets.wds-stellarium.com` automatically every 17:00 (JST UTC+9)
 
 Our alogrithm will skip things we have fetched, so this program may don't need many traffic
 
