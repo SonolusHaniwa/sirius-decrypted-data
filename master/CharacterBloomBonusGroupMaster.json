@@ -5793,6 +5793,182 @@
             },
             {
                 "BloomBonusType" : 0,
+                "Description" : "スターアクト発動に必要な支援の光の個数が1個減少",
+                "EffectMasterId" : 30501,
+                "IconPath" : "DecreaseRequireSupportLight",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "初期プリンシパルゲージが50上昇",
+                "EffectMasterId" : 30305,
+                "IconPath" : "PrincipalGaugeGain",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 5,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            }
+        ],
+        "BloomRewards" : 
+        [
+            {
+                "Phase" : 511302,
+                "ThingId" : 1,
+                "ThingQuantity" : 5,
+                "ThingType" : 1,
+                "UnknownVariable1" : null
+            }
+        ],
+        "Id" : 40038
+    },
+    {
+        "BloomBonuses" : 
+        [
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 1,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "センスのCTが5秒減少",
+                "EffectMasterId" : 30405,
+                "IconPath" : "SenseRecastDown",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "スターアクト発動に必要な増幅の光の個数が1個減少",
+                "EffectMasterId" : 30701,
+                "IconPath" : "DecreaseRequireAmplificationLight",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "基礎スコアが5％上昇",
+                "EffectMasterId" : 30205,
+                "IconPath" : "BaseScoreUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 5,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            }
+        ],
+        "BloomRewards" : 
+        [
+            {
+                "Phase" : 511303,
+                "ThingId" : 1,
+                "ThingQuantity" : 5,
+                "ThingType" : 1,
+                "UnknownVariable1" : null
+            }
+        ],
+        "Id" : 40039
+    },
+    {
+        "BloomBonuses" : 
+        [
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 1,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "センスのCTが5秒減少",
+                "EffectMasterId" : 30405,
+                "IconPath" : "SenseRecastDown",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
                 "Description" : "スターアクト発動に必要な支配の光の個数が1個減少",
                 "EffectMasterId" : 30601,
                 "IconPath" : "DecreaseRequireControlLight",

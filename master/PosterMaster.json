@@ -1123,6 +1123,29 @@
         "UnknownVariable3" : null
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 302 ],
+        "Costumes" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-11-20 17:00:00",
+        "Id" : 220270,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "ギムレットにお別れを",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "ぎむれっとにおわかれを",
+        "Rarity" : 2,
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 778,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 160,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 104, 205, 405 ],
         "Costumes" : null,
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -2088,6 +2111,47 @@
         "SubTitlePositionY1" : 1323,
         "SubTitlePositionY2" : 38,
         "SubTitlePositionY3" : 1833,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 302, 303, 304 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 1481,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 1482,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 1491,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 1492,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-11-20 17:00:00",
+        "Id" : 230260,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "The Long Goodbye",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "TheLongGoodbye",
+        "Rarity" : 3,
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 30,
+        "SubTitlePositionX2" : 129,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1478,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null,
         "UnknownVariable1" : null,
         "UnknownVariable2" : null,
         "UnknownVariable3" : null
