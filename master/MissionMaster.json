@@ -8405,6 +8405,42 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「いろはうたBLOOMING」を[:param]回クリアしよう",
+        "EndDate" : "2023-12-10 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 14600,
+        "JumpTargetId" : null,
+        "JumpType" : 6,
+        "MissionCategory" : 3,
+        "MissionViewOrder" : 14600,
+        "Stages" : 
+        [
+            {
+                "Id" : 14600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140171,
+                        "ThingQuantity" : 1,
+                        "ThingType" : 6
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2023-11-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2023-11-30 17:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,

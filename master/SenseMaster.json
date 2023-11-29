@@ -1302,6 +1302,33 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 140,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 20013 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 1303401
+            }
+        ],
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130340,
+        "LightCount" : 1,
+        "Name" : "その目をよく見せてくれ",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 40,
+        "Type" : 1
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "Branches" : 
         [
@@ -2055,5 +2082,45 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 50,
         "Type" : 2
+    },
+    {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 170,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 20082 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 1404201
+            }
+        ],
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 140420,
+        "LightCount" : 1,
+        "Name" : "囚われてなお渇望するもの",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 4
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 670,
+        "Branches" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140430,
+        "LightCount" : 1,
+        "Name" : "縛めを解いてくれた人と共に",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 60,
+        "Type" : 3
     }
 ]

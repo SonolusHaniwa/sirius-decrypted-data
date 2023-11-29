@@ -4061,6 +4061,36 @@
                 "JudgeType2" : null,
                 "Order" : 
                 [
+                    [ 1, 70022003 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 22029001
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220290,
+        "Name" : "bet on faith？",
+        "PosterMasterId" : 220290,
+        "ReleaseLevelAt" : 0,
+        "Type" : 1,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
                     [ 1, 70041003 ]
                 ],
                 "Parameter1" : null,
@@ -7443,6 +7473,36 @@
                 "JudgeType2" : null,
                 "Order" : 
                 [
+                    [ 1, 70052200 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 23029001
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "Edenに所属するアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 230290,
+        "Name" : "献身と純真",
+        "PosterMasterId" : 230290,
+        "ReleaseLevelAt" : 0,
+        "Type" : 1,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
                     [ 1, 10011004 ]
                 ],
                 "Parameter1" : null,
@@ -7787,6 +7847,66 @@
         "Id" : 2202802,
         "Name" : "スコアブースト・表現力",
         "PosterMasterId" : 220280,
+        "ReleaseLevelAt" : 7,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 10011003 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 220290101
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2202901,
+        "Name" : "演技力アップ＋",
+        "PosterMasterId" : 220290,
+        "ReleaseLevelAt" : 0,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 11211003 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 220290201
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、ライフを[:param11]回復　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2202902,
+        "Name" : "ライフブースト",
+        "PosterMasterId" : 220290,
         "ReleaseLevelAt" : 7,
         "Type" : 2,
         "UnknownVariable1" : null
@@ -8388,6 +8508,96 @@
         "Name" : "スコアブースト・集中力Ⅲ",
         "PosterMasterId" : 230280,
         "ReleaseLevelAt" : 7,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 10030000 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 230290101
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2302901,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 230290,
+        "ReleaseLevelAt" : 0,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 10211200 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 230290201
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の表現力が[:param11]%上昇　◆発動条件：Edenに所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2302902,
+        "Name" : "表現力アップ＋",
+        "PosterMasterId" : 230290,
+        "ReleaseLevelAt" : 5,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 12120200 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 230290301
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、支配系の光「<color=#ff0000>*</color>」を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：Edenに所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2302903,
+        "Name" : "「光」追加（支配）Ⅱ",
+        "PosterMasterId" : 230290,
+        "ReleaseLevelAt" : 8,
         "Type" : 2,
         "UnknownVariable1" : null
     }
