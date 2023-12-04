@@ -5667,6 +5667,69 @@
         "StartDate" : "2023-11-20 17:00:00"
     },
     {
+        "BannerPath" : "2800",
+        "Category" : 4,
+        "DisplayItemMasterId" : 412800,
+        "DisplayThingType" : 1,
+        "EndDate" : "2023-12-22 17:00:00",
+        "Id" : 2800,
+        "IsDisplayRequiredHavingItem" : false,
+        "LastRefreshedAt" : "1-01-01 00:00:00",
+        "Lineup" : 
+        [
+            {
+                "EndDate" : "2023-12-22 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 2800001,
+                "IsDisplayLocked" : false,
+                "Order" : 2800001,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412800,
+                "RequiredQuantity" : 200,
+                "StartDate" : "2023-12-05 17:00:00",
+                "ThingId" : 330010,
+                "ThingQuantity" : 1,
+                "ThingType" : 3,
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2023-12-22 17:00:00",
+                "ExchangeLimit" : 2,
+                "Id" : 2800002,
+                "IsDisplayLocked" : false,
+                "Order" : 2800002,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412800,
+                "RequiredQuantity" : 50,
+                "StartDate" : "2023-12-05 17:00:00",
+                "ThingId" : 130071,
+                "ThingQuantity" : 1,
+                "ThingType" : 1,
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2023-12-22 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 2800003,
+                "IsDisplayLocked" : false,
+                "Order" : 2800003,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412800,
+                "RequiredQuantity" : 1,
+                "StartDate" : "2023-12-05 17:00:00",
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : 1,
+                "UnlockType" : null,
+                "UnlockValue" : null
+            }
+        ],
+        "Name" : "結ぶぞ！その契約！ガチャ(ポスター)",
+        "StartDate" : "2023-12-05 17:00:00"
+    },
+    {
         "BannerPath" : "20001",
         "Category" : 3,
         "DisplayItemMasterId" : 420001,

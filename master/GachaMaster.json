@@ -18915,6 +18915,526 @@
         ]
     },
     {
+        "AttentionGachaTextTemplateMasterId" : 12001,
+        "BonusThings" : 
+        [
+            {
+                "Id" : 280001,
+                "ThingId" : 412800,
+                "ThingQuantity" : 1,
+                "ThingType" : 1
+            }
+        ],
+        "CardType" : 2,
+        "EndDate" : "2023-12-15 17:00:00",
+        "GachaDetails" : 
+        [
+            {
+                "ButtonType" : 3,
+                "DailyRollLimit" : 1,
+                "DetailBonusThings" : 
+                [
+                    {
+                        "Id" : 280000,
+                        "ThingId" : 130013,
+                        "ThingQuantity" : 1,
+                        "ThingType" : 1
+                    }
+                ],
+                "FixedPrizeCount" : 0,
+                "FreeJewelAmount" : null,
+                "Id" : 280000,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : 50,
+                "PrizeCount" : 1,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            },
+            {
+                "ButtonType" : 4,
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : null,
+                "FixedPrizeCount" : 0,
+                "FreeJewelAmount" : 300,
+                "Id" : 280001,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 1,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            },
+            {
+                "ButtonType" : 2,
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : null,
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : 3000,
+                "Id" : 280002,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            },
+            {
+                "ButtonType" : 5,
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : null,
+                "FixedPrizeCount" : 0,
+                "FreeJewelAmount" : null,
+                "Id" : 280003,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 1,
+                "RequiredTicketMItemId" : 211001,
+                "RequiredTicketQuantity" : 1
+            },
+            {
+                "ButtonType" : 6,
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : null,
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : null,
+                "Id" : 280004,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : 211001,
+                "RequiredTicketQuantity" : 10
+            },
+            {
+                "ButtonType" : 7,
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : null,
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : null,
+                "Id" : 280005,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : 211002,
+                "RequiredTicketQuantity" : 1
+            },
+            {
+                "ButtonType" : 1,
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : null,
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : null,
+                "Id" : 280006,
+                "IsFree" : false,
+                "OverallRollLimit" : 1,
+                "PaidJewelAmount" : 1500,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            }
+        ],
+        "GachaTextTemplateMasterId" : 2800,
+        "GachaType" : 1,
+        "HasMovie" : false,
+        "Id" : 2800,
+        "IsForceDisplay" : false,
+        "IsHideEndDate" : false,
+        "Name" : "結ぶぞ！その契約！ガチャ",
+        "StartDate" : "2023-12-05 17:00:00",
+        "StoryEventMasterId" : null,
+        "Things" : 
+        [
+            {
+                "Id" : 2800210010,
+                "PickupOrder" : null,
+                "ThingId" : 210010,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210020,
+                "PickupOrder" : null,
+                "ThingId" : 210020,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210030,
+                "PickupOrder" : null,
+                "ThingId" : 210030,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210040,
+                "PickupOrder" : null,
+                "ThingId" : 210040,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210050,
+                "PickupOrder" : null,
+                "ThingId" : 210050,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210060,
+                "PickupOrder" : null,
+                "ThingId" : 210060,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210070,
+                "PickupOrder" : null,
+                "ThingId" : 210070,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210080,
+                "PickupOrder" : null,
+                "ThingId" : 210080,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210090,
+                "PickupOrder" : null,
+                "ThingId" : 210090,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210100,
+                "PickupOrder" : null,
+                "ThingId" : 210100,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210110,
+                "PickupOrder" : null,
+                "ThingId" : 210110,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210120,
+                "PickupOrder" : null,
+                "ThingId" : 210120,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210130,
+                "PickupOrder" : null,
+                "ThingId" : 210130,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210140,
+                "PickupOrder" : null,
+                "ThingId" : 210140,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210150,
+                "PickupOrder" : null,
+                "ThingId" : 210150,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210160,
+                "PickupOrder" : null,
+                "ThingId" : 210160,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210170,
+                "PickupOrder" : null,
+                "ThingId" : 210170,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210180,
+                "PickupOrder" : null,
+                "ThingId" : 210180,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210190,
+                "PickupOrder" : null,
+                "ThingId" : 210190,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210200,
+                "PickupOrder" : null,
+                "ThingId" : 210200,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800210210,
+                "PickupOrder" : null,
+                "ThingId" : 210210,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220010,
+                "PickupOrder" : null,
+                "ThingId" : 220010,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220020,
+                "PickupOrder" : null,
+                "ThingId" : 220020,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220030,
+                "PickupOrder" : null,
+                "ThingId" : 220030,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220040,
+                "PickupOrder" : null,
+                "ThingId" : 220040,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220050,
+                "PickupOrder" : null,
+                "ThingId" : 220050,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220060,
+                "PickupOrder" : null,
+                "ThingId" : 220060,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220070,
+                "PickupOrder" : null,
+                "ThingId" : 220070,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220080,
+                "PickupOrder" : null,
+                "ThingId" : 220080,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220090,
+                "PickupOrder" : null,
+                "ThingId" : 220090,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220100,
+                "PickupOrder" : null,
+                "ThingId" : 220100,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220110,
+                "PickupOrder" : null,
+                "ThingId" : 220110,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220120,
+                "PickupOrder" : null,
+                "ThingId" : 220120,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220130,
+                "PickupOrder" : null,
+                "ThingId" : 220130,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220140,
+                "PickupOrder" : null,
+                "ThingId" : 220140,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220150,
+                "PickupOrder" : null,
+                "ThingId" : 220150,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800220160,
+                "PickupOrder" : null,
+                "ThingId" : 220160,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230010,
+                "PickupOrder" : null,
+                "ThingId" : 230010,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230020,
+                "PickupOrder" : null,
+                "ThingId" : 230020,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230030,
+                "PickupOrder" : null,
+                "ThingId" : 230030,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230040,
+                "PickupOrder" : null,
+                "ThingId" : 230040,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230050,
+                "PickupOrder" : null,
+                "ThingId" : 230050,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230060,
+                "PickupOrder" : null,
+                "ThingId" : 230060,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230070,
+                "PickupOrder" : null,
+                "ThingId" : 230070,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230080,
+                "PickupOrder" : null,
+                "ThingId" : 230080,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230130,
+                "PickupOrder" : null,
+                "ThingId" : 230130,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230140,
+                "PickupOrder" : null,
+                "ThingId" : 230140,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230160,
+                "PickupOrder" : null,
+                "ThingId" : 230160,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230190,
+                "PickupOrder" : null,
+                "ThingId" : 230190,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230200,
+                "PickupOrder" : null,
+                "ThingId" : 230200,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230220,
+                "PickupOrder" : null,
+                "ThingId" : 230220,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230250,
+                "PickupOrder" : null,
+                "ThingId" : 230250,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230260,
+                "PickupOrder" : null,
+                "ThingId" : 230260,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800230280,
+                "PickupOrder" : null,
+                "ThingId" : 230280,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            },
+            {
+                "Id" : 2800330010,
+                "PickupOrder" : 1,
+                "ThingId" : 330010,
+                "ThingQuantity" : 1,
+                "ThingType" : 3
+            }
+        ]
+    },
+    {
         "AttentionGachaTextTemplateMasterId" : 12002,
         "BonusThings" : null,
         "CardType" : 2,
