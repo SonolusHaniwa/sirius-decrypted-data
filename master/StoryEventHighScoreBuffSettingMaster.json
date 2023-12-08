@@ -558,5 +558,117 @@
         ],
         "StoryEventHighScoreBuffMasterId" : 120,
         "StoryEventHighScoreMasterId" : 20012
+    },
+    {
+        "Id" : 2001501,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            11,
+            1,
+            80003,
+            "舞台照明",
+            "アクターの集中力が[:param1]上昇する",
+            "11"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 11,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001502,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            12,
+            1,
+            80002,
+            "舞台スピーカー",
+            "アクターの表現力が[:param1]上昇する",
+            "12"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 12,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001503,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            13,
+            1,
+            80001,
+            "舞台マイク",
+            "アクターの歌唱力が[:param1]上昇する",
+            "13"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 13,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001504,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            14,
+            1,
+            80004,
+            "舞台カーテン",
+            "アクターの演技力が[:param1]％上昇する",
+            "14"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 14,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001505,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            121,
+            2,
+            80025,
+            "ダンスシューズ",
+            "アクターの演技力上限値が[:param1]％上昇する　※<color=#ff679d>憐属性</color>のアクターのみ対象",
+            "122"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 121,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001506,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            122,
+            2,
+            80026,
+            "イルミネーションツリー",
+            "センス発動時、追加で「SP光」を[:param1]個付与する　※<color=#ff679d>憐属性</color>の阿岐留 カミラのみ対象",
+            "123"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 122,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001507,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            123,
+            2,
+            80027,
+            "雪だるま",
+            "センスCTが[:param1]秒短縮する　※<color=#ff679d>憐属性</color>の与那国 緋花里のみ対象",
+            "121"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 123,
+        "StoryEventHighScoreMasterId" : 20015
+    },
+    {
+        "Id" : 2001508,
+        "StoryEventHighScoreBuffMaster" : 
+        [
+            124,
+            2,
+            80028,
+            "コーンポタージュ",
+            "スターアクト発動条件に必要な光の数を超えて付与された光を最大[:param1]個「SP光」に変換する（レベル10の時に効果発動）　※<color=#ff679d>憐属性</color>の与那国 緋花里のみ対象",
+            "124"
+        ],
+        "StoryEventHighScoreBuffMasterId" : 124,
+        "StoryEventHighScoreMasterId" : 20015
     }
 ]

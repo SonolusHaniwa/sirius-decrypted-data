@@ -4091,6 +4091,36 @@
                 "JudgeType2" : null,
                 "Order" : 
                 [
+                    [ 1, 70022001 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 22031001
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#ff679d>憐属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220310,
+        "Name" : "泡雪でありますように",
+        "PosterMasterId" : 220310,
+        "ReleaseLevelAt" : 0,
+        "Type" : 1,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
                     [ 1, 70041003 ]
                 ],
                 "Parameter1" : null,
@@ -7503,6 +7533,36 @@
                 "JudgeType2" : null,
                 "Order" : 
                 [
+                    [ 1, 70052001 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 23031001
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#ff679d>憐属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 230310,
+        "Name" : "すばらしく寒くて、最高だ！",
+        "PosterMasterId" : 230310,
+        "ReleaseLevelAt" : 0,
+        "Type" : 1,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
                     [ 1, 70052400 ]
                 ],
                 "Parameter1" : null,
@@ -7937,6 +7997,66 @@
         "Id" : 2202902,
         "Name" : "ライフブースト",
         "PosterMasterId" : 220290,
+        "ReleaseLevelAt" : 7,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 10011001 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 220310101
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2203101,
+        "Name" : "演技力アップ＋",
+        "PosterMasterId" : 220310,
+        "ReleaseLevelAt" : 0,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 11211001 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 220310201
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、ライフを[:param11]回復　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2203102,
+        "Name" : "ライフブースト",
+        "PosterMasterId" : 220310,
         "ReleaseLevelAt" : 7,
         "Type" : 2,
         "UnknownVariable1" : null
@@ -8628,6 +8748,66 @@
         "Name" : "「光」追加（支配）Ⅱ",
         "PosterMasterId" : 230290,
         "ReleaseLevelAt" : 8,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 10031000 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 230310101
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2303101,
+        "Name" : "演技力アップⅢ＋",
+        "PosterMasterId" : 230310,
+        "ReleaseLevelAt" : 0,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : null,
+                "Id" : 1,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 
+                [
+                    [ 1, 11810001 ]
+                ],
+                "Parameter1" : null,
+                "Parameter2" : 230310201
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2303102,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 230310,
+        "ReleaseLevelAt" : 7,
         "Type" : 2,
         "UnknownVariable1" : null
     },

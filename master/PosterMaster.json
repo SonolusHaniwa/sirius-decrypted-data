@@ -1192,6 +1192,29 @@
         "UnknownVariable3" : null
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 305 ],
+        "Costumes" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-12-10 17:00:00",
+        "Id" : 220310,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "泡雪でありますように",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "あわゆきでありますように",
+        "Rarity" : 2,
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 0,
+        "SubTitlePositionX2" : 1039,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1555,
+        "SubTitlePositionY2" : 558,
+        "SubTitlePositionY3" : null,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 101, 103 ],
         "Costumes" : null,
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -2180,7 +2203,7 @@
         "UnknownVariable3" : null
     },
     {
-        "AppearanceCharacterBaseMasterIds" : [ 101, 102, 103, 104, 105, 106, 201, 203, 301, 302, 401, 402 ],
+        "AppearanceCharacterBaseMasterIds" : [ 101, 102, 103, 104, 401, 402, 105, 106, 201, 203, 301, 302 ],
         "Costumes" : null,
         "DisplayEndAt" : "2100-01-01 00:00:00",
         "DisplayStartAt" : "2023-11-12 20:00:00",
@@ -2280,6 +2303,47 @@
         "SubTitlePositionY1" : 1391,
         "SubTitlePositionY2" : 428,
         "SubTitlePositionY3" : 853,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 105 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 1611,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 1612,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 1621,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 1622,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-12-10 17:00:00",
+        "Id" : 230310,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "雪と暖炉とないしょの相談",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "ゆきとだんろとないしょのそうだん",
+        "Rarity" : 3,
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 231,
+        "SubTitlePositionX2" : 674,
+        "SubTitlePositionX3" : 158,
+        "SubTitlePositionY1" : 1544,
+        "SubTitlePositionY2" : 141,
+        "SubTitlePositionY3" : 887,
         "UnknownVariable1" : null,
         "UnknownVariable2" : null,
         "UnknownVariable3" : null

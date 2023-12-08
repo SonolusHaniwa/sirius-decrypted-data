@@ -1329,6 +1329,19 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 520,
+        "Branches" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130360,
+        "LightCount" : 1,
+        "Name" : "ど、どどど、どうしよう！",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 3
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "Branches" : 
         [
@@ -2122,5 +2135,31 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 60,
         "Type" : 3
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 740,
+        "Branches" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140460,
+        "LightCount" : 1,
+        "Name" : "遠い遠い雪催い",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 70,
+        "Type" : 3
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "Branches" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140470,
+        "LightCount" : 1,
+        "Name" : "銀世界に冴ゆる心友",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 1
     }
 ]

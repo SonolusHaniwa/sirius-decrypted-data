@@ -1038,5 +1038,85 @@
         "StoryMasterId" : 20013,
         "Title" : "らしくなくても",
         "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001501,
+        "Id" : 2001501,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20015,
+        "Title" : "待望の第２弾",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001502,
+        "Id" : 2001502,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2001501,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20015,
+        "Title" : "エゴサ、してみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001503,
+        "Id" : 2001503,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2001502,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20015,
+        "Title" : "可愛ければなんでもいい",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001504,
+        "Id" : 2001504,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2001503,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20015,
+        "Title" : "市場調査、してみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001505,
+        "Id" : 2001505,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2001504,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20015,
+        "Title" : "はしゃいでみた",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001506,
+        "Id" : 2001506,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2001505,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20015,
+        "Title" : "今度は大丈夫",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001507,
+        "Id" : 2001507,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2001506,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20015,
+        "Title" : "元気で笑顔",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001508,
+        "Id" : 2001508,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2001507,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20015,
+        "Title" : "笑えばなんくるない",
+        "UnknownVariable1" : null
     }
 ]
