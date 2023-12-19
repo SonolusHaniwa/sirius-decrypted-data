@@ -1118,5 +1118,85 @@
         "StoryMasterId" : 20015,
         "Title" : "笑えばなんくるない",
         "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001601,
+        "Id" : 2001601,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20016,
+        "Title" : "今年のサンタは",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001602,
+        "Id" : 2001602,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2001601,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20016,
+        "Title" : "サンタといえば",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001603,
+        "Id" : 2001603,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2001602,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20016,
+        "Title" : "いい子のあの子に",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001604,
+        "Id" : 2001604,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2001603,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20016,
+        "Title" : "いい子を見守って",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001605,
+        "Id" : 2001605,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2001604,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20016,
+        "Title" : "今夜の主役",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001606,
+        "Id" : 2001606,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2001605,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20016,
+        "Title" : "雪は座っててパーティ！",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001607,
+        "Id" : 2001607,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2001606,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20016,
+        "Title" : "思いを詰めたプレゼント",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001608,
+        "Id" : 2001608,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2001607,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20016,
+        "Title" : "いい子がもうひとり",
+        "UnknownVariable1" : null
     }
 ]

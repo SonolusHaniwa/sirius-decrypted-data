@@ -8477,6 +8477,42 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「不可逆的運命ディストピア」を[:param]回クリアしよう",
+        "EndDate" : "2024-01-04 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 14800,
+        "JumpTargetId" : null,
+        "JumpType" : 6,
+        "MissionCategory" : 3,
+        "MissionViewOrder" : 14800,
+        "Stages" : 
+        [
+            {
+                "Id" : 14800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140471,
+                        "ThingQuantity" : 1,
+                        "ThingType" : 6
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2023-12-25 17:00:00"
+            }
+        ],
+        "StartDate" : "2023-12-25 17:00:00",
+        "Title" : "",
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnknownVariable4" : null,
+        "UnknownVariable5" : null,
+        "UnknownVariable6" : null
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,

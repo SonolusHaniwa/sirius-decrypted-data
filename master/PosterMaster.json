@@ -1215,6 +1215,29 @@
         "UnknownVariable3" : null
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 304 ],
+        "Costumes" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-12-20 17:00:00",
+        "Id" : 220320,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "星明かりのおくりもの",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "ほしあかりのおくりもの",
+        "Rarity" : 2,
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 39,
+        "SubTitlePositionX2" : 1057,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1547,
+        "SubTitlePositionY2" : 195,
+        "SubTitlePositionY3" : null,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 101, 103 ],
         "Costumes" : null,
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -2344,6 +2367,47 @@
         "SubTitlePositionY1" : 1544,
         "SubTitlePositionY2" : 141,
         "SubTitlePositionY3" : 887,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 302, 305 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 1631,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 1632,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 1641,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 1642,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2023-12-20 17:00:00",
+        "Id" : 230320,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "裏通りのクリスマス",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "うらどおりのくりすます",
+        "Rarity" : 3,
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 437,
+        "SubTitlePositionX2" : 94,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1126,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null,
         "UnknownVariable1" : null,
         "UnknownVariable2" : null,
         "UnknownVariable3" : null
