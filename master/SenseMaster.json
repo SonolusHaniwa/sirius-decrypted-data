@@ -1736,6 +1736,29 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : null,
+        "CoolTime" : 0,
+        "Description" : "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+        "Id" : 130380,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 20023,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 0,
+        "Type" : 10,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : 0,
         "BranchCondition2" : 0,
@@ -2831,6 +2854,74 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 70,
         "Type" : 3,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20102,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1405001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、シリウスのアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 140500,
+        "LightCount" : 1,
+        "Name" : "瑞祥新春の舞",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 60,
+        "Type" : 3,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1405101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、銀河座のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 140510,
+        "LightCount" : 1,
+        "Name" : "人里の宴も悪くない",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 60,
+        "Type" : 1,
         "UnknownVariable1" : null,
         "UnknownVariable2" : null
     }

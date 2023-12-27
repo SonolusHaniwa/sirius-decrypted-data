@@ -1198,5 +1198,85 @@
         "StoryMasterId" : 20016,
         "Title" : "いい子がもうひとり",
         "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001701,
+        "Id" : 2001701,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20017,
+        "Title" : "くるとしのご挨拶",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001702,
+        "Id" : 2001702,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2001701,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20017,
+        "Title" : "しんねんあけまして",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001703,
+        "Id" : 2001703,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2001702,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20017,
+        "Title" : "ロングロングデイズ",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001704,
+        "Id" : 2001704,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2001703,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20017,
+        "Title" : "よい運勢を",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001705,
+        "Id" : 2001705,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2001704,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20017,
+        "Title" : "もっと知りたいんだ",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001706,
+        "Id" : 2001706,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2001705,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20017,
+        "Title" : "シリウスとカトリナ",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001707,
+        "Id" : 2001707,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2001706,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20017,
+        "Title" : "ともだちにお礼を",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001708,
+        "Id" : 2001708,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2001707,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20017,
+        "Title" : "ことしもきっと",
+        "UnknownVariable1" : null
     }
 ]

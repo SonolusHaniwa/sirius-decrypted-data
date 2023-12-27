@@ -1036,6 +1036,67 @@
         [
             {
                 "BloomBonusType" : 0,
+                "Description" : "演技力4％UP",
+                "EffectMasterId" : 30004,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 1,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力4％UP",
+                "EffectMasterId" : 30004,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力4％UP",
+                "EffectMasterId" : 30004,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "スターアクト発動に必要な特殊の光の個数が1個減少",
+                "EffectMasterId" : 30801,
+                "IconPath" : "DecreaseRequireSpecialLight",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力4％UP",
+                "EffectMasterId" : 30004,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力8％UP",
+                "EffectMasterId" : 30008,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 5,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            }
+        ],
+        "BloomRewards" : null,
+        "Id" : 30811
+    },
+    {
+        "BloomBonuses" : 
+        [
+            {
+                "BloomBonusType" : 0,
                 "Description" : "演技力8％UP",
                 "EffectMasterId" : 30008,
                 "IconPath" : "PerformanceUp",
@@ -6631,5 +6692,181 @@
             }
         ],
         "Id" : 40049
+    },
+    {
+        "BloomBonuses" : 
+        [
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 1,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "センスのCTが5秒減少",
+                "EffectMasterId" : 30405,
+                "IconPath" : "SenseRecastDown",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "スターアクト発動に必要な増幅の光の個数が1個減少",
+                "EffectMasterId" : 30701,
+                "IconPath" : "DecreaseRequireAmplificationLight",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "基礎スコアが5％上昇",
+                "EffectMasterId" : 30205,
+                "IconPath" : "BaseScoreUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 5,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            }
+        ],
+        "BloomRewards" : 
+        [
+            {
+                "Phase" : 511103,
+                "ThingId" : 1,
+                "ThingQuantity" : 5,
+                "ThingType" : 1,
+                "UnknownVariable1" : null
+            }
+        ],
+        "Id" : 40050
+    },
+    {
+        "BloomBonuses" : 
+        [
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 1,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "センスのCTが5秒減少",
+                "EffectMasterId" : 30405,
+                "IconPath" : "SenseRecastDown",
+                "Phase" : 2,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "スターアクト発動に必要な支援の光の個数が1個減少",
+                "EffectMasterId" : 30501,
+                "IconPath" : "DecreaseRequireSupportLight",
+                "Phase" : 3,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "基礎スコアが5％上昇",
+                "EffectMasterId" : 30205,
+                "IconPath" : "BaseScoreUp",
+                "Phase" : 4,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            },
+            {
+                "BloomBonusType" : 0,
+                "Description" : "演技力6％UP",
+                "EffectMasterId" : 30006,
+                "IconPath" : "PerformanceUp",
+                "Phase" : 5,
+                "UnknownVariable1" : null,
+                "UnknownVariable2" : null
+            }
+        ],
+        "BloomRewards" : 
+        [
+            {
+                "Phase" : 511302,
+                "ThingId" : 1,
+                "ThingQuantity" : 5,
+                "ThingType" : 1,
+                "UnknownVariable1" : null
+            }
+        ],
+        "Id" : 40051
     }
 ]

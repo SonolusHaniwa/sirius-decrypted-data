@@ -431,5 +431,33 @@
         "MovieDelaySeconds" : 0.10000000000000001,
         "MusicMasterId" : 77,
         "MusicVideoDefaultCostumeGroupMasterId" : null
+    },
+    {
+        "Characters" : 
+        [
+            {
+                "CharacterBaseMasterId" : 101,
+                "CostumeMasterId" : 1681,
+                "Order" : 1
+            },
+            {
+                "CharacterBaseMasterId" : 102,
+                "CostumeMasterId" : 1681,
+                "Order" : 2
+            },
+            {
+                "CharacterBaseMasterId" : 103,
+                "CostumeMasterId" : 1681,
+                "Order" : 3
+            }
+        ],
+        "DelaySeconds" : 1.6000000000000001,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-01-01 00:00:00",
+        "Id" : 2017,
+        "MemberAmount" : 3,
+        "MovieDelaySeconds" : 1.6000000000000001,
+        "MusicMasterId" : 79,
+        "MusicVideoDefaultCostumeGroupMasterId" : 1
     }
 ]
