@@ -10,10 +10,10 @@
     {
         "BannerPath" : "img_common_tab_icon_login_pass",
         "Id" : 2,
-        "IsDisplayLocking" : 0,
+        "IsDisplayLocking" : 1,
         "LayoutType" : 10,
         "Name" : "ログインパス",
-        "Order" : 4
+        "Order" : 6
     },
     {
         "BannerPath" : "img_common_tab_icon_value_pass",
@@ -21,7 +21,7 @@
         "IsDisplayLocking" : 0,
         "LayoutType" : 20,
         "Name" : "お得パス",
-        "Order" : 3
+        "Order" : 2
     },
     {
         "BannerPath" : "img_common_tab_icon_value_pack",
@@ -29,7 +29,7 @@
         "IsDisplayLocking" : 0,
         "LayoutType" : 30,
         "Name" : "お得パック",
-        "Order" : 2
+        "Order" : 4
     },
     {
         "BannerPath" : "img_common_tab_icon_limited_pack",
@@ -37,6 +37,14 @@
         "IsDisplayLocking" : 1,
         "LayoutType" : 30,
         "Name" : "限定パック",
+        "Order" : 3
+    },
+    {
+        "BannerPath" : "img_common_tab_icon_circle_recommend",
+        "Id" : 6,
+        "IsDisplayLocking" : 1,
+        "LayoutType" : 10,
+        "Name" : "おすすめ",
         "Order" : 1
     }
 ]
