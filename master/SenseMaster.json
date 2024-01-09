@@ -1758,6 +1758,23 @@
         "UnknownVariable2" : null
     },
     {
+        "AcquirableGauge" : 70,
+        "AcquirableScorePercent" : 110,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130390,
+        "LightCount" : 1,
+        "Name" : "しょうがないわね",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 40,
+        "Type" : 3,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : 0,
@@ -2922,6 +2939,57 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 60,
         "Type" : 1,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20014,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1405401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 140540,
+        "LightCount" : 1,
+        "Name" : "悩める迷宮での出会い",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 60,
+        "Type" : 2,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 140550,
+        "LightCount" : 1,
+        "Name" : "導きの燐光",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 40,
+        "Type" : 2,
         "UnknownVariable1" : null,
         "UnknownVariable2" : null
     }

@@ -2890,6 +2890,47 @@
         ]
     },
     {
+        "Arranger" : "浅利進吾",
+        "Composer" : "浅利進吾",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 81,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : 1,
+        "MusicTimeSecond" : 100,
+        "MusicVideoType" : 0,
+        "Name" : "アンプレザント・ライン",
+        "PronounceName" : "あんぷれざんとらいん",
+        "ReleasedAt" : "2024-01-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnlockConditionType" : 1,
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 205 ],
+                "Id" : 8101,
+                "MusicMasterId" : 81,
+                "MusicTimeSecond" : 100,
+                "MusicVideoType" : 0,
+                "Name" : "アンプレザント・ライン",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "筆島しぐれ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "EREN",
         "DelaySeconds" : 0,
@@ -3090,6 +3131,47 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "FAKE TYPE.",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 89,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "FAKE TYPE.",
+        "MusicCoverType" : 2,
+        "MusicTimeSecond" : 132,
+        "MusicVideoType" : 0,
+        "Name" : "ウタカタララバイ",
+        "PronounceName" : "うたかたららばい",
+        "ReleasedAt" : "2024-01-17 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 32,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnlockConditionType" : 10,
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 201 ],
+                "Id" : 8901,
+                "MusicMasterId" : 89,
+                "MusicTimeSecond" : 132,
+                "MusicVideoType" : 0,
+                "Name" : "ウタカタララバイ",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "連尺野初魅",
                 "VocalVersion" : 1
             }
         ]
