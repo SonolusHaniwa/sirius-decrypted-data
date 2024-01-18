@@ -581,6 +581,47 @@
         ]
     },
     {
+        "Arranger" : "山本玲史",
+        "Composer" : "山本玲史",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 14,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "唐沢美帆",
+        "MusicCoverType" : 1,
+        "MusicTimeSecond" : 90,
+        "MusicVideoType" : 1,
+        "Name" : "Eternity",
+        "PronounceName" : "eternity",
+        "ReleasedAt" : "2024-01-21 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 24,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnlockConditionType" : 1,
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 205 ],
+                "Id" : 1401,
+                "MusicMasterId" : 14,
+                "MusicTimeSecond" : 90,
+                "MusicVideoType" : 1,
+                "Name" : "Eternity",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "筆島しぐれ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "ArmySlick",
         "Composer" : "ArmySlick, Giz’Mo(from Jam9)",
         "DelaySeconds" : 0,
@@ -2926,6 +2967,88 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "筆島しぐれ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 82,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "志村真白（FirstCall）",
+        "MusicCoverType" : 1,
+        "MusicTimeSecond" : 100,
+        "MusicVideoType" : 0,
+        "Name" : "アイ・ウィル！",
+        "PronounceName" : "あいうぃる",
+        "ReleasedAt" : "2024-01-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnlockConditionType" : 1,
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101 ],
+                "Id" : 8201,
+                "MusicMasterId" : 82,
+                "MusicTimeSecond" : 100,
+                "MusicVideoType" : 0,
+                "Name" : "アイ・ウィル！",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "古河夕",
+        "Composer" : "古河夕",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 83,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : 1,
+        "MusicTimeSecond" : 90,
+        "MusicVideoType" : 0,
+        "Name" : "Rolling Stone",
+        "PronounceName" : "rollingstone",
+        "ReleasedAt" : "2024-01-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 23,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null,
+        "UnknownVariable3" : null,
+        "UnlockConditionType" : 1,
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 106 ],
+                "Id" : 8301,
+                "MusicMasterId" : 83,
+                "MusicTimeSecond" : 90,
+                "MusicVideoType" : 0,
+                "Name" : "Rolling Stone",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "流石知冴",
                 "VocalVersion" : 1
             }
         ]

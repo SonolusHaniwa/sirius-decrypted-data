@@ -2162,6 +2162,33 @@
     {
         "AssetId" : null,
         "Attribute" : 3,
+        "AwakenStarActMasterId" : 130401,
+        "BloomBonusGroupMasterId" : 30002,
+        "CharacterAwakeningItemGroupMasterId" : 33,
+        "CharacterBaseMasterId" : 104,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-01-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 331,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130400,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 92,
+            "Expression" : 91,
+            "Vocal" : 87
+        },
+        "Name" : "口いっぱいに広がる海の味",
+        "Rarity" : 3,
+        "SecondEpisodeReleaseItemGroupId" : 332,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130400,
+        "StarActMasterId" : 130401,
+        "UnknownVariable1" : null
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : 3,
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
         "CharacterAwakeningItemGroupMasterId" : 43,
@@ -3507,6 +3534,60 @@
         "SenseEnhanceItemGroupMasterId" : 4,
         "SenseMasterId" : 140550,
         "StarActMasterId" : 140551,
+        "UnknownVariable1" : null
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : 3,
+        "AwakenStarActMasterId" : 140561,
+        "BloomBonusGroupMasterId" : 40056,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 106,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-01-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 140560,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 138,
+            "Expression" : 118,
+            "Vocal" : 90
+        },
+        "Name" : "ナイト・オブ・ビビッド",
+        "Rarity" : 4,
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 140560,
+        "StarActMasterId" : 140561,
+        "UnknownVariable1" : null
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : 3,
+        "AwakenStarActMasterId" : 140571,
+        "BloomBonusGroupMasterId" : 40057,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 105,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-01-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 140570,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 87,
+            "Expression" : 144,
+            "Vocal" : 116
+        },
+        "Name" : "マジカルポップウィッチ",
+        "Rarity" : 4,
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 140570,
+        "StarActMasterId" : 140571,
         "UnknownVariable1" : null
     }
 ]

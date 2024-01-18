@@ -1358,5 +1358,85 @@
         "StoryMasterId" : 20018,
         "Title" : "今だけは",
         "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001901,
+        "Id" : 2001901,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20019,
+        "Title" : "へいらっしゃい！",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001902,
+        "Id" : 2001902,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2001901,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20019,
+        "Title" : "一緒にやってみよう",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001903,
+        "Id" : 2001903,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2001902,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20019,
+        "Title" : "ぱんだと流石",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001904,
+        "Id" : 2001904,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2001903,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20019,
+        "Title" : "仲良しな幼馴染",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001905,
+        "Id" : 2001905,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2001904,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20019,
+        "Title" : "まかせて",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001906,
+        "Id" : 2001906,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2001905,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20019,
+        "Title" : "S.K.A.T.E",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001907,
+        "Id" : 2001907,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2001906,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20019,
+        "Title" : "心の底から",
+        "UnknownVariable1" : null
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2001908,
+        "Id" : 2001908,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2001907,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20019,
+        "Title" : "いつものふたり",
+        "UnknownVariable1" : null
     }
 ]
