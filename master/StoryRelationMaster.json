@@ -35,11 +35,18 @@
         "StoryMasterId" : 10302
     },
     {
-        "NextStoryMasterIds" : [],
+        "NextStoryMasterIds" : [ 10402 ],
         "PreviousStoryMasterIds" : [],
         "RelatedStoryMasterIds" : [],
         "SideStoryCharacterMasterIds" : [ 130170, 140130, 110190 ],
         "StoryMasterId" : 10401
+    },
+    {
+        "NextStoryMasterIds" : [],
+        "PreviousStoryMasterIds" : [ 10401 ],
+        "RelatedStoryMasterIds" : [],
+        "SideStoryCharacterMasterIds" : [ 140520, 140530 ],
+        "StoryMasterId" : 10402
     },
     {
         "NextStoryMasterIds" : [ 10201 ],

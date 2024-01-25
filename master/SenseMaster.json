@@ -2961,6 +2961,57 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 610,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20083,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1405201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 140520,
+        "LightCount" : 1,
+        "Name" : "Electric Wonderland",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 60,
+        "Type" : 2,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 140530,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 0,
+        "Type" : 9,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 250,
         "BranchCondition1" : 0,
         "BranchCondition2" : 0,
