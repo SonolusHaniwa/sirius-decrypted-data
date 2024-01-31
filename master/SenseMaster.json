@@ -1702,6 +1702,40 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1303501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130350,
+        "LightCount" : 1,
+        "Name" : "ファントムの面影を宿す天才",
+        "PreEffects" : null,
+        "ScoreUpPerLevel" : 50,
+        "Type" : 3,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 520,
         "BranchCondition1" : 0,
         "BranchCondition2" : 0,
@@ -2803,6 +2837,86 @@
         "PreEffects" : null,
         "ScoreUpPerLevel" : 60,
         "Type" : 3,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1404401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 0,
+        "Description" : "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+        "Id" : 140440,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 20025,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 0,
+        "Type" : 10,
+        "UnknownVariable1" : null,
+        "UnknownVariable2" : null
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : 0,
+        "BranchCondition2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20014,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1404501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復／ライフが多いほどここなのスコア獲得量UP（最大＋130％）",
+        "Id" : 140450,
+        "LightCount" : 1,
+        "Name" : "片割れを見つけた鳥",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28005,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 60,
+        "Type" : 1,
         "UnknownVariable1" : null,
         "UnknownVariable2" : null
     },

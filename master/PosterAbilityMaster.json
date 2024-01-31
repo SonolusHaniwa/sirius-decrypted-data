@@ -4496,6 +4496,39 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22030001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220300,
+        "Name" : "メモワールに約束を",
+        "PosterMasterId" : 220300,
+        "ReleaseLevelAt" : 0,
+        "Type" : 1,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70022001,
                         "Order" : 1
                     }
@@ -8484,6 +8517,39 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70052100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23030001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "シリウスに所属するアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 230300,
+        "Name" : "創造された命がもたらす悲劇",
+        "PosterMasterId" : 230300,
+        "ReleaseLevelAt" : 0,
+        "Type" : 1,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70052001,
                         "Order" : 1
                     }
@@ -9164,6 +9230,72 @@
         "Id" : 2202902,
         "Name" : "ライフブースト",
         "PosterMasterId" : 220290,
+        "ReleaseLevelAt" : 7,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10810004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220300101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2203001,
+        "Name" : "スコアブースト",
+        "PosterMasterId" : 220300,
+        "ReleaseLevelAt" : 0,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11510004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220300201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2203002,
+        "Name" : "初期P.ゲージ上昇",
+        "PosterMasterId" : 220300,
         "ReleaseLevelAt" : 7,
         "Type" : 2,
         "UnknownVariable1" : null
@@ -10352,6 +10484,105 @@
         "Id" : 2302903,
         "Name" : "「光」追加（支配）Ⅱ",
         "PosterMasterId" : 230290,
+        "ReleaseLevelAt" : 8,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230300101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2303001,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 230300,
+        "ReleaseLevelAt" : 0,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12410100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230300201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTが[:param11]秒短縮　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2303002,
+        "Name" : "CTダウンⅡ",
+        "PosterMasterId" : 230300,
+        "ReleaseLevelAt" : 5,
+        "Type" : 2,
+        "UnknownVariable1" : null
+    },
+    {
+        "BranchConditionType1" : 0,
+        "BranchConditionType2" : 0,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12020100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230300301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、支援系の光「<color=#228b22>*</color>」を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2303003,
+        "Name" : "「光」追加（支援）Ⅱ",
+        "PosterMasterId" : 230300,
         "ReleaseLevelAt" : 8,
         "Type" : 2,
         "UnknownVariable1" : null
