@@ -5,18 +5,18 @@
         "Id" : 101,
         "MusicMasterId" : 1,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 1,
+        "RecommendedLevel" : 1,
         "Rewards" : 
         [
             {
                 "ThingId" : 0,
                 "ThingQuantity" : 20000,
-                "ThingType" : 12
+                "ThingType" : "Coin"
             },
             {
                 "ThingId" : 120002,
                 "ThingQuantity" : 30,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100001,
@@ -28,18 +28,18 @@
         "Id" : 102,
         "MusicMasterId" : 4,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 2,
+        "RecommendedLevel" : 2,
         "Rewards" : 
         [
             {
                 "ThingId" : 130031,
                 "ThingQuantity" : 100,
-                "ThingType" : 1
+                "ThingType" : "Item"
             },
             {
                 "ThingId" : 130051,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100002,
@@ -51,18 +51,18 @@
         "Id" : 103,
         "MusicMasterId" : 3,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 3,
+        "RecommendedLevel" : 3,
         "Rewards" : 
         [
             {
                 "ThingId" : 430010,
                 "ThingQuantity" : 1,
-                "ThingType" : 4
+                "ThingType" : "Accessory"
             },
             {
                 "ThingId" : 110002,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100003,
@@ -74,18 +74,18 @@
         "Id" : 104,
         "MusicMasterId" : 7,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 4,
+        "RecommendedLevel" : 4,
         "Rewards" : 
         [
             {
                 "ThingId" : 0,
                 "ThingQuantity" : 40000,
-                "ThingType" : 12
+                "ThingType" : "Coin"
             },
             {
                 "ThingId" : 120002,
                 "ThingQuantity" : 50,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100004,
@@ -97,18 +97,18 @@
         "Id" : 105,
         "MusicMasterId" : 8,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 5,
+        "RecommendedLevel" : 5,
         "Rewards" : 
         [
             {
                 "ThingId" : 130032,
                 "ThingQuantity" : 100,
-                "ThingType" : 1
+                "ThingType" : "Item"
             },
             {
                 "ThingId" : 130051,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100005,
@@ -120,18 +120,18 @@
         "Id" : 106,
         "MusicMasterId" : 10,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 6,
+        "RecommendedLevel" : 6,
         "Rewards" : 
         [
             {
                 "ThingId" : 430010,
                 "ThingQuantity" : 1,
-                "ThingType" : 4
+                "ThingType" : "Accessory"
             },
             {
                 "ThingId" : 110002,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100006,
@@ -143,18 +143,18 @@
         "Id" : 107,
         "MusicMasterId" : 11,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 7,
+        "RecommendedLevel" : 7,
         "Rewards" : 
         [
             {
                 "ThingId" : 0,
                 "ThingQuantity" : 60000,
-                "ThingType" : 12
+                "ThingType" : "Coin"
             },
             {
                 "ThingId" : 120002,
                 "ThingQuantity" : 70,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100007,
@@ -166,18 +166,18 @@
         "Id" : 108,
         "MusicMasterId" : 13,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 8,
+        "RecommendedLevel" : 8,
         "Rewards" : 
         [
             {
                 "ThingId" : 130033,
                 "ThingQuantity" : 100,
-                "ThingType" : 1
+                "ThingType" : "Item"
             },
             {
                 "ThingId" : 130051,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100008,
@@ -189,18 +189,18 @@
         "Id" : 109,
         "MusicMasterId" : 12,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 9,
+        "RecommendedLevel" : 9,
         "Rewards" : 
         [
             {
                 "ThingId" : 430010,
                 "ThingQuantity" : 1,
-                "ThingType" : 4
+                "ThingType" : "Accessory"
             },
             {
                 "ThingId" : 110002,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100009,
@@ -212,18 +212,18 @@
         "Id" : 110,
         "MusicMasterId" : 2,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 10,
+        "RecommendedLevel" : 10,
         "Rewards" : 
         [
             {
                 "ThingId" : 0,
                 "ThingQuantity" : 80000,
-                "ThingType" : 12
+                "ThingType" : "Coin"
             },
             {
                 "ThingId" : 120002,
                 "ThingQuantity" : 100,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100010,
@@ -235,18 +235,18 @@
         "Id" : 111,
         "MusicMasterId" : 21,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 11,
+        "RecommendedLevel" : 11,
         "Rewards" : 
         [
             {
                 "ThingId" : 130034,
                 "ThingQuantity" : 100,
-                "ThingType" : 1
+                "ThingType" : "Item"
             },
             {
                 "ThingId" : 130051,
                 "ThingQuantity" : 2,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100011,
@@ -258,18 +258,18 @@
         "Id" : 112,
         "MusicMasterId" : 27,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 12,
+        "RecommendedLevel" : 12,
         "Rewards" : 
         [
             {
                 "ThingId" : 430010,
                 "ThingQuantity" : 1,
-                "ThingType" : 4
+                "ThingType" : "Accessory"
             },
             {
                 "ThingId" : 110002,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100012,
@@ -281,18 +281,18 @@
         "Id" : 113,
         "MusicMasterId" : 23,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 13,
+        "RecommendedLevel" : 13,
         "Rewards" : 
         [
             {
                 "ThingId" : 0,
                 "ThingQuantity" : 100000,
-                "ThingType" : 12
+                "ThingType" : "Coin"
             },
             {
                 "ThingId" : 120002,
                 "ThingQuantity" : 150,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100013,
@@ -304,18 +304,18 @@
         "Id" : 114,
         "MusicMasterId" : 28,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 14,
+        "RecommendedLevel" : 14,
         "Rewards" : 
         [
             {
                 "ThingId" : 130063,
                 "ThingQuantity" : 50,
-                "ThingType" : 1
+                "ThingType" : "Item"
             },
             {
                 "ThingId" : 130051,
                 "ThingQuantity" : 2,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100014,
@@ -327,18 +327,18 @@
         "Id" : 115,
         "MusicMasterId" : 19,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 15,
+        "RecommendedLevel" : 15,
         "Rewards" : 
         [
             {
                 "ThingId" : 430010,
                 "ThingQuantity" : 1,
-                "ThingType" : 4
+                "ThingType" : "Accessory"
             },
             {
                 "ThingId" : 110002,
                 "ThingQuantity" : 1,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100015,
@@ -350,18 +350,18 @@
         "Id" : 116,
         "MusicMasterId" : 30,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 16,
+        "RecommendedLevel" : 16,
         "Rewards" : 
         [
             {
                 "ThingId" : 0,
                 "ThingQuantity" : 150000,
-                "ThingType" : 12
+                "ThingType" : "Coin"
             },
             {
                 "ThingId" : 120002,
                 "ThingQuantity" : 200,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100016,
@@ -373,18 +373,18 @@
         "Id" : 117,
         "MusicMasterId" : 17,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 17,
+        "RecommendedLevel" : 17,
         "Rewards" : 
         [
             {
                 "ThingId" : 130043,
                 "ThingQuantity" : 50,
-                "ThingType" : 1
+                "ThingType" : "Item"
             },
             {
                 "ThingId" : 130051,
                 "ThingQuantity" : 3,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100017,
@@ -396,18 +396,18 @@
         "Id" : 118,
         "MusicMasterId" : 68,
         "RecommendedCompany" : null,
-        "RecommendedLeveld" : 18,
+        "RecommendedLevel" : 18,
         "Rewards" : 
         [
             {
                 "ThingId" : 68,
                 "ThingQuantity" : 1,
-                "ThingType" : 14
+                "ThingType" : "Music"
             },
             {
                 "ThingId" : 110002,
                 "ThingQuantity" : 3,
-                "ThingType" : 1
+                "ThingType" : "Item"
             }
         ],
         "SenseNotationMasterId" : 100018,

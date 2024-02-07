@@ -1,37 +1,817 @@
 [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+        "Description" : "スタミナを消費",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 103,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1030,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア10,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 104,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1040,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130041,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア30,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 105,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1050,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130042,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130031,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130032,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130033,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130034,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア100,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 106,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1060,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130081,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130082,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア100,000以上/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 107,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1070,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331010,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331020,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331030,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331040,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア200,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 108,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1080,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130061,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130062,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月10日 17:00",
+        "EndDate" : "2024-01-10 17:00:00",
+        "Etcetera" : false,
+        "Id" : 109,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1029,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 212001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2023-12-31 15:00:00"
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月31日 17:00",
+        "EndDate" : "2024-01-31 17:00:00",
+        "Etcetera" : false,
+        "Id" : 110,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1028,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130063,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130064,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-01-26 17:00:00"
+    },
+    {
+        "Description" : "スタミナを消費　～2024年2月5日 17:00/n(確率で獲得)",
+        "EndDate" : "2024-02-05 17:00:00",
+        "Etcetera" : false,
+        "Id" : 111,
+        "LiveSettingMasterId" : 1,
+        "Order" : 1027,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120002,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-01-31 17:00:00"
+    },
+    {
+        "Description" : "スタミナを消費",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1103,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11030,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア50,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1104,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11040,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア150,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1105,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11050,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130031,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130032,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130033,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130034,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア300,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1106,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11060,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130041,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130031,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130032,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130033,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130034,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア800,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1107,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11070,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130042,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130031,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130032,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130033,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130034,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スターアクト発動",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1108,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11080,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130042,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130041,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月10日 17:00",
+        "EndDate" : "2024-01-10 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1109,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11029,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 212001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2023-12-31 15:00:00"
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月31日 17:00",
+        "EndDate" : "2024-01-31 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1110,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11028,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130063,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130064,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-01-26 17:00:00"
+    },
+    {
+        "Description" : "スタミナを消費　～2024年2月5日 17:00/n(確率で獲得)",
+        "EndDate" : "2024-02-05 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1111,
+        "LiveSettingMasterId" : 11,
+        "Order" : 11027,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120002,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-01-31 17:00:00"
+    },
+    {
+        "Description" : "スタミナを消費",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1203,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12030,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア200,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1204,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12040,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130061,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア500,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1205,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12050,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130062,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130061,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア1,000,000以上",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1206,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12060,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130063,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130062,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130061,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スターアクト発動",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1207,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12070,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130062,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130061,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月10日 17:00",
+        "EndDate" : "2024-01-10 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1208,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12029,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 212001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2023-12-31 15:00:00"
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月31日 17:00",
+        "EndDate" : "2024-01-31 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1209,
+        "LiveSettingMasterId" : 12,
+        "Order" : 12028,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130063,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130064,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-01-26 17:00:00"
+    },
+    {
+        "Description" : "スタミナを消費",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1403,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14030,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 1404,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14040,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331160,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331170,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331080,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア100,000以上/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 1405,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14050,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331160,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331170,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331080,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア300,000以上/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 1406,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14060,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331160,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331170,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331080,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア750,000以上/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 1407,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14070,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331160,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331170,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331080,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア1,500,000以上/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 1408,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14080,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331160,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331170,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331080,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スコア3,000,000以上/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : true,
+        "Id" : 1409,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14090,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 331160,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331170,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            },
+            {
+                "ThingId" : 331080,
+                "ThingQuantity" : 0,
+                "ThingType" : "Accessory"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スターアクト発動",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1411,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14110,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130082,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130081,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費　～2024年1月10日 17:00",
+        "EndDate" : "2024-01-10 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1412,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14029,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 212001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2023-12-31 15:00:00"
+    },
+    {
+        "Description" : "スタミナを消費　～2024年2月5日 17:00/n(確率で獲得)",
+        "EndDate" : "2024-02-05 17:00:00",
+        "Etcetera" : false,
+        "Id" : 1413,
+        "LiveSettingMasterId" : 14,
+        "Order" : 14028,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120002,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-01-31 17:00:00"
+    }
 ]

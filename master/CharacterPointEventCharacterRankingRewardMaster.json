@@ -1,65 +1,506 @@
 [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+        "CharacterBaseMasterId" : 101,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110101,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110101,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 101,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110102,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110102,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 101,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110103,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110103,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 102,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110201,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110201,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 102,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110202,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110202,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 102,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110203,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110203,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 103,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110301,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110301,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 103,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110302,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110302,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 103,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110303,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110303,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 104,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110401,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110401,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 104,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110402,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110402,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 104,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110403,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110403,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 105,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110501,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110501,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 105,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110502,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110502,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 105,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110503,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110503,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 106,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110601,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110601,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 106,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110602,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110602,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 106,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 110603,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 110603,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 201,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120101,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120101,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 201,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120102,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120102,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 201,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120103,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120103,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 202,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120201,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120201,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 202,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120202,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120202,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 202,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120203,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120203,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 203,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120301,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120301,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 203,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120302,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120302,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 203,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120303,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120303,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 204,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120401,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120401,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 204,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120402,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120402,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 204,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120403,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120403,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 205,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120501,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120501,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 205,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120502,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120502,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 205,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 120503,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 120503,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 301,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130101,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130101,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 301,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130102,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130102,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 301,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130103,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130103,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 302,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130201,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130201,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 302,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130202,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130202,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 302,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130203,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130203,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 303,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130301,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130301,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 303,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130302,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130302,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 303,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130303,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130303,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 304,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130401,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130401,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 304,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130402,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130402,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 304,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130403,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130403,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 305,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130501,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130501,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 305,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130502,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130502,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 305,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 130503,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 130503,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 401,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140101,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140101,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 401,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140102,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140102,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 401,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140103,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140103,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 402,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140201,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140201,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 402,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140202,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140202,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 402,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140203,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140203,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 403,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140301,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140301,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 403,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140302,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140302,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 403,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140303,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140303,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 404,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140401,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140401,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 404,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140402,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140402,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 404,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140403,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140403,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    },
+    {
+        "CharacterBaseMasterId" : 405,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140501,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140501,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 1
+    },
+    {
+        "CharacterBaseMasterId" : 405,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140502,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140502,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 11
+    },
+    {
+        "CharacterBaseMasterId" : 405,
+        "CharacterPointEventCharacterRankingRewardItemPackageMasterId" : 140503,
+        "CharacterPointEventMasterId" : 1,
+        "Id" : 140503,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 101
+    }
 ]

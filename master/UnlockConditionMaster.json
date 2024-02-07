@@ -1,98 +1,98 @@
 [
     {
         "ConditionText" : "スターランク[:param]以上で解放",
-        "ConditionUsableTableFilter" : 1,
+        "ConditionUsableTableFilter" : "DisplayRestriction",
         "Id" : 1,
-        "UnlockConditionType" : 1
+        "UnlockConditionType" : "CharacterStarRank"
     },
     {
         "ConditionText" : "ストーリー「[:param]」を読むと解放",
-        "ConditionUsableTableFilter" : 21,
+        "ConditionUsableTableFilter" : "21",
         "Id" : 2,
-        "UnlockConditionType" : 2
+        "UnlockConditionType" : "Story"
     },
     {
         "ConditionText" : "ポスター「[:param]」を獲得すると解放",
-        "ConditionUsableTableFilter" : 2,
+        "ConditionUsableTableFilter" : "Costume",
         "Id" : 3,
-        "UnlockConditionType" : 3
+        "UnlockConditionType" : "GetPoster"
     },
     {
         "ConditionText" : "ポスター「[:param]」を1回上限解放すると解放",
-        "ConditionUsableTableFilter" : 2,
+        "ConditionUsableTableFilter" : "Costume",
         "Id" : 4,
-        "UnlockConditionType" : 4
+        "UnlockConditionType" : "ReleasePoster1"
     },
     {
         "ConditionText" : "ポスター「[:param]」を2回上限解放すると解放",
-        "ConditionUsableTableFilter" : 2,
+        "ConditionUsableTableFilter" : "Costume",
         "Id" : 5,
-        "UnlockConditionType" : 5
+        "UnlockConditionType" : "ReleasePoster2"
     },
     {
         "ConditionText" : "ポスター「[:param]」を3回上限解放すると解放",
-        "ConditionUsableTableFilter" : 2,
+        "ConditionUsableTableFilter" : "Costume",
         "Id" : 6,
-        "UnlockConditionType" : 6
+        "UnlockConditionType" : "ReleasePoster3"
     },
     {
         "ConditionText" : "ポスター「[:param]」を4回上限解放すると解放",
-        "ConditionUsableTableFilter" : 2,
+        "ConditionUsableTableFilter" : "Costume",
         "Id" : 7,
-        "UnlockConditionType" : 7
+        "UnlockConditionType" : "ReleasePoster4"
     },
     {
         "ConditionText" : "プレイヤーレート[:param]以上で解放",
-        "ConditionUsableTableFilter" : 4,
+        "ConditionUsableTableFilter" : "JewelShop",
         "Id" : 8,
-        "UnlockConditionType" : 8
+        "UnlockConditionType" : "PlayerRate"
     },
     {
         "ConditionText" : "演劇リーグで特定のクラスに到達すると解放",
-        "ConditionUsableTableFilter" : 4,
+        "ConditionUsableTableFilter" : "JewelShop",
         "Id" : 9,
-        "UnlockConditionType" : 9
+        "UnlockConditionType" : "LeagueClass"
     },
     {
         "ConditionText" : "特定のアイテムを購入すると解放",
-        "ConditionUsableTableFilter" : 4,
+        "ConditionUsableTableFilter" : "JewelShop",
         "Id" : 10,
-        "UnlockConditionType" : 10
+        "UnlockConditionType" : "BuyItem"
     },
     {
         "ConditionText" : "いずれかのメインストーリー[:param]章を読むと解放",
-        "ConditionUsableTableFilter" : 4,
+        "ConditionUsableTableFilter" : "JewelShop",
         "Id" : 11,
-        "UnlockConditionType" : 11
+        "UnlockConditionType" : "AnyMainStoryChapter"
     },
     {
         "ConditionText" : "オーディションのStage.[:param]をクリアすると解放",
-        "ConditionUsableTableFilter" : 16,
+        "ConditionUsableTableFilter" : "MusicShop",
         "Id" : 12,
-        "UnlockConditionType" : 12
+        "UnlockConditionType" : "AuditionClear"
     },
     {
         "ConditionText" : "難易度EXTRAでGOOD以下が[:param]個以下で解放",
-        "ConditionUsableTableFilter" : 32,
+        "ConditionUsableTableFilter" : "Music",
         "Id" : 13,
-        "UnlockConditionType" : 13
+        "UnlockConditionType" : "ExtraGoodCount"
     },
     {
         "ConditionText" : "譜面ショップで購入",
-        "ConditionUsableTableFilter" : 32,
+        "ConditionUsableTableFilter" : "Music",
         "Id" : 14,
-        "UnlockConditionType" : 14
+        "UnlockConditionType" : "NotationShop"
     },
     {
         "ConditionText" : "ジュエルショップにて特定のアイテムを購入すると解放",
-        "ConditionUsableTableFilter" : 4,
+        "ConditionUsableTableFilter" : "JewelShop",
         "Id" : 15,
-        "UnlockConditionType" : 15
+        "UnlockConditionType" : "BuyJewelShopItem"
     },
     {
         "ConditionText" : "ランク[:param]以上で解放",
-        "ConditionUsableTableFilter" : 4,
+        "ConditionUsableTableFilter" : "JewelShop",
         "Id" : 16,
-        "UnlockConditionType" : 16
+        "UnlockConditionType" : "PlayerRank"
     }
 ]
