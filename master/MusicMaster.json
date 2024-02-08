@@ -3183,6 +3183,44 @@
         ]
     },
     {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 93,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 102,
+        "MusicVideoType" : "None",
+        "Name" : "St. Bitter Sweet",
+        "PronounceName" : "StBitterSweet",
+        "ReleasedAt" : "2024-02-09 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 201 ],
+                "Id" : 9301,
+                "MusicMasterId" : 93,
+                "MusicTimeSecond" : 102,
+                "MusicVideoType" : "None",
+                "Name" : "St. Bitter Sweet",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "連尺野初魅",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -3292,6 +3330,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "白丸美兎",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "ケンモチヒデフミ",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 124,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "ケンモチヒデフミ",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 127,
+        "MusicVideoType" : "None",
+        "Name" : "エジソン",
+        "PronounceName" : "えじそん",
+        "ReleasedAt" : "2024-02-17 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 31,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 301 ],
+                "Id" : 12401,
+                "MusicMasterId" : 124,
+                "MusicTimeSecond" : 127,
+                "MusicVideoType" : "None",
+                "Name" : "エジソン",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "千寿暦",
                 "VocalVersion" : 1
             }
         ]

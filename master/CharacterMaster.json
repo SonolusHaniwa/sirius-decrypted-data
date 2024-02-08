@@ -2133,6 +2133,32 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 130421,
+        "BloomBonusGroupMasterId" : 30002,
+        "CharacterAwakeningItemGroupMasterId" : 32,
+        "CharacterBaseMasterId" : 205,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-02-09 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 321,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130420,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 98,
+            "Expression" : 86,
+            "Vocal" : 86
+        },
+        "Name" : "どれにしようかな？",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 322,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130420,
+        "StarActMasterId" : 130421
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -3586,5 +3612,57 @@
         "SenseEnhanceItemGroupMasterId" : 4,
         "SenseMasterId" : 140570,
         "StarActMasterId" : 140571
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 140601,
+        "BloomBonusGroupMasterId" : 40060,
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 201,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-02-09 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 140600,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 100,
+            "Expression" : 131,
+            "Vocal" : 111
+        },
+        "Name" : "ひと口で落ちる甘やかな酔い",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 140600,
+        "StarActMasterId" : 140601
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 140611,
+        "BloomBonusGroupMasterId" : 40061,
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 204,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-02-09 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 140610,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 108,
+            "Expression" : 94,
+            "Vocal" : 143
+        },
+        "Name" : "求め焦がれる危険な味わい",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 140610,
+        "StarActMasterId" : 140611
     }
 ]
