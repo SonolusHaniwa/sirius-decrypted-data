@@ -813,5 +813,56 @@
             }
         ],
         "StartDate" : "2024-01-31 17:00:00"
+    },
+    {
+        "Description" : "難易度「かんたん」をクリア",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 2101,
+        "LiveSettingMasterId" : 21,
+        "Order" : 21010,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 138101,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "難易度「ふつう」をクリア",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 2102,
+        "LiveSettingMasterId" : 21,
+        "Order" : 21020,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 138102,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "難易度「むずかしい」をクリア",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 2103,
+        "LiveSettingMasterId" : 21,
+        "Order" : 21030,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 138103,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
     }
 ]

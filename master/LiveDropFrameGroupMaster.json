@@ -4550,5 +4550,23 @@
             }
         ],
         "Id" : 14
+    },
+    {
+        "DropFrames" : 
+        [
+            {
+                "ChangeType" : "None",
+                "EndDate" : "2100-01-01 00:00:00",
+                "FrameLotCondition" : "None",
+                "FrameLotConditionValue" : null,
+                "Id" : 2101,
+                "LiveDropFrameGroupMasterId" : 21,
+                "Order" : 1,
+                "Rewards" : [],
+                "StartDate" : "2100-01-01 00:00:00",
+                "UnaffectedIncreaseEffect" : false
+            }
+        ],
+        "Id" : 21
     }
 ]
