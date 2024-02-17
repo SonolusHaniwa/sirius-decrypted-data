@@ -145,6 +145,17 @@
     {
         "Category" : "Special",
         "HeightPx" : 240,
+        "Id" : 10204,
+        "IsDefault" : false,
+        "MaxWidthPx" : 360,
+        "MinWidthPx" : 48,
+        "Name" : "容の麻雀牌",
+        "Order" : 10204,
+        "WidhtPx" : 240
+    },
+    {
+        "Category" : "Special",
+        "HeightPx" : 240,
         "Id" : 10205,
         "IsDefault" : false,
         "MaxWidthPx" : 360,
@@ -998,6 +1009,72 @@
         "MinWidthPx" : 180,
         "Name" : "デコ文字（ごめんなさい）",
         "Order" : 980010,
+        "WidhtPx" : 360
+    },
+    {
+        "Category" : "Other",
+        "HeightPx" : 360,
+        "Id" : 8020101,
+        "IsDefault" : false,
+        "MaxWidthPx" : 540,
+        "MinWidthPx" : 180,
+        "Name" : "タイトルロゴ",
+        "Order" : 8020101,
+        "WidhtPx" : 360
+    },
+    {
+        "Category" : "Seal",
+        "HeightPx" : 360,
+        "Id" : 8020202,
+        "IsDefault" : false,
+        "MaxWidthPx" : 540,
+        "MinWidthPx" : 180,
+        "Name" : "照れ顔リムル",
+        "Order" : 8020202,
+        "WidhtPx" : 360
+    },
+    {
+        "Category" : "Seal",
+        "HeightPx" : 360,
+        "Id" : 8020303,
+        "IsDefault" : false,
+        "MaxWidthPx" : 540,
+        "MinWidthPx" : 180,
+        "Name" : "抗魔の仮面",
+        "Order" : 8020303,
+        "WidhtPx" : 360
+    },
+    {
+        "Category" : "Frame",
+        "HeightPx" : 360,
+        "Id" : 8020404,
+        "IsDefault" : false,
+        "MaxWidthPx" : 1408,
+        "MinWidthPx" : 384,
+        "Name" : "リムルのフォトフレーム",
+        "Order" : 8020404,
+        "WidhtPx" : 640
+    },
+    {
+        "Category" : "Effect",
+        "HeightPx" : 360,
+        "Id" : 8020505,
+        "IsDefault" : false,
+        "MaxWidthPx" : 540,
+        "MinWidthPx" : 180,
+        "Name" : "暴食者エフェクト",
+        "Order" : 8020505,
+        "WidhtPx" : 360
+    },
+    {
+        "Category" : "Sticker",
+        "HeightPx" : 360,
+        "Id" : 8020606,
+        "IsDefault" : false,
+        "MaxWidthPx" : 540,
+        "MinWidthPx" : 180,
+        "Name" : "大賢者ステッカー",
+        "Order" : 8020606,
         "WidhtPx" : 360
     }
 ]

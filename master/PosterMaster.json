@@ -2480,6 +2480,26 @@
         "SubTitlePositionY3" : null
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 402, 403, 405 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-02-18 17:00:00",
+        "Id" : 320010,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "ギャルからオタクに転身してみた件",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "ぎゃるからおたくにてんしんしてみたけん",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 1145831424,
+        "SubTitlePositionX2" : 0,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1152770048,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 101 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -2517,6 +2537,66 @@
         "SubTitlePositionX3" : null,
         "SubTitlePositionY1" : 1153269760,
         "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 401, 404 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 2011,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 2001,
+                "Phase" : 1
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-02-18 17:00:00",
+        "Id" : 330020,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "双炎が彩る舞台",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "そうえんがいろどるぶたい",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 1107296256,
+        "SubTitlePositionX2" : 1116078080,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1151500288,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 101, 102, 201, 203, 301, 302, 401, 402, 403, 404, 405 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 2031,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 2021,
+                "Phase" : 1
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-02-18 17:00:00",
+        "Id" : 330030,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "転生したらスライムだった件コラボ",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "てんせいしたらすらいむだったけんこらぼ",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 1147666432,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0,
+        "SubTitlePositionY2" : null,
         "SubTitlePositionY3" : null
     }
 ]

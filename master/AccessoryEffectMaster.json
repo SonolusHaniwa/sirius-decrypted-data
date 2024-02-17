@@ -288,6 +288,18 @@
         "Name" : "許されないわ……！"
     },
     {
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：容が装備",
+        "EffectMasterId" : 330100,
+        "Id" : 330100,
+        "Name" : "冷静で的確なリスクヘッジ"
+    },
+    {
+        "Description" : "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：容が装備",
+        "EffectMasterId" : 330101,
+        "Id" : 330101,
+        "Name" : "ここらで一発逆転だ！"
+    },
+    {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：しぐれが装備",
         "EffectMasterId" : 330110,
         "Id" : 330110,
@@ -490,5 +502,11 @@
         "EffectMasterId" : 1000010,
         "Id" : 430011,
         "Name" : "初期ライフ上昇"
+    },
+    {
+        "Description" : "基礎スコアが[:param1]％上昇",
+        "EffectMasterId" : 1000020,
+        "Id" : 430020,
+        "Name" : "受け継がれる想い"
     }
 ]

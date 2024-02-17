@@ -3221,6 +3221,44 @@
         ]
     },
     {
+        "Arranger" : "トミタカズキ(SUPA LOVE)",
+        "Composer" : "トミタカズキ(SUPA LOVE)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 94,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 124,
+        "MusicVideoType" : "None",
+        "Name" : "賭世遊戯",
+        "PronounceName" : "とせいゆうぎ",
+        "ReleasedAt" : "2024-02-26 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 30,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 204 ],
+                "Id" : 9401,
+                "MusicMasterId" : 94,
+                "MusicTimeSecond" : 124,
+                "MusicVideoType" : "None",
+                "Name" : "賭世遊戯",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "萬容",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -3292,6 +3330,82 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "静香",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "上松範康(Elements Garden)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 120,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "寺島拓篤",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 96,
+        "MusicVideoType" : "None",
+        "Name" : "Nameless Story",
+        "PronounceName" : "namelessstory",
+        "ReleasedAt" : "2024-02-18 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 402, 403 ],
+                "Id" : 12001,
+                "MusicMasterId" : 120,
+                "MusicTimeSecond" : 96,
+                "MusicVideoType" : "None",
+                "Name" : "Nameless Story",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "阿岐留カミラ、白丸美兎",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "中野領太",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 121,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "唐沢美帆",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 93,
+        "MusicVideoType" : "None",
+        "Name" : "Another colony",
+        "PronounceName" : "anothercolony",
+        "ReleasedAt" : "2024-02-22 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 405 ],
+                "Id" : 12101,
+                "MusicMasterId" : 121,
+                "MusicTimeSecond" : 93,
+                "MusicVideoType" : "None",
+                "Name" : "Another colony",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "本巣叶羽",
                 "VocalVersion" : 1
             }
         ]

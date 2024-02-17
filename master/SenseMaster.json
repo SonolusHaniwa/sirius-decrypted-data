@@ -1844,6 +1844,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 410,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130560,
+        "LightCount" : 1,
+        "Name" : "フラワー・テンペスト",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -3276,5 +3293,73 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20402,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1408801,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、劇団電姫のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 140880,
+        "LightCount" : 1,
+        "Name" : "春の紫苑も良いでしょう？",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20605,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1408901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、劇団電姫のアクターにセンススコア[:param11]％UP効果",
+        "Id" : 140890,
+        "LightCount" : 1,
+        "Name" : "朱の菜花は春を告げ",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
     }
 ]

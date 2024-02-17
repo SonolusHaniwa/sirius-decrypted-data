@@ -8381,6 +8381,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「賭世遊戯」を[:param]回クリアしよう",
+        "EndDate" : "2024-03-07 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 17100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17100,
+        "Stages" : 
+        [
+            {
+                "Id" : 17100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120471,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-02-26 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-02-26 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
