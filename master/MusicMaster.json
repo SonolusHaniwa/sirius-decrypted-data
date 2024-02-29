@@ -674,9 +674,9 @@
         "SampleEndSeconds" : 0,
         "SampleStartSeconds" : 0,
         "StaminaConsumption" : 29,
-        "UnlockConditionType" : "Buy",
+        "UnlockConditionType" : "Default",
         "UnlockConditionValue" : null,
-        "UnlockText" : "楽曲ショップで購入",
+        "UnlockText" : null,
         "VocalVersions" : 
         [
             {
@@ -724,9 +724,9 @@
         "SampleEndSeconds" : 0,
         "SampleStartSeconds" : 0,
         "StaminaConsumption" : 26,
-        "UnlockConditionType" : "Buy",
+        "UnlockConditionType" : "Default",
         "UnlockConditionValue" : null,
-        "UnlockText" : "楽曲ショップで購入",
+        "UnlockText" : null,
         "VocalVersions" : 
         [
             {
@@ -774,9 +774,9 @@
         "SampleEndSeconds" : 0,
         "SampleStartSeconds" : 0,
         "StaminaConsumption" : 25,
-        "UnlockConditionType" : "Buy",
+        "UnlockConditionType" : "Default",
         "UnlockConditionValue" : null,
-        "UnlockText" : "楽曲ショップで購入",
+        "UnlockText" : null,
         "VocalVersions" : 
         [
             {
@@ -824,9 +824,9 @@
         "SampleEndSeconds" : 0,
         "SampleStartSeconds" : 0,
         "StaminaConsumption" : 25,
-        "UnlockConditionType" : "Buy",
+        "UnlockConditionType" : "Default",
         "UnlockConditionValue" : null,
-        "UnlockText" : "楽曲ショップで購入",
+        "UnlockText" : null,
         "VocalVersions" : 
         [
             {
@@ -890,6 +890,18 @@
                 "SampleStartSeconds" : 0,
                 "Singer" : "鳳ここな、静香",
                 "VocalVersion" : 1
+            },
+            {
+                "Characters" : [ 101, 102 ],
+                "Id" : 2502,
+                "MusicMasterId" : 25,
+                "MusicTimeSecond" : 252,
+                "MusicVideoType" : "None",
+                "Name" : "Binary Star（Long Ver）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな、静香",
+                "VocalVersion" : 2
             }
         ]
     },
@@ -1152,9 +1164,9 @@
         "SampleEndSeconds" : 0,
         "SampleStartSeconds" : 0,
         "StaminaConsumption" : 39,
-        "UnlockConditionType" : "ClearAudition",
-        "UnlockConditionValue" : 5,
-        "UnlockText" : "オーディションSTAGE 5をクリア後、/n楽曲ショップで購入",
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
         "VocalVersions" : 
         [
             {
@@ -1190,9 +1202,9 @@
         "SampleEndSeconds" : 0,
         "SampleStartSeconds" : 0,
         "StaminaConsumption" : 30,
-        "UnlockConditionType" : "ClearAudition",
-        "UnlockConditionValue" : 10,
-        "UnlockText" : "オーディションSTAGE 10をクリア後、/n楽曲ショップで購入",
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
         "VocalVersions" : 
         [
             {
@@ -3259,6 +3271,44 @@
         ]
     },
     {
+        "Arranger" : "由良崇将",
+        "Composer" : "由良崇将",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 99,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 101,
+        "MusicVideoType" : "None",
+        "Name" : "深度異症候群-Shindoi Syndrome-",
+        "PronounceName" : "しんどいしんどろーむ",
+        "ReleasedAt" : "2024-02-29 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 202 ],
+                "Id" : 9901,
+                "MusicMasterId" : 99,
+                "MusicTimeSecond" : 101,
+                "MusicVideoType" : "None",
+                "Name" : "深度異症候群-Shindoi Syndrome-",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "烏森大黒",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -3444,6 +3494,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "白丸美兎",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "DECO*27",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 123,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "DECO*27",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 112,
+        "MusicVideoType" : "None",
+        "Name" : "ヴァンパイア",
+        "PronounceName" : "うぁんぱいあ",
+        "ReleasedAt" : "2024-03-05 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 28,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 205 ],
+                "Id" : 12301,
+                "MusicMasterId" : 123,
+                "MusicTimeSecond" : 112,
+                "MusicVideoType" : "None",
+                "Name" : "ヴァンパイア",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "筆島しぐれ",
                 "VocalVersion" : 1
             }
         ]

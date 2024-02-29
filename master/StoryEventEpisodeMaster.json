@@ -1510,5 +1510,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20021,
         "Title" : "ハッピーバレンタイン"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002501,
+        "Id" : 2002501,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20025,
+        "Title" : "私以外が騒がしい教室"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002502,
+        "Id" : 2002502,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2002501,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20025,
+        "Title" : "いつものルーティンから"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002503,
+        "Id" : 2002503,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2002502,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20025,
+        "Title" : "指先がつむぐ暗黒"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002504,
+        "Id" : 2002504,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2002503,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20025,
+        "Title" : "＠カオス.net"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002505,
+        "Id" : 2002505,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2002504,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20025,
+        "Title" : "オーディエンス"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002506,
+        "Id" : 2002506,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2002505,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20025,
+        "Title" : "ソリチュード"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002507,
+        "Id" : 2002507,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2002506,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20025,
+        "Title" : "深淵から星を見上げて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2002508,
+        "Id" : 2002508,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2002507,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20025,
+        "Title" : "＃ピリオド"
     }
 ]
