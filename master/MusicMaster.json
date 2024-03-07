@@ -978,6 +978,18 @@
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿暦、ラモーナ・ウォルフ",
                 "VocalVersion" : 1
+            },
+            {
+                "Characters" : [ 301, 302 ],
+                "Id" : 2702,
+                "MusicMasterId" : 27,
+                "MusicTimeSecond" : 227,
+                "MusicVideoType" : "None",
+                "Name" : "情熱リベレイション（Long Ver）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "千寿暦、ラモーナ・ウォルフ",
+                "VocalVersion" : 2
             }
         ]
     },
@@ -1560,6 +1572,18 @@
                 "SampleStartSeconds" : 0,
                 "Singer" : "烏森大黒",
                 "VocalVersion" : 1
+            },
+            {
+                "Characters" : [ 202 ],
+                "Id" : 4502,
+                "MusicMasterId" : 45,
+                "MusicTimeSecond" : 205,
+                "MusicVideoType" : "None",
+                "Name" : "Blondie Revenge Tragedy（Long Ver）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "烏森大黒",
+                "VocalVersion" : 2
             }
         ]
     },
@@ -3271,6 +3295,44 @@
         ]
     },
     {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 97,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 105,
+        "MusicVideoType" : "None",
+        "Name" : "To B-eat, or not to B-eat!",
+        "PronounceName" : "tobeatornottobeat",
+        "ReleasedAt" : "2024-03-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 27,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 106 ],
+                "Id" : 9701,
+                "MusicMasterId" : 97,
+                "MusicTimeSecond" : 105,
+                "MusicVideoType" : "None",
+                "Name" : "To B-eat, or not to B-eat!",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "流石知冴",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "由良崇将",
         "Composer" : "由良崇将",
         "DelaySeconds" : 0,
@@ -3570,6 +3632,120 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿暦",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "ゆこぴ",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 125,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "ゆこぴ",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 137,
+        "MusicVideoType" : "None",
+        "Name" : "強風オールバック",
+        "PronounceName" : "きょうふうおーるばっく",
+        "ReleasedAt" : "2024-03-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 33,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 405 ],
+                "Id" : 12501,
+                "MusicMasterId" : 125,
+                "MusicTimeSecond" : 137,
+                "MusicVideoType" : "None",
+                "Name" : "強風オールバック",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "本巣叶羽",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "中土智博",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 143,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "中土智博",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 130,
+        "MusicVideoType" : "None",
+        "Name" : "give it up to you",
+        "PronounceName" : "giveituptoyou",
+        "ReleasedAt" : "2024-03-12 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 31,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 203, 204 ],
+                "Id" : 14301,
+                "MusicMasterId" : 143,
+                "MusicTimeSecond" : 130,
+                "MusicVideoType" : "None",
+                "Name" : "give it up to you",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "舎人仁花子、萬容",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "烏屋茶房",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 144,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "烏屋茶房",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 155,
+        "MusicVideoType" : "None",
+        "Name" : "Y.Y.Y.計画!!!!",
+        "PronounceName" : "yyyけいかく",
+        "ReleasedAt" : "2024-03-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 36,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 304, 305, 405 ],
+                "Id" : 14401,
+                "MusicMasterId" : 144,
+                "MusicTimeSecond" : 155,
+                "MusicVideoType" : "None",
+                "Name" : "Y.Y.Y.計画!!!!",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "リリヤ・クルトベイ、与那国緋花里、本巣叶羽",
                 "VocalVersion" : 1
             }
         ]
