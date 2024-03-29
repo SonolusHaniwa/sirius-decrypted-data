@@ -4584,6 +4584,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22038001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220380,
+        "Name" : "トロイメライと悪夢",
+        "PosterMasterId" : 220380,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70022100,
                         "Order" : 1
                     }
@@ -8586,6 +8618,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70054400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23039001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 230390,
+        "Name" : "飽くなき知の探究",
+        "PosterMasterId" : 230390,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70052002,
                         "Order" : 1
                     }
@@ -8734,6 +8798,38 @@
         "Id" : 320050,
         "Name" : "謹賀新年2024",
         "PosterMasterId" : 320050,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70011000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 32006001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 320060,
+        "Name" : "蝶よ花よ",
+        "PosterMasterId" : 320060,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -9790,6 +9886,70 @@
         "Id" : 2203702,
         "Name" : "初期P.ゲージ上昇",
         "PosterMasterId" : 220370,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11211400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220380101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、ライフを[:param11]回復　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2203801,
+        "Name" : "ライフブースト",
+        "PosterMasterId" : 220380,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10810400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220380201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2203802,
+        "Name" : "スコアブースト",
+        "PosterMasterId" : 220380,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
@@ -11370,6 +11530,102 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10020000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230390101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2303901,
+        "Name" : "演技力アップⅡ",
+        "PosterMasterId" : 230390,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11611400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230390201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスによるP.ゲージの獲得量が[:param11]%UP　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2303902,
+        "Name" : "P.ゲージ獲得量アップ＋",
+        "PosterMasterId" : 230390,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230390301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2303903,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 230390,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10030000,
                         "Order" : 1
                     }
@@ -11710,6 +11966,38 @@
         "Id" : 3200501,
         "Name" : "報酬量アップ",
         "PosterMasterId" : 320050,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10910104,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 320060101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得　◆発動条件：八恵が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3200601,
+        "Name" : "スコアブースト・歌唱力",
+        "PosterMasterId" : 320060,
         "ReleaseLevelAt" : 0,
         "Type" : "Normal"
     },

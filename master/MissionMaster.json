@@ -8441,6 +8441,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「Singin' little blue bird」を[:param]回クリアしよう",
+        "EndDate" : "2024-04-19 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 17300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17300,
+        "Stages" : 
+        [
+            {
+                "Id" : 17300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110471,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-04-09 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-04-09 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,

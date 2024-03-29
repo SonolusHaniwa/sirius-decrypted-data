@@ -1843,6 +1843,23 @@
         "Type" : "Control"
     },
     {
+        "AcquirableGauge" : 80,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130430,
+        "LightCount" : 1,
+        "Name" : "みんなが大切だからこそ",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 410,
         "BranchCondition1" : "None",
@@ -3361,6 +3378,57 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 170,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1406201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動直後、自身の集中力の[:param11]倍のスコアを獲得",
+        "Id" : 140620,
+        "LightCount" : 1,
+        "Name" : "華は海底に眠る",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 140630,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "None"
     },
     {
         "AcquirableGauge" : 0,
