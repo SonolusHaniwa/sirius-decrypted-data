@@ -583,6 +583,67 @@
         "Description" : "スタミナを消費",
         "EndDate" : null,
         "Etcetera" : false,
+        "Id" : 1303,
+        "LiveSettingMasterId" : 13,
+        "Order" : 13030,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費/n(確率で獲得)",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1304,
+        "LiveSettingMasterId" : 13,
+        "Order" : 13040,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130071,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費 + スターアクト発動",
+        "EndDate" : null,
+        "Etcetera" : false,
+        "Id" : 1305,
+        "LiveSettingMasterId" : 13,
+        "Order" : 13050,
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130062,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130061,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 120001,
+                "ThingQuantity" : 0,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : null
+    },
+    {
+        "Description" : "スタミナを消費",
+        "EndDate" : null,
+        "Etcetera" : false,
         "Id" : 1403,
         "LiveSettingMasterId" : 14,
         "Order" : 14030,

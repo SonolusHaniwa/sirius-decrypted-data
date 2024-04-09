@@ -1912,6 +1912,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 490,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130480,
+        "LightCount" : 1,
+        "Name" : "別に心配なんか……",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 410,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -3531,6 +3548,63 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 80,
+        "AcquirableScorePercent" : 150,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／ライフが多いほどここなのスコア獲得量UP（最大＋100％）",
+        "Id" : 140720,
+        "LightCount" : 1,
+        "Name" : "絵本から飛び出せば",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28001,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 740,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／センス発動直後、自身の集中力の[:param11]倍のスコアを獲得                                        ",
+        "Id" : 140730,
+        "LightCount" : 1,
+        "Name" : "思い出のカルテリーノ",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Amplification"
     },
     {
         "AcquirableGauge" : 0,
