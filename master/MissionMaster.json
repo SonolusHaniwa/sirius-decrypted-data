@@ -9071,6 +9071,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「夕焼け色は始まりの色」を[:param]回クリアしよう",
+        "EndDate" : "2024-05-15 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 19400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19400,
+        "Stages" : 
+        [
+            {
+                "Id" : 19400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140271,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-05-05 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-05-05 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,

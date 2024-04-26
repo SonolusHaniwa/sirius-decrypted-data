@@ -1946,6 +1946,40 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1304901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130490,
+        "LightCount" : 1,
+        "Name" : "リラックス・ナイト・タイム",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 410,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -3690,6 +3724,74 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 70,
         "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 110,
+        "AcquirableScorePercent" : 210,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20535,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 55,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動直後、自身の表現力の[:param11]倍のスコアを獲得",
+        "Id" : 140740,
+        "LightCount" : 1,
+        "Name" : "舞踏会は波乱と恋の予感？！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 740,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20082,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 140750,
+        "LightCount" : 1,
+        "Name" : "冷酷な辺境伯に求婚されてます",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Support"
     },
     {
         "AcquirableGauge" : 0,
