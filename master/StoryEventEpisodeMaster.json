@@ -1944,6 +1944,78 @@
         "Title" : "あの、銀河のように"
     },
     {
+        "EpisodeRewardPackageMasterId" : 2003101,
+        "Id" : 2003101,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20031,
+        "Title" : "ワークショップ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003102,
+        "Id" : 2003102,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2003101,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20031,
+        "Title" : "会場にて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003103,
+        "Id" : 2003103,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2003102,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20031,
+        "Title" : "即興劇"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003104,
+        "Id" : 2003104,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2003103,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20031,
+        "Title" : "自由にやってみて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003105,
+        "Id" : 2003105,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2003104,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20031,
+        "Title" : "センスであり役者"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003106,
+        "Id" : 2003106,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2003105,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20031,
+        "Title" : "無言劇"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003107,
+        "Id" : 2003107,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2003106,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20031,
+        "Title" : "鏡合わせのふたり"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2003108,
+        "Id" : 2003108,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2003107,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20031,
+        "Title" : "交わした約束"
+    },
+    {
         "EpisodeRewardPackageMasterId" : 2004201,
         "Id" : 2004201,
         "Order" : 1,

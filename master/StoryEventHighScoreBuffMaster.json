@@ -350,5 +350,37 @@
         "IconImagePath" : "138",
         "Id" : 140,
         "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "アクターの集中力が[:param1]%上昇する　※シリウスに所属するアクターのみ対象",
+        "EffectMasterId" : 80045,
+        "EffectName" : "髪飾り",
+        "IconImagePath" : "148",
+        "Id" : 141,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "シリウスに所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+        "EffectMasterId" : 80046,
+        "EffectName" : "ネックレス",
+        "IconImagePath" : "146",
+        "Id" : 142,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "センスのCTが[:param1]秒短縮する　※<color=#33B4DF>凛属性</color>のカトリナ・グリーベルのみ対象",
+        "EffectMasterId" : 80047,
+        "EffectName" : "羽帽子",
+        "IconImagePath" : "145",
+        "Id" : 143,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "スターアクト発動に必要な支援の光<color=#228b22>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#33B4DF>凛属性</color>の静香のみ対象",
+        "EffectMasterId" : 80048,
+        "EffectName" : "歯車",
+        "IconImagePath" : "147",
+        "Id" : 144,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
     }
 ]

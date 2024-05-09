@@ -3661,6 +3661,44 @@
         ]
     },
     {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 109,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "志村真白（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 107,
+        "MusicVideoType" : "None",
+        "Name" : "Wish upon a star",
+        "PronounceName" : "wishuponastar",
+        "ReleasedAt" : "2024-05-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 27,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 102 ],
+                "Id" : 10901,
+                "MusicMasterId" : 109,
+                "MusicTimeSecond" : 107,
+                "MusicVideoType" : "None",
+                "Name" : "Wish upon a star",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "静香",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -4074,6 +4112,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "Aiobahn",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 135,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "にゃるら",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 154,
+        "MusicVideoType" : "None",
+        "Name" : "INTERNET YAMERO",
+        "PronounceName" : "internetyamero",
+        "ReleasedAt" : "2024-05-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 36,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 202 ],
+                "Id" : 13501,
+                "MusicMasterId" : 135,
+                "MusicTimeSecond" : 154,
+                "MusicVideoType" : "None",
+                "Name" : "INTERNET YAMERO",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "烏森大黒",
                 "VocalVersion" : 1
             }
         ]
