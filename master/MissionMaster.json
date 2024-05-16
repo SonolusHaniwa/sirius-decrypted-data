@@ -9101,6 +9101,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「アクト・レゾナンス」を[:param]回クリアしよう",
+        "EndDate" : "2024-06-02 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 19500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19500,
+        "Stages" : 
+        [
+            {
+                "Id" : 19500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130271,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-05-23 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-05-23 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Thirsty Soul」を[:param]回クリアしよう",
+        "EndDate" : "2024-06-09 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 19600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19600,
+        "Stages" : 
+        [
+            {
+                "Id" : 19600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120171,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-05-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-05-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
