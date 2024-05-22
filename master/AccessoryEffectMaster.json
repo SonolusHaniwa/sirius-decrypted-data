@@ -192,55 +192,55 @@
         "Name" : "初期P.ゲージ上昇 +6"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 310010,
         "Id" : 310010,
         "Name" : "三寸の兒"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
         "EffectMasterId" : 310020,
         "Id" : 310020,
         "Name" : "飢えを凌ぐ果実"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
         "EffectMasterId" : 310030,
         "Id" : 310030,
         "Name" : "地上の落とし物"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
         "EffectMasterId" : 310040,
         "Id" : 310040,
         "Name" : "サンドリヨン"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 320010,
         "Id" : 320010,
         "Name" : "路地裏に潜む闇"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
         "EffectMasterId" : 320020,
         "Id" : 320020,
         "Name" : "真実の愛が魅せる深紅"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
         "EffectMasterId" : 320030,
         "Id" : 320030,
         "Name" : "伸縮自在８トン"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
         "EffectMasterId" : 320040,
         "Id" : 320040,
         "Name" : "ビビディ・バビディ・ブー"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：劇団電姫に所属するアクターが装備",
         "EffectMasterId" : 320050,
         "Id" : 320050,
         "Name" : "贈り物と引き換えに望むものは"
@@ -312,7 +312,7 @@
         "Name" : "きっと輝いてみせる"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：カトリナが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：カトリナが装備",
         "EffectMasterId" : 330030,
         "Id" : 330030,
         "Name" : "研ぎ澄まされる意識"
@@ -358,6 +358,18 @@
         "EffectMasterId" : 330061,
         "Id" : 330061,
         "Name" : "宇宙って……深いよね"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：初魅が装備",
+        "EffectMasterId" : 330070,
+        "Id" : 330070,
+        "Name" : "お前の渇きを潤してやる"
+    },
+    {
+        "Description" : "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：初魅が装備",
+        "EffectMasterId" : 330071,
+        "Id" : 330071,
+        "Name" : "醒めぬ陶酔の渦へ"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：大黒が装備",
@@ -408,6 +420,18 @@
         "Name" : "伝統と期待を誇りに"
     },
     {
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：ラモーナが装備",
+        "EffectMasterId" : 330130,
+        "Id" : 330130,
+        "Name" : "繋がる星々"
+    },
+    {
+        "Description" : "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：ラモーナが装備",
+        "EffectMasterId" : 330131,
+        "Id" : 330131,
+        "Name" : "さぁ、手を取り合おう！"
+    },
+    {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：リリヤが装備",
         "EffectMasterId" : 330150,
         "Id" : 330150,
@@ -420,7 +444,7 @@
         "Name" : "ほら、もっと見て"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：緋花里が装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：緋花里が装備",
         "EffectMasterId" : 330160,
         "Id" : 330160,
         "Name" : "美ら海のメモリー"
@@ -486,31 +510,31 @@
         "Name" : "悪鬼退散！　幸運招来！"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 331010,
         "Id" : 331010,
         "Name" : "やはり、きれいでした"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
         "EffectMasterId" : 331020,
         "Id" : 331020,
         "Name" : "２人を引き裂く運命"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
         "EffectMasterId" : 331030,
         "Id" : 331030,
         "Name" : "私の証明"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
         "EffectMasterId" : 331040,
         "Id" : 331040,
         "Name" : "魔法が解ける合図"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：劇団電姫に所属するアクターが装備",
         "EffectMasterId" : 331050,
         "Id" : 331050,
         "Name" : "願うはご主人様の幸せ"
@@ -648,7 +672,7 @@
         "Name" : "盛り上がってきたな！"
     },
     {
-        "Description" : "自身のが歌唱力[:param1]％上昇　◆発動条件：カトリナ・ぱんだ・知冴・暦・リリヤ・緋花里が装備",
+        "Description" : "自身の歌唱力[:param1]％上昇　◆発動条件：カトリナ・ぱんだ・知冴・暦・リリヤ・緋花里が装備",
         "EffectMasterId" : 1000040,
         "Id" : 430060,
         "Name" : "ついに念願の！"

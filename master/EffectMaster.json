@@ -6,43 +6,6 @@
         [
             {
                 "Level" : 1,
-                "Value" : 64
-            },
-            {
-                "Level" : 2,
-                "Value" : 64
-            },
-            {
-                "Level" : 3,
-                "Value" : 64
-            },
-            {
-                "Level" : 4,
-                "Value" : 64
-            },
-            {
-                "Level" : 5,
-                "Value" : 64
-            },
-            {
-                "Level" : 6,
-                "Value" : 64
-            }
-        ],
-        "DurationSecond" : 0,
-        "FireTimingType" : "StarAct",
-        "Id" : 10101,
-        "Range" : "All",
-        "Triggers" : [],
-        "Type" : "VocalUp"
-    },
-    {
-        "CalculationType" : "PercentageAddition",
-        "Conditions" : [],
-        "Details" : 
-        [
-            {
-                "Level" : 1,
                 "Value" : 8
             },
             {
@@ -45902,6 +45865,81 @@
             {
                 "Trigger" : "Attribute",
                 "Value" : 1
+            }
+        ],
+        "Type" : "ScoreGainOnExpression"
+    },
+    {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128
+            },
+            {
+                "Level" : 2,
+                "Value" : 256
+            },
+            {
+                "Level" : 3,
+                "Value" : 256
+            },
+            {
+                "Level" : 4,
+                "Value" : 256
+            },
+            {
+                "Level" : 5,
+                "Value" : 256
+            },
+            {
+                "Level" : 6,
+                "Value" : 256
+            },
+            {
+                "Level" : 7,
+                "Value" : 256
+            },
+            {
+                "Level" : 8,
+                "Value" : 512
+            },
+            {
+                "Level" : 9,
+                "Value" : 512
+            },
+            {
+                "Level" : 10,
+                "Value" : 512
+            },
+            {
+                "Level" : 11,
+                "Value" : 512
+            },
+            {
+                "Level" : 12,
+                "Value" : 512
+            },
+            {
+                "Level" : 13,
+                "Value" : 512
+            },
+            {
+                "Level" : 14,
+                "Value" : 512
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 11010003,
+        "Range" : "None",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Attribute",
+                "Value" : 3
             }
         ],
         "Type" : "ScoreGainOnExpression"
