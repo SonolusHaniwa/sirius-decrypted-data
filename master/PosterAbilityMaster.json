@@ -4776,38 +4776,6 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 70022003,
-                        "Order" : 1
-                    }
-                ],
-                "Id" : 22046001,
-                "JudgeType1" : null,
-                "JudgeType2" : null,
-                "Order" : 1,
-                "Parameter1" : null,
-                "Parameter2" : null
-            }
-        ],
-        "ConditionValue1" : null,
-        "ConditionValue2" : null,
-        "Description" : "彩属性のアクターの演技力が[:param11]％上昇",
-        "FrameNumber" : 1,
-        "Hidden" : false,
-        "Id" : 220460,
-        "Name" : "Fashi∞nable！",
-        "PosterMasterId" : 220460,
-        "ReleaseLevelAt" : 0,
-        "Type" : "Leader"
-    },
-    {
-        "BranchConditionType1" : "None",
-        "BranchConditionType2" : "None",
-        "Branches" : 
-        [
-            {
-                "BranchEffects" : 
-                [
-                    {
                         "EffectMasterId" : 70022100,
                         "Order" : 1
                     }
@@ -10474,70 +10442,6 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 10010003,
-                        "Order" : 1
-                    }
-                ],
-                "Id" : 220460101,
-                "JudgeType1" : null,
-                "JudgeType2" : null,
-                "Order" : 1,
-                "Parameter1" : null,
-                "Parameter2" : null
-            }
-        ],
-        "ConditionValue1" : null,
-        "ConditionValue2" : null,
-        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
-        "FrameNumber" : 1,
-        "Hidden" : false,
-        "Id" : 2204601,
-        "Name" : "演技力アップ",
-        "PosterMasterId" : 220460,
-        "ReleaseLevelAt" : 0,
-        "Type" : "Normal"
-    },
-    {
-        "BranchConditionType1" : "None",
-        "BranchConditionType2" : "None",
-        "Branches" : 
-        [
-            {
-                "BranchEffects" : 
-                [
-                    {
-                        "EffectMasterId" : 11010003,
-                        "Order" : 1
-                    }
-                ],
-                "Id" : 220460201,
-                "JudgeType1" : null,
-                "JudgeType2" : null,
-                "Order" : 1,
-                "Parameter1" : null,
-                "Parameter2" : null
-            }
-        ],
-        "ConditionValue1" : null,
-        "ConditionValue2" : null,
-        "Description" : "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
-        "FrameNumber" : 2,
-        "Hidden" : false,
-        "Id" : 2204602,
-        "Name" : "スコアブースト・表現力",
-        "PosterMasterId" : 220460,
-        "ReleaseLevelAt" : 7,
-        "Type" : "Normal"
-    },
-    {
-        "BranchConditionType1" : "None",
-        "BranchConditionType2" : "None",
-        "Branches" : 
-        [
-            {
-                "BranchEffects" : 
-                [
-                    {
                         "EffectMasterId" : 10310100,
                         "Order" : 1
                     }
@@ -11032,7 +10936,7 @@
         ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
-        "Description" : "自身の演技力が[:param11]%上昇",
+        "Description" : "自身の演技力が[:param11]％上昇",
         "FrameNumber" : 1,
         "Hidden" : false,
         "Id" : 2302501,
