@@ -382,5 +382,37 @@
         "IconImagePath" : "147",
         "Id" : 144,
         "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "アクターの表現力が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+        "EffectMasterId" : 80049,
+        "EffectName" : "装飾品",
+        "IconImagePath" : "144",
+        "Id" : 145,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "アクターの演技力上限値が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+        "EffectMasterId" : 80050,
+        "EffectName" : "サロメの宝飾品",
+        "IconImagePath" : "142",
+        "Id" : 146,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "センス発動時、追加で「特殊の光<color=#0000ff>*</color>」を[:param1]個付与する　※<color=#FF9314>陽属性</color>の舎人 仁花子のみ対象",
+        "EffectMasterId" : 80051,
+        "EffectName" : "ヨカナーンのお面",
+        "IconImagePath" : "143",
+        "Id" : 147,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
+    },
+    {
+        "EffectDescription" : "スターアクト発動に必要な特殊の光<color=#0000ff>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>の萬 容のみ対象",
+        "EffectMasterId" : 80052,
+        "EffectName" : "サロメのヴェール",
+        "IconImagePath" : "141",
+        "Id" : 148,
+        "StoryEventHighScoreBuffPatternGroupId" : 2
     }
 ]

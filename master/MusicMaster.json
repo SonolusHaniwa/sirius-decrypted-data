@@ -3699,6 +3699,44 @@
         ]
     },
     {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 105,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 111,
+        "MusicVideoType" : "RealTimeRendering",
+        "Name" : "銀月照らす美しき罪",
+        "PronounceName" : "ぎんげつてらすうつくしきつみ",
+        "ReleasedAt" : "2024-05-31 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 28,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 203, 204 ],
+                "Id" : 10501,
+                "MusicMasterId" : 105,
+                "MusicTimeSecond" : 111,
+                "MusicVideoType" : "RealTimeRendering",
+                "Name" : "銀月照らす美しき罪",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "萬容、舎人仁花子",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "清田直人",
         "Composer" : "清田直人",
         "DelaySeconds" : 0,
@@ -3808,6 +3846,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "静香",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "鈴木裕明(SUPA LOVE)",
+        "Composer" : "鈴木裕明(SUPA LOVE)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 110,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 94,
+        "MusicVideoType" : "None",
+        "Name" : "ワンダフル・フラワー・ガーデン！",
+        "PronounceName" : "わんだふるふらわーがーでん",
+        "ReleasedAt" : "2024-06-01 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 203 ],
+                "Id" : 11001,
+                "MusicMasterId" : 110,
+                "MusicTimeSecond" : 94,
+                "MusicVideoType" : "None",
+                "Name" : "ワンダフル・フラワー・ガーデン！",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "舎人仁花子",
                 "VocalVersion" : 1
             }
         ]

@@ -1302,6 +1302,26 @@
         "SubTitlePositionY3" : null
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 204 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-05-31 17:00:00",
+        "Id" : 220450,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "bet or fold？",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "bet or fold",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 512.00999999999999,
+        "SubTitlePositionX2" : 0,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.01,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 403 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -2790,6 +2810,44 @@
         "SubTitlePositionY1" : 512.00999999999999,
         "SubTitlePositionY2" : 0,
         "SubTitlePositionY3" : null
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 203, 204 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 1981,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 1982,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 1991,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 1992,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-05-31 17:00:00",
+        "Id" : 230460,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "王女サロメの恋",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "おうじょさろめのこい",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 0,
+        "SubTitlePositionX2" : 1024.1199999999999,
+        "SubTitlePositionX3" : 0,
+        "SubTitlePositionY1" : 1024.02,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : 0
     },
     {
         "AppearanceCharacterBaseMasterIds" : [ 402, 403, 405 ],

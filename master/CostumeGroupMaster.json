@@ -1560,6 +1560,30 @@
         "PerformanceGroupId" : null
     },
     {
+        "CostumeMasterIds" : [ 1981, 1982 ],
+        "CostumeWearableCharacterGroupMasterId" : null,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-05-31 17:00:00",
+        "Id" : 198,
+        "IsHairChange" : false,
+        "Name" : "王女サロメの恋",
+        "Order" : 198,
+        "PerformanceGroupId" : null
+    },
+    {
+        "CostumeMasterIds" : [ 1991, 1992 ],
+        "CostumeWearableCharacterGroupMasterId" : 204,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-05-31 17:00:00",
+        "Id" : 199,
+        "IsHairChange" : true,
+        "Name" : "王女サロメの恋",
+        "Order" : 199,
+        "PerformanceGroupId" : null
+    },
+    {
         "CostumeMasterIds" : [ 2001 ],
         "CostumeWearableCharacterGroupMasterId" : 11,
         "Description" : null,
@@ -1701,6 +1725,18 @@
         "IsHairChange" : true,
         "Name" : "無邪気なシュータードレス",
         "Order" : 211,
+        "PerformanceGroupId" : null
+    },
+    {
+        "CostumeMasterIds" : [ 2121, 2122, 2123, 2124 ],
+        "CostumeWearableCharacterGroupMasterId" : null,
+        "Description" : null,
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-06-01 05:00:00",
+        "Id" : 212,
+        "IsHairChange" : false,
+        "Name" : "ノーブルブライド",
+        "Order" : 212,
         "PerformanceGroupId" : null
     }
 ]

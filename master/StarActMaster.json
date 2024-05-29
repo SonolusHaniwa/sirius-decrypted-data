@@ -1253,6 +1253,20 @@
         "ConditionValue1" : null,
         "ConditionValue2" : null,
         "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 130501,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "StarActConditionMasterId" : 103110
+    },
+    {
+        "AcquirableScorePercent" : 400,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
         "Id" : 130511,
         "Name" : "",
         "PreEffects" : [],
@@ -2283,6 +2297,188 @@
     },
     {
         "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "10",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19031,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14076101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19032,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14076102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19033,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14076103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19034,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14076104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19035,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14076105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 4,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている特殊系の光1個につき総演技力の[:param11]倍のスコアを追加で獲得(最大5個)",
+        "Id" : 140761,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101114
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14077101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19002,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14077102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14077103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14077104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19005,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14077105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／付与されているライフガード1回につきスコア獲得量10％上昇（最大＋50％）",
+        "Id" : 140771,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101411
+    },
+    {
+        "AcquirableScorePercent" : 970,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
         "Branches" : [],
@@ -2393,7 +2589,7 @@
         ],
         "ConditionValue1" : 1,
         "ConditionValue2" : null,
-        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている支援系の光1個につき総演技力の[:param11]倍のスコアを獲得(最大5個)",
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている支援系の光1個につき総演技力の[:param11]倍のスコアを追加で獲得(最大5個)",
         "Id" : 140801,
         "Name" : "",
         "PreEffects" : [],
@@ -2484,7 +2680,7 @@
         ],
         "ConditionValue1" : 3,
         "ConditionValue2" : null,
-        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている増幅系の光1個につき総演技力の[:param11]倍のスコアを獲得(最大5個)",
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている増幅系の光1個につき総演技力の[:param11]倍のスコアを追加で獲得(最大5個)",
         "Id" : 140811,
         "Name" : "",
         "PreEffects" : [],

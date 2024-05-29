@@ -1120,6 +1120,118 @@
         "StoryEventHighScoreMasterId" : 20026
     },
     {
+        "Id" : 2002901,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの集中力が[:param1]上昇する",
+            "EffectMasterId" : 80003,
+            "EffectName" : "舞台照明",
+            "IconImagePath" : "11",
+            "Id" : 11,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 11,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002902,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの表現力が[:param1]上昇する",
+            "EffectMasterId" : 80002,
+            "EffectName" : "舞台スピーカー",
+            "IconImagePath" : "12",
+            "Id" : 12,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 12,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002903,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの歌唱力が[:param1]上昇する",
+            "EffectMasterId" : 80001,
+            "EffectName" : "舞台マイク",
+            "IconImagePath" : "13",
+            "Id" : 13,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 13,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002904,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの演技力が[:param1]％上昇する",
+            "EffectMasterId" : 80004,
+            "EffectName" : "舞台カーテン",
+            "IconImagePath" : "14",
+            "Id" : 14,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 14,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002905,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの表現力が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+            "EffectMasterId" : 80049,
+            "EffectName" : "装飾品",
+            "IconImagePath" : "144",
+            "Id" : 145,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 145,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002906,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの演技力上限値が[:param1]%上昇する　※Edenに所属するアクターのみ対象",
+            "EffectMasterId" : 80050,
+            "EffectName" : "サロメの宝飾品",
+            "IconImagePath" : "142",
+            "Id" : 146,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 146,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002907,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "センス発動時、追加で「特殊の光<color=#0000ff>*</color>」を[:param1]個付与する　※<color=#FF9314>陽属性</color>の舎人 仁花子のみ対象",
+            "EffectMasterId" : 80051,
+            "EffectName" : "ヨカナーンのお面",
+            "IconImagePath" : "143",
+            "Id" : 147,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 147,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
+        "Id" : 2002908,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "スターアクト発動に必要な特殊の光<color=#0000ff>*</color>が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>の萬 容のみ対象",
+            "EffectMasterId" : 80052,
+            "EffectName" : "サロメのヴェール",
+            "IconImagePath" : "141",
+            "Id" : 148,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 148,
+        "StoryEventHighScoreMasterId" : 20029
+    },
+    {
         "Id" : 2003101,
         "StoryEventHighScoreBuffMaster" : 
         {

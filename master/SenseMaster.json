@@ -1980,6 +1980,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 490,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130500,
+        "LightCount" : 1,
+        "Name" : "勝手なことは許さない",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 0,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -3866,6 +3883,117 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 70,
         "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 80,
+        "AcquirableScorePercent" : 150,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 140760,
+        "LightCount" : 1,
+        "Name" : "初めての恋は成就したか",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 670,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29101,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407701,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29102,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407702,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29103,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407703,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29104,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407704,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1407705,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／付与されているライフガード1回につきスコア獲得量10％上昇（最大＋50％）",
+        "Id" : 140770,
+        "LightCount" : 1,
+        "Name" : "正しくあるべき人の道を説く",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Control"
     },
     {
         "AcquirableGauge" : 0,

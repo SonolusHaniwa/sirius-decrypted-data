@@ -6191,6 +6191,162 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "すごいジュゴンの勲章を[:param]個獲得しよう",
+        "EndDate" : "2100-01-01 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 4610,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Normal",
+        "MissionViewOrder" : 4610,
+        "Stages" : 
+        [
+            {
+                "Id" : 46101,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204101,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46102,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204102,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46103,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204103,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46104,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204104,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46105,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204105,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 11,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46106,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204106,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 15,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46107,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204107,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 19,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46108,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204108,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 24,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46109,
+                "MissionStageOrder" : 9,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204109,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 29,
+                "StartDate" : "2024-05-31 17:00:00"
+            },
+            {
+                "Id" : 46110,
+                "MissionStageOrder" : 10,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 204110,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 35,
+                "StartDate" : "2024-05-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-05-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "浅緑のロゼットを[:param]個獲得しよう",
         "EndDate" : "2100-01-01 00:00:00",
         "EventMasterId" : null,
@@ -9157,6 +9313,36 @@
             }
         ],
         "StartDate" : "2024-05-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「ワンダフル・フラワー・ガーデン！」を[:param]回クリアしよう",
+        "EndDate" : "2024-06-11 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 19700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19700,
+        "Stages" : 
+        [
+            {
+                "Id" : 19700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120371,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-06-01 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-06-01 17:00:00",
         "Title" : ""
     },
     {

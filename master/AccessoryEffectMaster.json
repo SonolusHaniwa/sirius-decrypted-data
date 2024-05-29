@@ -192,6 +192,48 @@
         "Name" : "初期P.ゲージ上昇 +6"
     },
     {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200057,
+        "Id" : 701,
+        "Name" : "P.ゲージ獲得量アップ +1"
+    },
+    {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200058,
+        "Id" : 702,
+        "Name" : "P.ゲージ獲得量アップ +2"
+    },
+    {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200059,
+        "Id" : 703,
+        "Name" : "P.ゲージ獲得量アップ +3"
+    },
+    {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200060,
+        "Id" : 704,
+        "Name" : "P.ゲージ獲得量アップ +4"
+    },
+    {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200061,
+        "Id" : 705,
+        "Name" : "P.ゲージ獲得量アップ +5"
+    },
+    {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200062,
+        "Id" : 706,
+        "Name" : "P.ゲージ獲得量アップ +6"
+    },
+    {
+        "Description" : "センスによるP.ゲージの獲得量が[:param1]%UP",
+        "EffectMasterId" : 200062,
+        "Id" : 801,
+        "Name" : "P.ゲージ獲得量アップ +6"
+    },
+    {
         "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 310010,
         "Id" : 310010,
@@ -300,6 +342,12 @@
         "Name" : "善と悪を分かつとき"
     },
     {
+        "Description" : "初期プリンシパルゲージが[:param1]上昇　◆発動条件：に所属シリウスするアクターが装備",
+        "EffectMasterId" : 321050,
+        "Id" : 320150,
+        "Name" : "隠されし献身"
+    },
+    {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：ここなが装備",
         "EffectMasterId" : 330010,
         "Id" : 330010,
@@ -382,6 +430,18 @@
         "EffectMasterId" : 330081,
         "Id" : 330081,
         "Name" : "許されないわ……！"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：仁花子が装備",
+        "EffectMasterId" : 330090,
+        "Id" : 330090,
+        "Name" : "透き通る花々"
+    },
+    {
+        "Description" : "センス発動により光を付与するとき、同系統の光を追加で1個付与する。　◆発動条件：仁花子が装備",
+        "EffectMasterId" : 330091,
+        "Id" : 330091,
+        "Name" : "自然をいつでもチャージ！"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：容が装備",
@@ -646,6 +706,18 @@
         "EffectMasterId" : 331290,
         "Id" : 331230,
         "Name" : "愛するあなたのために"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]％上昇",
+        "EffectMasterId" : 331090,
+        "Id" : 331240,
+        "Name" : "我らちびっこ三銃士！"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]％上昇",
+        "EffectMasterId" : 331090,
+        "Id" : 331250,
+        "Name" : "子どもに刃物は早いので"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇",
