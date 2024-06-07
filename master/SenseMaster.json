@@ -2071,6 +2071,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 520,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130550,
+        "LightCount" : 1,
+        "Name" : "踏みにじられた者の怒り",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 410,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -4084,6 +4101,57 @@
         "Name" : "心躍る人形劇の裏",
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 610,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20536,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1408601,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得",
+        "Id" : 140860,
+        "LightCount" : 2,
+        "Name" : "連なる薔薇の懐かしき香り",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 170,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 140870,
+        "LightCount" : 1,
+        "Name" : "白き死神は戦場を駆け",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
         "Type" : "Amplification"
     },
     {

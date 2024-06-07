@@ -2378,6 +2378,39 @@
         "Type" : "ScoreGainOnExpression"
     },
     {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 256
+            },
+            {
+                "Level" : 2,
+                "Value" : 256
+            },
+            {
+                "Level" : 3,
+                "Value" : 256
+            },
+            {
+                "Level" : 4,
+                "Value" : 512
+            },
+            {
+                "Level" : 5,
+                "Value" : 512
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 20536,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "ScoreGainOnVocal"
+    },
+    {
         "CalculationType" : "PercentageAddition",
         "Conditions" : 
         [
@@ -50597,6 +50630,75 @@
         "Type" : "PrincipalGaugeGain"
     },
     {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 32
+            },
+            {
+                "Level" : 2,
+                "Value" : 32
+            },
+            {
+                "Level" : 3,
+                "Value" : 64
+            },
+            {
+                "Level" : 4,
+                "Value" : 64
+            },
+            {
+                "Level" : 5,
+                "Value" : 64
+            },
+            {
+                "Level" : 6,
+                "Value" : 64
+            },
+            {
+                "Level" : 7,
+                "Value" : 64
+            },
+            {
+                "Level" : 8,
+                "Value" : 64
+            },
+            {
+                "Level" : 9,
+                "Value" : 64
+            },
+            {
+                "Level" : 10,
+                "Value" : 64
+            },
+            {
+                "Level" : 11,
+                "Value" : 64
+            },
+            {
+                "Level" : 12,
+                "Value" : 64
+            },
+            {
+                "Level" : 13,
+                "Value" : 64
+            },
+            {
+                "Level" : 14,
+                "Value" : 128
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StartLive",
+        "Id" : 11512000,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeGain"
+    },
+    {
         "CalculationType" : "PercentageAddition",
         "Conditions" : [],
         "Details" : 
@@ -51270,6 +51372,75 @@
             }
         ],
         "Type" : "PrincipalGaugeUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 32
+            },
+            {
+                "Level" : 2,
+                "Value" : 64
+            },
+            {
+                "Level" : 3,
+                "Value" : 64
+            },
+            {
+                "Level" : 4,
+                "Value" : 64
+            },
+            {
+                "Level" : 5,
+                "Value" : 64
+            },
+            {
+                "Level" : 6,
+                "Value" : 64
+            },
+            {
+                "Level" : 7,
+                "Value" : 64
+            },
+            {
+                "Level" : 8,
+                "Value" : 128
+            },
+            {
+                "Level" : 9,
+                "Value" : 128
+            },
+            {
+                "Level" : 10,
+                "Value" : 128
+            },
+            {
+                "Level" : 11,
+                "Value" : 128
+            },
+            {
+                "Level" : 12,
+                "Value" : 128
+            },
+            {
+                "Level" : 13,
+                "Value" : 128
+            },
+            {
+                "Level" : 14,
+                "Value" : 128
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StartLive",
+        "Id" : 11710000,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeLimitUp"
     },
     {
         "CalculationType" : "FixedAddition",
@@ -52194,6 +52365,81 @@
             },
             {
                 "Level" : 8,
+                "Value" : 2
+            },
+            {
+                "Level" : 9,
+                "Value" : 2
+            },
+            {
+                "Level" : 10,
+                "Value" : 2
+            },
+            {
+                "Level" : 11,
+                "Value" : 2
+            },
+            {
+                "Level" : 12,
+                "Value" : 2
+            },
+            {
+                "Level" : 13,
+                "Value" : 2
+            },
+            {
+                "Level" : 14,
+                "Value" : 2
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StartLive",
+        "Id" : 11920400,
+        "Range" : "None",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 4
+            }
+        ],
+        "Type" : "AddSenseLightVariable"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1
+            },
+            {
+                "Level" : 2,
+                "Value" : 1
+            },
+            {
+                "Level" : 3,
+                "Value" : 1
+            },
+            {
+                "Level" : 4,
+                "Value" : 1
+            },
+            {
+                "Level" : 5,
+                "Value" : 1
+            },
+            {
+                "Level" : 6,
+                "Value" : 1
+            },
+            {
+                "Level" : 7,
+                "Value" : 1
+            },
+            {
+                "Level" : 8,
                 "Value" : 1
             },
             {
@@ -52974,6 +53220,81 @@
             {
                 "Trigger" : "Company",
                 "Value" : 1
+            }
+        ],
+        "Type" : "SenseRecastDown"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1
+            },
+            {
+                "Level" : 2,
+                "Value" : 1
+            },
+            {
+                "Level" : 3,
+                "Value" : 1
+            },
+            {
+                "Level" : 4,
+                "Value" : 1
+            },
+            {
+                "Level" : 5,
+                "Value" : 1
+            },
+            {
+                "Level" : 6,
+                "Value" : 1
+            },
+            {
+                "Level" : 7,
+                "Value" : 1
+            },
+            {
+                "Level" : 8,
+                "Value" : 1
+            },
+            {
+                "Level" : 9,
+                "Value" : 1
+            },
+            {
+                "Level" : 10,
+                "Value" : 2
+            },
+            {
+                "Level" : 11,
+                "Value" : 2
+            },
+            {
+                "Level" : 12,
+                "Value" : 2
+            },
+            {
+                "Level" : 13,
+                "Value" : 2
+            },
+            {
+                "Level" : 14,
+                "Value" : 4
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 12410400,
+        "Range" : "Self",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 4
             }
         ],
         "Type" : "SenseRecastDown"

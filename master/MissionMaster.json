@@ -9347,6 +9347,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「マン・ハン・チュエンシー!!」を[:param]回クリアしよう",
+        "EndDate" : "2024-06-29 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 19800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19800,
+        "Stages" : 
+        [
+            {
+                "Id" : 19800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130371,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-06-19 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-06-19 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,

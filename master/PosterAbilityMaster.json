@@ -9098,6 +9098,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 32007001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 320070,
+        "Name" : "正しいやり方を探して",
+        "PosterMasterId" : 320070,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70052400,
                         "Order" : 1
                     }
@@ -9246,6 +9278,70 @@
         "Id" : 330050,
         "Name" : "奏でる「これから」",
         "PosterMasterId" : 330050,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70052400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 33006001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 330060,
+        "Name" : "反逆の幕を上げよう",
+        "PosterMasterId" : 330060,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70042000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 33007001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 330070,
+        "Name" : "絶対遵守の力",
+        "PosterMasterId" : 330070,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -12842,6 +12938,70 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10010400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 320070101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3200701,
+        "Name" : "演技力アップ",
+        "PosterMasterId" : 320070,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11610400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 320070201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスによるP.ゲージの獲得量が[:param11]%UP　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3200702,
+        "Name" : "P.ゲージ獲得量アップ",
+        "PosterMasterId" : 320070,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10030000,
                         "Order" : 1
                     }
@@ -13310,6 +13470,198 @@
         "Id" : 3300503,
         "Name" : "「光」追加（SP）Ⅰ",
         "PosterMasterId" : 330050,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10031400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330060101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3300601,
+        "Name" : "演技力アップⅢ＋",
+        "PosterMasterId" : 330060,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12410400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330060201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTが[:param11]秒短縮　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3300602,
+        "Name" : "CTダウンⅡ",
+        "PosterMasterId" : 330060,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11920400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330060301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3300603,
+        "Name" : "「光」追加（SP）Ⅱ",
+        "PosterMasterId" : 330060,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330070101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3300701,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 330070,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11512000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330070201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3300702,
+        "Name" : "初期P.ゲージ上昇Ⅱ",
+        "PosterMasterId" : 330070,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11710000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330070301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、Pゲージの上限が[:param11]上昇",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3300703,
+        "Name" : "P.ゲージ上限上昇",
+        "PosterMasterId" : 330070,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     }

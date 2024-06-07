@@ -3889,6 +3889,44 @@
         ]
     },
     {
+        "Arranger" : "LiCu（FirstCall）",
+        "Composer" : "LiCu（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 112,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 100,
+        "MusicVideoType" : "None",
+        "Name" : "マン・ハン・チュエンシー!!",
+        "PronounceName" : "まんはんちゅえんしー",
+        "ReleasedAt" : "2024-06-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 303 ],
+                "Id" : 11201,
+                "MusicMasterId" : 112,
+                "MusicTimeSecond" : 100,
+                "MusicVideoType" : "None",
+                "Name" : "マン・ハン・チュエンシー!!",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "王雪",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -4384,6 +4422,44 @@
     },
     {
         "Arranger" : "-",
+        "Composer" : "大森元貴",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 137,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "大森元貴",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 137,
+        "MusicVideoType" : "None",
+        "Name" : "インフェルノ",
+        "PronounceName" : "いんふぇるの",
+        "ReleasedAt" : "2024-06-18 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 33,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 302 ],
+                "Id" : 13701,
+                "MusicMasterId" : 137,
+                "MusicTimeSecond" : 137,
+                "MusicVideoType" : "None",
+                "Name" : "インフェルノ",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "ラモーナ・ウォルフ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
         "Composer" : "小高光太郎",
         "DelaySeconds" : 0,
         "Description" : "",
@@ -4530,6 +4606,82 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "リリヤ・クルトベイ、与那国緋花里、本巣叶羽",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "TAKESHI ASAKAWA",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 156,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "KOHSHI ASAKAWA・KEIGO HAYASHI",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 93,
+        "MusicVideoType" : "None",
+        "Name" : "COLORS",
+        "PronounceName" : "colors",
+        "ReleasedAt" : "2024-06-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 402, 405 ],
+                "Id" : 15601,
+                "MusicMasterId" : 156,
+                "MusicTimeSecond" : 93,
+                "MusicVideoType" : "None",
+                "Name" : "COLORS",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "本巣叶羽、白丸美兎",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "ORANGE RANGE",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 157,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "ORANGE RANGE",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 94,
+        "MusicVideoType" : "None",
+        "Name" : "O2",
+        "PronounceName" : "o2",
+        "ReleasedAt" : "2024-06-14 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 401, 403, 404 ],
+                "Id" : 15701,
+                "MusicMasterId" : 157,
+                "MusicTimeSecond" : 94,
+                "MusicVideoType" : "None",
+                "Name" : "O2",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "千寿いろは、阿岐留カミラ、猫足蕾",
                 "VocalVersion" : 1
             }
         ]
