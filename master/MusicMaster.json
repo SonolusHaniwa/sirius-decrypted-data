@@ -3927,6 +3927,44 @@
         ]
     },
     {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 113,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "志村真白（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 127,
+        "MusicVideoType" : "None",
+        "Name" : "雪は春に、そして花束を",
+        "PronounceName" : "ゆきははるにそしてはなたばを",
+        "ReleasedAt" : "2024-06-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 31,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 303, 305 ],
+                "Id" : 11301,
+                "MusicMasterId" : 113,
+                "MusicTimeSecond" : 127,
+                "MusicVideoType" : "None",
+                "Name" : "雪は春に、そして花束を",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "与那国緋花里、王雪",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -4606,6 +4644,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "リリヤ・クルトベイ、与那国緋花里、本巣叶羽",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "D.watt(IOSYS)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 150,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "まろん(IOSYS)",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 119,
+        "MusicVideoType" : "None",
+        "Name" : "粛聖!!ロリ神レクイエム☆",
+        "PronounceName" : "しゅくせいろりがみれくいえむ",
+        "ReleasedAt" : "2024-06-29 21:30:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 29,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 205 ],
+                "Id" : 15001,
+                "MusicMasterId" : 150,
+                "MusicTimeSecond" : 119,
+                "MusicVideoType" : "None",
+                "Name" : "粛聖!!ロリ神レクイエム☆",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "筆島しぐれ",
                 "VocalVersion" : 1
             }
         ]

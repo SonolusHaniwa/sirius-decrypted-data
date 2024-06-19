@@ -132,6 +132,42 @@
         "Title" : "稽古の獲得SP 25％UP"
     },
     {
+        "CampaignEffectType" : "LiveReward",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/24 17:00～6/26 5:00/n対象：公演、協力公演",
+        "EndDate" : "2024-06-26 05:00:00",
+        "IconImagePath" : "1",
+        "Id" : 12,
+        "Order" : 12,
+        "StartDate" : "2024-06-24 17:00:00",
+        "Title" : "公演の報酬量 50%UP"
+    },
+    {
+        "CampaignEffectType" : "StarPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/26 5:00～6/28 5:00/n対象：稽古",
+        "EndDate" : "2024-06-28 05:00:00",
+        "IconImagePath" : "3",
+        "Id" : 13,
+        "Order" : 13,
+        "StartDate" : "2024-06-26 05:00:00",
+        "Title" : "稽古の獲得SP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/28 5:00～6/30 17:00/n対象：公演、協力公演",
+        "EndDate" : "2024-06-30 17:00:00",
+        "IconImagePath" : "4",
+        "Id" : 14,
+        "Order" : 14,
+        "StartDate" : "2024-06-28 05:00:00",
+        "Title" : "公演の獲得EXP 50％UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,

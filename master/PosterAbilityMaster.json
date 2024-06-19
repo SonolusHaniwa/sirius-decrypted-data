@@ -4694,7 +4694,7 @@
         ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
-        "Description" : "彩属性のアクターの演技力が[:param11]％上昇",
+        "Description" : "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
         "FrameNumber" : 1,
         "Hidden" : false,
         "Id" : 220420,
@@ -4822,7 +4822,7 @@
         ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
-        "Description" : "彩属性のアクターの演技力が[:param11]％上昇",
+        "Description" : "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
         "FrameNumber" : 1,
         "Hidden" : false,
         "Id" : 220460,
@@ -4860,6 +4860,38 @@
         "Id" : 220470,
         "Name" : "サイレント・リフレクション",
         "PosterMasterId" : 220470,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70022004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22049001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220490,
+        "Name" : "沫雪がとけたら",
+        "PosterMasterId" : 220490,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -10814,6 +10846,70 @@
         "Id" : 2204702,
         "Name" : "スコアブースト・集中力",
         "PosterMasterId" : 220470,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10010004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220490101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2204901,
+        "Name" : "演技力アップ",
+        "PosterMasterId" : 220490,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11110004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220490201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の集中力の[:param11]倍のスコアを獲得　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2204902,
+        "Name" : "スコアブースト・集中力",
+        "PosterMasterId" : 220490,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
