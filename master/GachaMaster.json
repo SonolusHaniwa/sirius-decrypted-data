@@ -40593,6 +40593,869 @@
         ]
     },
     {
+        "AttentionGachaTextTemplateMasterId" : 11006,
+        "BonusThings" : 
+        [
+            {
+                "Id" : 181701,
+                "ThingId" : 411817,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "CardType" : "Character",
+        "EndDate" : "2024-06-30 17:00:00",
+        "GachaDetails" : 
+        [
+            {
+                "ButtonType" : "PaidJewelSingle",
+                "DailyRollLimit" : 1,
+                "DetailBonusThings" : 
+                [
+                    {
+                        "Id" : 181700,
+                        "ThingId" : 130013,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "FixedPrizeCount" : 0,
+                "FreeJewelAmount" : null,
+                "Id" : 181700,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : 50,
+                "PrizeCount" : 1,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            },
+            {
+                "ButtonType" : "FreeJewelSingle",
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : [],
+                "FixedPrizeCount" : 0,
+                "FreeJewelAmount" : 300,
+                "Id" : 181701,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 1,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            },
+            {
+                "ButtonType" : "FreeJewelTenSeries",
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : [],
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : 3000,
+                "Id" : 181702,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            },
+            {
+                "ButtonType" : "SingleTicket",
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : [],
+                "FixedPrizeCount" : 0,
+                "FreeJewelAmount" : null,
+                "Id" : 181703,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 1,
+                "RequiredTicketMItemId" : 210001,
+                "RequiredTicketQuantity" : 1
+            },
+            {
+                "ButtonType" : "SingleTicketTenSeries",
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : [],
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : null,
+                "Id" : 181704,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : 210001,
+                "RequiredTicketQuantity" : 10
+            },
+            {
+                "ButtonType" : "TenSeriesTicket",
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : [],
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : null,
+                "Id" : 181705,
+                "IsFree" : false,
+                "OverallRollLimit" : null,
+                "PaidJewelAmount" : null,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : 210002,
+                "RequiredTicketQuantity" : 1
+            },
+            {
+                "ButtonType" : "PaidJewelTenSeries",
+                "DailyRollLimit" : null,
+                "DetailBonusThings" : [],
+                "FixedPrizeCount" : 1,
+                "FreeJewelAmount" : null,
+                "Id" : 181706,
+                "IsFree" : false,
+                "OverallRollLimit" : 1,
+                "PaidJewelAmount" : 1500,
+                "PrizeCount" : 10,
+                "RequiredTicketMItemId" : null,
+                "RequiredTicketQuantity" : null
+            }
+        ],
+        "GachaTextTemplateMasterId" : 1817,
+        "GachaType" : "Pickup",
+        "HasMovie" : false,
+        "Id" : 1817,
+        "IsForceDisplay" : false,
+        "IsHideEndDate" : false,
+        "Name" : "初夏の訪れガチャ",
+        "StartDate" : "2024-06-24 17:00:00",
+        "StoryEventMasterId" : null,
+        "Things" : 
+        [
+            {
+                "Id" : 1817120010,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120010,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120020,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120020,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120030,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120030,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120040,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120040,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120050,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120050,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120060,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120060,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120070,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120070,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120080,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120080,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120090,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120090,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120100,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120100,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120110,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120110,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120120,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120120,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120130,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120130,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120140,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120140,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120150,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120150,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120160,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120160,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120170,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120170,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120180,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120180,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120190,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120190,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120200,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120200,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817120210,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 120210,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130010,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130010,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130020,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130020,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130030,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130030,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130040,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130040,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130050,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130050,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130060,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130060,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130070,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130070,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130080,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130080,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130090,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130090,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130100,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130100,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130110,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130110,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130120,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130120,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130130,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130130,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130140,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130140,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130150,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130150,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130160,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130160,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130170,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130170,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130180,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130180,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130190,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130190,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130200,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130200,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817130210,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 130210,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140020,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140020,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140030,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140030,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140040,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140040,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140050,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140050,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140060,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140060,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140070,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140070,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140080,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140080,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140090,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140090,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140100,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140100,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140110,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140110,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140120,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140120,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140130,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140130,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140140,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140140,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140150,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140150,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140160,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140160,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140190,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140190,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140200,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140200,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140240,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140240,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140250,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140250,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140260,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140260,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140270,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140270,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140300,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140300,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140310,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140310,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140360,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140360,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140370,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140370,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140380,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140380,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140390,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140390,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140400,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140400,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140410,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140410,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140460,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140460,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140470,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140470,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140480,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140480,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140490,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140490,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140540,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140540,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140550,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140550,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140560,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140560,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140570,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140570,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140600,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140600,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140610,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140610,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140660,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140660,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140670,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140670,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140700,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140700,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140710,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140710,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140720,
+                "IsSelectable" : false,
+                "PickupOrder" : 1,
+                "ThingId" : 140720,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140730,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140730,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140780,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140780,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140790,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140790,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140800,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140800,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            },
+            {
+                "Id" : 1817140810,
+                "IsSelectable" : false,
+                "PickupOrder" : null,
+                "ThingId" : 140810,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character"
+            }
+        ]
+    },
+    {
         "AttentionGachaTextTemplateMasterId" : 11050,
         "BonusThings" : 
         [

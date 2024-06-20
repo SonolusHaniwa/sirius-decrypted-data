@@ -5161,7 +5161,7 @@
         ],
         "MJewelShopCategoryId" : 5,
         "Name" : "デコレーションパックA",
-        "Order" : 801,
+        "Order" : 4,
         "PackText" : "",
         "PurchaseLimit" : 1,
         "PurchaseType" : "Paid",
@@ -5299,7 +5299,7 @@
         ],
         "MJewelShopCategoryId" : 5,
         "Name" : "デコレーションパックB",
-        "Order" : 802,
+        "Order" : 5,
         "PackText" : "",
         "PurchaseLimit" : 1,
         "PurchaseType" : "Paid",
@@ -11807,6 +11807,264 @@
         "ShopItemType" : "None",
         "ShopItemValue" : null,
         "StartDate" : "2024-06-25 17:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "5162",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2024-06-30 17:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : 1500,
+        "GooglePlayProductId" : "5162",
+        "Id" : 5162,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : false,
+        "Lineup" : 
+        [
+            {
+                "Id" : 516201,
+                "MJewelShopItemId" : 5162,
+                "ThingId" : 0,
+                "ThingQuantity" : 1000,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 516202,
+                "MJewelShopItemId" : 5162,
+                "ThingId" : 210404,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 516203,
+                "MJewelShopItemId" : 5162,
+                "ThingId" : 211404,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "梅雨にToYouパックA",
+        "Order" : 358,
+        "PackText" : "",
+        "PurchaseLimit" : 1,
+        "PurchaseType" : "Money",
+        "PurchaseValue" : 1500,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2024-06-24 17:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2024-06-30 17:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : null,
+        "GooglePlayProductId" : "",
+        "Id" : 5163,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : false,
+        "Lineup" : 
+        [
+            {
+                "Id" : 516301,
+                "MJewelShopItemId" : 5163,
+                "ThingId" : 110002,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 516302,
+                "MJewelShopItemId" : 5163,
+                "ThingId" : 140000,
+                "ThingQuantity" : 300,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 516303,
+                "MJewelShopItemId" : 5163,
+                "ThingId" : 130071,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "梅雨にToYouパックB",
+        "Order" : 359,
+        "PackText" : "",
+        "PurchaseLimit" : 1,
+        "PurchaseType" : "Paid",
+        "PurchaseValue" : 1500,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2024-06-24 17:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2024-06-30 17:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : null,
+        "GooglePlayProductId" : "",
+        "Id" : 5164,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : false,
+        "Lineup" : 
+        [
+            {
+                "Id" : 516401,
+                "MJewelShopItemId" : 5164,
+                "ThingId" : 110002,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 516402,
+                "MJewelShopItemId" : 5164,
+                "ThingId" : 110003,
+                "ThingQuantity" : 20,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "梅雨にToYouパックC",
+        "Order" : 360,
+        "PackText" : "",
+        "PurchaseLimit" : 1,
+        "PurchaseType" : "Paid",
+        "PurchaseValue" : 3000,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2024-06-24 17:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : null,
+        "ExpiredDay" : null,
+        "GivePaidJewel" : null,
+        "GooglePlayProductId" : "",
+        "Id" : 5165,
+        "IsBuyNotDisplay" : true,
+        "IsDisplayLocking" : false,
+        "Lineup" : 
+        [
+            {
+                "Id" : 516501,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981010,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516502,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981020,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516503,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981030,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516504,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981040,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516505,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981050,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516506,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981060,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516507,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981070,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516508,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981080,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516509,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981090,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 516510,
+                "MJewelShopItemId" : 5165,
+                "ThingId" : 981100,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "推し文字デコパック",
+        "Order" : 3,
+        "PackText" : "",
+        "PurchaseLimit" : 1,
+        "PurchaseType" : "Paid",
+        "PurchaseValue" : 480,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2024-06-20 15:00:00",
         "SubscriptionFlag" : false,
         "UnlockType" : null,
         "UnlockValue" : null
