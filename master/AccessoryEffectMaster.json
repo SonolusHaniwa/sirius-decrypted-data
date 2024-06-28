@@ -234,6 +234,48 @@
         "Name" : "P.ゲージ獲得量アップ +6"
     },
     {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200063,
+        "Id" : 901,
+        "Name" : "演技力アップ +1"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200064,
+        "Id" : 902,
+        "Name" : "演技力アップ +2"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200065,
+        "Id" : 903,
+        "Name" : "演技力アップ +3"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200066,
+        "Id" : 904,
+        "Name" : "演技力アップ +4"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200067,
+        "Id" : 905,
+        "Name" : "演技力アップ +5"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200068,
+        "Id" : 906,
+        "Name" : "演技力アップ +6"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]%上昇",
+        "EffectMasterId" : 200068,
+        "Id" : 1001,
+        "Name" : "演技力アップ +6"
+    },
+    {
         "Description" : "自身の演技力が[:param1]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 310010,
         "Id" : 310010,
@@ -346,6 +388,12 @@
         "EffectMasterId" : 321050,
         "Id" : 320150,
         "Name" : "隠されし献身"
+    },
+    {
+        "Description" : "初期プリンシパルゲージが[:param1]上昇　◆発動条件：銀河座に所属するアクターが装備",
+        "EffectMasterId" : 321070,
+        "Id" : 320160,
+        "Name" : "撃てば必中！"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：ここなが装備",
@@ -730,6 +778,18 @@
         "EffectMasterId" : 331090,
         "Id" : 331250,
         "Name" : "子どもに刃物は早いので"
+    },
+    {
+        "Description" : "公演と協力公演の公演報酬が[:param1]%増加（アクセサリーを除く）",
+        "EffectMasterId" : 1000030,
+        "Id" : 331260,
+        "Name" : "正義と父上への愛の為に"
+    },
+    {
+        "Description" : "基礎スコアが[:param1]％上昇",
+        "EffectMasterId" : 1000020,
+        "Id" : 331270,
+        "Name" : "ただ一人の孝行娘"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇",

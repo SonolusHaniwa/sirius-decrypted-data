@@ -2536,5 +2536,113 @@
             }
         ],
         "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 8000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 1220,
+        "MissionPassMasterId" : 12,
+        "Phase" : 20,
+        "Rewards" : 
+        [
+            {
+                "Id" : 122001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 1220,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 122002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 1220,
+                "ThingId" : 2211,
+                "ThingQuantity" : 1,
+                "ThingType" : "Costume"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 12000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 1230,
+        "MissionPassMasterId" : 12,
+        "Phase" : 30,
+        "Rewards" : 
+        [
+            {
+                "Id" : 123001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 1230,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 123002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 1230,
+                "ThingId" : 2212,
+                "ThingQuantity" : 1,
+                "ThingType" : "Costume"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 16000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 1240,
+        "MissionPassMasterId" : 12,
+        "Phase" : 40,
+        "Rewards" : 
+        [
+            {
+                "Id" : 124001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 1240,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 124002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 1240,
+                "ThingId" : 2213,
+                "ThingQuantity" : 1,
+                "ThingType" : "Costume"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 20000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 1250,
+        "MissionPassMasterId" : 12,
+        "Phase" : 50,
+        "Rewards" : 
+        [
+            {
+                "Id" : 125001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 1250,
+                "ThingId" : 130013,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 125002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 1250,
+                "ThingId" : 2214,
+                "ThingQuantity" : 1,
+                "ThingType" : "Costume"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
     }
 ]

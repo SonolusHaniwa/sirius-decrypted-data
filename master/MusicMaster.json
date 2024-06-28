@@ -3889,6 +3889,44 @@
         ]
     },
     {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 111,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 106,
+        "MusicVideoType" : "None",
+        "Name" : "リアルタイム・リプライ！",
+        "PronounceName" : "りあるたいむりぷらい",
+        "ReleasedAt" : "2024-06-30 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 27,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 105 ],
+                "Id" : 11101,
+                "MusicMasterId" : 111,
+                "MusicTimeSecond" : 106,
+                "MusicVideoType" : "None",
+                "Name" : "リアルタイム・リプライ！",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "柳場ぱんだ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "LiCu（FirstCall）",
         "Composer" : "LiCu（FirstCall）",
         "DelaySeconds" : 0,
@@ -5290,6 +5328,82 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "王雪、リリヤ・クルトベイ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "山本玲史",
+        "Composer" : "山本玲史",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10070,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 255,
+        "MusicVideoType" : "None",
+        "Name" : "ちいさないのちのさけるばしょ（Long Ver.）",
+        "PronounceName" : "ちいさないのちのさけるばしょlong",
+        "ReleasedAt" : "2024-07-02 05:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 202, 204 ],
+                "Id" : 1007001,
+                "MusicMasterId" : 10070,
+                "MusicTimeSecond" : 255,
+                "MusicVideoType" : "None",
+                "Name" : "ちいさないのちのさけるばしょ（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "萬容、烏森大黒",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "松坂康司",
+        "Composer" : "松坂康司",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10077,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 232,
+        "MusicVideoType" : "None",
+        "Name" : "小さな奇跡の降る夜に（Long Ver.）",
+        "PronounceName" : "ちいさなきせきのふるよるにlong",
+        "ReleasedAt" : "2024-07-09 05:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 302, 304 ],
+                "Id" : 1007701,
+                "MusicMasterId" : 10077,
+                "MusicTimeSecond" : 232,
+                "MusicVideoType" : "None",
+                "Name" : "小さな奇跡の降る夜に（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "リリヤ・クルトベイ、ラモーナ・ウォルフ",
                 "VocalVersion" : 1
             }
         ]

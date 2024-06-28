@@ -2070,6 +2070,23 @@
         "Type" : "Special"
     },
     {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130530,
+        "LightCount" : 1,
+        "Name" : "食べちゃうぞ～！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Special"
+    },
+    {
         "AcquirableGauge" : 80,
         "AcquirableScorePercent" : 140,
         "BranchCondition1" : "None",
@@ -4119,6 +4136,52 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
         "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／ライフが多いほどぱんだのスコア獲得量UP（最大＋100％）",
+        "Id" : 140820,
+        "LightCount" : 1,
+        "Name" : "がおー！のレッスン",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28001,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 540,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 35,
+        "Description" : "[:score]倍のスコアを獲得／ライフが多いほど八恵のスコア獲得量UP（最大＋100％）",
+        "Id" : 140830,
+        "LightCount" : 1,
+        "Name" : "ペンギン・ア・ゴーゴー！",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28001,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
     },
     {
         "AcquirableGauge" : 100,
