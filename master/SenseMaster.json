@@ -4142,11 +4142,28 @@
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
-        "Branches" : [],
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20014,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1408201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
         "CoolTime" : 40,
-        "Description" : "[:score]倍のスコアを獲得／ライフが多いほどぱんだのスコア獲得量UP（最大＋100％）",
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復／ライフが多いほどぱんだのスコア獲得量UP（最大＋100％）",
         "Id" : 140820,
         "LightCount" : 1,
         "Name" : "がおー！のレッスン",
