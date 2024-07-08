@@ -9377,6 +9377,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「アタシのアシタはアタシがキメル」を[:param]回クリアしよう",
+        "EndDate" : "2024-07-27 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 19900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19900,
+        "Stages" : 
+        [
+            {
+                "Id" : 19900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140571,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-07-17 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-07-17 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -11241,6 +11271,156 @@
             }
         ],
         "StartDate" : "2024-04-26 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2024-07-25 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400120,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400120,
+        "Stages" : 
+        [
+            {
+                "Id" : 400120,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137002,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-07-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-07-12 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2024-07-25 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400130,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400130,
+        "Stages" : 
+        [
+            {
+                "Id" : 400130,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137002,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2024-07-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-07-12 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2024-07-25 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400140,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400140,
+        "Stages" : 
+        [
+            {
+                "Id" : 400140,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137002,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2024-07-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-07-12 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2024-07-25 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400150,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400150,
+        "Stages" : 
+        [
+            {
+                "Id" : 400150,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137002,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 200,
+                "StartDate" : "2024-07-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-07-12 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2024-07-25 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400160,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400160,
+        "Stages" : 
+        [
+            {
+                "Id" : 400160,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137002,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2024-07-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-07-12 17:00:00",
         "Title" : ""
     }
 ]
