@@ -192,6 +192,30 @@
         "Title" : "稽古の獲得SP 25％UP"
     },
     {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 1,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：7/22 5:00～7/26 5:00/n対象：稽古",
+        "EndDate" : "2024-07-26 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 17,
+        "Order" : 17,
+        "StartDate" : "2024-07-22 05:00:00",
+        "Title" : "稽古の回数 +1回"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 100,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：7/26 5:00～7/31 17:00/n対象：公演、協力公演",
+        "EndDate" : "2024-07-31 17:00:00",
+        "IconImagePath" : "4",
+        "Id" : 18,
+        "Order" : 18,
+        "StartDate" : "2024-07-26 05:00:00",
+        "Title" : "公演の獲得EXP 100％UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,

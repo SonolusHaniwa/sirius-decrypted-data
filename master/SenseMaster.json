@@ -2173,6 +2173,40 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1305901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130590,
+        "LightCount" : 1,
+        "Name" : "小指をからめて",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -4860,5 +4894,102 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 140960,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "None"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20095,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1409701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、プリンシパルゲージの上限値が[:param11]上昇",
+        "Id" : 140970,
+        "LightCount" : 1,
+        "Name" : "小さなあの子を待ちながら",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+        "Id" : 140980,
+        "LightCount" : 0,
+        "Name" : "とある悪魔の幸福",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 20025,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "Alternative"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 540,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 35,
+        "Description" : "[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）",
+        "Id" : 140990,
+        "LightCount" : 1,
+        "Name" : "あなたの声は潮騒に",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28005,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Support"
     }
 ]
