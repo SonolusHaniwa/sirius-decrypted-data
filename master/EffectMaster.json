@@ -3906,6 +3906,23 @@
         [
             {
                 "Level" : 1,
+                "Value" : 512
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 30010,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "BaseCorrection"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
                 "Value" : 1024.01
             }
         ],
@@ -3946,6 +3963,23 @@
         "DurationSecond" : 0,
         "FireTimingType" : "Passive",
         "Id" : 30018,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "BaseCorrection"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1024.01
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 30020,
         "Range" : "Self",
         "Triggers" : [],
         "Type" : "BaseCorrection"
@@ -4391,6 +4425,91 @@
         "Range" : "Self",
         "Triggers" : [],
         "Type" : "BaseConcentrationUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 16
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 37001,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "SenseRecastDown"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 64
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StartLive",
+        "Id" : 37002,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeGain"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 4096.1400000000003
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 37003,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "PerformanceLimitUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StartLive",
+        "Id" : 37004,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "LifeGuard"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1024.01
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 37005,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "BaseScoreUp"
     },
     {
         "CalculationType" : "PercentageAddition",
