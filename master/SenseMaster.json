@@ -4974,11 +4974,28 @@
         "AcquirableScorePercent" : 540,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
-        "Branches" : [],
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20535,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1409901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
         "CoolTime" : 35,
-        "Description" : "[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）",
+        "Description" : "[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）／センス発動直後、自身の表現力の[:param11]倍のスコアを獲得",
         "Id" : 140990,
         "LightCount" : 1,
         "Name" : "あなたの声は潮騒に",
