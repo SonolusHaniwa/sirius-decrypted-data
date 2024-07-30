@@ -2576,6 +2576,32 @@
     {
         "AssetId" : null,
         "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 130601,
+        "BloomBonusGroupMasterId" : 30002,
+        "CharacterAwakeningItemGroupMasterId" : 33,
+        "CharacterBaseMasterId" : 203,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-07-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 331,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130600,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 91,
+            "Expression" : 97,
+            "Vocal" : 82
+        },
+        "Name" : "本日晴天、プール日和",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 332,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130600,
+        "StarActMasterId" : 130601
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
         "CharacterAwakeningItemGroupMasterId" : 43,
@@ -5016,5 +5042,57 @@
         "SenseEnhanceItemGroupMasterId" : 4,
         "SenseMasterId" : 140990,
         "StarActMasterId" : 140991
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141001,
+        "BloomBonusGroupMasterId" : 40100,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 205,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-07-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141000,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 95,
+            "Expression" : 137,
+            "Vocal" : 112
+        },
+        "Name" : "メイク・サム・ノイズ！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141000,
+        "StarActMasterId" : 141001
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141011,
+        "BloomBonusGroupMasterId" : 40101,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 201,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-07-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141010,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 121,
+            "Expression" : 90,
+            "Vocal" : 134
+        },
+        "Name" : "ミッドナイト・グルーヴ",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141010,
+        "StarActMasterId" : 141011
     }
 ]

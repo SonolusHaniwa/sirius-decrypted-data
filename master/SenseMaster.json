@@ -2207,6 +2207,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 520,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130600,
+        "LightCount" : 1,
+        "Name" : "本日晴天、プール日和",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -5006,6 +5023,74 @@
                 "Order" : 1
             }
         ],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 170,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20095,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1410001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、プリンシパルゲージの上限値が[:param11]上昇\t\t\t\t\t",
+        "Id" : 141000,
+        "LightCount" : 1,
+        "Name" : "メイク・サム・ノイズ！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 80,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20045,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1410101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 35,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／[:sec]秒間、Edenのアクターにセンススコア[:param11]％UP効果",
+        "Id" : 141010,
+        "LightCount" : 1,
+        "Name" : "ミッドナイト・グルーヴ",
+        "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Support"
     }

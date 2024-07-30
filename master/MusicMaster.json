@@ -4155,6 +4155,44 @@
         ]
     },
     {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 117,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "森田和樹（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 110,
+        "MusicVideoType" : "None",
+        "Name" : "水際PARTY、水着でFUNNY",
+        "PronounceName" : "みずぎわPARTYみずぎでFUNNY",
+        "ReleasedAt" : "2024-07-31 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 28,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 205 ],
+                "Id" : 11701,
+                "MusicMasterId" : 117,
+                "MusicTimeSecond" : 110,
+                "MusicVideoType" : "None",
+                "Name" : "水際PARTY、水着でFUNNY",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "筆島しぐれ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "カンザキイオリ",
         "DelaySeconds" : 0,
@@ -5518,6 +5556,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "烏森大黒",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "志村真白",
+        "Composer" : "志村真白",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10046,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "志村真白",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 234,
+        "MusicVideoType" : "None",
+        "Name" : "Fernweh（Long Ver.）",
+        "PronounceName" : "fernwehlong",
+        "ReleasedAt" : "2024-08-04 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 103 ],
+                "Id" : 1004601,
+                "MusicMasterId" : 10046,
+                "MusicTimeSecond" : 234,
+                "MusicVideoType" : "None",
+                "Name" : "Fernweh（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "カトリナ・グリーベル",
                 "VocalVersion" : 1
             }
         ]

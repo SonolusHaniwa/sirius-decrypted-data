@@ -1386,6 +1386,20 @@
         "StarActConditionMasterId" : 103110
     },
     {
+        "AcquirableScorePercent" : 400,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 130601,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "StarActConditionMasterId" : 100311
+    },
+    {
         "AcquirableScorePercent" : 970,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -3555,5 +3569,33 @@
         ],
         "ScoreUpPerLevel" : 120,
         "StarActConditionMasterId" : 105111
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 141001,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101411
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 141011,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 104111
     }
 ]

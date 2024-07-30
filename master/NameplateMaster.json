@@ -272,12 +272,22 @@
     {
         "Description" : null,
         "Details" : [],
+        "Hidden" : true,
+        "Id" : 2103,
+        "IsDefault" : false,
+        "Name" : "カトリナ【BirthDay 2024】",
+        "Order" : 2103,
+        "UnlockText" : null
+    },
+    {
+        "Description" : null,
+        "Details" : [],
         "Hidden" : false,
         "Id" : 9000,
         "IsDefault" : false,
-        "Name" : "スター",
+        "Name" : "スター【シーズン1】",
         "Order" : 5,
-        "UnlockText" : "演劇リーグのCL6「スター」初回到達で獲得できます。"
+        "UnlockText" : "演劇リーグ【シーズン1】のCL6「スター」初回到達で獲得できます。"
     },
     {
         "Description" : null,
@@ -287,26 +297,66 @@
                 "ClassType" : "None",
                 "EnrollCount" : 0,
                 "Id" : 9701,
-                "Name" : "ダイスター1"
+                "Name" : "ダイスター1【シーズン1】"
             },
             {
                 "ClassType" : "None",
                 "EnrollCount" : 4,
                 "Id" : 9702,
-                "Name" : "ダイスター2"
+                "Name" : "ダイスター2【シーズン1】"
             },
             {
                 "ClassType" : "None",
                 "EnrollCount" : 8,
                 "Id" : 9703,
-                "Name" : "ダイスター3"
+                "Name" : "ダイスター3【シーズン1】"
             }
         ],
         "Hidden" : false,
         "Id" : 9001,
         "IsDefault" : false,
-        "Name" : "ダイスター",
+        "Name" : "ダイスター【シーズン1】",
         "Order" : 6,
-        "UnlockText" : "演劇リーグのCL7「ダイスター」初回到達で獲得できます。"
+        "UnlockText" : "演劇リーグ【シーズン1】のCL7「ダイスター」初回到達で獲得できます。"
+    },
+    {
+        "Description" : null,
+        "Details" : [],
+        "Hidden" : false,
+        "Id" : 9010,
+        "IsDefault" : false,
+        "Name" : "スター【シーズン2】",
+        "Order" : 7,
+        "UnlockText" : "演劇リーグ【シーズン2】のCL6「スター」初回到達で獲得できます。"
+    },
+    {
+        "Description" : null,
+        "Details" : 
+        [
+            {
+                "ClassType" : "None",
+                "EnrollCount" : 0,
+                "Id" : 9711,
+                "Name" : "ダイスター1【シーズン2】"
+            },
+            {
+                "ClassType" : "None",
+                "EnrollCount" : 4,
+                "Id" : 9712,
+                "Name" : "ダイスター2【シーズン2】"
+            },
+            {
+                "ClassType" : "None",
+                "EnrollCount" : 8,
+                "Id" : 9713,
+                "Name" : "ダイスター3【シーズン2】"
+            }
+        ],
+        "Hidden" : false,
+        "Id" : 9011,
+        "IsDefault" : false,
+        "Name" : "ダイスター【シーズン2】",
+        "Order" : 8,
+        "UnlockText" : "演劇リーグ【シーズン2】のCL7「ダイスター」初回到達で獲得できます。"
     }
 ]
