@@ -5032,6 +5032,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22054001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "シリウスに所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 0,
+        "Hidden" : false,
+        "Id" : 220540,
+        "Name" : "夏、いわゆるダイスターの観察",
+        "PosterMasterId" : 220540,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -9212,7 +9244,7 @@
         "FrameNumber" : 1,
         "Hidden" : false,
         "Id" : 230510,
-        "Name" : "憧れた舞台に立って",
+        "Name" : "夢への一歩を",
         "PosterMasterId" : 230510,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
@@ -11518,6 +11550,70 @@
         "Id" : 2205202,
         "Name" : "スコアブースト・集中力",
         "PosterMasterId" : 220520,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10210100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220540101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の表現力が[:param11]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2205401,
+        "Name" : "表現力アップ",
+        "PosterMasterId" : 220540,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11010100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220540201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2205402,
+        "Name" : "スコアブースト・表現力",
+        "PosterMasterId" : 220540,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },

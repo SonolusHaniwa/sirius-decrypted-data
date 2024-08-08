@@ -4992,6 +4992,44 @@
     },
     {
         "Arranger" : "-",
+        "Composer" : "バルーン",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 152,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "バルーン",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 103,
+        "MusicVideoType" : "None",
+        "Name" : "シャルル",
+        "PronounceName" : "しゃるる",
+        "ReleasedAt" : "2024-08-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 106 ],
+                "Id" : 15201,
+                "MusicMasterId" : 152,
+                "MusicTimeSecond" : 103,
+                "MusicVideoType" : "None",
+                "Name" : "シャルル",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "流石知冴",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
         "Composer" : "TAKESHI ASAKAWA",
         "DelaySeconds" : 0,
         "Description" : "",
@@ -5062,6 +5100,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿いろは、阿岐留カミラ、猫足蕾",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "EFFY（FirstCall）",
+        "Composer" : "EFFY（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 160,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 111,
+        "MusicVideoType" : "None",
+        "Name" : "踊る魔法に観る魔法",
+        "PronounceName" : "おどるまほうにみるまほう",
+        "ReleasedAt" : "2024-08-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 28,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 106 ],
+                "Id" : 16001,
+                "MusicMasterId" : 160,
+                "MusicTimeSecond" : 111,
+                "MusicVideoType" : "None",
+                "Name" : "踊る魔法に観る魔法",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "流石知冴",
                 "VocalVersion" : 1
             }
         ]

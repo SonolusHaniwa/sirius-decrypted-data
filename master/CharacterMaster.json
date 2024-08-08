@@ -2601,6 +2601,32 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 130621,
+        "BloomBonusGroupMasterId" : 30001,
+        "CharacterAwakeningItemGroupMasterId" : 34,
+        "CharacterBaseMasterId" : 101,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-08-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 341,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130620,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 98,
+            "Expression" : 92,
+            "Vocal" : 80
+        },
+        "Name" : "ひとくちシェアしよう？",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 342,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130620,
+        "StarActMasterId" : 130621
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -5094,5 +5120,57 @@
         "SenseEnhanceItemGroupMasterId" : 4,
         "SenseMasterId" : 141010,
         "StarActMasterId" : 141011
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141041,
+        "BloomBonusGroupMasterId" : 40104,
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 106,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-08-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141040,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 146,
+            "Expression" : 114,
+            "Vocal" : 87
+        },
+        "Name" : "一夜、自由の翼になるよ",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141040,
+        "StarActMasterId" : 141041
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141051,
+        "BloomBonusGroupMasterId" : 40105,
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 104,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-08-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141050,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 124,
+            "Expression" : 90,
+            "Vocal" : 131
+        },
+        "Name" : "今宵、空灯篭のように",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141050,
+        "StarActMasterId" : 141051
     }
 ]
