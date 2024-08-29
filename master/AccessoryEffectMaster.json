@@ -396,10 +396,16 @@
         "Name" : "撃てば必中！"
     },
     {
-        "Description" : "自身の歌唱力[:param1]％上昇　◆発動条件：憐属性のアクターが装備",
+        "Description" : "自身の歌唱力[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 322010,
         "Id" : 320170,
         "Name" : "わたくしのお茶はいかが？"
+    },
+    {
+        "Description" : "自身の歌唱力[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+        "EffectMasterId" : 322020,
+        "Id" : 320180,
+        "Name" : "仮面の下に秘めたのは"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：ここなが装備",
@@ -828,16 +834,28 @@
         "Name" : "ただ一人の孝行娘"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：憐属性のアクターが装備",
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
         "EffectMasterId" : 331120,
         "Id" : 331280,
         "Name" : "美味しいおうちを作らなきゃ"
     },
     {
-        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：凛属性のアクターが装備",
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
         "EffectMasterId" : 331130,
         "Id" : 331290,
         "Name" : "時代はきびだんごビジネス！"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "EffectMasterId" : 331140,
+        "Id" : 331300,
+        "Name" : "幸せを探して"
+    },
+    {
+        "Description" : "自身の演技力が[:param1]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "EffectMasterId" : 331150,
+        "Id" : 331310,
+        "Name" : "トントンカラリ"
     },
     {
         "Description" : "自身の演技力が[:param1]％上昇",

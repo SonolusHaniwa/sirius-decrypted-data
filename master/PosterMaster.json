@@ -1502,6 +1502,26 @@
         "SubTitlePositionY3" : null
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 302 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-08-31 17:00:00",
+        "Id" : 220550,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "ダイアローグは交わらない",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "だいあろーぐはまじわらない",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 0,
+        "SubTitlePositionX2" : 1024.0799999999999,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.1099999999999,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 101, 103 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -3127,6 +3147,44 @@
         "SubTitlePositionX3" : 1024.1099999999999,
         "SubTitlePositionY1" : 0,
         "SubTitlePositionY2" : 512.01999999999998,
+        "SubTitlePositionY3" : 1024.0799999999999
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 301, 302 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 2251,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 2252,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 2261,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 2262,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-08-31 17:00:00",
+        "Id" : 230530,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "オクトーバー・エスケープ",
+        "OrganizeRestrictGroupId" : null,
+        "PronounceName" : "おくとーばーえすけーぷ",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 0,
+        "SubTitlePositionX2" : 0,
+        "SubTitlePositionX3" : 512.00999999999999,
+        "SubTitlePositionY1" : 0,
+        "SubTitlePositionY2" : 512.00999999999999,
         "SubTitlePositionY3" : 1024.0799999999999
     },
     {
