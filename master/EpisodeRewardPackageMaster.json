@@ -13027,7 +13027,16 @@
     },
     {
         "Id" : 141021,
-        "Rewards" : []
+        "Rewards" : 
+        [
+            {
+                "IsChapterAllReadReward" : false,
+                "IsOnlyStoryEventTerm" : false,
+                "ThingId" : 0,
+                "ThingQuantity" : 30,
+                "ThingType" : "Jewel"
+            }
+        ]
     },
     {
         "Id" : 141022,
