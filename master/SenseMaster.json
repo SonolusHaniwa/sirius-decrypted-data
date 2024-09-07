@@ -2275,6 +2275,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 130640,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "None"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -5314,5 +5331,73 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
         "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 540,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20081,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1410801,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 35,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 141080,
+        "LightCount" : 2,
+        "Name" : "デンキウィズザ……！？",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20401,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1410901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、劇団電姫のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141090,
+        "LightCount" : 1,
+        "Name" : "デンキインザムーーーーーン",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
     }
 ]

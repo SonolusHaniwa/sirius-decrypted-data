@@ -5128,6 +5128,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22056001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220560,
+        "Name" : "観月・オーバーザムーン！",
+        "PosterMasterId" : 220560,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -9870,6 +9902,70 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 34005001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340050,
+        "Name" : "あなたの心が求めるときめき",
+        "PosterMasterId" : 340050,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 34008001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340080,
+        "Name" : "私の心の奥底にある激情",
+        "PosterMasterId" : 340080,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 34016001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -11870,6 +11966,70 @@
         "Id" : 2205502,
         "Name" : "スコアブースト・集中力",
         "PosterMasterId" : 220550,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10210400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220560101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の表現力が[:param11]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2205601,
+        "Name" : "表現力アップ",
+        "PosterMasterId" : 220560,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11010400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220560201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2205602,
+        "Name" : "スコアブースト・表現力",
+        "PosterMasterId" : 220560,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
@@ -15531,6 +15691,198 @@
         "Id" : 3400303,
         "Name" : "「光」追加（SP）",
         "PosterMasterId" : 340030,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340050101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：ぱんだが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3400501,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 340050,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11410105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340050201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、Pゲージを[:param11]獲得　◆発動条件：ぱんだが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3400502,
+        "Name" : "P.ゲージブースト＋",
+        "PosterMasterId" : 340050,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340050301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：ぱんだが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3400503,
+        "Name" : "「光」追加（SP）",
+        "PosterMasterId" : 340050,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030202,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340080101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：大黒が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3400801,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 340080,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11410202,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340080201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、Pゲージを[:param11]獲得　◆発動条件：大黒が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3400802,
+        "Name" : "P.ゲージブースト＋",
+        "PosterMasterId" : 340080,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910202,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340080301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：大黒が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3400803,
+        "Name" : "「光」追加（SP）",
+        "PosterMasterId" : 340080,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },

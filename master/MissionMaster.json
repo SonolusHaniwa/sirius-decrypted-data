@@ -10503,6 +10503,374 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "劇団電姫に所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-09-12 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-09-11 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-11 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "稽古を[:param]回行おう",
+        "EndDate" : "2024-09-13 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-09-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「不可逆的運命ディストピア」を[:param]回クリアしよう",
+        "EndDate" : "2024-09-14 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-09-13 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-13 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-09-15 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-09-14 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-14 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「アタシのアシタはアタシがキメル」を[:param]回クリアしよう",
+        "EndDate" : "2024-09-16 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-09-15 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-15 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-09-17 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-09-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「デアエ・エクス・マキナ！」を[:param]回クリアしよう",
+        "EndDate" : "2024-09-18 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 23600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-09-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "劇団電姫に所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-09-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 23700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 23700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132005,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-09-18 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-18 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2024-09-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 23800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 2,
+        "Stages" : 
+        [
+            {
+                "Id" : 23800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23801,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23802,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23803,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 40,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23804,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23805,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 60,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23806,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 80,
+                "StartDate" : "2024-09-11 05:00:00"
+            },
+            {
+                "Id" : 23807,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132004,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2024-09-11 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-09-11 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
