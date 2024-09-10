@@ -12368,7 +12368,13 @@
         "FireTimingType" : "Passive",
         "Id" : 322010,
         "Range" : "Self",
-        "Triggers" : [],
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Attribute",
+                "Value" : 1
+            }
+        ],
         "Type" : "VocalUp"
     },
     {
