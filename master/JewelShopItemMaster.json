@@ -16347,6 +16347,100 @@
         "UnlockValue" : null
     },
     {
+        "AppStoreProductId" : "",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2024-09-26 15:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : null,
+        "GooglePlayProductId" : "",
+        "Id" : 5235,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : false,
+        "Lineup" : 
+        [
+            {
+                "Id" : 523501,
+                "MJewelShopItemId" : 5235,
+                "ThingId" : 110003,
+                "ThingQuantity" : 40,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 523502,
+                "MJewelShopItemId" : 5235,
+                "ThingId" : 110002,
+                "ThingQuantity" : 10,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "フレー！フレー！ユナイトチャレンジパックA",
+        "Order" : 375,
+        "PackText" : "",
+        "PurchaseLimit" : 2,
+        "PurchaseType" : "Paid",
+        "PurchaseValue" : 3000,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2024-09-14 17:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "5236",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2024-09-26 15:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : 3000,
+        "GooglePlayProductId" : "5236",
+        "Id" : 5236,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : false,
+        "Lineup" : 
+        [
+            {
+                "Id" : 523601,
+                "MJewelShopItemId" : 5236,
+                "ThingId" : 0,
+                "ThingQuantity" : 3000,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 523602,
+                "MJewelShopItemId" : 5236,
+                "ThingId" : 137003,
+                "ThingQuantity" : 1500,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "フレー！フレー！ユナイトチャレンジパックB",
+        "Order" : 376,
+        "PackText" : "",
+        "PurchaseLimit" : 2,
+        "PurchaseType" : "Money",
+        "PurchaseValue" : 3000,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2024-09-14 17:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
         "AppStoreProductId" : "5401",
         "CanPurchaseDayOfWeek" : "",
         "ComebackCampaignMasterId" : 1,

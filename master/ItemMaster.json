@@ -1136,6 +1136,20 @@
     {
         "Category" : "ConsumeItem",
         "Consumable" : false,
+        "Description" : "ユナイトチャレンジ抽選会で利用することができる福引券。",
+        "DisplayEndDate" : "2024-09-26 17:00:00",
+        "DisplayOrder" : 137003,
+        "Id" : 137003,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "ユナイトチャレンジ福引券",
+        "Rarity" : "R",
+        "TabCategory" : "Ticket"
+    },
+    {
+        "Category" : "ConsumeItem",
+        "Consumable" : false,
         "Description" : "ジュゴンに抵抗されずお腹を触ることができた者に贈られる記念品。ハイスコアチャレンジで入手できる。",
         "DisplayEndDate" : null,
         "DisplayOrder" : 138001,
@@ -9236,6 +9250,20 @@
         "JumpType" : 0,
         "MaxStock" : 1999999999,
         "Name" : "応援ポイント",
+        "Rarity" : "R",
+        "TabCategory" : "Hidden"
+    },
+    {
+        "Category" : "EventPoint",
+        "Consumable" : false,
+        "Description" : "",
+        "DisplayEndDate" : null,
+        "DisplayOrder" : 421006,
+        "Id" : 421006,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 1999999999,
+        "Name" : "イベントポイント",
         "Rarity" : "R",
         "TabCategory" : "Hidden"
     },
