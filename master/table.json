@@ -63,6 +63,51 @@
             }
         ]
     },
+    "AccessoryEffectFilterMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "EffectType",
+                "type" : "EffectTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "Name",
+                "type" : "string"
+            },
+            {
+                "key" : "3",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "4",
+                "name" : "Order",
+                "type" : "int"
+            }
+        ]
+    },
+    "AccessoryEffectFilterMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<AccessoryEffectFilterMaster,"
+            }
+        ]
+    },
+    "AccessoryEffectFilterMasterTable.<>c" : null,
     "AccessoryEffectMaster" : 
     {
         "type" : "class",
@@ -87,6 +132,11 @@
                 "key" : "3",
                 "name" : "Description",
                 "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "Variety",
+                "type" : "Nullable<int>"
             }
         ]
     },
@@ -182,24 +232,6 @@
             }
         ]
     },
-    "AccessoryLevelPatternMasterTable" : 
-    {
-        "type" : "class",
-        "value" : 
-        [
-            {
-                "key" : "",
-                "name" : "long>",
-                "type" : "Func<AccessoryLevelPatternMaster,"
-            },
-            {
-                "key" : "",
-                "name" : "SortByAccessoryLevelPatternGroupMasterId",
-                "type" : "RangeView<AccessoryLevelPatternMaster>"
-            }
-        ]
-    },
-    "AccessoryLevelPatternMasterTable.<>c" : null,
     "AccessoryMaster" : 
     {
         "type" : "class",
@@ -541,6 +573,28 @@
             }
         ]
     },
+    "ActorPortalCharacterPayload" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "CharacterBaseId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CharacterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "IsAwakening",
+                "type" : "bool"
+            }
+        ]
+    },
     "AdditionalRewardPackageMaster" : 
     {
         "type" : "class",
@@ -636,6 +690,11 @@
             {
                 "key" : "1",
                 "name" : "Level",
+                "type" : "int"
+            },
+            {
+                "key" : "2",
+                "name" : "PublishPageNumber",
                 "type" : "int"
             }
         ]
@@ -971,6 +1030,23 @@
             }
         ]
     },
+    "AlbumTheme" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "AlbumThemeMasterId",
+                "type" : "long"
+            }
+        ]
+    },
     "AlbumThemeMaster" : 
     {
         "type" : "class",
@@ -990,6 +1066,31 @@
                 "key" : "2",
                 "name" : "Name",
                 "type" : "string"
+            },
+            {
+                "key" : "3",
+                "name" : "Description",
+                "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "IsHide",
+                "type" : "bool"
+            },
+            {
+                "key" : "5",
+                "name" : "IsDefault",
+                "type" : "bool"
+            },
+            {
+                "key" : "6",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "7",
+                "name" : "EndDate",
+                "type" : "DateTime"
             }
         ]
     },
@@ -1006,6 +1107,130 @@
         ]
     },
     "AlbumThemeMasterTable.<>c" : null,
+    "AnotherNotation" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "AnotherNotationMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "ClearLamp",
+                "type" : "ClearLamps"
+            },
+            {
+                "key" : "3",
+                "name" : "RateGrade",
+                "type" : "AchievementRateGrades"
+            },
+            {
+                "key" : "4",
+                "name" : "AchievementRatePercentRecord",
+                "type" : "Decimal"
+            }
+        ]
+    },
+    "AnotherNotationMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "MusicMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "VocalVersion",
+                "type" : "int"
+            },
+            {
+                "key" : "3",
+                "name" : "NotationPath",
+                "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "Difficulty",
+                "type" : "MusicDifficulties"
+            },
+            {
+                "key" : "5",
+                "name" : "Level",
+                "type" : "int"
+            },
+            {
+                "key" : "6",
+                "name" : "AnotherNotationType",
+                "type" : "AnotherNotationTypes"
+            },
+            {
+                "key" : "7",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "8",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            }
+        ]
+    },
+    "AnotherNotationMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<AnotherNotationMaster,"
+            }
+        ]
+    },
+    "AnotherNotationMasterTable.<>c" : null,
+    "AnotherNotationTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Shelved",
+                "value" : "1"
+            },
+            {
+                "name" : "Defect",
+                "value" : "2"
+            },
+            {
+                "name" : "Change",
+                "value" : "3"
+            },
+            {
+                "name" : "Mysterious",
+                "value" : "4"
+            },
+            {
+                "name" : "Madness",
+                "value" : "5"
+            }
+        ]
+    },
     "Attributes" : 
     {
         "type" : "enum",
@@ -1496,6 +1721,10 @@
             {
                 "name" : "MissionClear",
                 "value" : "2"
+            },
+            {
+                "name" : "TimeLimitedControl",
+                "value" : "3"
             }
         ]
     },
@@ -1879,6 +2108,10 @@
             {
                 "name" : "PosterAppearanceCompanyCount",
                 "value" : "9"
+            },
+            {
+                "name" : "StorageSenseLightCount",
+                "value" : "10"
             }
         ]
     },
@@ -2418,6 +2651,16 @@
                 "key" : "5",
                 "name" : "KeyMissionLevel",
                 "type" : "int"
+            },
+            {
+                "key" : "6",
+                "name" : "PortalCharacterId",
+                "type" : "long"
+            },
+            {
+                "key" : "7",
+                "name" : "PortalDisplayAwakeningStatus",
+                "type" : "bool"
             }
         ]
     },
@@ -3050,6 +3293,11 @@
                 "key" : "3",
                 "name" : "LeaderPosition",
                 "type" : "int"
+            },
+            {
+                "key" : "4",
+                "name" : "RewardReceivedHighScore",
+                "type" : "int"
             }
         ]
     },
@@ -3286,6 +3534,11 @@
                 "key" : "19",
                 "name" : "DisplayEndAt",
                 "type" : "DateTime"
+            },
+            {
+                "key" : "20",
+                "name" : "UnlockText",
+                "type" : "string"
             }
         ]
     },
@@ -4252,6 +4505,25 @@
             }
         ]
     },
+    "CircleAuthorityUpdateTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "Promotion",
+                "value" : "1"
+            },
+            {
+                "name" : "Demotion",
+                "value" : "2"
+            }
+        ]
+    },
     "CircleBanner" : 
     {
         "type" : "class",
@@ -4296,6 +4568,398 @@
                 "key" : "7",
                 "name" : "BannerRatio",
                 "type" : "float"
+            }
+        ]
+    },
+    "CircleEventCircleMissionProgress" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "CircleEventMissionMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CurrentCount",
+                "type" : "long"
+            }
+        ]
+    },
+    "CircleEventCirclePointRewardMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CircleEventMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "Point",
+                "type" : "long"
+            },
+            {
+                "key" : "3",
+                "name" : "ThingType",
+                "type" : "ThingTypes"
+            },
+            {
+                "key" : "4",
+                "name" : "ThingId",
+                "type" : "long"
+            },
+            {
+                "key" : "5",
+                "name" : "ThingQuantity",
+                "type" : "int"
+            },
+            {
+                "key" : "6",
+                "name" : "Order",
+                "type" : "int"
+            }
+        ]
+    },
+    "CircleEventCirclePointRewardMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<CircleEventCirclePointRewardMaster,"
+            }
+        ]
+    },
+    "CircleEventCirclePointRewardMasterTable.<>c" : null,
+    "CircleEventCircleRankingRewardItem" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "ThingId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "ThingType",
+                "type" : "ThingTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "ThingQuantity",
+                "type" : "int"
+            }
+        ]
+    },
+    "CircleEventCircleRankingRewardItemPackageMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "Rewards",
+                "type" : "CircleEventCircleRankingRewardItem[]"
+            }
+        ]
+    },
+    "CircleEventCircleRankingRewardItemPackageMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<CircleEventCircleRankingRewardItemPackageMaster,"
+            }
+        ]
+    },
+    "CircleEventCircleRankingRewardItemPackageMasterTable.<>c" : null,
+    "CircleEventCircleRankingRewardMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CircleEventMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "CircleEventCircleRankingRewardItemPackageMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "3",
+                "name" : "TargetMinRank",
+                "type" : "int"
+            },
+            {
+                "key" : "4",
+                "name" : "TargetMaxRank",
+                "type" : "int"
+            }
+        ]
+    },
+    "CircleEventCircleRankingRewardMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<CircleEventCircleRankingRewardMaster,"
+            }
+        ]
+    },
+    "CircleEventCircleRankingRewardMasterTable.<>c" : null,
+    "CircleEventInformationResult" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "CirclePoint",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "1",
+                "name" : "UserPoint",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "LastReceivedCirclePoint",
+                "type" : "long"
+            },
+            {
+                "key" : "3",
+                "name" : "MissionRefreshCount",
+                "type" : "int"
+            },
+            {
+                "key" : "4",
+                "name" : "Progresses",
+                "type" : "CircleEventCircleMissionProgress[]"
+            }
+        ]
+    },
+    "CircleEventMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "EventMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "CircleEventMissionRefreshSettingGroupMasterId",
+                "type" : "long"
+            }
+        ]
+    },
+    "CircleEventMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<CircleEventMaster,"
+            }
+        ]
+    },
+    "CircleEventMasterTable.<>c" : null,
+    "CircleEventMission" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "CircleEventMissionMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CurrentCount",
+                "type" : "int"
+            }
+        ]
+    },
+    "CircleEventMissionMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CircleEventMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "MissionCategory",
+                "type" : "MissionCategories"
+            },
+            {
+                "key" : "3",
+                "name" : "Title",
+                "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "JumpType",
+                "type" : "JumpTypes"
+            },
+            {
+                "key" : "5",
+                "name" : "JumpTargetId",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "6",
+                "name" : "GoalCount",
+                "type" : "int"
+            },
+            {
+                "key" : "7",
+                "name" : "GivePointAtGoal",
+                "type" : "int"
+            },
+            {
+                "key" : "8",
+                "name" : "CircleGoalCount",
+                "type" : "int"
+            },
+            {
+                "key" : "9",
+                "name" : "CircleGivePointAtGoal",
+                "type" : "int"
+            }
+        ]
+    },
+    "CircleEventMissionMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<CircleEventMissionMaster,"
+            }
+        ]
+    },
+    "CircleEventMissionMasterTable.<>c" : null,
+    "CircleEventMissionRefreshSetting" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "MinRefreshCount",
+                "type" : "int"
+            },
+            {
+                "key" : "1",
+                "name" : "MaxRefreshCount",
+                "type" : "int"
+            },
+            {
+                "key" : "2",
+                "name" : "RequiredCoin",
+                "type" : "int"
+            }
+        ]
+    },
+    "CircleEventMissionRefreshSettingGroupMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "Settings",
+                "type" : "CircleEventMissionRefreshSetting[]"
+            }
+        ]
+    },
+    "CircleEventMissionRefreshSettingGroupMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<CircleEventMissionRefreshSettingGroupMaster,"
+            }
+        ]
+    },
+    "CircleEventMissionRefreshSettingGroupMasterTable.<>c" : null,
+    "CircleEventRanking" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "CircleRawRankings",
+                "type" : "CircleRawRanking[]"
+            },
+            {
+                "key" : "1",
+                "name" : "CircleProfiles",
+                "type" : "CircleProfile[]"
             }
         ]
     },
@@ -4558,6 +5222,60 @@
                 "key" : "8",
                 "name" : "CharacterBaseMasterId",
                 "type" : "Nullable<long>"
+            }
+        ]
+    },
+    "CircleProfile" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "CircleId",
+                "type" : "string"
+            },
+            {
+                "key" : "1",
+                "name" : "Name",
+                "type" : "string"
+            },
+            {
+                "key" : "2",
+                "name" : "MemberCount",
+                "type" : "int"
+            },
+            {
+                "key" : "3",
+                "name" : "MainCharacterMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "4",
+                "name" : "DisplayAwakeningStatus",
+                "type" : "bool"
+            }
+        ]
+    },
+    "CircleRawRanking" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Rank",
+                "type" : "int"
+            },
+            {
+                "key" : "1",
+                "name" : "Point",
+                "type" : "int"
+            },
+            {
+                "key" : "2",
+                "name" : "CircleId",
+                "type" : "string"
             }
         ]
     },
@@ -5100,6 +5818,28 @@
         ]
     },
     "CompanyMasterTable.<>c" : null,
+    "Concert" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "ConcertMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CurrentStageOrder",
+                "type" : "int"
+            },
+            {
+                "key" : "2",
+                "name" : "ReadTips",
+                "type" : "bool"
+            }
+        ]
+    },
     "ConcertMaster" : 
     {
         "type" : "class",
@@ -5618,6 +6358,18 @@
             {
                 "name" : "TotalPointEvent_RankingButton",
                 "value" : "102"
+            },
+            {
+                "name" : "CircleEvent_ScorePanel",
+                "value" : "1000"
+            },
+            {
+                "name" : "CircleEvent_RankingButton",
+                "value" : "1001"
+            },
+            {
+                "name" : "CircleEvent_SerachButton",
+                "value" : "1002"
             }
         ]
     },
@@ -6109,6 +6861,23 @@
             }
         ]
     },
+    "EditBookmarkPayload" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "MusicMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "BookmarkFlag",
+                "type" : "MusicBookmarkFlags"
+            }
+        ]
+    },
     "EditPartyPayload" : 
     {
         "type" : "class",
@@ -6512,6 +7281,36 @@
             }
         ]
     },
+    "EffectTriggerCharacterBaseGroupMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CharacterBaseMasterIds",
+                "type" : "long[]"
+            }
+        ]
+    },
+    "EffectTriggerCharacterBaseGroupMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<EffectTriggerCharacterBaseGroupMaster,"
+            }
+        ]
+    },
+    "EffectTriggerCharacterBaseGroupMasterTable.<>c" : null,
     "EffectTriggerMaster" : 
     {
         "type" : "class",
@@ -6717,6 +7516,10 @@
             {
                 "name" : "PerformanceLimitUp",
                 "value" : "46"
+            },
+            {
+                "name" : "ScoreGainOnPerformance",
+                "value" : "47"
             }
         ]
     },
@@ -7538,6 +8341,16 @@
                 "key" : "6",
                 "name" : "HighScoreAfter",
                 "type" : "Nullable<int>"
+            },
+            {
+                "key" : "7",
+                "name" : "BeforeRank",
+                "type" : "long"
+            },
+            {
+                "key" : "8",
+                "name" : "AfterRank",
+                "type" : "long"
             }
         ]
     },
@@ -7580,6 +8393,14 @@
             {
                 "name" : "CharacterBasePoint",
                 "value" : "22"
+            },
+            {
+                "name" : "AnotherNotation",
+                "value" : "23"
+            },
+            {
+                "name" : "CircleEvent",
+                "value" : "24"
             },
             {
                 "name" : "Concert",
@@ -7954,6 +8775,43 @@
         ]
     },
     "FilmItemMasterTable.<>c" : null,
+    "FinishAnotherNotationLivePayload" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "BaseScoreBlocks",
+                "type" : "BaseScoreBlock[]"
+            },
+            {
+                "key" : "1",
+                "name" : "SenseScoreBlocks",
+                "type" : "SenseScoreBlock[]"
+            },
+            {
+                "key" : "2",
+                "name" : "StarActScoreBlocks",
+                "type" : "StarActScoreBlock[]"
+            },
+            {
+                "key" : "3",
+                "name" : "MultiLiveAdditionalScoreBlocks",
+                "type" : "MultiLiveAdditionalScoreBlock[]"
+            },
+            {
+                "key" : "4",
+                "name" : "AnotherNotationMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "5",
+                "name" : "IsAutoPlay",
+                "type" : "bool"
+            }
+        ]
+    },
     "FinishLessonPayload" : 
     {
         "type" : "class",
@@ -8177,6 +9035,50 @@
             {
                 "name" : "Passive",
                 "value" : "4"
+            }
+        ]
+    },
+    "FlashSaleReadStagePayload" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "ReadFlashSaleStageIds",
+                "type" : "long[]"
+            }
+        ]
+    },
+    "FlashSaleStage" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "FlashSaleStageMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "PurchaseLimitedAt",
+                "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "3",
+                "name" : "IsDefault",
+                "type" : "bool"
+            },
+            {
+                "key" : "4",
+                "name" : "IsCompleted",
+                "type" : "bool"
             }
         ]
     },
@@ -8807,6 +9709,21 @@
                 "key" : "14",
                 "name" : "IsHideEndDate",
                 "type" : "bool"
+            },
+            {
+                "key" : "15",
+                "name" : "UnlockType",
+                "type" : "GachaUnlockTypes"
+            },
+            {
+                "key" : "16",
+                "name" : "UnlockValue",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "17",
+                "name" : "ExchangeShopBannerPath",
+                "type" : "string"
             }
         ]
     },
@@ -9012,6 +9929,25 @@
             {
                 "name" : "PickupSelection",
                 "value" : "7"
+            },
+            {
+                "name" : "Stationary",
+                "value" : "8"
+            }
+        ]
+    },
+    "GachaUnlockTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "TimeLimitedControl",
+                "value" : "1"
             }
         ]
     },
@@ -9637,6 +10573,207 @@
             }
         ]
     },
+    "HomeBGM" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "HomeBGMMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "SelectionType",
+                "type" : "HomeBGMSelectionTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "HomeBGMDetailMasterId",
+                "type" : "Nullable<long>"
+            }
+        ]
+    },
+    "HomeBGMDetailMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "HomeBGMMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "BGMName",
+                "type" : "string"
+            },
+            {
+                "key" : "3",
+                "name" : "BGMPath",
+                "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "5",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            }
+        ]
+    },
+    "HomeBGMDetailMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<HomeBGMDetailMaster,"
+            }
+        ]
+    },
+    "HomeBGMDetailMasterTable.<>c" : null,
+    "HomeBGMMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "Priority",
+                "type" : "HomeBGMPriorityTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "SelectionType",
+                "type" : "HomeBGMSelectionTypes"
+            },
+            {
+                "key" : "3",
+                "name" : "DefaultBGMName",
+                "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "DefaultBGMPath",
+                "type" : "string"
+            },
+            {
+                "key" : "5",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "6",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            }
+        ]
+    },
+    "HomeBGMMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<HomeBGMMaster,"
+            }
+        ]
+    },
+    "HomeBGMMasterTable.<>c" : null,
+    "HomeBGMPriorityTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Low",
+                "value" : "-1"
+            },
+            {
+                "name" : "Normal",
+                "value" : "0"
+            },
+            {
+                "name" : "High",
+                "value" : "1"
+            }
+        ]
+    },
+    "HomeBGMSelectionTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "UserSelect",
+                "value" : "1"
+            },
+            {
+                "name" : "Random",
+                "value" : "2"
+            }
+        ]
+    },
+    "HomeBackgroundMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "Name",
+                "type" : "string"
+            },
+            {
+                "key" : "2",
+                "name" : "StartDate",
+                "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "3",
+                "name" : "EndDate",
+                "type" : "Nullable<DateTime>"
+            }
+        ]
+    },
+    "HomeBackgroundMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<HomeBackgroundMaster,"
+            }
+        ]
+    },
+    "HomeBackgroundMasterTable.<>c" : null,
     "HomeCharacterDisplayTypes" : 
     {
         "type" : "enum",
@@ -10084,6 +11221,8 @@
     "IAccessory" : null,
     "IAlbum" : null,
     "IAlbumPage" : null,
+    "IAlbumTheme" : null,
+    "IAnotherNotation" : null,
     "IAuditionClear" : null,
     "IBomb" : null,
     "ICharacter" : null,
@@ -10092,6 +11231,7 @@
     "ICharacterLessonSlot" : null,
     "ICharacterMission" : null,
     "ICharacterPointEvent" : null,
+    "ICircleEventMission" : null,
     "IComebackCampaign" : null,
     "IComic" : null,
     "IConcertStage" : null,
@@ -10108,6 +11248,7 @@
     "IEventBoxGacha" : null,
     "IEventBoxGachaBoxThing" : null,
     "IExchangeLimit" : null,
+    "IFlashSaleStage" : null,
     "IGachaSelectedThing" : null,
     "IGameHint" : null,
     "IGradualMissionGroup" : null,
@@ -10125,11 +11266,13 @@
     "ILive" : null,
     "ILiveAchievement" : null,
     "ILiveDropCelling" : null,
+    "ILiveDropLimit" : null,
     "ILoginPassStatus" : null,
     "IMarket" : null,
     "IMission" : null,
     "IMissionPass" : null,
     "IMusic" : null,
+    "IMusicBookmark" : null,
     "IMusicVideo" : null,
     "INameColor" : null,
     "INameplate" : null,
@@ -10138,9 +11281,11 @@
     "INotificationObject" : null,
     "IParty" : null,
     "IPartySlot" : null,
+    "IPermanentMarketThing" : null,
     "IPhoto" : null,
     "IPoster" : null,
     "IReceivableThing" : null,
+    "IRestriction" : null,
     "IScoreBlock" : null,
     "ISpRate" : null,
     "ISpecialEvent" : null,
@@ -10156,6 +11301,7 @@
     "IStoryEventHighScorePartySlot" : null,
     "ITheaterStory" : null,
     "IThing" : null,
+    "ITimeLimitedControl" : null,
     "ITotalPointEvent" : null,
     "ITournamentDetail" : null,
     "ITrophy" : null,
@@ -10663,6 +11809,21 @@
                 "key" : "28",
                 "name" : "ComebackCampaignMasterId",
                 "type" : "Nullable<long>"
+            },
+            {
+                "key" : "29",
+                "name" : "ItemIconBodyImagePath",
+                "type" : "string"
+            },
+            {
+                "key" : "30",
+                "name" : "ItemIconDetailImagePath",
+                "type" : "string"
+            },
+            {
+                "key" : "31",
+                "name" : "ItemIconBadgeImagePath",
+                "type" : "string"
             }
         ]
     },
@@ -10740,6 +11901,14 @@
             {
                 "name" : "PlayerRank",
                 "value" : "16"
+            },
+            {
+                "name" : "TimeLimitedControl",
+                "value" : "18"
+            },
+            {
+                "name" : "FlashSale",
+                "value" : "19"
             }
         ]
     },
@@ -10831,6 +12000,10 @@
             {
                 "name" : "BoxGacha",
                 "value" : "20"
+            },
+            {
+                "name" : "CircleMission",
+                "value" : "21"
             }
         ]
     },
@@ -10981,19 +12154,6 @@
             }
         ]
     },
-    "LeagueClassMasterTable" : 
-    {
-        "type" : "class",
-        "value" : 
-        [
-            {
-                "key" : "",
-                "name" : "long>",
-                "type" : "Func<LeagueClassMaster,"
-            }
-        ]
-    },
-    "LeagueClassMasterTable.<>c" : null,
     "LeagueClassTypes" : 
     {
         "type" : "enum",
@@ -11984,6 +13144,16 @@
                 "key" : "2",
                 "name" : "AcquirablePhotoLimitIncreasedTimes",
                 "type" : "int"
+            },
+            {
+                "key" : "3",
+                "name" : "AdditionalAcquirableAccessoryLimit",
+                "type" : "int"
+            },
+            {
+                "key" : "4",
+                "name" : "AcquirableAccessoryLimitIncreasedTimes",
+                "type" : "int"
             }
         ]
     },
@@ -12200,6 +13370,28 @@
             }
         ]
     },
+    "LiveDropLimit" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "MultiLiveScheduleMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "CurrentCount",
+                "type" : "int"
+            },
+            {
+                "key" : "2",
+                "name" : "CountLimit",
+                "type" : "int"
+            }
+        ]
+    },
     "LiveDropThing" : 
     {
         "type" : "class",
@@ -12303,6 +13495,26 @@
                 "key" : "4",
                 "name" : "NoteCount",
                 "type" : "int"
+            },
+            {
+                "key" : "5",
+                "name" : "UnlockCondition",
+                "type" : "LiveUnlockConditionTypes"
+            },
+            {
+                "key" : "6",
+                "name" : "UnlockValue",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "7",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "8",
+                "name" : "EndDate",
+                "type" : "DateTime"
             }
         ]
     },
@@ -12334,6 +13546,25 @@
             },
             {
                 "name" : "Playable",
+                "value" : "2"
+            }
+        ]
+    },
+    "LiveScheduleEndDateDisplayType" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "EndDate",
+                "value" : "1"
+            },
+            {
+                "name" : "AdditionalEndDate",
                 "value" : "2"
             }
         ]
@@ -12410,6 +13641,25 @@
             {
                 "name" : "Concert",
                 "value" : "7"
+            }
+        ]
+    },
+    "LiveUnlockConditionTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "ExtraGoodCount",
+                "value" : "13"
+            },
+            {
+                "name" : "NotationShop",
+                "value" : "14"
             }
         ]
     },
@@ -12579,6 +13829,100 @@
                 "key" : "26",
                 "name" : "ComebackCampaignMasterId",
                 "type" : "Nullable<long>"
+            },
+            {
+                "key" : "27",
+                "name" : "LoginBonusSpineGroup",
+                "type" : "LoginBonusSpineGroup"
+            }
+        ]
+    },
+    "LoginBonusSpineDetail" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "TargetValue1",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "1",
+                "name" : "TargetValue2",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "2",
+                "name" : "MessageTemplate",
+                "type" : "string"
+            },
+            {
+                "key" : "3",
+                "name" : "NavigationSpineId",
+                "type" : "string"
+            },
+            {
+                "key" : "4",
+                "name" : "VoiceAssetId",
+                "type" : "string"
+            },
+            {
+                "key" : "5",
+                "name" : "HeadMotionMasterId",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "6",
+                "name" : "FacialExpressionMasterId",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "7",
+                "name" : "HeadDirectionMasterId",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "8",
+                "name" : "BodyMotionMasterId",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "9",
+                "name" : "LipSyncMasterId",
+                "type" : "Nullable<long>"
+            }
+        ]
+    },
+    "LoginBonusSpineGroup" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "SpineSelectType",
+                "type" : "LoginBonusSpineSelectType"
+            },
+            {
+                "key" : "1",
+                "name" : "Details",
+                "type" : "LoginBonusSpineDetail[]"
+            }
+        ]
+    },
+    "LoginBonusSpineSelectType" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Random",
+                "value" : "1"
+            },
+            {
+                "name" : "HomeCharacterBaseId",
+                "value" : "2"
             }
         ]
     },
@@ -12950,6 +14294,11 @@
         [
             {
                 "key" : "",
+                "name" : "AccessoryEffectFilterMasterTable",
+                "type" : "AccessoryEffectFilterMasterTable"
+            },
+            {
+                "key" : "",
                 "name" : "AccessoryEffectMasterTable",
                 "type" : "AccessoryEffectMasterTable"
             },
@@ -12982,6 +14331,11 @@
                 "key" : "",
                 "name" : "AlbumThemeMasterTable",
                 "type" : "AlbumThemeMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "AnotherNotationMasterTable",
+                "type" : "AnotherNotationMasterTable"
             },
             {
                 "key" : "",
@@ -13150,6 +14504,36 @@
             },
             {
                 "key" : "",
+                "name" : "CircleEventCirclePointRewardMasterTable",
+                "type" : "CircleEventCirclePointRewardMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "CircleEventCircleRankingRewardItemPackageMasterTable",
+                "type" : "CircleEventCircleRankingRewardItemPackageMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "CircleEventCircleRankingRewardMasterTable",
+                "type" : "CircleEventCircleRankingRewardMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "CircleEventMasterTable",
+                "type" : "CircleEventMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "CircleEventMissionMasterTable",
+                "type" : "CircleEventMissionMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "CircleEventMissionRefreshSettingGroupMasterTable",
+                "type" : "CircleEventMissionRefreshSettingGroupMasterTable"
+            },
+            {
+                "key" : "",
                 "name" : "CircleSupportCompanyLevelDetailMasterTable",
                 "type" : "CircleSupportCompanyLevelDetailMasterTable"
             },
@@ -13212,6 +14596,11 @@
                 "key" : "",
                 "name" : "EffectMasterTable",
                 "type" : "EffectMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "EffectTriggerCharacterBaseGroupMasterTable",
+                "type" : "EffectTriggerCharacterBaseGroupMasterTable"
             },
             {
                 "key" : "",
@@ -13287,6 +14676,21 @@
                 "key" : "",
                 "name" : "HeadMotionMasterTable",
                 "type" : "HeadMotionMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "HomeBGMDetailMasterTable",
+                "type" : "HomeBGMDetailMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "HomeBGMMasterTable",
+                "type" : "HomeBGMMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "HomeBackgroundMasterTable",
+                "type" : "HomeBackgroundMasterTable"
             },
             {
                 "key" : "",
@@ -13410,6 +14814,16 @@
             },
             {
                 "key" : "",
+                "name" : "MusicGroupDetailMasterTable",
+                "type" : "MusicGroupDetailMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "MusicGroupMasterTable",
+                "type" : "MusicGroupMasterTable"
+            },
+            {
+                "key" : "",
                 "name" : "MusicMasterTable",
                 "type" : "MusicMasterTable"
             },
@@ -13447,6 +14861,11 @@
                 "key" : "",
                 "name" : "NoteMasterTable",
                 "type" : "NoteMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "PermanentMarketThingMasterTable",
+                "type" : "PermanentMarketThingMasterTable"
             },
             {
                 "key" : "",
@@ -13545,8 +14964,18 @@
             },
             {
                 "key" : "",
+                "name" : "SpecialEpisodeMasterTable",
+                "type" : "SpecialEpisodeMasterTable"
+            },
+            {
+                "key" : "",
                 "name" : "SpecialEventMasterTable",
                 "type" : "SpecialEventMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "SpecialStoryMasterTable",
+                "type" : "SpecialStoryMasterTable"
             },
             {
                 "key" : "",
@@ -13665,6 +15094,11 @@
             },
             {
                 "key" : "",
+                "name" : "StoryEventStoryBgmGroupMasterTable",
+                "type" : "StoryEventStoryBgmGroupMasterTable"
+            },
+            {
+                "key" : "",
                 "name" : "StoryEventStoryMasterTable",
                 "type" : "StoryEventStoryMasterTable"
             },
@@ -13700,8 +15134,23 @@
             },
             {
                 "key" : "",
+                "name" : "TimeLimitedControlMasterTable",
+                "type" : "TimeLimitedControlMasterTable"
+            },
+            {
+                "key" : "",
                 "name" : "TipMasterTable",
                 "type" : "TipMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "TitleBackgroundMasterTable",
+                "type" : "TitleBackgroundMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "TitleDecorationMasterTable",
+                "type" : "TitleDecorationMasterTable"
             },
             {
                 "key" : "",
@@ -13736,6 +15185,29 @@
         ]
     },
     "MemoryDatabase.<>c" : null,
+    "MemoryDatabaseLite" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "PosterMasterTable",
+                "type" : "PosterMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "TitleBackgroundMasterTable",
+                "type" : "TitleBackgroundMasterTable"
+            },
+            {
+                "key" : "",
+                "name" : "TitleDecorationMasterTable",
+                "type" : "TitleDecorationMasterTable"
+            }
+        ]
+    },
+    "MemoryDatabaseLite.<>c" : null,
     "Mission" : 
     {
         "type" : "class",
@@ -14222,6 +15694,30 @@
             }
         ]
     },
+    "MultiLiveRestriction" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "RestrictionFinishedAt",
+                "type" : "Nullable<DateTime>"
+            }
+        ]
+    },
+    "MultiLiveRestrictionResult" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "RestrictionFinishedAt",
+                "type" : "Nullable<DateTime>"
+            }
+        ]
+    },
     "MultiLiveScheduleMaster" : 
     {
         "type" : "class",
@@ -14251,6 +15747,21 @@
                 "key" : "4",
                 "name" : "LiveSettingMasterId2",
                 "type" : "long"
+            },
+            {
+                "key" : "5",
+                "name" : "AdditionalEndDate",
+                "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "6",
+                "name" : "EndDateDisplayType1",
+                "type" : "LiveScheduleEndDateDisplayType"
+            },
+            {
+                "key" : "7",
+                "name" : "EndDateDisplayType2",
+                "type" : "LiveScheduleEndDateDisplayType"
             }
         ]
     },
@@ -14304,6 +15815,46 @@
             }
         ]
     },
+    "MusicBookmark" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "MusicMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "MusicBookmarkFlag",
+                "type" : "MusicBookmarkFlags"
+            }
+        ]
+    },
+    "MusicBookmarkFlags" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "Bookmark1",
+                "value" : "1"
+            },
+            {
+                "name" : "Bookmark2",
+                "value" : "2"
+            },
+            {
+                "name" : "Bookmark3",
+                "value" : "4"
+            }
+        ]
+    },
     "MusicCoverTypes" : 
     {
         "type" : "enum",
@@ -14350,6 +15901,71 @@
             }
         ]
     },
+    "MusicGroupDetailMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "MusicGroupMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "MusicMasterId",
+                "type" : "long"
+            }
+        ]
+    },
+    "MusicGroupDetailMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<MusicGroupDetailMaster,"
+            }
+        ]
+    },
+    "MusicGroupDetailMasterTable.<>c" : null,
+    "MusicGroupMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "MainMusicMasterId",
+                "type" : "long"
+            }
+        ]
+    },
+    "MusicGroupMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<MusicGroupMaster,"
+            }
+        ]
+    },
+    "MusicGroupMasterTable.<>c" : null,
     "MusicMaster" : 
     {
         "type" : "class",
@@ -14841,6 +16457,11 @@
                 "key" : "16",
                 "name" : "StaminaLastReceivedAt",
                 "type" : "DateTime"
+            },
+            {
+                "key" : "17",
+                "name" : "CircleAuthorityUpdateType",
+                "type" : "CircleAuthorityUpdateTypes"
             }
         ]
     },
@@ -15432,10 +17053,6 @@
                 "value" : "22"
             },
             {
-                "name" : "ConcertStageSelect",
-                "value" : "23"
-            },
-            {
                 "name" : "CompanyIntroMovieSirius",
                 "value" : "24"
             },
@@ -15462,6 +17079,26 @@
             {
                 "name" : "TeamChallenge",
                 "value" : "30"
+            },
+            {
+                "name" : "ActorPortal",
+                "value" : "31"
+            },
+            {
+                "name" : "MusicSelection",
+                "value" : "32"
+            },
+            {
+                "name" : "ConcertStageSelect",
+                "value" : "33"
+            },
+            {
+                "name" : "AlbumTop",
+                "value" : "34"
+            },
+            {
+                "name" : "CircleEvent",
+                "value" : "35"
             }
         ]
     },
@@ -15594,6 +17231,98 @@
             }
         ]
     },
+    "PermanentMarketThing" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "PermanentMarketThingMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "PurchaseCount",
+                "type" : "int"
+            }
+        ]
+    },
+    "PermanentMarketThingMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "ThingId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "ThingType",
+                "type" : "ThingTypes"
+            },
+            {
+                "key" : "3",
+                "name" : "ThingQuantity",
+                "type" : "int"
+            },
+            {
+                "key" : "4",
+                "name" : "ExchangeLimit",
+                "type" : "Nullable<int>"
+            },
+            {
+                "key" : "5",
+                "name" : "Order",
+                "type" : "int"
+            },
+            {
+                "key" : "6",
+                "name" : "UnlockType",
+                "type" : "Nullable<ShopUnlockTypes>"
+            },
+            {
+                "key" : "7",
+                "name" : "UnlockValue",
+                "type" : "Nullable<long>"
+            },
+            {
+                "key" : "8",
+                "name" : "StartDate",
+                "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "9",
+                "name" : "EndDate",
+                "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "10",
+                "name" : "RequiredCoinQuantity",
+                "type" : "int"
+            }
+        ]
+    },
+    "PermanentMarketThingMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<PermanentMarketThingMaster,"
+            }
+        ]
+    },
+    "PermanentMarketThingMasterTable.<>c" : null,
     "Photo" : 
     {
         "type" : "class",
@@ -15663,6 +17392,11 @@
                 "key" : "12",
                 "name" : "TaggedCharacterBaseMasterIds",
                 "type" : "long[]"
+            },
+            {
+                "key" : "13",
+                "name" : "UseDecoPage",
+                "type" : "UseDecoPageFlag"
             }
         ]
     },
@@ -16110,7 +17844,6 @@
             }
         ]
     },
-    "PossessionListHeader" : null,
     "PossessionRarities" : 
     {
         "type" : "enum",
@@ -16414,24 +18147,6 @@
             }
         ]
     },
-    "PosterLevelPatternMasterTable" : 
-    {
-        "type" : "class",
-        "value" : 
-        [
-            {
-                "key" : "",
-                "name" : "long>",
-                "type" : "Func<PosterLevelPatternMaster,"
-            },
-            {
-                "key" : "",
-                "name" : "SortByLevelPatternGroupId",
-                "type" : "RangeView<PosterLevelPatternMaster>"
-            }
-        ]
-    },
-    "PosterLevelPatternMasterTable.<>c" : null,
     "PosterLineupResult" : 
     {
         "type" : "class",
@@ -16553,6 +18268,16 @@
                 "key" : "20",
                 "name" : "DisplayEndAt",
                 "type" : "DateTime"
+            },
+            {
+                "key" : "21",
+                "name" : "UnlockText",
+                "type" : "string"
+            },
+            {
+                "key" : "22",
+                "name" : "Orientation",
+                "type" : "PosterOrientation"
             }
         ]
     },
@@ -16569,6 +18294,21 @@
         ]
     },
     "PosterMasterTable.<>c" : null,
+    "PosterOrientation" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Portrait",
+                "value" : "1"
+            },
+            {
+                "name" : "Landscape",
+                "value" : "2"
+            }
+        ]
+    },
     "PosterRarityProbability" : 
     {
         "type" : "class",
@@ -17039,6 +18779,28 @@
             }
         ]
     },
+    "Restriction" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "MultiLiveRestrictionFinishedAt",
+                "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "2",
+                "name" : "ReadMultiLiveRestrictionDialog",
+                "type" : "Nullable<bool>"
+            }
+        ]
+    },
     "ResultVoiceConditionTypes" : 
     {
         "type" : "enum",
@@ -17475,19 +19237,6 @@
             }
         ]
     },
-    "SenseNotationBuffMasterTable" : 
-    {
-        "type" : "class",
-        "value" : 
-        [
-            {
-                "key" : "",
-                "name" : "long>",
-                "type" : "Func<SenseNotationBuffMaster,"
-            }
-        ]
-    },
-    "SenseNotationBuffMasterTable.<>c" : null,
     "SenseNotationBuffTypes" : 
     {
         "type" : "enum",
@@ -17529,19 +19278,6 @@
             }
         ]
     },
-    "SenseNotationDetailMasterTable" : 
-    {
-        "type" : "class",
-        "value" : 
-        [
-            {
-                "key" : "",
-                "name" : "long>",
-                "type" : "Func<SenseNotationDetailMaster,"
-            }
-        ]
-    },
-    "SenseNotationDetailMasterTable.<>c" : null,
     "SenseNotationMaster" : 
     {
         "type" : "class",
@@ -17733,6 +19469,11 @@
                 "key" : "0",
                 "name" : "Publishing",
                 "type" : "bool"
+            },
+            {
+                "key" : "1",
+                "name" : "PublishPageNumber",
+                "type" : "int"
             }
         ]
     },
@@ -17853,6 +19594,10 @@
             {
                 "name" : "MultiLiveDropBoost",
                 "value" : "4"
+            },
+            {
+                "name" : "MultiLiveDropLimitUp",
+                "value" : "5"
             }
         ]
     },
@@ -17872,6 +19617,10 @@
             {
                 "name" : "Free",
                 "value" : "3"
+            },
+            {
+                "name" : "FreeJewel",
+                "value" : "4"
             }
         ]
     },
@@ -18108,6 +19857,46 @@
             }
         ]
     },
+    "SpecialEpisodeMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "StoryMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "Title",
+                "type" : "string"
+            },
+            {
+                "key" : "3",
+                "name" : "RequiredReadEpisodeMasterId",
+                "type" : "Nullable<long>"
+            }
+        ]
+    },
+    "SpecialEpisodeMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<SpecialEpisodeMaster,"
+            }
+        ]
+    },
+    "SpecialEpisodeMasterTable.<>c" : null,
     "SpecialEvent" : 
     {
         "type" : "class",
@@ -18288,6 +20077,61 @@
         ]
     },
     "SpecialEventMasterTable.<>c" : null,
+    "SpecialStoryMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "StoryMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "3",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "4",
+                "name" : "EventStoryListFlags",
+                "type" : "EventStoryListFlags"
+            },
+            {
+                "key" : "5",
+                "name" : "Title",
+                "type" : "string"
+            },
+            {
+                "key" : "6",
+                "name" : "Order",
+                "type" : "int"
+            }
+        ]
+    },
+    "SpecialStoryMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<SpecialStoryMaster,"
+            }
+        ]
+    },
+    "SpecialStoryMasterTable.<>c" : null,
     "SpineBodySizeTypes" : 
     {
         "type" : "enum",
@@ -18319,6 +20163,21 @@
             {
                 "name" : "Large",
                 "value" : "3"
+            }
+        ]
+    },
+    "SplashAdditionalValueTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "HomeCharacterBaseId",
+                "value" : "1"
             }
         ]
     },
@@ -18356,6 +20215,16 @@
                 "key" : "5",
                 "name" : "EndDate",
                 "type" : "DateTime"
+            },
+            {
+                "key" : "6",
+                "name" : "AdditionalSplashValue0",
+                "type" : "SplashAdditionalValueTypes"
+            },
+            {
+                "key" : "7",
+                "name" : "AdditionalSplashValue1",
+                "type" : "SplashAdditionalValueTypes"
             }
         ]
     },
@@ -18391,7 +20260,6 @@
             }
         ]
     },
-    "SplitEffectTest" : null,
     "SpotConversationMaster" : 
     {
         "type" : "class",
@@ -18555,6 +20423,11 @@
                 "key" : "2",
                 "name" : "ExpiredAt",
                 "type" : "Nullable<DateTime>"
+            },
+            {
+                "key" : "3",
+                "name" : "IsForceShowList",
+                "type" : "bool"
             }
         ]
     },
@@ -19241,6 +21114,33 @@
                 "key" : "1",
                 "name" : "Step",
                 "type" : "int"
+            }
+        ]
+    },
+    "StorageSenseLightConditionValue" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Support",
+                "value" : "1"
+            },
+            {
+                "name" : "Control",
+                "value" : "2"
+            },
+            {
+                "name" : "Amplification",
+                "value" : "3"
+            },
+            {
+                "name" : "Special",
+                "value" : "4"
+            },
+            {
+                "name" : "All",
+                "value" : "5"
             }
         ]
     },
@@ -20328,6 +22228,58 @@
             }
         ]
     },
+    "StoryEventStoryBgmGroupMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "StoryEventMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "Schedules",
+                "type" : "StoryEventStoryBgmSchedule[]"
+            }
+        ]
+    },
+    "StoryEventStoryBgmGroupMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<StoryEventStoryBgmGroupMaster,"
+            }
+        ]
+    },
+    "StoryEventStoryBgmGroupMasterTable.<>c" : null,
+    "StoryEventStoryBgmSchedule" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "AssetName",
+                "type" : "string"
+            },
+            {
+                "key" : "1",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "2",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            }
+        ]
+    },
     "StoryEventStoryMaster" : 
     {
         "type" : "class",
@@ -20552,6 +22504,10 @@
             {
                 "name" : "Character",
                 "value" : "4"
+            },
+            {
+                "name" : "Special",
+                "value" : "5"
             }
         ]
     },
@@ -21103,9 +23059,65 @@
             {
                 "name" : "Decoration",
                 "value" : "16"
+            },
+            {
+                "name" : "AlbumTheme",
+                "value" : "17"
             }
         ]
     },
+    "TimeLimitedControl" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "TimeLimitedControlMasterId",
+                "type" : "long"
+            },
+            {
+                "key" : "2",
+                "name" : "ExpiredAt",
+                "type" : "DateTime"
+            }
+        ]
+    },
+    "TimeLimitedControlMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            }
+        ]
+    },
+    "TimeLimitedControlMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<TimeLimitedControlMaster,"
+            }
+        ]
+    },
+    "TimeLimitedControlMasterTable.<>c" : null,
     "TimedConfirmationCode" : 
     {
         "type" : "class",
@@ -21198,6 +23210,162 @@
         ]
     },
     "TipMasterTable.<>c" : null,
+    "TitleBackgroundDetailMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "PathType",
+                "type" : "TitleBackgroundPathTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "PathValue",
+                "type" : "string"
+            }
+        ]
+    },
+    "TitleBackgroundMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "Priority",
+                "type" : "TitleBackgroundPriorityTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "3",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "4",
+                "name" : "Details",
+                "type" : "TitleBackgroundDetailMaster[]"
+            }
+        ]
+    },
+    "TitleBackgroundMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<TitleBackgroundMaster,"
+            }
+        ]
+    },
+    "TitleBackgroundMasterTable.<>c" : null,
+    "TitleBackgroundPathTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Path",
+                "value" : "1"
+            },
+            {
+                "name" : "CharacterMasterId",
+                "value" : "2"
+            },
+            {
+                "name" : "PosterMasterId",
+                "value" : "3"
+            }
+        ]
+    },
+    "TitleBackgroundPriorityTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "Low",
+                "value" : "-1"
+            },
+            {
+                "name" : "Normal",
+                "value" : "0"
+            },
+            {
+                "name" : "High",
+                "value" : "1"
+            }
+        ]
+    },
+    "TitleDecorationMaster" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "0",
+                "name" : "Id",
+                "type" : "long"
+            },
+            {
+                "key" : "1",
+                "name" : "DecorationType",
+                "type" : "TitleDecorationTypes"
+            },
+            {
+                "key" : "2",
+                "name" : "StartDate",
+                "type" : "DateTime"
+            },
+            {
+                "key" : "3",
+                "name" : "EndDate",
+                "type" : "DateTime"
+            }
+        ]
+    },
+    "TitleDecorationMasterTable" : 
+    {
+        "type" : "class",
+        "value" : 
+        [
+            {
+                "key" : "",
+                "name" : "long>",
+                "type" : "Func<TitleDecorationMaster,"
+            }
+        ]
+    },
+    "TitleDecorationMasterTable.<>c" : null,
+    "TitleDecorationTypes" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "FirstAnniversary",
+                "value" : "1"
+            }
+        ]
+    },
     "TotalPaymentResult" : 
     {
         "type" : "class",
@@ -21540,6 +23708,10 @@
             {
                 "name" : "AttributeCount",
                 "value" : "8"
+            },
+            {
+                "name" : "CharacterBaseGroup",
+                "value" : "9"
             }
         ]
     },
@@ -21961,6 +24133,57 @@
                 "key" : "0",
                 "name" : "Url",
                 "type" : "string"
+            }
+        ]
+    },
+    "UseDecoPageFlag" : 
+    {
+        "type" : "enum",
+        "value" : 
+        [
+            {
+                "name" : "None",
+                "value" : "0"
+            },
+            {
+                "name" : "Page1",
+                "value" : "1"
+            },
+            {
+                "name" : "Page2",
+                "value" : "2"
+            },
+            {
+                "name" : "Page3",
+                "value" : "4"
+            },
+            {
+                "name" : "Page4",
+                "value" : "8"
+            },
+            {
+                "name" : "Page5",
+                "value" : "16"
+            },
+            {
+                "name" : "Page6",
+                "value" : "32"
+            },
+            {
+                "name" : "Page7",
+                "value" : "64"
+            },
+            {
+                "name" : "Page8",
+                "value" : "128"
+            },
+            {
+                "name" : "Page9",
+                "value" : "256"
+            },
+            {
+                "name" : "Page10",
+                "value" : "512"
             }
         ]
     },
