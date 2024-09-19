@@ -1,4 +1,14 @@
 [
-    [ 3000101, 30001, "今日はあの人の誕生日", null ],
-    [ 3000201, 30002, "夢への一歩を", null ]
+    {
+        "Id" : 3000101,
+        "RequiredReadEpisodeMasterId" : null,
+        "StoryMasterId" : 30001,
+        "Title" : "今日はあの人の誕生日"
+    },
+    {
+        "Id" : 3000201,
+        "RequiredReadEpisodeMasterId" : null,
+        "StoryMasterId" : 30002,
+        "Title" : "夢への一歩を"
+    }
 ]

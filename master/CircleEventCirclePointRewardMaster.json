@@ -1,42 +1,362 @@
 [
-    [ 101, 1, 1000, 1, 130062, 50, 0 ],
-    [ 102, 1, 5000, 1, 110001, 3, 0 ],
-    [ 103, 1, 10000, 1, 130041, 50, 0 ],
-    [ 104, 1, 15000, 1, 120002, 100, 0 ],
-    [ 105, 1, 20000, 1, 130062, 50, 0 ],
-    [ 106, 1, 25000, 1, 110001, 3, 0 ],
-    [ 107, 1, 30000, 1, 140000, 100, 0 ],
-    [ 108, 1, 35000, 1, 130041, 100, 0 ],
-    [ 109, 1, 40000, 1, 130051, 2, 0 ],
-    [ 110, 1, 45000, 1, 130062, 100, 0 ],
-    [ 111, 1, 50000, 1, 120002, 100, 0 ],
-    [ 112, 1, 60000, 1, 110001, 4, 0 ],
-    [ 113, 1, 70000, 12, 0, 20000, 0 ],
-    [ 114, 1, 80000, 1, 130051, 3, 0 ],
-    [ 115, 1, 90000, 1, 140000, 100, 0 ],
-    [ 116, 1, 100000, 1, 130062, 100, 0 ],
-    [ 117, 1, 110000, 1, 120002, 150, 0 ],
-    [ 118, 1, 120000, 1, 130041, 100, 0 ],
-    [ 119, 1, 130000, 1, 120003, 50, 0 ],
-    [ 120, 1, 140000, 1, 130042, 50, 0 ],
-    [ 121, 1, 150000, 1, 140000, 100, 0 ],
-    [ 122, 1, 160000, 12, 0, 30000, 0 ],
-    [ 123, 1, 170000, 1, 130063, 50, 0 ],
-    [ 124, 1, 180000, 1, 130042, 50, 0 ],
-    [ 125, 1, 190000, 13, 0, 200, 0 ],
-    [ 126, 1, 200000, 1, 130051, 5, 0 ],
-    [ 127, 1, 220000, 1, 120003, 50, 0 ],
-    [ 128, 1, 240000, 1, 140000, 100, 0 ],
-    [ 129, 1, 260000, 1, 130071, 1, 0 ],
-    [ 130, 1, 280000, 1, 130063, 50, 0 ],
-    [ 131, 1, 300000, 12, 0, 50000, 0 ],
-    [ 132, 1, 350000, 1, 130042, 50, 0 ],
-    [ 133, 1, 400000, 1, 120003, 100, 0 ],
-    [ 134, 1, 450000, 1, 130063, 50, 0 ],
-    [ 135, 1, 500000, 13, 0, 300, 0 ],
-    [ 136, 1, 600000, 1, 130071, 2, 0 ],
-    [ 137, 1, 700000, 1, 130064, 50, 0 ],
-    [ 138, 1, 800000, 1, 140000, 100, 0 ],
-    [ 139, 1, 900000, 1, 130064, 50, 0 ],
-    [ 140, 1, 1000000, 1, 130071, 2, 0 ]
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 101,
+        "Order" : 0,
+        "Point" : 1000,
+        "ThingId" : 130062,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 102,
+        "Order" : 0,
+        "Point" : 5000,
+        "ThingId" : 110001,
+        "ThingQuantity" : 3,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 103,
+        "Order" : 0,
+        "Point" : 10000,
+        "ThingId" : 130041,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 104,
+        "Order" : 0,
+        "Point" : 15000,
+        "ThingId" : 120002,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 105,
+        "Order" : 0,
+        "Point" : 20000,
+        "ThingId" : 130062,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 106,
+        "Order" : 0,
+        "Point" : 25000,
+        "ThingId" : 110001,
+        "ThingQuantity" : 3,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 107,
+        "Order" : 0,
+        "Point" : 30000,
+        "ThingId" : 140000,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 108,
+        "Order" : 0,
+        "Point" : 35000,
+        "ThingId" : 130041,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 109,
+        "Order" : 0,
+        "Point" : 40000,
+        "ThingId" : 130051,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 110,
+        "Order" : 0,
+        "Point" : 45000,
+        "ThingId" : 130062,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 111,
+        "Order" : 0,
+        "Point" : 50000,
+        "ThingId" : 120002,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 112,
+        "Order" : 0,
+        "Point" : 60000,
+        "ThingId" : 110001,
+        "ThingQuantity" : 4,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 113,
+        "Order" : 0,
+        "Point" : 70000,
+        "ThingId" : 0,
+        "ThingQuantity" : 20000,
+        "ThingType" : "Coin"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 114,
+        "Order" : 0,
+        "Point" : 80000,
+        "ThingId" : 130051,
+        "ThingQuantity" : 3,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 115,
+        "Order" : 0,
+        "Point" : 90000,
+        "ThingId" : 140000,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 116,
+        "Order" : 0,
+        "Point" : 100000,
+        "ThingId" : 130062,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 117,
+        "Order" : 0,
+        "Point" : 110000,
+        "ThingId" : 120002,
+        "ThingQuantity" : 150,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 118,
+        "Order" : 0,
+        "Point" : 120000,
+        "ThingId" : 130041,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 119,
+        "Order" : 0,
+        "Point" : 130000,
+        "ThingId" : 120003,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 120,
+        "Order" : 0,
+        "Point" : 140000,
+        "ThingId" : 130042,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 121,
+        "Order" : 0,
+        "Point" : 150000,
+        "ThingId" : 140000,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 122,
+        "Order" : 0,
+        "Point" : 160000,
+        "ThingId" : 0,
+        "ThingQuantity" : 30000,
+        "ThingType" : "Coin"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 123,
+        "Order" : 0,
+        "Point" : 170000,
+        "ThingId" : 130063,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 124,
+        "Order" : 0,
+        "Point" : 180000,
+        "ThingId" : 130042,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 125,
+        "Order" : 0,
+        "Point" : 190000,
+        "ThingId" : 0,
+        "ThingQuantity" : 200,
+        "ThingType" : "Jewel"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 126,
+        "Order" : 0,
+        "Point" : 200000,
+        "ThingId" : 130051,
+        "ThingQuantity" : 5,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 127,
+        "Order" : 0,
+        "Point" : 220000,
+        "ThingId" : 120003,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 128,
+        "Order" : 0,
+        "Point" : 240000,
+        "ThingId" : 140000,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 129,
+        "Order" : 0,
+        "Point" : 260000,
+        "ThingId" : 130071,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 130,
+        "Order" : 0,
+        "Point" : 280000,
+        "ThingId" : 130063,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 131,
+        "Order" : 0,
+        "Point" : 300000,
+        "ThingId" : 0,
+        "ThingQuantity" : 50000,
+        "ThingType" : "Coin"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 132,
+        "Order" : 0,
+        "Point" : 350000,
+        "ThingId" : 130042,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 133,
+        "Order" : 0,
+        "Point" : 400000,
+        "ThingId" : 120003,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 134,
+        "Order" : 0,
+        "Point" : 450000,
+        "ThingId" : 130063,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 135,
+        "Order" : 0,
+        "Point" : 500000,
+        "ThingId" : 0,
+        "ThingQuantity" : 300,
+        "ThingType" : "Jewel"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 136,
+        "Order" : 0,
+        "Point" : 600000,
+        "ThingId" : 130071,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 137,
+        "Order" : 0,
+        "Point" : 700000,
+        "ThingId" : 130064,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 138,
+        "Order" : 0,
+        "Point" : 800000,
+        "ThingId" : 140000,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 139,
+        "Order" : 0,
+        "Point" : 900000,
+        "ThingId" : 130064,
+        "ThingQuantity" : 50,
+        "ThingType" : "Item"
+    },
+    {
+        "CircleEventMasterId" : 1,
+        "Id" : 140,
+        "Order" : 0,
+        "Point" : 1000000,
+        "ThingId" : 130071,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    }
 ]

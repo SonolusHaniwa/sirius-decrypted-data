@@ -2292,6 +2292,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 410,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130650,
+        "LightCount" : 1,
+        "Name" : "グレートリッパー・オーダー",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -5399,5 +5416,73 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 80,
+        "AcquirableScorePercent" : 150,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20082,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1411001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 141100,
+        "LightCount" : 1,
+        "Name" : "リクエストはロックナンバーで",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1411101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、銀河座のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141110,
+        "LightCount" : 1,
+        "Name" : "玉椿、夜水に灯り",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
     }
 ]

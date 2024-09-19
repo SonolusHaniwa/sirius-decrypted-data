@@ -1,44 +1,212 @@
 [
-    [ 901, 9, 9 ],
-    [ 902, 9, 10009 ],
-    [ 1201, 12, 12 ],
-    [ 1202, 12, 10012 ],
-    [ 1701, 17, 17 ],
-    [ 1702, 17, 10017 ],
-    [ 1901, 19, 19 ],
-    [ 1902, 19, 10019 ],
-    [ 2101, 21, 21 ],
-    [ 2102, 21, 10021 ],
-    [ 2301, 23, 23 ],
-    [ 2302, 23, 10023 ],
-    [ 2501, 25, 25 ],
-    [ 2502, 25, 10025 ],
-    [ 2701, 27, 27 ],
-    [ 2702, 27, 10027 ],
-    [ 2801, 28, 28 ],
-    [ 2802, 28, 10028 ],
-    [ 2901, 29, 29 ],
-    [ 2902, 29, 10029 ],
-    [ 3001, 30, 30 ],
-    [ 3002, 30, 10030 ],
-    [ 4501, 45, 45 ],
-    [ 4502, 45, 10045 ],
-    [ 4601, 46, 46 ],
-    [ 4602, 46, 10046 ],
-    [ 4701, 47, 47 ],
-    [ 4702, 47, 10047 ],
-    [ 5001, 50, 50 ],
-    [ 5002, 50, 10050 ],
-    [ 5101, 51, 51 ],
-    [ 5102, 51, 10051 ],
-    [ 5701, 57, 57 ],
-    [ 5702, 57, 10057 ],
-    [ 5801, 58, 58 ],
-    [ 5802, 58, 10058 ],
-    [ 6801, 68, 68 ],
-    [ 6802, 68, 10068 ],
-    [ 7001, 70, 70 ],
-    [ 7002, 70, 10070 ],
-    [ 7701, 77, 77 ],
-    [ 7702, 77, 10077 ]
+    {
+        "Id" : 901,
+        "MusicGroupMasterId" : 9,
+        "MusicMasterId" : 9
+    },
+    {
+        "Id" : 902,
+        "MusicGroupMasterId" : 9,
+        "MusicMasterId" : 10009
+    },
+    {
+        "Id" : 1201,
+        "MusicGroupMasterId" : 12,
+        "MusicMasterId" : 12
+    },
+    {
+        "Id" : 1202,
+        "MusicGroupMasterId" : 12,
+        "MusicMasterId" : 10012
+    },
+    {
+        "Id" : 1701,
+        "MusicGroupMasterId" : 17,
+        "MusicMasterId" : 17
+    },
+    {
+        "Id" : 1702,
+        "MusicGroupMasterId" : 17,
+        "MusicMasterId" : 10017
+    },
+    {
+        "Id" : 1901,
+        "MusicGroupMasterId" : 19,
+        "MusicMasterId" : 19
+    },
+    {
+        "Id" : 1902,
+        "MusicGroupMasterId" : 19,
+        "MusicMasterId" : 10019
+    },
+    {
+        "Id" : 2101,
+        "MusicGroupMasterId" : 21,
+        "MusicMasterId" : 21
+    },
+    {
+        "Id" : 2102,
+        "MusicGroupMasterId" : 21,
+        "MusicMasterId" : 10021
+    },
+    {
+        "Id" : 2301,
+        "MusicGroupMasterId" : 23,
+        "MusicMasterId" : 23
+    },
+    {
+        "Id" : 2302,
+        "MusicGroupMasterId" : 23,
+        "MusicMasterId" : 10023
+    },
+    {
+        "Id" : 2501,
+        "MusicGroupMasterId" : 25,
+        "MusicMasterId" : 25
+    },
+    {
+        "Id" : 2502,
+        "MusicGroupMasterId" : 25,
+        "MusicMasterId" : 10025
+    },
+    {
+        "Id" : 2701,
+        "MusicGroupMasterId" : 27,
+        "MusicMasterId" : 27
+    },
+    {
+        "Id" : 2702,
+        "MusicGroupMasterId" : 27,
+        "MusicMasterId" : 10027
+    },
+    {
+        "Id" : 2801,
+        "MusicGroupMasterId" : 28,
+        "MusicMasterId" : 28
+    },
+    {
+        "Id" : 2802,
+        "MusicGroupMasterId" : 28,
+        "MusicMasterId" : 10028
+    },
+    {
+        "Id" : 2901,
+        "MusicGroupMasterId" : 29,
+        "MusicMasterId" : 29
+    },
+    {
+        "Id" : 2902,
+        "MusicGroupMasterId" : 29,
+        "MusicMasterId" : 10029
+    },
+    {
+        "Id" : 3001,
+        "MusicGroupMasterId" : 30,
+        "MusicMasterId" : 30
+    },
+    {
+        "Id" : 3002,
+        "MusicGroupMasterId" : 30,
+        "MusicMasterId" : 10030
+    },
+    {
+        "Id" : 4501,
+        "MusicGroupMasterId" : 45,
+        "MusicMasterId" : 45
+    },
+    {
+        "Id" : 4502,
+        "MusicGroupMasterId" : 45,
+        "MusicMasterId" : 10045
+    },
+    {
+        "Id" : 4601,
+        "MusicGroupMasterId" : 46,
+        "MusicMasterId" : 46
+    },
+    {
+        "Id" : 4602,
+        "MusicGroupMasterId" : 46,
+        "MusicMasterId" : 10046
+    },
+    {
+        "Id" : 4701,
+        "MusicGroupMasterId" : 47,
+        "MusicMasterId" : 47
+    },
+    {
+        "Id" : 4702,
+        "MusicGroupMasterId" : 47,
+        "MusicMasterId" : 10047
+    },
+    {
+        "Id" : 5001,
+        "MusicGroupMasterId" : 50,
+        "MusicMasterId" : 50
+    },
+    {
+        "Id" : 5002,
+        "MusicGroupMasterId" : 50,
+        "MusicMasterId" : 10050
+    },
+    {
+        "Id" : 5101,
+        "MusicGroupMasterId" : 51,
+        "MusicMasterId" : 51
+    },
+    {
+        "Id" : 5102,
+        "MusicGroupMasterId" : 51,
+        "MusicMasterId" : 10051
+    },
+    {
+        "Id" : 5701,
+        "MusicGroupMasterId" : 57,
+        "MusicMasterId" : 57
+    },
+    {
+        "Id" : 5702,
+        "MusicGroupMasterId" : 57,
+        "MusicMasterId" : 10057
+    },
+    {
+        "Id" : 5801,
+        "MusicGroupMasterId" : 58,
+        "MusicMasterId" : 58
+    },
+    {
+        "Id" : 5802,
+        "MusicGroupMasterId" : 58,
+        "MusicMasterId" : 10058
+    },
+    {
+        "Id" : 6801,
+        "MusicGroupMasterId" : 68,
+        "MusicMasterId" : 68
+    },
+    {
+        "Id" : 6802,
+        "MusicGroupMasterId" : 68,
+        "MusicMasterId" : 10068
+    },
+    {
+        "Id" : 7001,
+        "MusicGroupMasterId" : 70,
+        "MusicMasterId" : 70
+    },
+    {
+        "Id" : 7002,
+        "MusicGroupMasterId" : 70,
+        "MusicMasterId" : 10070
+    },
+    {
+        "Id" : 7701,
+        "MusicGroupMasterId" : 77,
+        "MusicMasterId" : 77
+    },
+    {
+        "Id" : 7702,
+        "MusicGroupMasterId" : 77,
+        "MusicMasterId" : 10077
+    }
 ]

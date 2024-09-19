@@ -1,21 +1,135 @@
 [
-    [ 101, 1, 101, 1, 1 ],
-    [ 102, 1, 102, 2, 2 ],
-    [ 103, 1, 103, 3, 3 ],
-    [ 104, 1, 104, 4, 10 ],
-    [ 105, 1, 105, 11, 20 ],
-    [ 106, 1, 106, 21, 30 ],
-    [ 107, 1, 107, 31, 40 ],
-    [ 108, 1, 108, 41, 50 ],
-    [ 109, 1, 109, 51, 100 ],
-    [ 110, 1, 110, 101, 200 ],
-    [ 111, 1, 111, 201, 300 ],
-    [ 112, 1, 112, 301, 400 ],
-    [ 113, 1, 113, 401, 500 ],
-    [ 114, 1, 114, 501, 1000 ],
-    [ 115, 1, 115, 1001, 2000 ],
-    [ 116, 1, 116, 2001, 3000 ],
-    [ 117, 1, 117, 3001, 4000 ],
-    [ 118, 1, 118, 4001, 5000 ],
-    [ 119, 1, 119, 5001, 999999 ]
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 101,
+        "CircleEventMasterId" : 1,
+        "Id" : 101,
+        "TargetMaxRank" : 1,
+        "TargetMinRank" : 1
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 102,
+        "CircleEventMasterId" : 1,
+        "Id" : 102,
+        "TargetMaxRank" : 2,
+        "TargetMinRank" : 2
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 103,
+        "CircleEventMasterId" : 1,
+        "Id" : 103,
+        "TargetMaxRank" : 3,
+        "TargetMinRank" : 3
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 104,
+        "CircleEventMasterId" : 1,
+        "Id" : 104,
+        "TargetMaxRank" : 10,
+        "TargetMinRank" : 4
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 105,
+        "CircleEventMasterId" : 1,
+        "Id" : 105,
+        "TargetMaxRank" : 20,
+        "TargetMinRank" : 11
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 106,
+        "CircleEventMasterId" : 1,
+        "Id" : 106,
+        "TargetMaxRank" : 30,
+        "TargetMinRank" : 21
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 107,
+        "CircleEventMasterId" : 1,
+        "Id" : 107,
+        "TargetMaxRank" : 40,
+        "TargetMinRank" : 31
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 108,
+        "CircleEventMasterId" : 1,
+        "Id" : 108,
+        "TargetMaxRank" : 50,
+        "TargetMinRank" : 41
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 109,
+        "CircleEventMasterId" : 1,
+        "Id" : 109,
+        "TargetMaxRank" : 100,
+        "TargetMinRank" : 51
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 110,
+        "CircleEventMasterId" : 1,
+        "Id" : 110,
+        "TargetMaxRank" : 200,
+        "TargetMinRank" : 101
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 111,
+        "CircleEventMasterId" : 1,
+        "Id" : 111,
+        "TargetMaxRank" : 300,
+        "TargetMinRank" : 201
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 112,
+        "CircleEventMasterId" : 1,
+        "Id" : 112,
+        "TargetMaxRank" : 400,
+        "TargetMinRank" : 301
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 113,
+        "CircleEventMasterId" : 1,
+        "Id" : 113,
+        "TargetMaxRank" : 500,
+        "TargetMinRank" : 401
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 114,
+        "CircleEventMasterId" : 1,
+        "Id" : 114,
+        "TargetMaxRank" : 1000,
+        "TargetMinRank" : 501
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 115,
+        "CircleEventMasterId" : 1,
+        "Id" : 115,
+        "TargetMaxRank" : 2000,
+        "TargetMinRank" : 1001
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 116,
+        "CircleEventMasterId" : 1,
+        "Id" : 116,
+        "TargetMaxRank" : 3000,
+        "TargetMinRank" : 2001
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 117,
+        "CircleEventMasterId" : 1,
+        "Id" : 117,
+        "TargetMaxRank" : 4000,
+        "TargetMinRank" : 3001
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 118,
+        "CircleEventMasterId" : 1,
+        "Id" : 118,
+        "TargetMaxRank" : 5000,
+        "TargetMinRank" : 4001
+    },
+    {
+        "CircleEventCircleRankingRewardItemPackageMasterId" : 119,
+        "CircleEventMasterId" : 1,
+        "Id" : 119,
+        "TargetMaxRank" : 999999,
+        "TargetMinRank" : 5001
+    }
 ]

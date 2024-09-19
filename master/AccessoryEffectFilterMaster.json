@@ -1,9 +1,51 @@
 [
-    [ 1, 11, "演技力アップ", "2024-06-30 17:00:00", 1 ],
-    [ 2, 5, "歌唱力アップ", "2000-01-01 00:00:00", 2 ],
-    [ 3, 6, "表現力アップ", "2000-01-01 00:00:00", 3 ],
-    [ 4, 7, "集中力アップ", "2000-01-01 00:00:00", 4 ],
-    [ 5, 37, "初期P.ゲージ上昇", "2000-01-01 00:00:00", 5 ],
-    [ 6, 20, "CTダウン", "2000-01-01 00:00:00", 7 ],
-    [ 7, 40, "P.ゲージ獲得量アップ ", "2024-05-31 17:00:00", 6 ]
+    {
+        "EffectType" : "PerformanceUp",
+        "Id" : 1,
+        "Name" : "演技力アップ",
+        "Order" : 1,
+        "StartDate" : "2024-06-30 17:00:00"
+    },
+    {
+        "EffectType" : "VocalUp",
+        "Id" : 2,
+        "Name" : "歌唱力アップ",
+        "Order" : 2,
+        "StartDate" : "2000-01-01 00:00:00"
+    },
+    {
+        "EffectType" : "ExpressionUp",
+        "Id" : 3,
+        "Name" : "表現力アップ",
+        "Order" : 3,
+        "StartDate" : "2000-01-01 00:00:00"
+    },
+    {
+        "EffectType" : "ConcentrationUp",
+        "Id" : 4,
+        "Name" : "集中力アップ",
+        "Order" : 4,
+        "StartDate" : "2000-01-01 00:00:00"
+    },
+    {
+        "EffectType" : "PrincipalGaugeGain",
+        "Id" : 5,
+        "Name" : "初期P.ゲージ上昇",
+        "Order" : 5,
+        "StartDate" : "2000-01-01 00:00:00"
+    },
+    {
+        "EffectType" : "SenseRecastDown",
+        "Id" : 6,
+        "Name" : "CTダウン",
+        "Order" : 7,
+        "StartDate" : "2000-01-01 00:00:00"
+    },
+    {
+        "EffectType" : "PrincipalGaugeUp",
+        "Id" : 7,
+        "Name" : "P.ゲージ獲得量アップ ",
+        "Order" : 6,
+        "StartDate" : "2024-05-31 17:00:00"
+    }
 ]
