@@ -51,12 +51,62 @@
     },
     {
         "DisplayType" : "Default",
+        "Id" : 106,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 70,
+        "RequiredThingType" : "Jewel",
+        "ThingId" : 110002,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Rare",
+        "Id" : 107,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 200,
+        "RequiredThingType" : "Jewel",
+        "ThingId" : 140000,
+        "ThingQuantity" : 40,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Rare",
+        "Id" : 108,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 100,
+        "RequiredThingType" : "Jewel",
+        "ThingId" : 130064,
+        "ThingQuantity" : 10,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Rare",
+        "Id" : 109,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 400,
+        "RequiredThingType" : "Jewel",
+        "ThingId" : 510004,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Default",
         "Id" : 201,
         "RequiredThingId" : 0,
         "RequiredThingQuantity" : 10000,
         "RequiredThingType" : "Coin",
         "ThingId" : 120002,
         "ThingQuantity" : 10,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Default",
+        "Id" : 202,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 20000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 120002,
+        "ThingQuantity" : 20,
         "ThingType" : "Item"
     },
     {
@@ -67,6 +117,16 @@
         "RequiredThingType" : "Coin",
         "ThingId" : 130051,
         "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 302,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 20000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 130051,
+        "ThingQuantity" : 2,
         "ThingType" : "Item"
     },
     {
@@ -181,6 +241,26 @@
     },
     {
         "DisplayType" : "Default",
+        "Id" : 604,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 20000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 130062,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Rare",
+        "Id" : 605,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 40000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 130063,
+        "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Default",
         "Id" : 701,
         "RequiredThingId" : 0,
         "RequiredThingQuantity" : 2000,
@@ -207,6 +287,36 @@
         "RequiredThingType" : "Coin",
         "ThingId" : 510003,
         "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Default",
+        "Id" : 704,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 4000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 510001,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Default",
+        "Id" : 705,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 20000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 510002,
+        "ThingQuantity" : 2,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Rare",
+        "Id" : 706,
+        "RequiredThingId" : 0,
+        "RequiredThingQuantity" : 40000,
+        "RequiredThingType" : "Coin",
+        "ThingId" : 510003,
+        "ThingQuantity" : 2,
         "ThingType" : "Item"
     },
     {
@@ -251,6 +361,46 @@
     },
     {
         "DisplayType" : "Recommend",
+        "Id" : 805,
+        "RequiredThingId" : 130021,
+        "RequiredThingQuantity" : 400,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130025,
+        "ThingQuantity" : 400,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 806,
+        "RequiredThingId" : 130022,
+        "RequiredThingQuantity" : 400,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130025,
+        "ThingQuantity" : 400,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 807,
+        "RequiredThingId" : 130023,
+        "RequiredThingQuantity" : 400,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130025,
+        "ThingQuantity" : 400,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 808,
+        "RequiredThingId" : 130024,
+        "RequiredThingQuantity" : 400,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130025,
+        "ThingQuantity" : 400,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
         "Id" : 901,
         "RequiredThingId" : 130031,
         "RequiredThingQuantity" : 100,
@@ -287,6 +437,46 @@
         "RequiredThingType" : "Item",
         "ThingId" : 130035,
         "ThingQuantity" : 100,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 905,
+        "RequiredThingId" : 130031,
+        "RequiredThingQuantity" : 200,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130035,
+        "ThingQuantity" : 200,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 906,
+        "RequiredThingId" : 130032,
+        "RequiredThingQuantity" : 200,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130035,
+        "ThingQuantity" : 200,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 907,
+        "RequiredThingId" : 130033,
+        "RequiredThingQuantity" : 200,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130035,
+        "ThingQuantity" : 200,
+        "ThingType" : "Item"
+    },
+    {
+        "DisplayType" : "Recommend",
+        "Id" : 908,
+        "RequiredThingId" : 130034,
+        "RequiredThingQuantity" : 200,
+        "RequiredThingType" : "Item",
+        "ThingId" : 130035,
+        "ThingQuantity" : 200,
         "ThingType" : "Item"
     },
     {
