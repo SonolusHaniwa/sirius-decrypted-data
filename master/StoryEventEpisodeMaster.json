@@ -2808,6 +2808,78 @@
         "Title" : "余計なお節介"
     },
     {
+        "EpisodeRewardPackageMasterId" : 2004001,
+        "Id" : 2004001,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20040,
+        "Title" : "記憶"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004002,
+        "Id" : 2004002,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2004001,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20040,
+        "Title" : "母との再会"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004003,
+        "Id" : 2004003,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2004002,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20040,
+        "Title" : "娘として"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004004,
+        "Id" : 2004004,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2004003,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20040,
+        "Title" : "気分転換"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004005,
+        "Id" : 2004005,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2004004,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20040,
+        "Title" : "後悔"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004006,
+        "Id" : 2004006,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2004005,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20040,
+        "Title" : "やり直せるなら"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004007,
+        "Id" : 2004007,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2004006,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20040,
+        "Title" : "迷い、今ここで"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004008,
+        "Id" : 2004008,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2004007,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20040,
+        "Title" : "過去と向き合って"
+    },
+    {
         "EpisodeRewardPackageMasterId" : 2004201,
         "Id" : 2004201,
         "Order" : 1,

@@ -1692,6 +1692,28 @@
         "UnlockText" : "イベントで入手"
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 103 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-09-30 17:00:00",
+        "Id" : 220570,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "今は遠い星のリグレット",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "いまはとおいほしのりぐれっと",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitlePositionX1" : 512.01999999999998,
+        "SubTitlePositionX2" : 1024.0699999999999,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.1199999999999,
+        "SubTitlePositionY2" : 0,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "イベントで入手"
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 101, 103 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -3460,6 +3482,68 @@
         "UnlockText" : "ガチャ(期間限定)で入手"
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 101 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 2281,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 2282,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 2291,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 2292,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-09-30 17:00:00",
+        "Id" : 230540,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "Echoes of Ash",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "Echoes of Ash",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 64,
+        "SubTitlePositionX2" : 256,
+        "SubTitlePositionX3" : 128,
+        "SubTitlePositionY1" : 64,
+        "SubTitlePositionY2" : 256,
+        "SubTitlePositionY3" : 1024.0599999999999,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 103, 106, 302, 303, 304 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-10-06 20:00:00",
+        "Id" : 230620,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "Global Stage",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "Global Stage",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 128,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "特別な方法で入手"
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 402, 403, 405 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -3991,6 +4075,28 @@
         "OrganizeRestrictGroupId" : null,
         "Orientation" : "Portrait",
         "PronounceName" : "からすもりだいこく",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitlePositionX1" : 0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.02,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "特別な方法で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 301 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-10-03 00:00:00",
+        "Id" : 340120,
+        "IsRestrictItemBreakThrough" : true,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "【Birthday2024】千寿 暦",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "せんじゅこよみ",
         "Rarity" : "SSR",
         "ReleaseItemGroupId" : 3,
         "SubTitlePositionX1" : 0,

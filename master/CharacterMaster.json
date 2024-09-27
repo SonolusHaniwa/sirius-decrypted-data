@@ -2836,6 +2836,33 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 130661,
+        "BloomBonusGroupMasterId" : 30002,
+        "CharacterAwakeningItemGroupMasterId" : 32,
+        "CharacterBaseMasterId" : 104,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-09-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 321,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130660,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 96,
+            "Expression" : 88,
+            "Vocal" : 86
+        },
+        "Name" : "お話、聞きましょうか？",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 322,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130660,
+        "StarActMasterId" : 130661,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -5695,5 +5722,59 @@
         "SenseMasterId" : 141110,
         "StarActMasterId" : 141111,
         "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141121,
+        "BloomBonusGroupMasterId" : 40112,
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 103,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-09-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141120,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 108,
+            "Expression" : 93,
+            "Vocal" : 145
+        },
+        "Name" : "秘密のおしゃべり",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141120,
+        "StarActMasterId" : 141121,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141131,
+        "BloomBonusGroupMasterId" : 40113,
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 106,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-09-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141130,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 119,
+            "Expression" : 92,
+            "Vocal" : 133
+        },
+        "Name" : "過ぎた時を悔いても",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141130,
+        "StarActMasterId" : 141131,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

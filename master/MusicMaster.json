@@ -2130,7 +2130,7 @@
         "MusicTimeSecond" : 122,
         "MusicVideoType" : "RealTimeRendering",
         "Name" : "血を着飾る栄華のために",
-        "PronounceName" : "ちをきかざるえいよのために",
+        "PronounceName" : "ちをきかざるえいがのために",
         "ReleasedAt" : "2023-09-30 17:00:00",
         "RewardRuleMasterId" : 1,
         "SampleEndSeconds" : 0,
@@ -3276,6 +3276,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "連尺野初魅",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
+        "Composer" : "小高光太郎、UiNA",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 90,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "畑亜貴",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 122,
+        "MusicVideoType" : "None",
+        "Name" : "NEO SKY, NEO MAP!",
+        "PronounceName" : "neoskyneomap",
+        "ReleasedAt" : "2024-10-09 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 30,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101, 102, 103, 104, 105, 106 ],
+                "Id" : 9001,
+                "MusicMasterId" : 90,
+                "MusicTimeSecond" : 122,
+                "MusicVideoType" : "None",
+                "Name" : "NEO SKY, NEO MAP!",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
                 "VocalVersion" : 1
             }
         ]
@@ -5485,6 +5523,44 @@
         ]
     },
     {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 162,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "志村真白（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 93,
+        "MusicVideoType" : "None",
+        "Name" : "Neustart",
+        "PronounceName" : "neustart",
+        "ReleasedAt" : "2024-09-30 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 103 ],
+                "Id" : 16201,
+                "MusicMasterId" : 162,
+                "MusicTimeSecond" : 93,
+                "MusicVideoType" : "None",
+                "Name" : "Neustart",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "カトリナ・グリーベル",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "tutorial",
         "Composer" : "tutorial",
         "DelaySeconds" : 1.4299999999999999,
@@ -6202,6 +6278,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "柳場ぱんだ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10061,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 220,
+        "MusicVideoType" : "None",
+        "Name" : "巡る暦の花のように（Long Ver.）",
+        "PronounceName" : "めぐるこよみのはなのようにlong",
+        "ReleasedAt" : "2024-10-03 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 301 ],
+                "Id" : 1006101,
+                "MusicMasterId" : 10061,
+                "MusicTimeSecond" : 220,
+                "MusicVideoType" : "None",
+                "Name" : "巡る暦の花のように（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "千寿暦",
                 "VocalVersion" : 1
             }
         ]

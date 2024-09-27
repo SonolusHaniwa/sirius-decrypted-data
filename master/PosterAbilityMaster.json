@@ -5160,6 +5160,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22057001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "シリウスに所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220570,
+        "Name" : "今は遠い星のリグレット",
+        "PosterMasterId" : 220570,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -9450,6 +9482,70 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70052100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23054001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "シリウスに所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 0,
+        "Hidden" : false,
+        "Id" : 230540,
+        "Name" : "誰かの記憶をたどって",
+        "PosterMasterId" : 230540,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70031000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23062001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 0,
+        "Hidden" : false,
+        "Id" : 230620,
+        "Name" : "Worlds Dye Star",
+        "PosterMasterId" : 230620,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70022004,
                         "Order" : 1
                     }
@@ -10078,6 +10174,38 @@
         "Id" : 340080,
         "Name" : "私の心の奥底にある激情",
         "PosterMasterId" : 340080,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 34012001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 0,
+        "Hidden" : false,
+        "Id" : 340120,
+        "Name" : "銀河の歴史のように重厚な",
+        "PosterMasterId" : 340120,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -12158,6 +12286,70 @@
         "Id" : 2205602,
         "Name" : "スコアブースト・表現力",
         "PosterMasterId" : 220560,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10010100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220570101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2205701,
+        "Name" : "演技力アップ",
+        "PosterMasterId" : 220570,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11510100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220570201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2205702,
+        "Name" : "初期P.ゲージ上昇",
+        "PosterMasterId" : 220570,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
@@ -14711,6 +14903,166 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10020100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230540101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2305401,
+        "Name" : "演技力アップⅡ",
+        "PosterMasterId" : 230540,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11611100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230540201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスによるP.ゲージの獲得量が[:param11]％UP　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2305402,
+        "Name" : "P.ゲージ獲得量アップ＋",
+        "PosterMasterId" : 230540,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230540301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：シリウスに所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2305403,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 230540,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10020000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230620101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2306201,
+        "Name" : "演技力アップⅡ",
+        "PosterMasterId" : 230620,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11510000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230620201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2306202,
+        "Name" : "初期P.ゲージ上昇",
+        "PosterMasterId" : 230620,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 11311004,
                         "Order" : 1
                     }
@@ -16363,6 +16715,102 @@
         "Id" : 3400803,
         "Name" : "「光」追加（SP）",
         "PosterMasterId" : 340080,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030301,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340120101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：暦が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3401201,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 340120,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11410301,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340120201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、Pゲージを[:param11]獲得　◆発動条件：暦が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3401202,
+        "Name" : "P.ゲージブースト＋",
+        "PosterMasterId" : 340120,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910301,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340120301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：暦が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3401203,
+        "Name" : "「光」追加（SP）",
+        "PosterMasterId" : 340120,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },
