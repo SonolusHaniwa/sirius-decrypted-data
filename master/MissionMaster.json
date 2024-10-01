@@ -13036,5 +13036,185 @@
         ],
         "StartDate" : "2024-09-14 17:00:00",
         "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【合同音楽公演限定ミッション】合同音楽公演～Global Stage～のステージ[:param]をクリアしよう",
+        "EndDate" : "2024-10-24 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400220,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400300,
+        "Stages" : 
+        [
+            {
+                "Id" : 400220,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510003,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-10-06 20:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【合同音楽公演限定ミッション】フォトを[:param]枚現像しよう",
+        "EndDate" : "2024-10-24 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400230,
+        "JumpTargetId" : null,
+        "JumpType" : "Photo",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400301,
+        "Stages" : 
+        [
+            {
+                "Id" : 400230,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 51,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-10-06 20:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【合同音楽公演限定ミッション】合同音楽公演～Global Stage～のステージ[:param]をクリアしよう",
+        "EndDate" : "2024-10-24 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400240,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400302,
+        "Stages" : 
+        [
+            {
+                "Id" : 400240,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130025,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-10-06 20:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【合同音楽公演限定ミッション】フォトのレベルを[:param]上げよう",
+        "EndDate" : "2024-10-24 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400250,
+        "JumpTargetId" : null,
+        "JumpType" : "Photo",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400303,
+        "Stages" : 
+        [
+            {
+                "Id" : 400250,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 17,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "AlbumTheme"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-06 20:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【合同音楽公演限定ミッション】合同音楽公演～Global Stage～を全ステージクリアしよう",
+        "EndDate" : "2024-10-24 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400260,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400304,
+        "Stages" : 
+        [
+            {
+                "Id" : 400260,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510005,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 15,
+                "StartDate" : "2024-10-06 20:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "合同音楽公演限定ミッションを全てクリアしよう",
+        "EndDate" : "2024-10-24 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400270,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400305,
+        "Stages" : 
+        [
+            {
+                "Id" : 400270,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 400006,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-10-06 20:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
     }
 ]
