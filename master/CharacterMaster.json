@@ -2864,6 +2864,33 @@
     {
         "AssetId" : null,
         "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 130701,
+        "BloomBonusGroupMasterId" : 30003,
+        "CharacterAwakeningItemGroupMasterId" : 33,
+        "CharacterBaseMasterId" : 105,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-10-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 331,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130700,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 84,
+            "Expression" : 95,
+            "Vocal" : 91
+        },
+        "Name" : "社長業もおしゃまにね！",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 332,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130700,
+        "StarActMasterId" : 130701,
+        "UnlockText" : "イベント(コラボ)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
         "CharacterAwakeningItemGroupMasterId" : 43,
@@ -5776,5 +5803,59 @@
         "SenseMasterId" : 141130,
         "StarActMasterId" : 141131,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141221,
+        "BloomBonusGroupMasterId" : 40122,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 104,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-10-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141220,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 117,
+            "Expression" : 93,
+            "Vocal" : 134
+        },
+        "Name" : "旅するみるくティーン",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141220,
+        "StarActMasterId" : 141221,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141231,
+        "BloomBonusGroupMasterId" : 40123,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 102,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-10-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141230,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 122,
+            "Expression" : 118,
+            "Vocal" : 100
+        },
+        "Name" : "ソルト・フラグメント",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141230,
+        "StarActMasterId" : 141231,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
     }
 ]

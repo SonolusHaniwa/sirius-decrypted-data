@@ -10871,6 +10871,374 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "シリウスに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-10-12 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-10-11 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-11 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "稽古を[:param]回行おう",
+        "EndDate" : "2024-10-13 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Wish upon a star」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-14 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-13 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-13 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-10-15 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-10-14 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-14 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「魔法のラストノート」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-16 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-15 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-15 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-10-17 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-10-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「シリウスの輝きのように」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-18 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 24600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "シリウスに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-10-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 24700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 24700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132008,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-10-18 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-18 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2024-10-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 24800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 2,
+        "Stages" : 
+        [
+            {
+                "Id" : 24800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24801,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24802,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24803,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 40,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24804,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24805,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 60,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24806,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 80,
+                "StartDate" : "2024-10-11 05:00:00"
+            },
+            {
+                "Id" : 24807,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132007,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2024-10-11 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-11 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -13215,6 +13583,246 @@
             }
         ],
         "StartDate" : "2024-10-06 20:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション1】「プリズム△▽リズム」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400280,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400220,
+        "Stages" : 
+        [
+            {
+                "Id" : 400280,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション2】「星めぐり、果ての君へ。」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400290,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400230,
+        "Stages" : 
+        [
+            {
+                "Id" : 400290,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション3】「花と、雪と、ドラムンベース。」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400240,
+        "Stages" : 
+        [
+            {
+                "Id" : 400300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510004,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション4】「Starry Colors」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400310,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400250,
+        "Stages" : 
+        [
+            {
+                "Id" : 400310,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130043,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション5】「ホシシズク」を[:param]回クリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400320,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400260,
+        "Stages" : 
+        [
+            {
+                "Id" : 400320,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130072,
+                        "ThingQuantity" : 2,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "コラボ限定ミッション1～5のうち、いずれか3つをクリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400330,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400270,
+        "Stages" : 
+        [
+            {
+                "Id" : 400330,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 8040107,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "コラボ限定ミッション1～5のうち、いずれか4つをクリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400340,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400280,
+        "Stages" : 
+        [
+            {
+                "Id" : 400340,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 10682,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Stamp"
+                    }
+                ],
+                "StageGoalValue" : 4,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "コラボ限定ミッション1～5を全てクリアしよう",
+        "EndDate" : "2024-10-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400350,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 400290,
+        "Stages" : 
+        [
+            {
+                "Id" : 400350,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-10-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-10-10 17:00:00",
         "Title" : ""
     }
 ]
