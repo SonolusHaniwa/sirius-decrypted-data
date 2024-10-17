@@ -2334,6 +2334,23 @@
         "ConditionValue2" : null,
         "CoolTime" : 40,
         "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130680,
+        "LightCount" : 1,
+        "Name" : "一番大事にすべきもの",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 70,
+        "AcquirableScorePercent" : 110,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
         "Id" : 130700,
         "LightCount" : 1,
         "Name" : "社長業もおしゃまにね！",
@@ -5586,6 +5603,91 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 70,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20046,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1411601,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、Edenのアクターにセンススコア[:param11]％UP効果",
+        "Id" : 141160,
+        "LightCount" : 1,
+        "Name" : "硝煙くゆるコールド・シティ",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／センス発動時、追加で「支援の光」を1個獲得する",
+        "Id" : 141170,
+        "LightCount" : 1,
+        "Name" : "45口径と少女のフィルム",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 670,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 141180,
+        "LightCount" : 1,
+        "Name" : "Here's the smell of",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 100,
+        "AcquirableScorePercent" : 160,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、追加で獲得しているプリンシパルゲージ[:param11]%を獲得",
+        "Id" : 141190,
+        "LightCount" : 1,
+        "Name" : "Our fears in",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Support"
     },
     {
         "AcquirableGauge" : 0,

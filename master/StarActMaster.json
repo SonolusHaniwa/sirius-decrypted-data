@@ -1491,6 +1491,20 @@
         "ConditionValue1" : null,
         "ConditionValue2" : null,
         "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 130681,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "StarActConditionMasterId" : 100311
+    },
+    {
+        "AcquirableScorePercent" : 400,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
         "Id" : 130701,
         "Name" : "",
         "PreEffects" : [],
@@ -3940,6 +3954,139 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 100,
         "StarActConditionMasterId" : 101114
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 141161,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 104111
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 141171,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101141
+    },
+    {
+        "AcquirableScorePercent" : 1140,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19060,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14118101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19061,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14118102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19062,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14118103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19063,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14118104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19064,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14118105,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 3,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／プリンシパルゲージの上限を編成されている銀河座アクターの人数×[:param11]上昇させる",
+        "Id" : 141181,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 120,
+        "StarActConditionMasterId" : 101421
+    },
+    {
+        "AcquirableScorePercent" : 1140,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : 3,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／プリンシパルゲージの上限を編成されている銀河座アクターの人数×[:param11]上昇させる",
+        "Id" : 141191,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 120,
+        "StarActConditionMasterId" : 104211
     },
     {
         "AcquirableScorePercent" : 970,
