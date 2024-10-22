@@ -2659,6 +2659,45 @@
         [
             {
                 "Condition" : "Company",
+                "Value" : 2
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 2,
+                "Value" : 2048.04
+            },
+            {
+                "Level" : 3,
+                "Value" : 2048.0300000000002
+            },
+            {
+                "Level" : 4,
+                "Value" : 2048
+            },
+            {
+                "Level" : 5,
+                "Value" : 2048.02
+            }
+        ],
+        "DurationSecond" : 40,
+        "FireTimingType" : "Sense",
+        "Id" : 20047,
+        "Range" : "All",
+        "Triggers" : [],
+        "Type" : "SenseScoreUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : 
+        [
+            {
+                "Condition" : "Company",
                 "Value" : 3
             }
         ],

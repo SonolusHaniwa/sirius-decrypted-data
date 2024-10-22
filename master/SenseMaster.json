@@ -5615,7 +5615,7 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 20046,
+                        "EffectMasterId" : 20047,
                         "Order" : 1
                     }
                 ],
@@ -5643,11 +5643,28 @@
         "AcquirableScorePercent" : 510,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
-        "Branches" : [],
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20082,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1411701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
         "CoolTime" : 30,
-        "Description" : "[:score]倍のスコアを獲得／センス発動時、追加で「支援の光」を1個獲得する",
+        "Description" : "[:score]倍のスコアを獲得／センス発動時、追加で「支援の光」を1個獲得する／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
         "Id" : 141170,
         "LightCount" : 1,
         "Name" : "45口径と少女のフィルム",
