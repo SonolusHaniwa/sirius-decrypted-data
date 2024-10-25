@@ -4078,7 +4078,84 @@
         "AcquirableScorePercent" : 1140,
         "BranchCondition1" : "CompanyMemberCount",
         "BranchCondition2" : "None",
-        "Branches" : [],
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19065,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14119101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19066,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14119102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19067,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14119103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19068,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14119104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19069,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14119105,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
         "ConditionValue1" : 3,
         "ConditionValue2" : null,
         "Description" : "総演技力の[:score]倍のスコアを獲得／プリンシパルゲージの上限を編成されている銀河座アクターの人数×[:param11]上昇させる",
