@@ -117,7 +117,7 @@
                 "MusicMasterId" : 3,
                 "MusicTimeSecond" : 119,
                 "MusicVideoType" : "None",
-                "Name" : "勿忘唄（銀河座 Ver）",
+                "Name" : "勿忘唄（銀河座 Ver.）",
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿暦、ラモーナ・ウォルフ",
@@ -483,7 +483,7 @@
                 "MusicMasterId" : 12,
                 "MusicTimeSecond" : 103,
                 "MusicVideoType" : "None",
-                "Name" : "Masquerade（Eden Ver）",
+                "Name" : "Masquerade（Eden Ver.）",
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "筆島しぐれ、連尺野初魅",
@@ -5599,6 +5599,44 @@
         ]
     },
     {
+        "Arranger" : "藤井健太郎(HANO)",
+        "Composer" : "藤井健太郎(HANO)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 164,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 102,
+        "MusicVideoType" : "None",
+        "Name" : "色即是空卍Trick is Treat！",
+        "PronounceName" : "しきそくぜくうとりっくいずとりーと",
+        "ReleasedAt" : "2024-10-31 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 403 ],
+                "Id" : 16401,
+                "MusicMasterId" : 164,
+                "MusicTimeSecond" : 102,
+                "MusicVideoType" : "None",
+                "Name" : "色即是空卍Trick is Treat！",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "阿岐留カミラ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "Shoichiro Hirata",
         "DelaySeconds" : 0,
@@ -5822,6 +5860,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "tutorial",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "志村真白",
+        "Composer" : "志村真白",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10005,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "志村真白",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 282,
+        "MusicVideoType" : "None",
+        "Name" : "悠久月華（Long Ver.）",
+        "PronounceName" : "ゆうきゅうげっかlong",
+        "ReleasedAt" : "2024-11-05 05:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 302 ],
+                "Id" : 1000501,
+                "MusicMasterId" : 10005,
+                "MusicTimeSecond" : 282,
+                "MusicVideoType" : "None",
+                "Name" : "悠久月華（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "ラモーナ・ウォルフ",
                 "VocalVersion" : 1
             }
         ]
@@ -6544,6 +6620,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "千寿暦",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "LiCu（FirstCall）",
+        "Composer" : "LiCu（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10066,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 248,
+        "MusicVideoType" : "None",
+        "Name" : "Forbidden Fruit Addiction（Long Ver.）",
+        "PronounceName" : "ForbiddenFruitAddictionlong",
+        "ReleasedAt" : "2024-11-06 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 205 ],
+                "Id" : 1006601,
+                "MusicMasterId" : 10066,
+                "MusicTimeSecond" : 248,
+                "MusicVideoType" : "None",
+                "Name" : "Forbidden Fruit Addiction（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "筆島しぐれ",
                 "VocalVersion" : 1
             }
         ]
