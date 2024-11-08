@@ -2325,6 +2325,40 @@
         "Type" : "Control"
     },
     {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1306701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130670,
+        "LightCount" : 1,
+        "Name" : "美味しいはシェアしないと！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
         "AcquirableGauge" : 70,
         "AcquirableScorePercent" : 110,
         "BranchCondition1" : "None",
@@ -5637,6 +5671,74 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 70,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 120,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20081,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1411401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得\t",
+        "Id" : 141140,
+        "LightCount" : 1,
+        "Name" : "行き先は星々のもと",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1411501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／センス発動直後、自身の集中力の[:param11]倍のスコアを獲得",
+        "Id" : 141150,
+        "LightCount" : 2,
+        "Name" : "旅情の旨味",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Amplification"
     },
     {
         "AcquirableGauge" : 0,
