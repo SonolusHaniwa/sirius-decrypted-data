@@ -17988,7 +17988,7 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 10030000,
+                        "EffectMasterId" : 10031000,
                         "Order" : 1
                     }
                 ],
@@ -18006,7 +18006,7 @@
         "FrameNumber" : 1,
         "Hidden" : false,
         "Id" : 3301601,
-        "Name" : "演技力アップⅢ",
+        "Name" : "演技力アップⅢ＋",
         "PosterMasterId" : 330160,
         "ReleaseLevelAt" : 0,
         "Type" : "Normal"
@@ -18020,7 +18020,7 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 10020002,
+                        "EffectMasterId" : 10811002,
                         "Order" : 1
                     }
                 ],
@@ -18034,11 +18034,11 @@
         ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
-        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+        "Description" : "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
         "FrameNumber" : 2,
         "Hidden" : false,
         "Id" : 3301602,
-        "Name" : "演技力アップⅡ",
+        "Name" : "スコアブースト＋",
         "PosterMasterId" : 330160,
         "ReleaseLevelAt" : 5,
         "Type" : "Normal"
@@ -18084,7 +18084,7 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 10020004,
+                        "EffectMasterId" : 10811004,
                         "Order" : 1
                     }
                 ],
@@ -18098,11 +18098,11 @@
         ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
-        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "Description" : "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
         "FrameNumber" : 2,
         "Hidden" : false,
         "Id" : 3301604,
-        "Name" : "演技力アップⅡ",
+        "Name" : "スコアブースト＋",
         "PosterMasterId" : 330160,
         "ReleaseLevelAt" : 5,
         "Type" : "Normal"
