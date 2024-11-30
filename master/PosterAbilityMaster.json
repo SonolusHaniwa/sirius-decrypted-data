@@ -10026,6 +10026,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022900,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 32013001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "ラブライブ！サンシャイン!!に所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 320130,
+        "Name" : "ふたりきりの海で",
+        "PosterMasterId" : 320130,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70011000,
                         "Order" : 1
                     }
@@ -10510,6 +10542,38 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 33015001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 330150,
+        "Name" : "キラキラを身にまとい",
+        "PosterMasterId" : 330150,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70042000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 33016001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -10750,6 +10814,38 @@
         "Id" : 340160,
         "Name" : "心まで踊りだす笑顔と情熱",
         "PosterMasterId" : 340160,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 34017001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340170,
+        "Name" : "自分らしい『好き』を大事に",
+        "PosterMasterId" : 340170,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -16548,6 +16644,70 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10010900,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 320130101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：ラブライブ！サンシャイン!!に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3201301,
+        "Name" : "演技力アップ",
+        "PosterMasterId" : 320130,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11610900,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 320130201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスによるP.ゲージの獲得量が[:param11]%UP　◆発動条件：ラブライブ！サンシャイン!!に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3201302,
+        "Name" : "P.ゲージ獲得量アップ",
+        "PosterMasterId" : 320130,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 11110301,
                         "Order" : 1
                     }
@@ -17988,6 +18148,166 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10030000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330150101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3301501,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 330150,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10122001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330150201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の歌唱力が[:param11]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3301502,
+        "Name" : "歌唱力アップⅡ＋＋",
+        "PosterMasterId" : 330150,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330150301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3301503,
+        "Name" : "「光」追加（SP）Ⅰ",
+        "PosterMasterId" : 330150,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10122003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330150401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の歌唱力が[:param11]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3301504,
+        "Name" : "歌唱力アップⅡ＋＋",
+        "PosterMasterId" : 330150,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330150501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3301505,
+        "Name" : "「光」追加（SP）Ⅰ",
+        "PosterMasterId" : 330150,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10031000,
                         "Order" : 1
                     }
@@ -18808,6 +19128,102 @@
         "Id" : 3401603,
         "Name" : "「光」追加（SP）",
         "PosterMasterId" : 340160,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030401,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340170101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：いろはが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3401701,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 340170,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11540401,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340170201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇　◆発動条件：いろはが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3401702,
+        "Name" : "初期P.ゲージ上昇(BD)",
+        "PosterMasterId" : 340170,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910401,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340170301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：いろはが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3401703,
+        "Name" : "「光」追加（SP）",
+        "PosterMasterId" : 340170,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     }

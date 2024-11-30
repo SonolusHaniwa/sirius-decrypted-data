@@ -5904,6 +5904,44 @@
     },
     {
         "Arranger" : "-",
+        "Composer" : "光増ハジメ",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 174,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "畑亜貴",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 123,
+        "MusicVideoType" : "None",
+        "Name" : "Landing action Yeah!!",
+        "PronounceName" : "landingactionyeah",
+        "ReleasedAt" : "2024-11-30 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 30,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 302, 303, 305 ],
+                "Id" : 17401,
+                "MusicMasterId" : 174,
+                "MusicTimeSecond" : 123,
+                "MusicVideoType" : "None",
+                "Name" : "Landing action Yeah!!",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "ラモーナ・ウォルフ、王雪、与那国緋花里",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
         "Composer" : "河田貴央",
         "DelaySeconds" : 0,
         "Description" : "",
@@ -6947,6 +6985,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "萬容、烏森大黒",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10071,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 198,
+        "MusicVideoType" : "None",
+        "Name" : "いろはうたBLOOMING（Long Ver.）",
+        "PronounceName" : "いろはうたbloominglong",
+        "ReleasedAt" : "2024-11-30 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 401 ],
+                "Id" : 1007101,
+                "MusicMasterId" : 10071,
+                "MusicTimeSecond" : 198,
+                "MusicVideoType" : "None",
+                "Name" : "いろはうたBLOOMING（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "千寿いろは",
                 "VocalVersion" : 1
             }
         ]

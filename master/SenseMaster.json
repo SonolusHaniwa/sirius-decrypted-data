@@ -2445,6 +2445,40 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1307201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130720,
+        "LightCount" : 1,
+        "Name" : "いつもと違うわたくし",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -6088,6 +6122,74 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20901,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1412601,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、ラブライブ！サンシャイン!!のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141260,
+        "LightCount" : 1,
+        "Name" : "diadem for silver bullet",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20084,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1412701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+        "Id" : 141270,
+        "LightCount" : 1,
+        "Name" : "夜空をかけるビジョナリィ",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 600,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -6187,5 +6289,22 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 141300,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "None"
     }
 ]
