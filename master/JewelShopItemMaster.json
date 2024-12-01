@@ -22225,7 +22225,16 @@
         "ItemIconBadgeImagePath" : "OneTime",
         "ItemIconBodyImagePath" : "LinkStar",
         "ItemIconDetailImagePath" : null,
-        "Lineup" : [],
+        "Lineup" : 
+        [
+            {
+                "Id" : 530801,
+                "MJewelShopItemId" : 5308,
+                "ThingId" : 130101,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
         "MJewelShopCategoryId" : 5,
         "Name" : "星つなぎのバトン",
         "Order" : 406,
