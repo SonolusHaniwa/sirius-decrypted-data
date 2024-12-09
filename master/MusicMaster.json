@@ -6055,6 +6055,44 @@
         ]
     },
     {
+        "Arranger" : "小松一也",
+        "Composer" : "小松一也",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 181,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 118,
+        "MusicVideoType" : "None",
+        "Name" : "トーキョー・ウィンター・ミュージック",
+        "PronounceName" : "とーきょーうぃんたーみゅーじっく",
+        "ReleasedAt" : "2024-12-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 29,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 201, 205 ],
+                "Id" : 18101,
+                "MusicMasterId" : 181,
+                "MusicTimeSecond" : 118,
+                "MusicVideoType" : "None",
+                "Name" : "トーキョー・ウィンター・ミュージック",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "連尺野初魅、筆島しぐれ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "tutorial",
         "Composer" : "tutorial",
         "DelaySeconds" : 1.4299999999999999,
@@ -7099,6 +7137,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "静香、鳳ここな",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "EFFY（FirstCall）",
+        "Composer" : "友希",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10074,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "友希",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 168,
+        "MusicVideoType" : "None",
+        "Name" : "Get to Act Life♡（Long Ver.）",
+        "PronounceName" : "gettoactlifelong",
+        "ReleasedAt" : "2024-12-12 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 403 ],
+                "Id" : 1007401,
+                "MusicMasterId" : 10074,
+                "MusicTimeSecond" : 168,
+                "MusicVideoType" : "None",
+                "Name" : "Get to Act Life♡（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "阿岐留カミラ",
                 "VocalVersion" : 1
             }
         ]

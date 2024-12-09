@@ -13047,6 +13047,374 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "Edenに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-12-12 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-12-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "稽古を[:param]回行おう",
+        "EndDate" : "2024-12-13 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Forbidden Fruit Addiction」を[:param]回クリアしよう",
+        "EndDate" : "2024-12-14 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-13 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-13 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-12-15 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-12-14 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-14 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Thirsty Soul」を[:param]回クリアしよう",
+        "EndDate" : "2024-12-16 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-15 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-15 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-12-17 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-12-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「トーキョー・ウィンター・ミュージック」を[:param]回クリアしよう",
+        "EndDate" : "2024-12-18 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 28600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "Edenに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-12-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 28700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 28700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132014,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2024-12-18 05:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-18 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2024-12-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 28800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 2,
+        "Stages" : 
+        [
+            {
+                "Id" : 28800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28801,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28802,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28803,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 40,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28804,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28805,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 60,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28806,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 80,
+                "StartDate" : "2024-12-10 17:00:00"
+            },
+            {
+                "Id" : 28807,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132013,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2024-12-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -17053,6 +17421,306 @@
             }
         ],
         "StartDate" : "2024-11-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定1】シリウスに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 11,
+        "Stages" : 
+        [
+            {
+                "Id" : 400500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210412,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-12-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定2】マーケット（レギュラー）でアイテムを[:param]回交換しよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400510,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 12,
+        "Stages" : 
+        [
+            {
+                "Id" : 400510,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211408,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-12-11 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-11 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定3】Edenに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400520,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 13,
+        "Stages" : 
+        [
+            {
+                "Id" : 400520,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210412,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-12-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-12 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定4】フォトを[:param]枚現像しよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400530,
+        "JumpTargetId" : null,
+        "JumpType" : "Photo",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 14,
+        "Stages" : 
+        [
+            {
+                "Id" : 400530,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211408,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-13 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-13 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定5】銀河座に所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400540,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 15,
+        "Stages" : 
+        [
+            {
+                "Id" : 400540,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210412,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-12-14 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-14 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定6】稽古を1回プレイしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400550,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 16,
+        "Stages" : 
+        [
+            {
+                "Id" : 400550,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211408,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-15 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-15 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定7】 劇団電姫に所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400560,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17,
+        "Stages" : 
+        [
+            {
+                "Id" : 400560,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210412,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2024-12-16 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-16 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定8】スターアクトを[:param]回発動しよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400570,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 18,
+        "Stages" : 
+        [
+            {
+                "Id" : 400570,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211408,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2024-12-17 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-17 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定9】演劇リーグを1回プレイしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400580,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19,
+        "Stages" : 
+        [
+            {
+                "Id" : 400580,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210412,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2024-12-18 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-18 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【クリスマス限定10】クリスマス限定ミッションを全てクリアしよう",
+        "EndDate" : "2024-12-29 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 400590,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 20,
+        "Stages" : 
+        [
+            {
+                "Id" : 400590,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211408,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 9,
+                "StartDate" : "2024-12-18 17:00:00"
+            }
+        ],
+        "StartDate" : "2024-12-18 17:00:00",
         "Title" : ""
     }
 ]
