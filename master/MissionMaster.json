@@ -17695,12 +17695,12 @@
     },
     {
         "ComebackCampaignMasterId" : null,
-        "Description" : "【クリスマス限定10】クリスマス限定ミッションを全てクリアしよう",
+        "Description" : "【クリスマス限定10】公演を[:param]回クリアしよう",
         "EndDate" : "2024-12-29 22:00:00",
         "EventMasterId" : null,
         "Id" : 400590,
         "JumpTargetId" : null,
-        "JumpType" : "None",
+        "JumpType" : "Live",
         "MissionCategory" : "Limit",
         "MissionViewOrder" : 20,
         "Stages" : 
@@ -17716,7 +17716,7 @@
                         "ThingType" : "Item"
                     }
                 ],
-                "StageGoalValue" : 9,
+                "StageGoalValue" : 10,
                 "StartDate" : "2024-12-18 17:00:00"
             }
         ],
