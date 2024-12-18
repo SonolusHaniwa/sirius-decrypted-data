@@ -3238,5 +3238,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20045,
         "Title" : "ゼロからイチに"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004601,
+        "Id" : 2004601,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20046,
+        "Title" : "いつもあなたから貰ってるから"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004602,
+        "Id" : 2004602,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2004601,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20046,
+        "Title" : "サンタの来ない女の子"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004603,
+        "Id" : 2004603,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2004602,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20046,
+        "Title" : "シリウスサンタクロース作戦"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004604,
+        "Id" : 2004604,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2004603,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20046,
+        "Title" : "スニーキング・ウィンター"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004605,
+        "Id" : 2004605,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2004604,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20046,
+        "Title" : "一つの冴えたやり方"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004606,
+        "Id" : 2004606,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2004605,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20046,
+        "Title" : "知りたいから"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004607,
+        "Id" : 2004607,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2004606,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20046,
+        "Title" : "プレゼントで大事なこと"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004608,
+        "Id" : 2004608,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2004607,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20046,
+        "Title" : "比翼連理の二人"
     }
 ]

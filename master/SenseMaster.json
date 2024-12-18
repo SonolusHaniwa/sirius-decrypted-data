@@ -2496,6 +2496,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 410,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130740,
+        "LightCount" : 1,
+        "Name" : "尾行、キタキツネのように",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -6373,6 +6390,63 @@
         "Name" : "楽園の主はいたずら中",
         "PreEffects" : [],
         "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+        "Id" : 141330,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 20024,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "Alternative"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 320,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20014,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 65,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復／センス発動時、追加で「支配の光」を1個獲得する",
+        "Id" : 141340,
+        "LightCount" : 1,
+        "Name" : "新人サンタはあわてんぼう",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
         "Type" : "Support"
     }
 ]

@@ -1582,6 +1582,20 @@
         "StarActConditionMasterId" : 101103
     },
     {
+        "AcquirableScorePercent" : 400,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 130741,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "StarActConditionMasterId" : 101103
+    },
+    {
         "AcquirableScorePercent" : 970,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -4656,6 +4670,96 @@
         "ConditionValue2" : null,
         "Description" : "総演技力の[:score]倍のスコアを獲得",
         "Id" : 141321,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 104111
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "AttributeCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14133101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19002,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14133102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14133103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14133104,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／編成されている属性1種類につきスコア獲得量10％上昇（最大＋40％）",
+        "Id" : 141331,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 103121
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 141341,
         "Name" : "",
         "PreEffects" : [],
         "ScoreUpPerLevel" : 100,
