@@ -5352,6 +5352,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22063001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220630,
+        "Name" : "†迎春†　猫と烏の協奏曲",
+        "PosterMasterId" : 220630,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -9706,6 +9738,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70052400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23056001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 230560,
+        "Name" : "あなたのお嫁さんになれるなら",
+        "PosterMasterId" : 230560,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70031000,
                         "Order" : 1
                     }
@@ -10142,6 +10206,38 @@
         "Id" : 320150,
         "Name" : "眠れぬ夜に",
         "PosterMasterId" : 320150,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70011000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 32016001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 0,
+        "Hidden" : false,
+        "Id" : 320160,
+        "Name" : "謹賀新年2025",
+        "PosterMasterId" : 320160,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -13450,6 +13546,70 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 11211003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220630101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、ライフを[:param11]回復　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2206301,
+        "Name" : "ライフブースト",
+        "PosterMasterId" : 220630,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10810003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220630201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2206302,
+        "Name" : "スコアブースト",
+        "PosterMasterId" : 220630,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10030000,
                         "Order" : 1
                     }
@@ -16183,6 +16343,102 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10030400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230560101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2305601,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 230560,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10121400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230560201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の歌唱力が[:param11]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2305602,
+        "Name" : "歌唱力アップⅡ＋",
+        "PosterMasterId" : 230560,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10820400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230560301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、その時のスコアの[:param11]％のスコアを獲得　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2305603,
+        "Name" : "スコアブーストⅡ",
+        "PosterMasterId" : 230560,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10020000,
                         "Order" : 1
                     }
@@ -17016,6 +17272,38 @@
         "Id" : 3201501,
         "Name" : "スコアブースト・集中力",
         "PosterMasterId" : 320150,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12500000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 320160101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演と協力公演の公演報酬が[:param11]％増加（アクセサリーを除く）",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3201601,
+        "Name" : "報酬量アップ",
+        "PosterMasterId" : 320160,
         "ReleaseLevelAt" : 0,
         "Type" : "Normal"
     },

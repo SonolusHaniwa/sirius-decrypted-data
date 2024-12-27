@@ -3080,6 +3080,33 @@
     {
         "AssetId" : null,
         "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 130751,
+        "BloomBonusGroupMasterId" : 30002,
+        "CharacterAwakeningItemGroupMasterId" : 33,
+        "CharacterBaseMasterId" : 203,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-12-31 15:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 331,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130750,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 91,
+            "Expression" : 97,
+            "Vocal" : 82
+        },
+        "Name" : "あつあつ、いただきます",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 332,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130750,
+        "StarActMasterId" : 130751,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
         "CharacterAwakeningItemGroupMasterId" : 43,
@@ -6559,5 +6586,59 @@
         "SenseMasterId" : 141340,
         "StarActMasterId" : 141341,
         "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141351,
+        "BloomBonusGroupMasterId" : 40135,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 404,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-12-31 15:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141350,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 100,
+            "Expression" : 102,
+            "Vocal" : 140
+        },
+        "Name" : "慶賀へ至る富正月",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141350,
+        "StarActMasterId" : 141351,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141361,
+        "BloomBonusGroupMasterId" : 40136,
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 202,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2024-12-31 15:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141360,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 120,
+            "Expression" : 131,
+            "Vocal" : 91
+        },
+        "Name" : "金花ほころぶ祝言のとき",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141360,
+        "StarActMasterId" : 141361,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

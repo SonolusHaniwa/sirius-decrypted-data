@@ -2512,6 +2512,23 @@
         "Type" : "Special"
     },
     {
+        "AcquirableGauge" : 70,
+        "AcquirableScorePercent" : 110,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130750,
+        "LightCount" : 1,
+        "Name" : "あつあつ、いただきます",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Control"
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
@@ -6448,5 +6465,133 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 70,
         "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20403,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、劇団電姫のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141350,
+        "LightCount" : 2,
+        "Name" : "慶賀へ至る富正月",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 100,
+        "AcquirableScorePercent" : 180,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29111,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413601,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29112,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413602,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29113,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413603,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413604,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29115,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1413605,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／付与されているライフガード1回につきプリンシパルゲージの上限値が20上昇（最大+100）",
+        "Id" : 141360,
+        "LightCount" : 1,
+        "Name" : "金花ほころぶ祝言のとき",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
     }
 ]
