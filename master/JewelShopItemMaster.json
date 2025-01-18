@@ -9021,7 +9021,7 @@
         "CanPurchaseDayOfWeek" : "",
         "ComebackCampaignMasterId" : null,
         "DialogType" : 1,
-        "EndDate" : "2024-07-31 17:00:00",
+        "EndDate" : "2025-01-30 00:00:00",
         "ExpiredDay" : null,
         "GivePaidJewel" : 3000,
         "GooglePlayProductId" : "5064",
@@ -9096,7 +9096,7 @@
         "SaleValue" : null,
         "ShopItemType" : "None",
         "ShopItemValue" : null,
-        "StartDate" : "2024-07-26 17:00:00",
+        "StartDate" : "2025-01-20 00:00:00",
         "SubscriptionFlag" : false,
         "UnlockType" : null,
         "UnlockValue" : null
@@ -24495,6 +24495,162 @@
         "SubscriptionFlag" : false,
         "UnlockType" : null,
         "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "5343",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2025-01-30 00:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : 3000,
+        "GooglePlayProductId" : "5343",
+        "Id" : 5343,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : false,
+        "ItemIconBadgeImagePath" : null,
+        "ItemIconBodyImagePath" : "Kokona2025_PickUp",
+        "ItemIconDetailImagePath" : null,
+        "Lineup" : 
+        [
+            {
+                "Id" : 534301,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 511101,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 534302,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 10182,
+                "ThingQuantity" : 1,
+                "ThingType" : "Stamp"
+            },
+            {
+                "Id" : 534303,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 340010,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            },
+            {
+                "Id" : 534304,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 20101,
+                "ThingQuantity" : 1,
+                "ThingType" : "Decoration"
+            },
+            {
+                "Id" : 534305,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 2101,
+                "ThingQuantity" : 1,
+                "ThingType" : "Nameplate"
+            },
+            {
+                "Id" : 534306,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 151001,
+                "ThingQuantity" : 20,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 534307,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 130062,
+                "ThingQuantity" : 400,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 534308,
+                "MJewelShopItemId" : 5343,
+                "ThingId" : 130063,
+                "ThingQuantity" : 200,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 6,
+        "Name" : "お誕生日パック2nd【鳳 ここな】",
+        "Order" : 100,
+        "PackText" : "お誕生日パック2nd【鳳 ここな】",
+        "PurchaseLimit" : 1,
+        "PurchaseType" : "Money",
+        "PurchaseValue" : 3000,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2025-01-20 00:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : null,
+        "UnlockValue" : null
+    },
+    {
+        "AppStoreProductId" : "5344",
+        "CanPurchaseDayOfWeek" : "",
+        "ComebackCampaignMasterId" : null,
+        "DialogType" : 1,
+        "EndDate" : "2025-01-30 00:00:00",
+        "ExpiredDay" : null,
+        "GivePaidJewel" : 1500,
+        "GooglePlayProductId" : "5344",
+        "Id" : 5344,
+        "IsBuyNotDisplay" : false,
+        "IsDisplayLocking" : true,
+        "ItemIconBadgeImagePath" : "LimitedNumber",
+        "ItemIconBodyImagePath" : "Kokona2025_Poster",
+        "ItemIconDetailImagePath" : null,
+        "Lineup" : 
+        [
+            {
+                "Id" : 534401,
+                "MJewelShopItemId" : 5344,
+                "ThingId" : 340010,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            },
+            {
+                "Id" : 534402,
+                "MJewelShopItemId" : 5344,
+                "ThingId" : 130063,
+                "ThingQuantity" : 100,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 534403,
+                "MJewelShopItemId" : 5344,
+                "ThingId" : 130064,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 534404,
+                "MJewelShopItemId" : 5344,
+                "ThingId" : 130071,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            }
+        ],
+        "MJewelShopCategoryId" : 5,
+        "Name" : "お誕生日ポスターパック【鳳 ここな】",
+        "Order" : 101,
+        "PackText" : "",
+        "PurchaseLimit" : 4,
+        "PurchaseType" : "Money",
+        "PurchaseValue" : 1500,
+        "ReplaceTypes" : 0,
+        "ReplaceValue" : null,
+        "SaleType" : null,
+        "SaleValue" : null,
+        "ShopItemType" : "None",
+        "ShopItemValue" : null,
+        "StartDate" : "2025-01-20 00:00:00",
+        "SubscriptionFlag" : false,
+        "UnlockType" : 15,
+        "UnlockValue" : 5343
     },
     {
         "AppStoreProductId" : "5345",
