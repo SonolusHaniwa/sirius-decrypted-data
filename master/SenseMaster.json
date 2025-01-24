@@ -6786,5 +6786,133 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 260,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20651,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1414101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20652,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1414102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20653,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1414103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20654,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1414104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20655,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1414105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 4,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／センス発動時、編成されている劇団電姫アクターの演技力と演技力上限を、編成されている劇団電姫アクターの人数×5上昇させる(この効果は重複する)</size>",
+        "Id" : 141410,
+        "LightCount" : 1,
+        "Name" : "いたずら妖精がご招待",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20537,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1414201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／センス発動直後、自身の集中力の[:param11]倍のスコアを獲得",
+        "Id" : 141420,
+        "LightCount" : 1,
+        "Name" : "それでも止まらぬ恋心",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Amplification"
     }
 ]
