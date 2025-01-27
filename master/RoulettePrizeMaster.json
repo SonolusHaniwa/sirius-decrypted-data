@@ -1,578 +1,2378 @@
 [
-    [ 2001101, 1, 250, null ],
-    [ 2001102, 2, 100, null ],
-    [ 2001103, 3, 100, null ],
-    [ 2001104, 4, 150, null ],
-    [ 2001105, 5, 100, null ],
-    [ 2001106, 6, 200, null ],
-    [ 2001107, 7, 100, null ],
-    [ 2001108, 8, 150, null ],
-    [ 2001109, 9, 100, null ],
-    [ 2001110, 10, 120, null ],
-    [ 2001111, 11, 120, null ],
-    [ 2001112, 12, 100, null ],
-    [ 2001201, 1, 5000, null ],
-    [ 2001202, 2, 1500, null ],
-    [ 2001203, 3, 1500, null ],
-    [ 2001204, 4, 2500, null ],
-    [ 2001205, 5, 1500, null ],
-    [ 2001206, 6, 1500, null ],
-    [ 2001207, 7, 2000, null ],
-    [ 2001208, 8, 1500, null ],
-    [ 2001209, 9, 1500, null ],
-    [ 2001210, 10, 3500, null ],
-    [ 2001211, 11, 1500, null ],
-    [ 2001212, 12, 1500, null ],
-    [
-        2001301,
-        1,
-        null,
-        [ 150000, 1, 30 ]
-    ],
-    [
-        2001302,
-        2,
-        null,
-        [ 111035, 1, 3 ]
-    ],
-    [
-        2001303,
-        3,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2001304,
-        4,
-        null,
-        [ 130012, 1, 50 ]
-    ],
-    [
-        2001305,
-        5,
-        null,
-        [ 140000, 1, 200 ]
-    ],
-    [
-        2001306,
-        6,
-        null,
-        [ 0, 13, 500 ]
-    ],
-    [
-        2001307,
-        7,
-        null,
-        [ 111035, 1, 3 ]
-    ],
-    [
-        2001308,
-        8,
-        null,
-        [ 130011, 1, 500 ]
-    ],
-    [
-        2001309,
-        9,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2001310,
-        10,
-        null,
-        [ 111035, 1, 3 ]
-    ],
-    [
-        2001311,
-        11,
-        null,
-        [ 140000, 1, 100 ]
-    ],
-    [
-        2001312,
-        12,
-        null,
-        [ 132002, 1, 50 ]
-    ],
-    [ 2002101, 1, 250, null ],
-    [ 2002102, 2, 100, null ],
-    [ 2002103, 3, 100, null ],
-    [ 2002104, 4, 150, null ],
-    [ 2002105, 5, 100, null ],
-    [ 2002106, 6, 200, null ],
-    [ 2002107, 7, 100, null ],
-    [ 2002108, 8, 150, null ],
-    [ 2002109, 9, 100, null ],
-    [ 2002110, 10, 120, null ],
-    [ 2002111, 11, 120, null ],
-    [ 2002112, 12, 100, null ],
-    [ 2002201, 1, 5000, null ],
-    [ 2002202, 2, 1500, null ],
-    [ 2002203, 3, 1500, null ],
-    [ 2002204, 4, 2500, null ],
-    [ 2002205, 5, 1500, null ],
-    [ 2002206, 6, 1500, null ],
-    [ 2002207, 7, 2000, null ],
-    [ 2002208, 8, 1500, null ],
-    [ 2002209, 9, 1500, null ],
-    [ 2002210, 10, 3500, null ],
-    [ 2002211, 11, 1500, null ],
-    [ 2002212, 12, 1500, null ],
-    [
-        2002301,
-        1,
-        null,
-        [ 150000, 1, 30 ]
-    ],
-    [
-        2002302,
-        2,
-        null,
-        [ 110002, 1, 3 ]
-    ],
-    [
-        2002303,
-        3,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2002304,
-        4,
-        null,
-        [ 130012, 1, 50 ]
-    ],
-    [
-        2002305,
-        5,
-        null,
-        [ 110003, 1, 3 ]
-    ],
-    [
-        2002306,
-        6,
-        null,
-        [ 0, 13, 500 ]
-    ],
-    [
-        2002307,
-        7,
-        null,
-        [ 140000, 1, 200 ]
-    ],
-    [
-        2002308,
-        8,
-        null,
-        [ 130011, 1, 500 ]
-    ],
-    [
-        2002309,
-        9,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2002310,
-        10,
-        null,
-        [ 0, 13, 200 ]
-    ],
-    [
-        2002311,
-        11,
-        null,
-        [ 140000, 1, 100 ]
-    ],
-    [
-        2002312,
-        12,
-        null,
-        [ 130064, 1, 50 ]
-    ],
-    [ 2003101, 1, 250, null ],
-    [ 2003102, 2, 100, null ],
-    [ 2003103, 3, 100, null ],
-    [ 2003104, 4, 150, null ],
-    [ 2003105, 5, 100, null ],
-    [ 2003106, 6, 200, null ],
-    [ 2003107, 7, 100, null ],
-    [ 2003108, 8, 150, null ],
-    [ 2003109, 9, 100, null ],
-    [ 2003110, 10, 120, null ],
-    [ 2003111, 11, 120, null ],
-    [ 2003112, 12, 100, null ],
-    [ 2003201, 1, 5000, null ],
-    [ 2003202, 2, 1500, null ],
-    [ 2003203, 3, 1500, null ],
-    [ 2003204, 4, 2500, null ],
-    [ 2003205, 5, 1500, null ],
-    [ 2003206, 6, 1500, null ],
-    [ 2003207, 7, 2000, null ],
-    [ 2003208, 8, 1500, null ],
-    [ 2003209, 9, 1500, null ],
-    [ 2003210, 10, 3500, null ],
-    [ 2003211, 11, 1500, null ],
-    [ 2003212, 12, 1500, null ],
-    [
-        2003301,
-        1,
-        null,
-        [ 150000, 1, 30 ]
-    ],
-    [
-        2003302,
-        2,
-        null,
-        [ 110002, 1, 3 ]
-    ],
-    [
-        2003303,
-        3,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2003304,
-        4,
-        null,
-        [ 130012, 1, 50 ]
-    ],
-    [
-        2003305,
-        5,
-        null,
-        [ 110003, 1, 3 ]
-    ],
-    [
-        2003306,
-        6,
-        null,
-        [ 0, 13, 500 ]
-    ],
-    [
-        2003307,
-        7,
-        null,
-        [ 140000, 1, 200 ]
-    ],
-    [
-        2003308,
-        8,
-        null,
-        [ 130011, 1, 500 ]
-    ],
-    [
-        2003309,
-        9,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2003310,
-        10,
-        null,
-        [ 0, 13, 200 ]
-    ],
-    [
-        2003311,
-        11,
-        null,
-        [ 140000, 1, 100 ]
-    ],
-    [
-        2003312,
-        12,
-        null,
-        [ 130064, 1, 50 ]
-    ],
-    [ 2004101, 1, 250, null ],
-    [ 2004102, 2, 100, null ],
-    [ 2004103, 3, 100, null ],
-    [ 2004104, 4, 150, null ],
-    [ 2004105, 5, 100, null ],
-    [ 2004106, 6, 200, null ],
-    [ 2004107, 7, 100, null ],
-    [ 2004108, 8, 150, null ],
-    [ 2004109, 9, 100, null ],
-    [ 2004110, 10, 120, null ],
-    [ 2004111, 11, 120, null ],
-    [ 2004112, 12, 100, null ],
-    [ 2004201, 1, 5000, null ],
-    [ 2004202, 2, 1500, null ],
-    [ 2004203, 3, 1500, null ],
-    [ 2004204, 4, 2500, null ],
-    [ 2004205, 5, 1500, null ],
-    [ 2004206, 6, 1500, null ],
-    [ 2004207, 7, 2000, null ],
-    [ 2004208, 8, 1500, null ],
-    [ 2004209, 9, 1500, null ],
-    [ 2004210, 10, 3500, null ],
-    [ 2004211, 11, 1500, null ],
-    [ 2004212, 12, 1500, null ],
-    [
-        2004301,
-        1,
-        null,
-        [ 150000, 1, 30 ]
-    ],
-    [
-        2004302,
-        2,
-        null,
-        [ 110002, 1, 3 ]
-    ],
-    [
-        2004303,
-        3,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2004304,
-        4,
-        null,
-        [ 130012, 1, 50 ]
-    ],
-    [
-        2004305,
-        5,
-        null,
-        [ 110003, 1, 3 ]
-    ],
-    [
-        2004306,
-        6,
-        null,
-        [ 0, 13, 500 ]
-    ],
-    [
-        2004307,
-        7,
-        null,
-        [ 140000, 1, 200 ]
-    ],
-    [
-        2004308,
-        8,
-        null,
-        [ 130011, 1, 500 ]
-    ],
-    [
-        2004309,
-        9,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2004310,
-        10,
-        null,
-        [ 0, 13, 200 ]
-    ],
-    [
-        2004311,
-        11,
-        null,
-        [ 140000, 1, 100 ]
-    ],
-    [
-        2004312,
-        12,
-        null,
-        [ 130064, 1, 50 ]
-    ],
-    [ 2005101, 1, 250, null ],
-    [ 2005102, 2, 100, null ],
-    [ 2005103, 3, 100, null ],
-    [ 2005104, 4, 150, null ],
-    [ 2005105, 5, 100, null ],
-    [ 2005106, 6, 200, null ],
-    [ 2005107, 7, 100, null ],
-    [ 2005108, 8, 150, null ],
-    [ 2005109, 9, 100, null ],
-    [ 2005110, 10, 120, null ],
-    [ 2005111, 11, 120, null ],
-    [ 2005112, 12, 100, null ],
-    [ 2005201, 1, 5000, null ],
-    [ 2005202, 2, 1500, null ],
-    [ 2005203, 3, 1500, null ],
-    [ 2005204, 4, 2500, null ],
-    [ 2005205, 5, 1500, null ],
-    [ 2005206, 6, 1500, null ],
-    [ 2005207, 7, 2000, null ],
-    [ 2005208, 8, 1500, null ],
-    [ 2005209, 9, 1500, null ],
-    [ 2005210, 10, 3500, null ],
-    [ 2005211, 11, 1500, null ],
-    [ 2005212, 12, 1500, null ],
-    [
-        2005301,
-        1,
-        null,
-        [ 150000, 1, 30 ]
-    ],
-    [
-        2005302,
-        2,
-        null,
-        [ 110002, 1, 3 ]
-    ],
-    [
-        2005303,
-        3,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2005304,
-        4,
-        null,
-        [ 130012, 1, 50 ]
-    ],
-    [
-        2005305,
-        5,
-        null,
-        [ 110003, 1, 3 ]
-    ],
-    [
-        2005306,
-        6,
-        null,
-        [ 0, 13, 500 ]
-    ],
-    [
-        2005307,
-        7,
-        null,
-        [ 140000, 1, 200 ]
-    ],
-    [
-        2005308,
-        8,
-        null,
-        [ 130011, 1, 500 ]
-    ],
-    [
-        2005309,
-        9,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2005310,
-        10,
-        null,
-        [ 0, 13, 200 ]
-    ],
-    [
-        2005311,
-        11,
-        null,
-        [ 140000, 1, 100 ]
-    ],
-    [
-        2005312,
-        12,
-        null,
-        [ 130064, 1, 50 ]
-    ],
-    [ 2006101, 1, 250, null ],
-    [ 2006102, 2, 100, null ],
-    [ 2006103, 3, 100, null ],
-    [ 2006104, 4, 150, null ],
-    [ 2006105, 5, 100, null ],
-    [ 2006106, 6, 200, null ],
-    [ 2006107, 7, 100, null ],
-    [ 2006108, 8, 150, null ],
-    [ 2006109, 9, 100, null ],
-    [ 2006110, 10, 120, null ],
-    [ 2006111, 11, 120, null ],
-    [ 2006112, 12, 100, null ],
-    [ 2006201, 1, 5000, null ],
-    [ 2006202, 2, 1500, null ],
-    [ 2006203, 3, 1500, null ],
-    [ 2006204, 4, 2500, null ],
-    [ 2006205, 5, 1500, null ],
-    [ 2006206, 6, 1500, null ],
-    [ 2006207, 7, 2000, null ],
-    [ 2006208, 8, 1500, null ],
-    [ 2006209, 9, 1500, null ],
-    [ 2006210, 10, 3500, null ],
-    [ 2006211, 11, 1500, null ],
-    [ 2006212, 12, 1500, null ],
-    [
-        2006301,
-        1,
-        null,
-        [ 150000, 1, 30 ]
-    ],
-    [
-        2006302,
-        2,
-        null,
-        [ 110002, 1, 3 ]
-    ],
-    [
-        2006303,
-        3,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2006304,
-        4,
-        null,
-        [ 130012, 1, 50 ]
-    ],
-    [
-        2006305,
-        5,
-        null,
-        [ 110003, 1, 3 ]
-    ],
-    [
-        2006306,
-        6,
-        null,
-        [ 0, 13, 500 ]
-    ],
-    [
-        2006307,
-        7,
-        null,
-        [ 140000, 1, 200 ]
-    ],
-    [
-        2006308,
-        8,
-        null,
-        [ 130011, 1, 500 ]
-    ],
-    [
-        2006309,
-        9,
-        null,
-        [ 130071, 1, 3 ]
-    ],
-    [
-        2006310,
-        10,
-        null,
-        [ 0, 13, 200 ]
-    ],
-    [
-        2006311,
-        11,
-        null,
-        [ 140000, 1, 100 ]
-    ],
-    [
-        2006312,
-        12,
-        null,
-        [ 130064, 1, 50 ]
-    ]
+    {
+        "AcquirePointQuantity" : 250,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001101,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001102,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001103,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001104,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001105,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 200,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001106,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001107,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001108,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001109,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001110,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001111,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001112,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 5000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001201,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001202,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001203,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 2500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001204,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001205,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001206,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 2000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001207,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001208,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001209,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 3500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001210,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001211,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2001212,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 150000,
+            "ThingQuantity" : 30,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001301,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 111035,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001302,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001303,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130012,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001304,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 200,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001305,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 500,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2001306,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 111035,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001307,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130011,
+            "ThingQuantity" : 500,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001308,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001309,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 111035,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001310,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 100,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001311,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 132002,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2001312,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 250,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002101,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002102,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002103,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002104,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002105,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 200,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002106,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002107,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002108,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002109,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002110,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002111,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002112,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 5000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002201,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002202,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002203,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 2500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002204,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002205,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002206,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 2000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002207,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002208,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002209,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 3500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002210,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002211,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2002212,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 150000,
+            "ThingQuantity" : 30,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002301,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110002,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002302,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002303,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130012,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002304,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110003,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002305,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 500,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2002306,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 200,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002307,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130011,
+            "ThingQuantity" : 500,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002308,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002309,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 200,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2002310,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 100,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002311,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130064,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2002312,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 250,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003101,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003102,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003103,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003104,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003105,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 200,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003106,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003107,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003108,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003109,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003110,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003111,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003112,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 5000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003201,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003202,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003203,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 2500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003204,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003205,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003206,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 2000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003207,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003208,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003209,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 3500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003210,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003211,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2003212,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 150000,
+            "ThingQuantity" : 30,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003301,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110002,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003302,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003303,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130012,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003304,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110003,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003305,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 500,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2003306,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 200,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003307,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130011,
+            "ThingQuantity" : 500,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003308,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003309,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 200,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2003310,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 100,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003311,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130064,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2003312,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 250,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004101,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004102,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004103,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004104,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004105,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 200,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004106,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004107,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004108,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004109,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004110,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004111,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004112,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 5000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004201,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004202,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004203,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 2500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004204,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004205,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004206,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 2000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004207,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004208,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004209,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 3500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004210,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004211,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2004212,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 150000,
+            "ThingQuantity" : 30,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004301,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110002,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004302,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004303,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130012,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004304,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110003,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004305,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 500,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2004306,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 200,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004307,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130011,
+            "ThingQuantity" : 500,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004308,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004309,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 200,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2004310,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 100,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004311,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130064,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2004312,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 250,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005101,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005102,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005103,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005104,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005105,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 200,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005106,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005107,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005108,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005109,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005110,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005111,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005112,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 5000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005201,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005202,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005203,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 2500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005204,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005205,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005206,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 2000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005207,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005208,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005209,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 3500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005210,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005211,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2005212,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 150000,
+            "ThingQuantity" : 30,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005301,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110002,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005302,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005303,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130012,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005304,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110003,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005305,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 500,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2005306,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 200,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005307,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130011,
+            "ThingQuantity" : 500,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005308,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005309,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 200,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2005310,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 100,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005311,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130064,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2005312,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 250,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006101,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006102,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006103,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006104,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006105,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 200,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006106,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006107,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 150,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006108,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006109,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006110,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 120,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006111,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 100,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006112,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : 5000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006201,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006202,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006203,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : 2500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006204,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006205,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006206,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : 2000,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006207,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006208,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006209,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : 3500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006210,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006211,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : 1500,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : null,
+            "ThingQuantity" : null,
+            "ThingType" : ""
+        },
+        "Id" : 2006212,
+        "Slot" : 12
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 150000,
+            "ThingQuantity" : 30,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006301,
+        "Slot" : 1
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110002,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006302,
+        "Slot" : 2
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006303,
+        "Slot" : 3
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130012,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006304,
+        "Slot" : 4
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 110003,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006305,
+        "Slot" : 5
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 500,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2006306,
+        "Slot" : 6
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 200,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006307,
+        "Slot" : 7
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130011,
+            "ThingQuantity" : 500,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006308,
+        "Slot" : 8
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130071,
+            "ThingQuantity" : 3,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006309,
+        "Slot" : 9
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 0,
+            "ThingQuantity" : 200,
+            "ThingType" : "Jewel"
+        },
+        "Id" : 2006310,
+        "Slot" : 10
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 140000,
+            "ThingQuantity" : 100,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006311,
+        "Slot" : 11
+    },
+    {
+        "AcquirePointQuantity" : null,
+        "AcquirePrizeThing" : 
+        {
+            "ThingId" : 130064,
+            "ThingQuantity" : 50,
+            "ThingType" : "Item"
+        },
+        "Id" : 2006312,
+        "Slot" : 12
+    }
 ]

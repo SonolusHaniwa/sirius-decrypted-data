@@ -1,69 +1,538 @@
 [
-    [ 140170, 140170, 40, 40, "2024-11-15 17:00:00", "2024-11-28 17:00:00" ],
-    [ 140180, 140180, 41, 41, "2024-11-15 17:00:00", "2024-11-28 17:00:00" ],
-    [ 140210, 140210, 42, 42, "2024-11-15 17:00:00", "2024-11-28 17:00:00" ],
-    [ 140220, 140220, 43, 43, "2024-11-15 17:00:00", "2024-11-28 17:00:00" ],
-    [ 140280, 140280, 50, 50, "2024-12-23 17:00:00", "2025-01-01 22:00:00" ],
-    [ 140290, 140290, 51, 51, "2024-12-23 17:00:00", "2025-01-01 22:00:00" ],
-    [ 140320, 140320, 5, 5, "2024-08-01 18:00:00", "2024-08-09 17:00:00" ],
-    [ 140330, 140330, 6, 6, "2024-08-01 18:00:00", "2024-08-09 17:00:00" ],
-    [ 140340, 140340, 52, 52, "2024-12-23 17:00:00", "2025-01-01 22:00:00" ],
-    [ 140350, 140350, 53, 53, "2024-12-23 17:00:00", "2025-01-01 22:00:00" ],
-    [ 140420, 140420, 54, 54, "2024-12-23 17:00:00", "2025-01-01 22:00:00" ],
-    [ 140430, 140430, 55, 55, "2024-12-23 17:00:00", "2025-01-01 22:00:00" ],
-    [ 140440, 140440, 60, 60, "2025-01-10 17:00:00", "2025-01-23 17:00:00" ],
-    [ 140450, 140450, 61, 61, "2025-01-10 17:00:00", "2025-01-23 17:00:00" ],
-    [ 140500, 140500, 58, 58, "2025-01-03 17:00:00", "2025-01-13 17:00:00" ],
-    [ 140510, 140510, 59, 59, "2025-01-03 17:00:00", "2025-01-13 17:00:00" ],
-    [ 140520, 140520, 7, 7, "2024-08-01 18:00:00", "2024-08-09 17:00:00" ],
-    [ 140530, 140530, 8, 8, "2024-08-01 18:00:00", "2024-08-09 17:00:00" ],
-    [ 140680, 140680, 62, 62, "2025-01-10 17:00:00", "2025-01-23 17:00:00" ],
-    [ 140690, 140690, 63, 63, "2025-01-10 17:00:00", "2025-01-23 17:00:00" ],
-    [ 140920, 140920, 9, 9, "2024-08-01 18:00:00", "2024-08-09 17:00:00" ],
-    [ 140930, 140930, 10, 10, "2024-08-01 18:00:00", "2024-08-09 17:00:00" ],
-    [ 140980, 140980, 1, 1, "2024-07-26 17:00:00", "2024-08-09 17:00:00" ],
-    [ 140990, 140990, 2, 2, "2024-07-26 17:00:00", "2024-08-09 17:00:00" ],
-    [ 141000, 141000, 3, 3, "2024-07-31 17:00:00", "2024-08-13 17:00:00" ],
-    [ 141010, 141010, 4, 4, "2024-07-31 17:00:00", "2024-08-13 17:00:00" ],
-    [ 141020, 141020, 13, 13, "2024-08-20 17:00:00", "2024-09-03 17:00:00" ],
-    [ 141030, 141030, 14, 14, "2024-08-20 17:00:00", "2024-09-03 17:00:00" ],
-    [ 141040, 141040, 11, 11, "2024-08-10 17:00:00", "2024-08-23 17:00:00" ],
-    [ 141050, 141050, 12, 12, "2024-08-10 17:00:00", "2024-08-23 17:00:00" ],
-    [ 141060, 141060, 15, 15, "2024-08-31 17:00:00", "2024-09-13 17:00:00" ],
-    [ 141070, 141070, 16, 16, "2024-08-31 17:00:00", "2024-09-13 17:00:00" ],
-    [ 141080, 141080, 17, 17, "2024-09-10 17:00:00", "2024-09-21 17:00:00" ],
-    [ 141090, 141090, 18, 18, "2024-09-10 17:00:00", "2024-09-21 17:00:00" ],
-    [ 141100, 141100, 19, 19, "2024-09-20 17:00:00", "2024-10-01 17:00:00" ],
-    [ 141110, 141110, 20, 20, "2024-09-20 17:00:00", "2024-10-01 17:00:00" ],
-    [ 141120, 141120, 21, 21, "2024-09-30 17:00:00", "2024-10-11 17:00:00" ],
-    [ 141130, 141130, 22, 22, "2024-09-30 17:00:00", "2024-10-11 17:00:00" ],
-    [ 141140, 141140, 31, 31, "2024-11-10 17:00:00", "2024-11-23 17:00:00" ],
-    [ 141150, 141150, 32, 32, "2024-11-10 17:00:00", "2024-11-23 17:00:00" ],
-    [ 141160, 141160, 25, 25, "2024-10-20 17:00:00", "2024-11-03 17:00:00" ],
-    [ 141170, 141170, 26, 26, "2024-10-20 17:00:00", "2024-11-03 17:00:00" ],
-    [ 141180, 141180, 29, 29, "2024-10-26 17:00:00", "2024-11-05 17:00:00" ],
-    [ 141190, 141190, 30, 30, "2024-10-26 17:00:00", "2024-11-05 17:00:00" ],
-    [ 141200, 141200, 27, 27, "2024-10-31 17:00:00", "2024-11-13 17:00:00" ],
-    [ 141210, 141210, 28, 28, "2024-10-31 17:00:00", "2024-11-13 17:00:00" ],
-    [ 141220, 141220, 24, 24, "2024-10-10 17:00:00", "2024-10-23 17:00:00" ],
-    [ 141230, 141230, 23, 23, "2024-10-10 17:00:00", "2024-10-23 17:00:00" ],
-    [ 141240, 141240, 33, 33, "2024-11-20 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141250, 141250, 34, 34, "2024-11-20 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141260, 141260, 37, 38, "2024-11-30 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141270, 141270, 38, 37, "2024-11-30 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141280, 141280, 35, 35, "2024-11-20 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141290, 141290, 36, 36, "2024-11-20 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141300, 141300, 39, 39, "2024-11-30 17:00:00", "2024-12-13 17:00:00" ],
-    [ 141310, 141310, 44, 44, "2024-12-10 17:00:00", "2024-12-24 17:00:00" ],
-    [ 141320, 141320, 45, 45, "2024-12-10 17:00:00", "2024-12-24 17:00:00" ],
-    [ 141330, 141330, 46, 46, "2024-12-20 17:00:00", "2025-01-03 17:00:00" ],
-    [ 141340, 141340, 47, 47, "2024-12-20 17:00:00", "2025-01-03 17:00:00" ],
-    [ 141350, 141350, 48, 48, "2024-12-31 15:00:00", "2025-01-13 17:00:00" ],
-    [ 141360, 141360, 49, 49, "2024-12-31 15:00:00", "2025-01-13 17:00:00" ],
-    [ 141370, 141370, 56, 56, "2025-01-10 17:00:00", "2025-01-23 17:00:00" ],
-    [ 141380, 141380, 57, 57, "2025-01-10 17:00:00", "2025-01-23 17:00:00" ],
-    [ 141390, 141390, 64, 64, "2025-01-20 17:00:00", "2025-02-03 17:00:00" ],
-    [ 141400, 141400, 65, 65, "2025-01-20 17:00:00", "2025-02-03 17:00:00" ],
-    [ 141410, 141410, 66, 66, "2025-01-26 17:00:00", "2025-02-05 17:00:00" ],
-    [ 141420, 141420, 67, 67, "2025-01-26 17:00:00", "2025-02-05 17:00:00" ]
+    {
+        "CharacterMasterId" : 140170,
+        "EndDate" : "2024-11-28 17:00:00",
+        "Id" : 140170,
+        "Order" : 40,
+        "PickupCharacterMissionDetailGroupMasterId" : 40,
+        "StartDate" : "2024-11-15 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140180,
+        "EndDate" : "2024-11-28 17:00:00",
+        "Id" : 140180,
+        "Order" : 41,
+        "PickupCharacterMissionDetailGroupMasterId" : 41,
+        "StartDate" : "2024-11-15 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140210,
+        "EndDate" : "2024-11-28 17:00:00",
+        "Id" : 140210,
+        "Order" : 42,
+        "PickupCharacterMissionDetailGroupMasterId" : 42,
+        "StartDate" : "2024-11-15 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140220,
+        "EndDate" : "2024-11-28 17:00:00",
+        "Id" : 140220,
+        "Order" : 43,
+        "PickupCharacterMissionDetailGroupMasterId" : 43,
+        "StartDate" : "2024-11-15 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140280,
+        "EndDate" : "2025-01-01 22:00:00",
+        "Id" : 140280,
+        "Order" : 50,
+        "PickupCharacterMissionDetailGroupMasterId" : 50,
+        "StartDate" : "2024-12-23 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140290,
+        "EndDate" : "2025-01-01 22:00:00",
+        "Id" : 140290,
+        "Order" : 51,
+        "PickupCharacterMissionDetailGroupMasterId" : 51,
+        "StartDate" : "2024-12-23 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140320,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140320,
+        "Order" : 5,
+        "PickupCharacterMissionDetailGroupMasterId" : 5,
+        "StartDate" : "2024-08-01 18:00:00"
+    },
+    {
+        "CharacterMasterId" : 140330,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140330,
+        "Order" : 6,
+        "PickupCharacterMissionDetailGroupMasterId" : 6,
+        "StartDate" : "2024-08-01 18:00:00"
+    },
+    {
+        "CharacterMasterId" : 140340,
+        "EndDate" : "2025-01-01 22:00:00",
+        "Id" : 140340,
+        "Order" : 52,
+        "PickupCharacterMissionDetailGroupMasterId" : 52,
+        "StartDate" : "2024-12-23 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140350,
+        "EndDate" : "2025-01-01 22:00:00",
+        "Id" : 140350,
+        "Order" : 53,
+        "PickupCharacterMissionDetailGroupMasterId" : 53,
+        "StartDate" : "2024-12-23 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140420,
+        "EndDate" : "2025-01-01 22:00:00",
+        "Id" : 140420,
+        "Order" : 54,
+        "PickupCharacterMissionDetailGroupMasterId" : 54,
+        "StartDate" : "2024-12-23 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140430,
+        "EndDate" : "2025-01-01 22:00:00",
+        "Id" : 140430,
+        "Order" : 55,
+        "PickupCharacterMissionDetailGroupMasterId" : 55,
+        "StartDate" : "2024-12-23 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140440,
+        "EndDate" : "2025-01-23 17:00:00",
+        "Id" : 140440,
+        "Order" : 60,
+        "PickupCharacterMissionDetailGroupMasterId" : 60,
+        "StartDate" : "2025-01-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140450,
+        "EndDate" : "2025-01-23 17:00:00",
+        "Id" : 140450,
+        "Order" : 61,
+        "PickupCharacterMissionDetailGroupMasterId" : 61,
+        "StartDate" : "2025-01-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140500,
+        "EndDate" : "2025-01-13 17:00:00",
+        "Id" : 140500,
+        "Order" : 58,
+        "PickupCharacterMissionDetailGroupMasterId" : 58,
+        "StartDate" : "2025-01-03 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140510,
+        "EndDate" : "2025-01-13 17:00:00",
+        "Id" : 140510,
+        "Order" : 59,
+        "PickupCharacterMissionDetailGroupMasterId" : 59,
+        "StartDate" : "2025-01-03 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140520,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140520,
+        "Order" : 7,
+        "PickupCharacterMissionDetailGroupMasterId" : 7,
+        "StartDate" : "2024-08-01 18:00:00"
+    },
+    {
+        "CharacterMasterId" : 140530,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140530,
+        "Order" : 8,
+        "PickupCharacterMissionDetailGroupMasterId" : 8,
+        "StartDate" : "2024-08-01 18:00:00"
+    },
+    {
+        "CharacterMasterId" : 140680,
+        "EndDate" : "2025-01-23 17:00:00",
+        "Id" : 140680,
+        "Order" : 62,
+        "PickupCharacterMissionDetailGroupMasterId" : 62,
+        "StartDate" : "2025-01-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140690,
+        "EndDate" : "2025-01-23 17:00:00",
+        "Id" : 140690,
+        "Order" : 63,
+        "PickupCharacterMissionDetailGroupMasterId" : 63,
+        "StartDate" : "2025-01-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140920,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140920,
+        "Order" : 9,
+        "PickupCharacterMissionDetailGroupMasterId" : 9,
+        "StartDate" : "2024-08-01 18:00:00"
+    },
+    {
+        "CharacterMasterId" : 140930,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140930,
+        "Order" : 10,
+        "PickupCharacterMissionDetailGroupMasterId" : 10,
+        "StartDate" : "2024-08-01 18:00:00"
+    },
+    {
+        "CharacterMasterId" : 140980,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140980,
+        "Order" : 1,
+        "PickupCharacterMissionDetailGroupMasterId" : 1,
+        "StartDate" : "2024-07-26 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 140990,
+        "EndDate" : "2024-08-09 17:00:00",
+        "Id" : 140990,
+        "Order" : 2,
+        "PickupCharacterMissionDetailGroupMasterId" : 2,
+        "StartDate" : "2024-07-26 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141000,
+        "EndDate" : "2024-08-13 17:00:00",
+        "Id" : 141000,
+        "Order" : 3,
+        "PickupCharacterMissionDetailGroupMasterId" : 3,
+        "StartDate" : "2024-07-31 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141010,
+        "EndDate" : "2024-08-13 17:00:00",
+        "Id" : 141010,
+        "Order" : 4,
+        "PickupCharacterMissionDetailGroupMasterId" : 4,
+        "StartDate" : "2024-07-31 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141020,
+        "EndDate" : "2024-09-03 17:00:00",
+        "Id" : 141020,
+        "Order" : 13,
+        "PickupCharacterMissionDetailGroupMasterId" : 13,
+        "StartDate" : "2024-08-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141030,
+        "EndDate" : "2024-09-03 17:00:00",
+        "Id" : 141030,
+        "Order" : 14,
+        "PickupCharacterMissionDetailGroupMasterId" : 14,
+        "StartDate" : "2024-08-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141040,
+        "EndDate" : "2024-08-23 17:00:00",
+        "Id" : 141040,
+        "Order" : 11,
+        "PickupCharacterMissionDetailGroupMasterId" : 11,
+        "StartDate" : "2024-08-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141050,
+        "EndDate" : "2024-08-23 17:00:00",
+        "Id" : 141050,
+        "Order" : 12,
+        "PickupCharacterMissionDetailGroupMasterId" : 12,
+        "StartDate" : "2024-08-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141060,
+        "EndDate" : "2024-09-13 17:00:00",
+        "Id" : 141060,
+        "Order" : 15,
+        "PickupCharacterMissionDetailGroupMasterId" : 15,
+        "StartDate" : "2024-08-31 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141070,
+        "EndDate" : "2024-09-13 17:00:00",
+        "Id" : 141070,
+        "Order" : 16,
+        "PickupCharacterMissionDetailGroupMasterId" : 16,
+        "StartDate" : "2024-08-31 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141080,
+        "EndDate" : "2024-09-21 17:00:00",
+        "Id" : 141080,
+        "Order" : 17,
+        "PickupCharacterMissionDetailGroupMasterId" : 17,
+        "StartDate" : "2024-09-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141090,
+        "EndDate" : "2024-09-21 17:00:00",
+        "Id" : 141090,
+        "Order" : 18,
+        "PickupCharacterMissionDetailGroupMasterId" : 18,
+        "StartDate" : "2024-09-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141100,
+        "EndDate" : "2024-10-01 17:00:00",
+        "Id" : 141100,
+        "Order" : 19,
+        "PickupCharacterMissionDetailGroupMasterId" : 19,
+        "StartDate" : "2024-09-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141110,
+        "EndDate" : "2024-10-01 17:00:00",
+        "Id" : 141110,
+        "Order" : 20,
+        "PickupCharacterMissionDetailGroupMasterId" : 20,
+        "StartDate" : "2024-09-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141120,
+        "EndDate" : "2024-10-11 17:00:00",
+        "Id" : 141120,
+        "Order" : 21,
+        "PickupCharacterMissionDetailGroupMasterId" : 21,
+        "StartDate" : "2024-09-30 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141130,
+        "EndDate" : "2024-10-11 17:00:00",
+        "Id" : 141130,
+        "Order" : 22,
+        "PickupCharacterMissionDetailGroupMasterId" : 22,
+        "StartDate" : "2024-09-30 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141140,
+        "EndDate" : "2024-11-23 17:00:00",
+        "Id" : 141140,
+        "Order" : 31,
+        "PickupCharacterMissionDetailGroupMasterId" : 31,
+        "StartDate" : "2024-11-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141150,
+        "EndDate" : "2024-11-23 17:00:00",
+        "Id" : 141150,
+        "Order" : 32,
+        "PickupCharacterMissionDetailGroupMasterId" : 32,
+        "StartDate" : "2024-11-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141160,
+        "EndDate" : "2024-11-03 17:00:00",
+        "Id" : 141160,
+        "Order" : 25,
+        "PickupCharacterMissionDetailGroupMasterId" : 25,
+        "StartDate" : "2024-10-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141170,
+        "EndDate" : "2024-11-03 17:00:00",
+        "Id" : 141170,
+        "Order" : 26,
+        "PickupCharacterMissionDetailGroupMasterId" : 26,
+        "StartDate" : "2024-10-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141180,
+        "EndDate" : "2024-11-05 17:00:00",
+        "Id" : 141180,
+        "Order" : 29,
+        "PickupCharacterMissionDetailGroupMasterId" : 29,
+        "StartDate" : "2024-10-26 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141190,
+        "EndDate" : "2024-11-05 17:00:00",
+        "Id" : 141190,
+        "Order" : 30,
+        "PickupCharacterMissionDetailGroupMasterId" : 30,
+        "StartDate" : "2024-10-26 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141200,
+        "EndDate" : "2024-11-13 17:00:00",
+        "Id" : 141200,
+        "Order" : 27,
+        "PickupCharacterMissionDetailGroupMasterId" : 27,
+        "StartDate" : "2024-10-31 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141210,
+        "EndDate" : "2024-11-13 17:00:00",
+        "Id" : 141210,
+        "Order" : 28,
+        "PickupCharacterMissionDetailGroupMasterId" : 28,
+        "StartDate" : "2024-10-31 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141220,
+        "EndDate" : "2024-10-23 17:00:00",
+        "Id" : 141220,
+        "Order" : 24,
+        "PickupCharacterMissionDetailGroupMasterId" : 24,
+        "StartDate" : "2024-10-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141230,
+        "EndDate" : "2024-10-23 17:00:00",
+        "Id" : 141230,
+        "Order" : 23,
+        "PickupCharacterMissionDetailGroupMasterId" : 23,
+        "StartDate" : "2024-10-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141240,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141240,
+        "Order" : 33,
+        "PickupCharacterMissionDetailGroupMasterId" : 33,
+        "StartDate" : "2024-11-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141250,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141250,
+        "Order" : 34,
+        "PickupCharacterMissionDetailGroupMasterId" : 34,
+        "StartDate" : "2024-11-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141260,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141260,
+        "Order" : 37,
+        "PickupCharacterMissionDetailGroupMasterId" : 38,
+        "StartDate" : "2024-11-30 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141270,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141270,
+        "Order" : 38,
+        "PickupCharacterMissionDetailGroupMasterId" : 37,
+        "StartDate" : "2024-11-30 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141280,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141280,
+        "Order" : 35,
+        "PickupCharacterMissionDetailGroupMasterId" : 35,
+        "StartDate" : "2024-11-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141290,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141290,
+        "Order" : 36,
+        "PickupCharacterMissionDetailGroupMasterId" : 36,
+        "StartDate" : "2024-11-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141300,
+        "EndDate" : "2024-12-13 17:00:00",
+        "Id" : 141300,
+        "Order" : 39,
+        "PickupCharacterMissionDetailGroupMasterId" : 39,
+        "StartDate" : "2024-11-30 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141310,
+        "EndDate" : "2024-12-24 17:00:00",
+        "Id" : 141310,
+        "Order" : 44,
+        "PickupCharacterMissionDetailGroupMasterId" : 44,
+        "StartDate" : "2024-12-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141320,
+        "EndDate" : "2024-12-24 17:00:00",
+        "Id" : 141320,
+        "Order" : 45,
+        "PickupCharacterMissionDetailGroupMasterId" : 45,
+        "StartDate" : "2024-12-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141330,
+        "EndDate" : "2025-01-03 17:00:00",
+        "Id" : 141330,
+        "Order" : 46,
+        "PickupCharacterMissionDetailGroupMasterId" : 46,
+        "StartDate" : "2024-12-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141340,
+        "EndDate" : "2025-01-03 17:00:00",
+        "Id" : 141340,
+        "Order" : 47,
+        "PickupCharacterMissionDetailGroupMasterId" : 47,
+        "StartDate" : "2024-12-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141350,
+        "EndDate" : "2025-01-13 17:00:00",
+        "Id" : 141350,
+        "Order" : 48,
+        "PickupCharacterMissionDetailGroupMasterId" : 48,
+        "StartDate" : "2024-12-31 15:00:00"
+    },
+    {
+        "CharacterMasterId" : 141360,
+        "EndDate" : "2025-01-13 17:00:00",
+        "Id" : 141360,
+        "Order" : 49,
+        "PickupCharacterMissionDetailGroupMasterId" : 49,
+        "StartDate" : "2024-12-31 15:00:00"
+    },
+    {
+        "CharacterMasterId" : 141370,
+        "EndDate" : "2025-01-23 17:00:00",
+        "Id" : 141370,
+        "Order" : 56,
+        "PickupCharacterMissionDetailGroupMasterId" : 56,
+        "StartDate" : "2025-01-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141380,
+        "EndDate" : "2025-01-23 17:00:00",
+        "Id" : 141380,
+        "Order" : 57,
+        "PickupCharacterMissionDetailGroupMasterId" : 57,
+        "StartDate" : "2025-01-10 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141390,
+        "EndDate" : "2025-02-03 17:00:00",
+        "Id" : 141390,
+        "Order" : 64,
+        "PickupCharacterMissionDetailGroupMasterId" : 64,
+        "StartDate" : "2025-01-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141400,
+        "EndDate" : "2025-02-03 17:00:00",
+        "Id" : 141400,
+        "Order" : 65,
+        "PickupCharacterMissionDetailGroupMasterId" : 65,
+        "StartDate" : "2025-01-20 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141410,
+        "EndDate" : "2025-02-05 17:00:00",
+        "Id" : 141410,
+        "Order" : 66,
+        "PickupCharacterMissionDetailGroupMasterId" : 66,
+        "StartDate" : "2025-01-26 17:00:00"
+    },
+    {
+        "CharacterMasterId" : 141420,
+        "EndDate" : "2025-02-05 17:00:00",
+        "Id" : 141420,
+        "Order" : 67,
+        "PickupCharacterMissionDetailGroupMasterId" : 67,
+        "StartDate" : "2025-01-26 17:00:00"
+    }
 ]

@@ -1,218 +1,410 @@
 [
-    [
-        1,
-        1,
-        "2024-08-01 05:00:00",
-        "2024-09-01 05:00:00",
+    {
+        "EndDate" : "2024-09-01 05:00:00",
+        "Id" : 1,
+        "Phase" : 1,
+        "Rewards" : 
         [
-            [ 101, 1, 130021, 1, 1, false ]
-        ]
-    ],
-    [
-        2,
-        2,
-        "2024-08-01 05:00:00",
-        "2024-09-01 05:00:00",
+            {
+                "Id" : 101,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 1,
+                "ThingId" : 130021,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-09-01 05:00:00",
+        "Id" : 2,
+        "Phase" : 2,
+        "Rewards" : 
         [
-            [ 201, 2, 130031, 1, 1, false ]
-        ]
-    ],
-    [
-        3,
-        3,
-        "2024-08-01 05:00:00",
-        "2024-09-01 05:00:00",
+            {
+                "Id" : 201,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 2,
+                "ThingId" : 130031,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-09-01 05:00:00",
+        "Id" : 3,
+        "Phase" : 3,
+        "Rewards" : 
         [
-            [ 301, 3, 130011, 1, 1, false ]
-        ]
-    ],
-    [
-        4,
-        4,
-        "2024-08-01 05:00:00",
-        "2024-09-01 05:00:00",
+            {
+                "Id" : 301,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 3,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-09-01 05:00:00",
+        "Id" : 4,
+        "Phase" : 4,
+        "Rewards" : 
         [
-            [ 401, 4, 0, 13, 15, false ]
-        ]
-    ],
-    [
-        5,
-        1,
-        "2024-09-01 05:00:00",
-        "2024-10-01 05:00:00",
+            {
+                "Id" : 401,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 4,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2024-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-10-01 05:00:00",
+        "Id" : 5,
+        "Phase" : 1,
+        "Rewards" : 
         [
-            [ 501, 5, 130022, 1, 1, false ]
-        ]
-    ],
-    [
-        6,
-        2,
-        "2024-09-01 05:00:00",
-        "2024-10-01 05:00:00",
+            {
+                "Id" : 501,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 5,
+                "ThingId" : 130022,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-09-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-10-01 05:00:00",
+        "Id" : 6,
+        "Phase" : 2,
+        "Rewards" : 
         [
-            [ 601, 6, 130032, 1, 1, false ]
-        ]
-    ],
-    [
-        7,
-        3,
-        "2024-09-01 05:00:00",
-        "2024-10-01 05:00:00",
+            {
+                "Id" : 601,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 6,
+                "ThingId" : 130032,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-09-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-10-01 05:00:00",
+        "Id" : 7,
+        "Phase" : 3,
+        "Rewards" : 
         [
-            [ 701, 7, 130011, 1, 1, false ]
-        ]
-    ],
-    [
-        8,
-        4,
-        "2024-09-01 05:00:00",
-        "2024-10-01 05:00:00",
+            {
+                "Id" : 701,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 7,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-09-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-10-01 05:00:00",
+        "Id" : 8,
+        "Phase" : 4,
+        "Rewards" : 
         [
-            [ 801, 8, 0, 13, 15, false ]
-        ]
-    ],
-    [
-        9,
-        1,
-        "2024-10-01 05:00:00",
-        "2024-11-01 05:00:00",
+            {
+                "Id" : 801,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 8,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2024-09-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-11-01 05:00:00",
+        "Id" : 9,
+        "Phase" : 1,
+        "Rewards" : 
         [
-            [ 901, 9, 130023, 1, 1, false ]
-        ]
-    ],
-    [
-        10,
-        2,
-        "2024-10-01 05:00:00",
-        "2024-11-01 05:00:00",
+            {
+                "Id" : 901,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 9,
+                "ThingId" : 130023,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-10-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-11-01 05:00:00",
+        "Id" : 10,
+        "Phase" : 2,
+        "Rewards" : 
         [
-            [ 1001, 10, 130033, 1, 1, false ]
-        ]
-    ],
-    [
-        11,
-        3,
-        "2024-10-01 05:00:00",
-        "2024-11-01 05:00:00",
+            {
+                "Id" : 1001,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 10,
+                "ThingId" : 130033,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-10-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-11-01 05:00:00",
+        "Id" : 11,
+        "Phase" : 3,
+        "Rewards" : 
         [
-            [ 1101, 11, 130011, 1, 1, false ]
-        ]
-    ],
-    [
-        12,
-        4,
-        "2024-10-01 05:00:00",
-        "2024-11-01 05:00:00",
+            {
+                "Id" : 1101,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 11,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-10-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-11-01 05:00:00",
+        "Id" : 12,
+        "Phase" : 4,
+        "Rewards" : 
         [
-            [ 1201, 12, 0, 13, 15, false ]
-        ]
-    ],
-    [
-        13,
-        1,
-        "2024-11-01 05:00:00",
-        "2024-12-01 05:00:00",
+            {
+                "Id" : 1201,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 12,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2024-10-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-12-01 05:00:00",
+        "Id" : 13,
+        "Phase" : 1,
+        "Rewards" : 
         [
-            [ 1301, 13, 130024, 1, 1, false ]
-        ]
-    ],
-    [
-        14,
-        2,
-        "2024-11-01 05:00:00",
-        "2024-12-01 05:00:00",
+            {
+                "Id" : 1301,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 13,
+                "ThingId" : 130024,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-11-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-12-01 05:00:00",
+        "Id" : 14,
+        "Phase" : 2,
+        "Rewards" : 
         [
-            [ 1401, 14, 130034, 1, 1, false ]
-        ]
-    ],
-    [
-        15,
-        3,
-        "2024-11-01 05:00:00",
-        "2024-12-01 05:00:00",
+            {
+                "Id" : 1401,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 14,
+                "ThingId" : 130034,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-11-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-12-01 05:00:00",
+        "Id" : 15,
+        "Phase" : 3,
+        "Rewards" : 
         [
-            [ 1501, 15, 130011, 1, 1, false ]
-        ]
-    ],
-    [
-        16,
-        4,
-        "2024-11-01 05:00:00",
-        "2024-12-01 05:00:00",
+            {
+                "Id" : 1501,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 15,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-11-01 05:00:00"
+    },
+    {
+        "EndDate" : "2024-12-01 05:00:00",
+        "Id" : 16,
+        "Phase" : 4,
+        "Rewards" : 
         [
-            [ 1601, 16, 0, 13, 15, false ]
-        ]
-    ],
-    [
-        17,
-        1,
-        "2024-12-01 05:00:00",
-        "2025-01-01 05:00:00",
+            {
+                "Id" : 1601,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 16,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2024-11-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-01-01 05:00:00",
+        "Id" : 17,
+        "Phase" : 1,
+        "Rewards" : 
         [
-            [ 1701, 17, 130021, 1, 1, false ]
-        ]
-    ],
-    [
-        18,
-        2,
-        "2024-12-01 05:00:00",
-        "2025-01-01 05:00:00",
+            {
+                "Id" : 1701,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 17,
+                "ThingId" : 130021,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-12-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-01-01 05:00:00",
+        "Id" : 18,
+        "Phase" : 2,
+        "Rewards" : 
         [
-            [ 1801, 18, 130031, 1, 1, false ]
-        ]
-    ],
-    [
-        19,
-        3,
-        "2024-12-01 05:00:00",
-        "2025-01-01 05:00:00",
+            {
+                "Id" : 1801,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 18,
+                "ThingId" : 130031,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-12-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-01-01 05:00:00",
+        "Id" : 19,
+        "Phase" : 3,
+        "Rewards" : 
         [
-            [ 1901, 19, 130011, 1, 1, false ]
-        ]
-    ],
-    [
-        20,
-        4,
-        "2024-12-01 05:00:00",
-        "2025-01-01 05:00:00",
+            {
+                "Id" : 1901,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 19,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2024-12-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-01-01 05:00:00",
+        "Id" : 20,
+        "Phase" : 4,
+        "Rewards" : 
         [
-            [ 2001, 20, 0, 13, 15, false ]
-        ]
-    ],
-    [
-        21,
-        1,
-        "2025-01-01 05:00:00",
-        "2025-02-01 05:00:00",
+            {
+                "Id" : 2001,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 20,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2024-12-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-02-01 05:00:00",
+        "Id" : 21,
+        "Phase" : 1,
+        "Rewards" : 
         [
-            [ 2101, 21, 130022, 1, 1, false ]
-        ]
-    ],
-    [
-        22,
-        2,
-        "2025-01-01 05:00:00",
-        "2025-02-01 05:00:00",
+            {
+                "Id" : 2101,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 21,
+                "ThingId" : 130022,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2025-01-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-02-01 05:00:00",
+        "Id" : 22,
+        "Phase" : 2,
+        "Rewards" : 
         [
-            [ 2201, 22, 130032, 1, 1, false ]
-        ]
-    ],
-    [
-        23,
-        3,
-        "2025-01-01 05:00:00",
-        "2025-02-01 05:00:00",
+            {
+                "Id" : 2201,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 22,
+                "ThingId" : 130032,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2025-01-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-02-01 05:00:00",
+        "Id" : 23,
+        "Phase" : 3,
+        "Rewards" : 
         [
-            [ 2301, 23, 130011, 1, 1, false ]
-        ]
-    ],
-    [
-        24,
-        4,
-        "2025-01-01 05:00:00",
-        "2025-02-01 05:00:00",
+            {
+                "Id" : 2301,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 23,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2025-01-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-02-01 05:00:00",
+        "Id" : 24,
+        "Phase" : 4,
+        "Rewards" : 
         [
-            [ 2401, 24, 0, 13, 15, false ]
-        ]
-    ]
+            {
+                "Id" : 2401,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 24,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2025-01-01 05:00:00"
+    }
 ]

@@ -1,26 +1,194 @@
 [
-    [ 101, 1, 130021, 1, 1, false ],
-    [ 201, 2, 130031, 1, 1, false ],
-    [ 301, 3, 130011, 1, 1, false ],
-    [ 401, 4, 0, 13, 15, false ],
-    [ 501, 5, 130022, 1, 1, false ],
-    [ 601, 6, 130032, 1, 1, false ],
-    [ 701, 7, 130011, 1, 1, false ],
-    [ 801, 8, 0, 13, 15, false ],
-    [ 901, 9, 130023, 1, 1, false ],
-    [ 1001, 10, 130033, 1, 1, false ],
-    [ 1101, 11, 130011, 1, 1, false ],
-    [ 1201, 12, 0, 13, 15, false ],
-    [ 1301, 13, 130024, 1, 1, false ],
-    [ 1401, 14, 130034, 1, 1, false ],
-    [ 1501, 15, 130011, 1, 1, false ],
-    [ 1601, 16, 0, 13, 15, false ],
-    [ 1701, 17, 130021, 1, 1, false ],
-    [ 1801, 18, 130031, 1, 1, false ],
-    [ 1901, 19, 130011, 1, 1, false ],
-    [ 2001, 20, 0, 13, 15, false ],
-    [ 2101, 21, 130022, 1, 1, false ],
-    [ 2201, 22, 130032, 1, 1, false ],
-    [ 2301, 23, 130011, 1, 1, false ],
-    [ 2401, 24, 0, 13, 15, false ]
+    {
+        "Id" : 101,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 1,
+        "ThingId" : 130021,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 201,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 2,
+        "ThingId" : 130031,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 301,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 3,
+        "ThingId" : 130011,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 401,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 4,
+        "ThingId" : 0,
+        "ThingQuantity" : 15,
+        "ThingType" : "Jewel"
+    },
+    {
+        "Id" : 501,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 5,
+        "ThingId" : 130022,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 601,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 6,
+        "ThingId" : 130032,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 701,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 7,
+        "ThingId" : 130011,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 801,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 8,
+        "ThingId" : 0,
+        "ThingQuantity" : 15,
+        "ThingType" : "Jewel"
+    },
+    {
+        "Id" : 901,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 9,
+        "ThingId" : 130023,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1001,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 10,
+        "ThingId" : 130033,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1101,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 11,
+        "ThingId" : 130011,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1201,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 12,
+        "ThingId" : 0,
+        "ThingQuantity" : 15,
+        "ThingType" : "Jewel"
+    },
+    {
+        "Id" : 1301,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 13,
+        "ThingId" : 130024,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1401,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 14,
+        "ThingId" : 130034,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1501,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 15,
+        "ThingId" : 130011,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1601,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 16,
+        "ThingId" : 0,
+        "ThingQuantity" : 15,
+        "ThingType" : "Jewel"
+    },
+    {
+        "Id" : 1701,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 17,
+        "ThingId" : 130021,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1801,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 18,
+        "ThingId" : 130031,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 1901,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 19,
+        "ThingId" : 130011,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 2001,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 20,
+        "ThingId" : 0,
+        "ThingQuantity" : 15,
+        "ThingType" : "Jewel"
+    },
+    {
+        "Id" : 2101,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 21,
+        "ThingId" : 130022,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 2201,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 22,
+        "ThingId" : 130032,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 2301,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 23,
+        "ThingId" : 130011,
+        "ThingQuantity" : 1,
+        "ThingType" : "Item"
+    },
+    {
+        "Id" : 2401,
+        "IsSp" : false,
+        "MissionPassLoopRewardMasterId" : 24,
+        "ThingId" : 0,
+        "ThingQuantity" : 15,
+        "ThingType" : "Jewel"
+    }
 ]
