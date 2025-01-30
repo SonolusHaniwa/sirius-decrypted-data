@@ -5946,6 +5946,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 130781,
+        "BloomBonusGroupMasterId" : 30002,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7049,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 31,
+        "CharacterBaseMasterId" : 104,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-01-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 311,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130780,
+        "LeaderSenseMasterId" : 3,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 94,
+            "Expression" : 68,
+            "Vocal" : 109
+        },
+        "Name" : "素敵な思い、受け取りました！",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 312,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130780,
+        "StarActMasterId" : 130781,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -14024,5 +14077,119 @@
         "SenseMasterId" : 141420,
         "StarActMasterId" : 141421,
         "UnlockText" : "ガチャ(ユメフェス)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141431,
+        "BloomBonusGroupMasterId" : 40143,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4006,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7049,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8008,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 105,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-01-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141430,
+        "LeaderSenseMasterId" : 199,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 111,
+            "Expression" : 91,
+            "Vocal" : 144
+        },
+        "Name" : "星のようにまぶしい出会い",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141430,
+        "StarActMasterId" : 141431,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141441,
+        "BloomBonusGroupMasterId" : 40144,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7049,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 106,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-01-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141440,
+        "LeaderSenseMasterId" : 200,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 94,
+            "Expression" : 134,
+            "Vocal" : 116
+        },
+        "Name" : "大事なのは信じることさ！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141440,
+        "StarActMasterId" : 141441,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

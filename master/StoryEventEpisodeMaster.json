@@ -3454,5 +3454,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20048,
         "Title" : "志を遂げるために"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004901,
+        "Id" : 2004901,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20049,
+        "Title" : "星に埋もれる"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004902,
+        "Id" : 2004902,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2004901,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20049,
+        "Title" : "同じ轍"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004903,
+        "Id" : 2004903,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2004902,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20049,
+        "Title" : "きれいな星座を作るなら"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004904,
+        "Id" : 2004904,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2004903,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20049,
+        "Title" : "泥臭く"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004905,
+        "Id" : 2004905,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2004904,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20049,
+        "Title" : "あがいて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004906,
+        "Id" : 2004906,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2004905,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20049,
+        "Title" : "そういうところ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004907,
+        "Id" : 2004907,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2004906,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20049,
+        "Title" : "永遠の子ども"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2004908,
+        "Id" : 2004908,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2004907,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20049,
+        "Title" : "空の星を並べて"
     }
 ]

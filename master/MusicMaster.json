@@ -6207,6 +6207,44 @@
         ]
     },
     {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 180,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 118,
+        "MusicVideoType" : "None",
+        "Name" : "いこうよ！ネバーランドへ",
+        "PronounceName" : "いこうよねばーらんどへ",
+        "ReleasedAt" : "2025-01-31 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 29,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 105, 106 ],
+                "Id" : 18001,
+                "MusicMasterId" : 180,
+                "MusicTimeSecond" : 118,
+                "MusicVideoType" : "None",
+                "Name" : "いこうよ！ネバーランドへ",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "柳場ぱんだ、流石知冴",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "小松一也",
         "Composer" : "小松一也",
         "DelaySeconds" : 0,
@@ -7730,6 +7768,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "鳳ここな",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10092,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 250,
+        "MusicVideoType" : "None",
+        "Name" : "Crystal Bell（Long Ver.）",
+        "PronounceName" : "CrystalBelllong",
+        "ReleasedAt" : "2025-02-03 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 304 ],
+                "Id" : 1009201,
+                "MusicMasterId" : 10092,
+                "MusicTimeSecond" : 250,
+                "MusicVideoType" : "None",
+                "Name" : "Crystal Bell（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "リリヤ・クルトベイ",
                 "VocalVersion" : 1
             }
         ]

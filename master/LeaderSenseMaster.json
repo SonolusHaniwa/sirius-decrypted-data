@@ -5862,5 +5862,71 @@
             }
         ],
         "Id" : 198
+    },
+    {
+        "Description" : "「役者」カテゴリの演技力40%上昇、「ヒロイン」カテゴリの歌唱力35％上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12005
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8008,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12019
+            }
+        ],
+        "Id" : 199
+    },
+    {
+        "Description" : "「衣装」カテゴリの演技力40%上昇、「主人公」カテゴリの表現力35％上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8004,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12005
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8007,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12020
+            }
+        ],
+        "Id" : 200
     }
 ]

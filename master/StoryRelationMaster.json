@@ -413,6 +413,13 @@
         "StoryMasterId" : 20048
     },
     {
+        "NextStoryMasterIds" : [],
+        "PreviousStoryMasterIds" : [],
+        "RelatedStoryMasterIds" : [],
+        "SideStoryCharacterMasterIds" : [ 141430, 141440, 130780 ],
+        "StoryMasterId" : 20049
+    },
+    {
         "NextStoryMasterIds" : [ 20034 ],
         "PreviousStoryMasterIds" : [],
         "RelatedStoryMasterIds" : [],
@@ -432,5 +439,12 @@
         "RelatedStoryMasterIds" : [],
         "SideStoryCharacterMasterIds" : [],
         "StoryMasterId" : 30004
+    },
+    {
+        "NextStoryMasterIds" : [],
+        "PreviousStoryMasterIds" : [ 10403 ],
+        "RelatedStoryMasterIds" : [],
+        "SideStoryCharacterMasterIds" : [],
+        "StoryMasterId" : 30005
     }
 ]
