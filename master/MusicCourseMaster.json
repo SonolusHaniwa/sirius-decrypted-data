@@ -563,6 +563,76 @@
         "Details" : 
         [
             {
+                "Id" : 4101,
+                "LiveMasterId" : 7604,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 4102,
+                "LiveMasterId" : 1704,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 4103,
+                "LiveMasterId" : 14904,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-02-16 23:59:59",
+        "Id" : 41,
+        "InitialLife" : 300,
+        "MusicCourseType" : "TournamentQualifying",
+        "Name" : "全国大会2025 STELLA部門予選コース",
+        "Order" : 1,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2025-02-09 17:00:00",
+        "TournamentQualifyingMasterId" : 1,
+        "UnlockCondition" : "PlayerRank",
+        "UnlockConditionValue" : 20
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 4201,
+                "LiveMasterId" : 2305,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 4202,
+                "LiveMasterId" : 8905,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 4203,
+                "LiveMasterId" : 5705,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-02-16 23:59:59",
+        "Id" : 42,
+        "InitialLife" : 300,
+        "MusicCourseType" : "TournamentQualifying",
+        "Name" : "全国大会2025 OLIVIER部門予選コース",
+        "Order" : 2,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2025-02-09 17:00:00",
+        "TournamentQualifyingMasterId" : 1,
+        "UnlockCondition" : "PlayerRank",
+        "UnlockConditionValue" : 20
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 6101,
                 "LiveMasterId" : 1001,
                 "SetListNumber" : 1,

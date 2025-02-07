@@ -6321,6 +6321,44 @@
         ]
     },
     {
+        "Arranger" : "松坂康司(SUPA LOVE)",
+        "Composer" : "松坂康司(SUPA LOVE)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 188,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 123,
+        "MusicVideoType" : "None",
+        "Name" : "君というメソッドへ",
+        "PronounceName" : "きみというめそっどへ",
+        "ReleasedAt" : "2025-02-09 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 30,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 301, 305 ],
+                "Id" : 18801,
+                "MusicMasterId" : 188,
+                "MusicTimeSecond" : 123,
+                "MusicVideoType" : "None",
+                "Name" : "君というメソッドへ",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "千寿暦、与那国緋花里",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "ツミキ",
         "DelaySeconds" : 0,
@@ -7730,6 +7768,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10079,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 236,
+        "MusicVideoType" : "None",
+        "Name" : "HAPPY NEW SHOW TIME!（Long Ver.）",
+        "PronounceName" : "happynewshowtimelong",
+        "ReleasedAt" : "2025-02-11 05:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101, 102, 103 ],
+                "Id" : 1007901,
+                "MusicMasterId" : 10079,
+                "MusicTimeSecond" : 236,
+                "MusicVideoType" : "None",
+                "Name" : "HAPPY NEW SHOW TIME!（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "カトリナ・グリーベル、鳳ここな、静香",
                 "VocalVersion" : 1
             }
         ]
