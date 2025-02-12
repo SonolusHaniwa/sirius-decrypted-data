@@ -30711,7 +30711,7 @@
                 "UnlockValue" : null
             }
         ],
-        "Name" : "期間限定アクター復刻ピックアップガチャ【1.5th Anniversary】(アクター)",
+        "Name" : "期間限定アクター復刻ピックアップガチャ【1.5th Anniversary後夜祭】(アクター)",
         "StartDate" : "2025-02-09 17:00:00"
     },
     {
@@ -35882,6 +35882,69 @@
         ],
         "Name" : "夢の舞台を見届けてねガチャ",
         "StartDate" : "2025-01-26 00:00:00"
+    },
+    {
+        "BannerPath" : "2087",
+        "Category" : "Gacha",
+        "DisplayItemMasterId" : 412087,
+        "DisplayThingType" : "Item",
+        "EndDate" : "2025-03-03 17:00:00",
+        "Id" : 2087,
+        "IsDisplayRequiredHavingItem" : false,
+        "LastRefreshedAt" : "1-01-01 00:00:00",
+        "Lineup" : 
+        [
+            {
+                "EndDate" : "2025-03-03 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 2087001,
+                "IsDisplayLocked" : false,
+                "Order" : 2087001,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412087,
+                "RequiredQuantity" : 200,
+                "StartDate" : "2025-02-14 00:00:00",
+                "ThingId" : 330220,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2025-03-03 17:00:00",
+                "ExchangeLimit" : 2,
+                "Id" : 2087002,
+                "IsDisplayLocked" : false,
+                "Order" : 2087002,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412087,
+                "RequiredQuantity" : 50,
+                "StartDate" : "2025-02-14 00:00:00",
+                "ThingId" : 130071,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2025-03-03 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 2087003,
+                "IsDisplayLocked" : false,
+                "Order" : 2087003,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412087,
+                "RequiredQuantity" : 1,
+                "StartDate" : "2025-02-14 00:00:00",
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            }
+        ],
+        "Name" : "エレクトロン・ショコラティエ！ガチャ(ポスター)",
+        "StartDate" : "2025-02-14 00:00:00"
     },
     {
         "BannerPath" : "2800",

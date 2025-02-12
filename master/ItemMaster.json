@@ -770,6 +770,20 @@
         "TabCategory" : "Normal"
     },
     {
+        "Category" : "StaminaRecovery",
+        "Consumable" : false,
+        "Description" : "手作りバレンタインチョコの贈り物。味は食べてみてのお楽しみ。スタミナを100回復する。",
+        "DisplayEndDate" : null,
+        "DisplayOrder" : 112003,
+        "Id" : 112003,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "バレンタインチョコ【2025】",
+        "Rarity" : "SSR",
+        "TabCategory" : "Normal"
+    },
+    {
         "Category" : "CharacterLevel",
         "Consumable" : false,
         "Description" : "新人の登竜門とされる演目が描かれた台本。アクターEXPが10上昇する。公演など様々な場所で入手できる。",
@@ -11836,6 +11850,20 @@
         "DisplayEndDate" : "2025-02-16 17:00:00",
         "DisplayOrder" : 412085,
         "Id" : 412085,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "ガチャポイント",
+        "Rarity" : "R",
+        "TabCategory" : "Hidden"
+    },
+    {
+        "Category" : "GachaPoint",
+        "Consumable" : false,
+        "Description" : "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+        "DisplayEndDate" : "2025-03-03 17:00:00",
+        "DisplayOrder" : 412087,
+        "Id" : 412087,
         "JumpTargetId" : null,
         "JumpType" : 0,
         "MaxStock" : 99999,
