@@ -20305,7 +20305,7 @@
                 "BranchEffects" : 
                 [
                     {
-                        "EffectMasterId" : 11810002,
+                        "EffectMasterId" : 11420002,
                         "Order" : 1
                     }
                 ],
@@ -20319,11 +20319,11 @@
         ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
-        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+        "Description" : "センス発動直後、P.ゲージを[:param11]獲得　◆発動条件：凛属性のアクターが装備",
         "FrameNumber" : 2,
         "Hidden" : false,
         "Id" : 3302202,
-        "Name" : "「光」獲得数増加",
+        "Name" : "P.ゲージブーストⅡ",
         "PosterMasterId" : 330220,
         "ReleaseLevelAt" : 5,
         "Type" : "Normal"
