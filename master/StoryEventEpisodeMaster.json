@@ -3526,5 +3526,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20049,
         "Title" : "空の星を並べて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005001,
+        "Id" : 2005001,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20050,
+        "Title" : "バイクのソロキャンパー"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005002,
+        "Id" : 2005002,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005001,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20050,
+        "Title" : "キャンプ、楽しみすぎる！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005003,
+        "Id" : 2005003,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005002,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20050,
+        "Title" : "いざ、買い物へ！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005004,
+        "Id" : 2005004,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005003,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20050,
+        "Title" : "冬キャン！はじまり！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005005,
+        "Id" : 2005005,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005004,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20050,
+        "Title" : "薪集めと出会い"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005006,
+        "Id" : 2005006,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005005,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20050,
+        "Title" : "燃えない焚火"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005007,
+        "Id" : 2005007,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005006,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20050,
+        "Title" : "冬キャン！あつまる！！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005008,
+        "Id" : 2005008,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005007,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20050,
+        "Title" : "これからもっと楽しくなるよ"
     }
 ]

@@ -530,6 +530,42 @@
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：2/21 17:00～2/26 22:00/n対象：公演、協力公演",
+        "EndDate" : "2025-02-26 22:00:00",
+        "IconImagePath" : "4",
+        "Id" : 46,
+        "Order" : 46,
+        "StartDate" : "2025-02-21 17:00:00",
+        "Title" : "公演の獲得EXP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 1,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：2/22 5:00 ～ 2/25 5:00/n対象：稽古",
+        "EndDate" : "2025-02-25 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 47,
+        "Order" : 47,
+        "StartDate" : "2025-02-22 05:00:00",
+        "Title" : "稽古の回数 +1回"
+    },
+    {
+        "CampaignEffectType" : "LiveReward",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：2/27 5:00～3/4 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-03-04 05:00:00",
+        "IconImagePath" : "1",
+        "Id" : 48,
+        "Order" : 48,
+        "StartDate" : "2025-02-27 05:00:00",
+        "Title" : "公演の報酬量 50%UP"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
         "Description" : "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",
         "EndDate" : "2100-01-01 00:00:00",
