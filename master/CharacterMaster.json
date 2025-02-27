@@ -6105,6 +6105,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 130811,
+        "BloomBonusGroupMasterId" : 30002,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7051,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 32,
+        "CharacterBaseMasterId" : 304,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-02-28 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 321,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130810,
+        "LeaderSenseMasterId" : 81,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 103,
+            "Expression" : 87,
+            "Vocal" : 80
+        },
+        "Name" : "穏やかな昼下がり",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 322,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130810,
+        "StarActMasterId" : 130811,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -14525,5 +14578,119 @@
         "SenseMasterId" : 141480,
         "StarActMasterId" : 141481,
         "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141491,
+        "BloomBonusGroupMasterId" : 40149,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7051,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3005,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 305,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-02-28 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141490,
+        "LeaderSenseMasterId" : 204,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 144,
+            "Expression" : 121,
+            "Vocal" : 112
+        },
+        "Name" : "コンクリート・ジャム",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141490,
+        "StarActMasterId" : 141491,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141501,
+        "BloomBonusGroupMasterId" : 40150,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7051,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 303,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-02-28 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141500,
+        "LeaderSenseMasterId" : 159,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 94,
+            "Expression" : 153,
+            "Vocal" : 135
+        },
+        "Name" : "ストリート・スクリプト",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141500,
+        "StarActMasterId" : 141501,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

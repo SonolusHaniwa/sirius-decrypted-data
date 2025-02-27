@@ -564,6 +564,30 @@
         "Title" : "公演の報酬量 50%UP"
     },
     {
+        "CampaignEffectType" : "AccessoryDropRate",
+        "CampaignEffectValue" : 0,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：2/28 17:00～3/8 22:00/n対象：電姫空間",
+        "EndDate" : "2025-03-08 22:00:00",
+        "IconImagePath" : "1",
+        "Id" : 49,
+        "Order" : 49,
+        "StartDate" : "2025-02-28 17:00:00",
+        "Title" : "アクセサリーのドロップ率 50%UP"
+    },
+    {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 1,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：3/4 5:00 ～ 3/9 5:00/n対象：稽古",
+        "EndDate" : "2025-03-09 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 50,
+        "Order" : 50,
+        "StartDate" : "2025-03-04 05:00:00",
+        "Title" : "稽古の回数 +1回"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
