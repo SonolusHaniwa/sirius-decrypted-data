@@ -192,5 +192,102 @@
             }
         ],
         "Id" : 2
+    },
+    {
+        "Classes" : 
+        [
+            {
+                "ClassType" : "Rookie",
+                "DownRewardPackageMasterId" : null,
+                "FirstAchieveRewardPackageMasterId" : null,
+                "Id" : 111,
+                "IsForceDownNotPlayingLeague" : false,
+                "KeepRewardPackageMasterId" : null,
+                "KeepUserAmount" : 0,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : 110,
+                "UpUserAmount" : null
+            },
+            {
+                "ClassType" : "Hope",
+                "DownRewardPackageMasterId" : null,
+                "FirstAchieveRewardPackageMasterId" : 200,
+                "Id" : 121,
+                "IsForceDownNotPlayingLeague" : false,
+                "KeepRewardPackageMasterId" : 220,
+                "KeepUserAmount" : null,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : 210,
+                "UpUserAmount" : 80
+            },
+            {
+                "ClassType" : "Cast",
+                "DownRewardPackageMasterId" : 330,
+                "FirstAchieveRewardPackageMasterId" : 300,
+                "Id" : 131,
+                "IsForceDownNotPlayingLeague" : true,
+                "KeepRewardPackageMasterId" : 320,
+                "KeepUserAmount" : 30,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : 310,
+                "UpUserAmount" : 60
+            },
+            {
+                "ClassType" : "Elite",
+                "DownRewardPackageMasterId" : 430,
+                "FirstAchieveRewardPackageMasterId" : 400,
+                "Id" : 141,
+                "IsForceDownNotPlayingLeague" : true,
+                "KeepRewardPackageMasterId" : 420,
+                "KeepUserAmount" : 40,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : 410,
+                "UpUserAmount" : 40
+            },
+            {
+                "ClassType" : "Veteran",
+                "DownRewardPackageMasterId" : 530,
+                "FirstAchieveRewardPackageMasterId" : 500,
+                "Id" : 151,
+                "IsForceDownNotPlayingLeague" : true,
+                "KeepRewardPackageMasterId" : 520,
+                "KeepUserAmount" : 60,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : 510,
+                "UpUserAmount" : 10
+            },
+            {
+                "ClassType" : "Star",
+                "DownRewardPackageMasterId" : 630,
+                "FirstAchieveRewardPackageMasterId" : 600,
+                "Id" : 161,
+                "IsForceDownNotPlayingLeague" : true,
+                "KeepRewardPackageMasterId" : 620,
+                "KeepUserAmount" : 55,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : 610,
+                "UpUserAmount" : 5
+            },
+            {
+                "ClassType" : "DaiStar",
+                "DownRewardPackageMasterId" : 730,
+                "FirstAchieveRewardPackageMasterId" : null,
+                "Id" : 171,
+                "IsForceDownNotPlayingLeague" : true,
+                "KeepRewardPackageMasterId" : 720,
+                "KeepUserAmount" : 50,
+                "LeagueClassGroupMasterId" : 100,
+                "NameplateMasterId" : null,
+                "UpRewardPackageMasterId" : null,
+                "UpUserAmount" : 0
+            }
+        ],
+        "Id" : 100
     }
 ]
