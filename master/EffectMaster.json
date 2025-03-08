@@ -56102,6 +56102,81 @@
             },
             {
                 "Level" : 2,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 3,
+                "Value" : 1024
+            },
+            {
+                "Level" : 4,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 5,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 6,
+                "Value" : 2048.0500000000002
+            },
+            {
+                "Level" : 7,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 8,
+                "Value" : 2048.04
+            },
+            {
+                "Level" : 9,
+                "Value" : 2048.0300000000002
+            },
+            {
+                "Level" : 10,
+                "Value" : 2048.0599999999999
+            },
+            {
+                "Level" : 11,
+                "Value" : 2048
+            },
+            {
+                "Level" : 12,
+                "Value" : 2048.04
+            },
+            {
+                "Level" : 13,
+                "Value" : 2048.02
+            },
+            {
+                "Level" : 14,
+                "Value" : 2048.0500000000002
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 10110400,
+        "Range" : "Self",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 4
+            }
+        ],
+        "Type" : "VocalUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 2,
                 "Value" : 1024.03
             },
             {
@@ -62678,6 +62753,81 @@
             {
                 "Trigger" : "Company",
                 "Value" : 3
+            }
+        ],
+        "Type" : "ScoreGainOnVocal"
+    },
+    {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128
+            },
+            {
+                "Level" : 2,
+                "Value" : 256
+            },
+            {
+                "Level" : 3,
+                "Value" : 256
+            },
+            {
+                "Level" : 4,
+                "Value" : 256
+            },
+            {
+                "Level" : 5,
+                "Value" : 256
+            },
+            {
+                "Level" : 6,
+                "Value" : 256
+            },
+            {
+                "Level" : 7,
+                "Value" : 256
+            },
+            {
+                "Level" : 8,
+                "Value" : 512
+            },
+            {
+                "Level" : 9,
+                "Value" : 512
+            },
+            {
+                "Level" : 10,
+                "Value" : 512
+            },
+            {
+                "Level" : 11,
+                "Value" : 512
+            },
+            {
+                "Level" : 12,
+                "Value" : 512
+            },
+            {
+                "Level" : 13,
+                "Value" : 512
+            },
+            {
+                "Level" : 14,
+                "Value" : 512
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 10910400,
+        "Range" : "None",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 4
             }
         ],
         "Type" : "ScoreGainOnVocal"

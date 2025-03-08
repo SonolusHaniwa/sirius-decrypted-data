@@ -6158,6 +6158,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 130821,
+        "BloomBonusGroupMasterId" : 30002,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 6007,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7508,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 34,
+        "CharacterBaseMasterId" : 405,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 341,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130820,
+        "LeaderSenseMasterId" : 3,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 104,
+            "Expression" : 60,
+            "Vocal" : 109
+        },
+        "Name" : "最前列の景色",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 342,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130820,
+        "StarActMasterId" : 130821,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -8935,8 +8988,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140480,
         "LeaderSenseMasterId" : 104,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-10 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 131,
@@ -9696,8 +9749,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140630,
         "LeaderSenseMasterId" : 122,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-16 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 88,
@@ -9757,8 +9810,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140660,
         "LeaderSenseMasterId" : 29,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-10 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 145,
@@ -10290,8 +10343,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140750,
         "LeaderSenseMasterId" : 94,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-16 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 91,
@@ -10351,8 +10404,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140760,
         "LeaderSenseMasterId" : 72,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-16 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 89,
@@ -10701,8 +10754,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140820,
         "LeaderSenseMasterId" : 38,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-16 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 109,
@@ -11954,8 +12007,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141030,
         "LeaderSenseMasterId" : 164,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-10 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 125,
@@ -12239,8 +12292,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141080,
         "LeaderSenseMasterId" : 16,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-10 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 82,
@@ -14692,5 +14745,119 @@
         "SenseMasterId" : 141500,
         "StarActMasterId" : 141501,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141511,
+        "BloomBonusGroupMasterId" : 40151,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7508,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4003,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 404,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141510,
+        "LeaderSenseMasterId" : 205,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 161,
+            "Expression" : 87,
+            "Vocal" : 91
+        },
+        "Name" : "春めく花園を切り取って",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141510,
+        "StarActMasterId" : 141511,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141521,
+        "BloomBonusGroupMasterId" : 40152,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7508,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 403,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141520,
+        "LeaderSenseMasterId" : 194,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 85,
+            "Expression" : 94,
+            "Vocal" : 159
+        },
+        "Name" : "昼下がりのPhoto Spring",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141520,
+        "StarActMasterId" : 141521,
+        "UnlockText" : "ガチャで入手"
     }
 ]

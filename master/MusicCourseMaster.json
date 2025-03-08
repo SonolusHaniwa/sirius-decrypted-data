@@ -318,6 +318,41 @@
         "Details" : 
         [
             {
+                "Id" : 1001,
+                "LiveMasterId" : 3904,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 1002,
+                "LiveMasterId" : 14904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 1003,
+                "LiveMasterId" : 13504,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-08-01 05:00:00",
+        "Id" : 10,
+        "InitialLife" : 30,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【十段】段位認定2025 1st Season",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-03-14 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 9
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 2101,
                 "LiveMasterId" : 16105,
                 "SetListNumber" : 1,
@@ -628,6 +663,41 @@
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "ClearedMMusicCourseId",
         "UnlockConditionValue" : 28
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 3001,
+                "LiveMasterId" : 14905,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 3002,
+                "LiveMasterId" : 13505,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 3003,
+                "LiveMasterId" : 705,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-08-01 05:00:00",
+        "Id" : 30,
+        "InitialLife" : 45,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【十段】段位認定2025 1st Seasonウラ",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-03-14 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 29
     },
     {
         "Details" : 

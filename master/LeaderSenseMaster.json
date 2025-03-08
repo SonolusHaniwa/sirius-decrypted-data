@@ -6060,5 +6060,38 @@
             }
         ],
         "Id" : 204
+    },
+    {
+        "Description" : "「役者」カテゴリの演技力30%上昇、「食べ物」カテゴリの集中力20％上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12004
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 4003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12015
+            }
+        ],
+        "Id" : 205
     }
 ]

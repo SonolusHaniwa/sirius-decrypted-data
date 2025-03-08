@@ -5544,6 +5544,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22069001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "劇団電姫に所属するアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220690,
+        "Name" : "うららかな春、ディスカバれ！",
+        "PosterMasterId" : 220690,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -14494,6 +14526,70 @@
         "Id" : 2206802,
         "Name" : "スコアブースト・歌唱力",
         "PosterMasterId" : 220680,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10110400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220690101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の歌唱力が[:param11]％上昇　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2206901,
+        "Name" : "歌唱力アップ",
+        "PosterMasterId" : 220690,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10910400,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220690201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得　◆発動条件：劇団電姫に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2206902,
+        "Name" : "スコアブースト・歌唱力",
+        "PosterMasterId" : 220690,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
