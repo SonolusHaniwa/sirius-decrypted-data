@@ -70329,6 +70329,75 @@
         ],
         "DurationSecond" : 0,
         "FireTimingType" : "Passive",
+        "Id" : 11611000,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 4096.0299999999997
+            },
+            {
+                "Level" : 2,
+                "Value" : 4096.1199999999999
+            },
+            {
+                "Level" : 3,
+                "Value" : 4096.0299999999997
+            },
+            {
+                "Level" : 4,
+                "Value" : 8192.3400000000001
+            },
+            {
+                "Level" : 5,
+                "Value" : 8192.0499999999993
+            },
+            {
+                "Level" : 6,
+                "Value" : 8192.3799999999992
+            },
+            {
+                "Level" : 7,
+                "Value" : 8192.2299999999996
+            },
+            {
+                "Level" : 8,
+                "Value" : 8192.3099999999995
+            },
+            {
+                "Level" : 9,
+                "Value" : 8192.0699999999997
+            },
+            {
+                "Level" : 10,
+                "Value" : 8192.4799999999996
+            },
+            {
+                "Level" : 11,
+                "Value" : 16384.689999999999
+            },
+            {
+                "Level" : 12,
+                "Value" : 16385.299999999999
+            },
+            {
+                "Level" : 13,
+                "Value" : 16384.099999999999
+            },
+            {
+                "Level" : 14,
+                "Value" : 16385.740000000002
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
         "Id" : 11611100,
         "Range" : "Self",
         "Triggers" : 
