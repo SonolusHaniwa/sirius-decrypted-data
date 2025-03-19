@@ -5576,6 +5576,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22070001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220700,
+        "Name" : "star-crossed star",
+        "PosterMasterId" : 220700,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -11470,6 +11502,38 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 34006001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340060,
+        "Name" : "天運と共に、ありのままで",
+        "PosterMasterId" : 340060,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 34008001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -14622,6 +14686,70 @@
         "Id" : 2206902,
         "Name" : "スコアブースト・歌唱力",
         "PosterMasterId" : 220690,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10010003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220700101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2207001,
+        "Name" : "演技力アップ",
+        "PosterMasterId" : 220700,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11510003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220700201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2207002,
+        "Name" : "初期P.ゲージ上昇",
+        "PosterMasterId" : 220700,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
@@ -21669,6 +21797,102 @@
         "Id" : 3400503,
         "Name" : "「光」追加（SP）",
         "PosterMasterId" : 340050,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030106,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340060101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：知冴が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3400601,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 340060,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11410106,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340060201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、Pゲージを[:param11]獲得　◆発動条件：知冴が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3400602,
+        "Name" : "P.ゲージブースト＋",
+        "PosterMasterId" : 340060,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910106,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340060301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）◆発動条件：知冴が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3400603,
+        "Name" : "「光」追加（SP）",
+        "PosterMasterId" : 340060,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },

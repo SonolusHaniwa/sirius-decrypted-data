@@ -6397,6 +6397,44 @@
         ]
     },
     {
+        "Arranger" : "古河 夕",
+        "Composer" : "古河 夕",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 184,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 103,
+        "MusicVideoType" : "None",
+        "Name" : "蜃気楼の向こう側、君は笑ってくれるかな",
+        "PronounceName" : "しんきろうのむこうがわきみはわらってくれるかな",
+        "ReleasedAt" : "2025-03-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101, 106 ],
+                "Id" : 18401,
+                "MusicMasterId" : 184,
+                "MusicTimeSecond" : 103,
+                "MusicVideoType" : "None",
+                "Name" : "蜃気楼の向こう側、君は笑ってくれるかな",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな、流石知冴",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "松坂康司(SUPA LOVE)",
         "Composer" : "松坂康司(SUPA LOVE)",
         "DelaySeconds" : 0,
@@ -8224,6 +8262,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "萬容",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 10097,
+        "Invisible" : false,
+        "IsLongVersion" : true,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 206,
+        "MusicVideoType" : "None",
+        "Name" : "To B-eat, or not to B-eat!（Long Ver.）",
+        "PronounceName" : "tobeatornottobeatlong",
+        "ReleasedAt" : "2025-03-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 0,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 106 ],
+                "Id" : 1009701,
+                "MusicMasterId" : 10097,
+                "MusicTimeSecond" : 206,
+                "MusicVideoType" : "None",
+                "Name" : "To B-eat, or not to B-eat!（Long Ver.）",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "流石知冴",
                 "VocalVersion" : 1
             }
         ]

@@ -3670,5 +3670,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20051,
         "Title" : "どうしても"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005201,
+        "Id" : 2005201,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20052,
+        "Title" : "それができたら"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005202,
+        "Id" : 2005202,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005201,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20052,
+        "Title" : "仲のいいふたり"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005203,
+        "Id" : 2005203,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005202,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20052,
+        "Title" : "輝いて見える景色"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005204,
+        "Id" : 2005204,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005203,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20052,
+        "Title" : "はじまりのステージ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005205,
+        "Id" : 2005205,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005204,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20052,
+        "Title" : "良くない考え"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005206,
+        "Id" : 2005206,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005205,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20052,
+        "Title" : "ずれた歯車"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005207,
+        "Id" : 2005207,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005206,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20052,
+        "Title" : "大好きだから"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005208,
+        "Id" : 2005208,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005207,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20052,
+        "Title" : "子どものままの私"
     }
 ]

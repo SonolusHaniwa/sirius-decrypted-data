@@ -6212,6 +6212,59 @@
     {
         "AssetId" : null,
         "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 130831,
+        "BloomBonusGroupMasterId" : 30811,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7052,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 33,
+        "CharacterBaseMasterId" : 102,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 331,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130830,
+        "LeaderSenseMasterId" : 206,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 62,
+            "Expression" : 112,
+            "Vocal" : 100
+        },
+        "Name" : "無邪気な称賛",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 332,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130830,
+        "StarActMasterId" : 130831,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
         "Categories" : 
@@ -10164,8 +10217,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140720,
         "LeaderSenseMasterId" : 9,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-20 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 94,
@@ -10221,8 +10274,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140730,
         "LeaderSenseMasterId" : 37,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-03-20 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 133,
@@ -14858,6 +14911,120 @@
         "SenseEnhanceItemGroupMasterId" : 4,
         "SenseMasterId" : 141520,
         "StarActMasterId" : 141521,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141531,
+        "BloomBonusGroupMasterId" : 40153,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7052,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 101,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141530,
+        "LeaderSenseMasterId" : 207,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 174,
+            "Expression" : 85,
+            "Vocal" : 86
+        },
+        "Name" : "夜、静かなミュージアムで",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141530,
+        "StarActMasterId" : 141531,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141541,
+        "BloomBonusGroupMasterId" : 40154,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7052,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8002,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 106,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141540,
+        "LeaderSenseMasterId" : 208,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 81,
+            "Expression" : 94,
+            "Vocal" : 168
+        },
+        "Name" : "密やかに微笑む美の肖像",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141540,
+        "StarActMasterId" : 141541,
         "UnlockText" : "ガチャで入手"
     }
 ]
