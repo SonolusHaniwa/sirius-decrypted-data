@@ -40649,6 +40649,69 @@
         "StartDate" : "2025-03-15 05:00:00"
     },
     {
+        "BannerPath" : "2092",
+        "Category" : "Gacha",
+        "DisplayItemMasterId" : 412092,
+        "DisplayThingType" : "Item",
+        "EndDate" : "2025-04-09 17:00:00",
+        "Id" : 2092,
+        "IsDisplayRequiredHavingItem" : false,
+        "LastRefreshedAt" : "1-01-01 00:00:00",
+        "Lineup" : 
+        [
+            {
+                "EndDate" : "2025-04-09 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 2092001,
+                "IsDisplayLocked" : false,
+                "Order" : 2092001,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412092,
+                "RequiredQuantity" : 200,
+                "StartDate" : "2025-03-22 20:00:00",
+                "ThingId" : 330250,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2025-04-09 17:00:00",
+                "ExchangeLimit" : 2,
+                "Id" : 2092002,
+                "IsDisplayLocked" : false,
+                "Order" : 2092002,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412092,
+                "RequiredQuantity" : 50,
+                "StartDate" : "2025-03-22 20:00:00",
+                "ThingId" : 130071,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2025-04-09 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 2092003,
+                "IsDisplayLocked" : false,
+                "Order" : 2092003,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 412092,
+                "RequiredQuantity" : 1,
+                "StartDate" : "2025-03-22 20:00:00",
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            }
+        ],
+        "Name" : "相反する望みは鎬を削ってガチャ",
+        "StartDate" : "2025-03-22 20:00:00"
+    },
+    {
         "BannerPath" : "2800",
         "Category" : "Gacha",
         "DisplayItemMasterId" : 412800,
