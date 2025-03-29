@@ -6264,6 +6264,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 130841,
+        "BloomBonusGroupMasterId" : 30004,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7053,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 32,
+        "CharacterBaseMasterId" : 404,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 321,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130840,
+        "LeaderSenseMasterId" : 180,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 79,
+            "Expression" : 100,
+            "Vocal" : 91
+        },
+        "Name" : "数式はここに当てはめて……",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 322,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130840,
+        "StarActMasterId" : 130841,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -9513,8 +9566,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140560,
         "LeaderSenseMasterId" : 43,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-08 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 138,
@@ -9631,8 +9684,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140600,
         "LeaderSenseMasterId" : 51,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-08 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 100,
@@ -9688,8 +9741,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140610,
         "LeaderSenseMasterId" : 71,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-08 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 108,
@@ -10750,8 +10803,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140810,
         "LeaderSenseMasterId" : 23,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-08 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 86,
@@ -15026,5 +15079,119 @@
         "SenseMasterId" : 141540,
         "StarActMasterId" : 141541,
         "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141551,
+        "BloomBonusGroupMasterId" : 40155,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7053,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 402,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141550,
+        "LeaderSenseMasterId" : 209,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 134,
+            "Expression" : 99,
+            "Vocal" : 147
+        },
+        "Name" : "霹靂は夜雨を駆け",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141550,
+        "StarActMasterId" : 141551,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141561,
+        "BloomBonusGroupMasterId" : 40156,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7053,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 405,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-03-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141560,
+        "LeaderSenseMasterId" : 210,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 164,
+            "Expression" : 111,
+            "Vocal" : 106
+        },
+        "Name" : "アンタには一発で充分",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141560,
+        "StarActMasterId" : 141561,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

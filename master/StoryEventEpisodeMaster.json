@@ -3742,5 +3742,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20052,
         "Title" : "子どものままの私"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005301,
+        "Id" : 2005301,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20053,
+        "Title" : "テストとゲームと気になる報せ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005302,
+        "Id" : 2005302,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005301,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20053,
+        "Title" : "大事な時期、大きな依頼"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005303,
+        "Id" : 2005303,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005302,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20053,
+        "Title" : "ゲームフェスタだ！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005304,
+        "Id" : 2005304,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005303,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20053,
+        "Title" : "再会"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005305,
+        "Id" : 2005305,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005304,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20053,
+        "Title" : "思わぬ注目"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005306,
+        "Id" : 2005306,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005305,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20053,
+        "Title" : "一方その頃"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005307,
+        "Id" : 2005307,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005306,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20053,
+        "Title" : "ステージ本番！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005308,
+        "Id" : 2005308,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005307,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20053,
+        "Title" : "これからもふたりで"
     }
 ]

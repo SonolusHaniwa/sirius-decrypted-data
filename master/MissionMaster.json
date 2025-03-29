@@ -20146,5 +20146,245 @@
         ],
         "StartDate" : "2025-01-31 17:00:00",
         "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【新生活ミッション1】公演を[:param]回クリアしよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400840,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100000,
+        "Stages" : 
+        [
+            {
+                "Id" : 400840,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120002,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2025-04-05 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-05 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【新生活ミッション2】稽古を[:param]回クリアしよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400850,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100010,
+        "Stages" : 
+        [
+            {
+                "Id" : 400850,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-04-06 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-06 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【新生活ミッション3】スタミナを[:param]消費しよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400860,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100020,
+        "Stages" : 
+        [
+            {
+                "Id" : 400860,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130061,
+                        "ThingQuantity" : 650,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2025-04-07 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-07 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【新生活ミッション4】演劇リーグを[:param]回プレイしよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400870,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100030,
+        "Stages" : 
+        [
+            {
+                "Id" : 400870,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130062,
+                        "ThingQuantity" : 450,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-04-08 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-08 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【新生活ミッション5】ノーツを累計[:param]回タップしよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400880,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100040,
+        "Stages" : 
+        [
+            {
+                "Id" : 400880,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130042,
+                        "ThingQuantity" : 250,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5000,
+                "StartDate" : "2025-04-09 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-09 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【新生活ミッション8】スターアクトを累計[:param]回発動しよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400910,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100070,
+        "Stages" : 
+        [
+            {
+                "Id" : 400910,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130064,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2025-04-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "新生活ミッション1～8のうち、いずれか4つをクリアしよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400920,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100080,
+        "Stages" : 
+        [
+            {
+                "Id" : 400920,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130071,
+                        "ThingQuantity" : 2,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 4,
+                "StartDate" : "2025-04-05 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-05 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "新生活ミッション1～8を全てクリアしよう",
+        "EndDate" : "2025-04-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400930,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 100090,
+        "Stages" : 
+        [
+            {
+                "Id" : 400930,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210423,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2025-04-05 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-04-05 17:00:00",
+        "Title" : ""
     }
 ]

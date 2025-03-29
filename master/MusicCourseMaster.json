@@ -353,6 +353,41 @@
         "Details" : 
         [
             {
+                "Id" : 1101,
+                "LiveMasterId" : 4204,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 1102,
+                "LiveMasterId" : 4804,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 1103,
+                "LiveMasterId" : 5304,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-08-01 05:00:00",
+        "Id" : 11,
+        "InitialLife" : 15,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【皆伝】段位認定2025 1st Season",
+        "Order" : 11,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-04-04 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 10
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 2101,
                 "LiveMasterId" : 16105,
                 "SetListNumber" : 1,
@@ -698,6 +733,41 @@
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "ClearedMMusicCourseId",
         "UnlockConditionValue" : 29
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 3101,
+                "LiveMasterId" : 3905,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 3102,
+                "LiveMasterId" : 5305,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 3103,
+                "LiveMasterId" : 4805,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-08-01 05:00:00",
+        "Id" : 31,
+        "InitialLife" : 30,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【皆伝】段位認定2025 1st Seasonウラ",
+        "Order" : 11,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-04-04 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 30
     },
     {
         "Details" : 
@@ -1185,6 +1255,146 @@
         "RequiredAmount" : 1,
         "RequiredItemMasterId" : 130201,
         "StartDate" : "2025-03-24 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 20401,
+                "LiveMasterId" : 12504,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20402,
+                "LiveMasterId" : 6404,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20403,
+                "LiveMasterId" : 18504,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-04-07 00:00:00",
+        "Id" : 204,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第3回 ウィークリーコース【STELLA部門】",
+        "Order" : 5,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-03-31 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 20501,
+                "LiveMasterId" : 15605,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20502,
+                "LiveMasterId" : 12105,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20503,
+                "LiveMasterId" : 18505,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-04-07 00:00:00",
+        "Id" : 205,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第3回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 6,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-03-31 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 20601,
+                "LiveMasterId" : 14504,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20602,
+                "LiveMasterId" : 10304,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20603,
+                "LiveMasterId" : 17104,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-04-14 00:00:00",
+        "Id" : 206,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第4回 ウィークリーコース【STELLA部門】",
+        "Order" : 7,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-04-07 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 20701,
+                "LiveMasterId" : 14505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20702,
+                "LiveMasterId" : 14205,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20703,
+                "LiveMasterId" : 18805,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-04-14 00:00:00",
+        "Id" : 207,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第4回 ウィークリーコース【STELLA部門】",
+        "Order" : 8,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-04-07 17:00:00",
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null
