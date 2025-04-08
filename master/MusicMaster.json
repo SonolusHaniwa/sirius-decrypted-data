@@ -6740,6 +6740,44 @@
     },
     {
         "Arranger" : "-",
+        "Composer" : "いよわ",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 196,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "いよわ",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 147,
+        "MusicVideoType" : "None",
+        "Name" : "きゅうくらりん",
+        "PronounceName" : "きゅうくらりん",
+        "ReleasedAt" : "2025-04-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 34,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101 ],
+                "Id" : 19601,
+                "MusicMasterId" : 196,
+                "MusicTimeSecond" : 147,
+                "MusicVideoType" : "None",
+                "Name" : "きゅうくらりん",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
         "Composer" : "磯崎 健史",
         "DelaySeconds" : 0,
         "Description" : "",
@@ -6914,6 +6952,44 @@
         ]
     },
     {
+        "Arranger" : "シャリ(SUPA LOVE)",
+        "Composer" : "シャリ(SUPA LOVE)",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 202,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 127,
+        "MusicVideoType" : "None",
+        "Name" : "シャボンに浮かぶセカイであおう",
+        "PronounceName" : "しゃぼんにうかぶせかいであおう",
+        "ReleasedAt" : "2025-04-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 31,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101, 304 ],
+                "Id" : 20201,
+                "MusicMasterId" : 202,
+                "MusicTimeSecond" : 127,
+                "MusicVideoType" : "None",
+                "Name" : "シャボンに浮かぶセカイであおう",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな、リリヤ・クルトベイ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "光増ハジメ（FirstCall）",
         "Composer" : "光増ハジメ（FirstCall）",
         "DelaySeconds" : 0,
@@ -6947,6 +7023,44 @@
                 "SampleEndSeconds" : 0,
                 "SampleStartSeconds" : 0,
                 "Singer" : "連尺野初魅、千寿暦",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0,
+        "Description" : "",
+        "Id" : 210,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "志村真白（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 165,
+        "MusicVideoType" : "None",
+        "Name" : "グローリー・ワンダーランド",
+        "PronounceName" : "ぐろーりーわんだーらんど",
+        "ReleasedAt" : "2025-04-11 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0,
+        "SampleStartSeconds" : 0,
+        "StaminaConsumption" : 38,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 101, 401 ],
+                "Id" : 21001,
+                "MusicMasterId" : 210,
+                "MusicTimeSecond" : 165,
+                "MusicVideoType" : "None",
+                "Name" : "グローリー・ワンダーランド",
+                "SampleEndSeconds" : 0,
+                "SampleStartSeconds" : 0,
+                "Singer" : "鳳ここな、千寿いろは",
                 "VocalVersion" : 1
             }
         ]

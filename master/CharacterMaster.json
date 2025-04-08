@@ -6317,6 +6317,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 130851,
+        "BloomBonusGroupMasterId" : 30003,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7509,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 34,
+        "CharacterBaseMasterId" : 103,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 341,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130850,
+        "LeaderSenseMasterId" : 67,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 86,
+            "Expression" : 90,
+            "Vocal" : 94
+        },
+        "Name" : "髪を撫でられ……",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 342,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130850,
+        "StarActMasterId" : 130851,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -15193,5 +15246,119 @@
         "SenseMasterId" : 141560,
         "StarActMasterId" : 141561,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141571,
+        "BloomBonusGroupMasterId" : 40157,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7509,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 101,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141570,
+        "LeaderSenseMasterId" : 211,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 86,
+            "Expression" : 94,
+            "Vocal" : 158
+        },
+        "Name" : "ホエールウォッチング！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141570,
+        "StarActMasterId" : 141571,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141581,
+        "BloomBonusGroupMasterId" : 40158,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7509,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3003,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 304,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141580,
+        "LeaderSenseMasterId" : 212,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 105,
+            "Expression" : 167,
+            "Vocal" : 72
+        },
+        "Name" : "異邦の湯に足を浸して",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141580,
+        "StarActMasterId" : 141581,
+        "UnlockText" : "ガチャで入手"
     }
 ]

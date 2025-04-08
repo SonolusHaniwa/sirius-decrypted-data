@@ -1390,11 +1390,81 @@
         "Id" : 207,
         "InitialLife" : 300,
         "MusicCourseType" : "5",
-        "Name" : "第4回 ウィークリーコース【STELLA部門】",
+        "Name" : "第4回 ウィークリーコース【OLIVIER部門】",
         "Order" : 8,
         "RequiredAmount" : 1,
         "RequiredItemMasterId" : 130201,
         "StartDate" : "2025-04-07 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 20801,
+                "LiveMasterId" : 20204,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20802,
+                "LiveMasterId" : 8204,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20803,
+                "LiveMasterId" : 14104,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-04-21 00:00:00",
+        "Id" : 208,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第5回 ウィークリーコース【STELLA部門】",
+        "Order" : 9,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-04-14 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 20901,
+                "LiveMasterId" : 9205,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20902,
+                "LiveMasterId" : 20205,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 20903,
+                "LiveMasterId" : 16805,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-04-21 00:00:00",
+        "Id" : 209,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第5回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-04-14 17:00:00",
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null

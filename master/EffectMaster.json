@@ -4484,6 +4484,39 @@
     },
     {
         "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128
+            },
+            {
+                "Level" : 2,
+                "Value" : 256
+            },
+            {
+                "Level" : 3,
+                "Value" : 512
+            },
+            {
+                "Level" : 4,
+                "Value" : 512
+            },
+            {
+                "Level" : 5,
+                "Value" : 512
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 20603,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeBonus"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
         "Conditions" : 
         [
             {
