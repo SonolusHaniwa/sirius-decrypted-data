@@ -19,7 +19,7 @@
         "Id" : 2001,
         "IsFixedMember" : false,
         "MemberAmount" : 2,
-        "MovieDelaySeconds" : 2,
+        "MovieDelaySeconds" : 2.0,
         "MusicMasterId" : 3,
         "MusicVideoDefaultCostumeGroupMasterId" : null,
         "Order" : 0
@@ -313,13 +313,13 @@
                 "Order" : 1
             }
         ],
-        "DelaySeconds" : 1,
+        "DelaySeconds" : 1.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-07-31 17:00:00",
         "Id" : 2011,
         "IsFixedMember" : false,
         "MemberAmount" : 1,
-        "MovieDelaySeconds" : 1,
+        "MovieDelaySeconds" : 1.0,
         "MusicMasterId" : 45,
         "MusicVideoDefaultCostumeGroupMasterId" : null,
         "Order" : 0
@@ -409,7 +409,7 @@
         "Id" : 2014,
         "IsFixedMember" : false,
         "MemberAmount" : 5,
-        "MovieDelaySeconds" : 1,
+        "MovieDelaySeconds" : 1.0,
         "MusicMasterId" : 64,
         "MusicVideoDefaultCostumeGroupMasterId" : 1,
         "Order" : 0
@@ -553,13 +553,13 @@
                 "Order" : 2
             }
         ],
-        "DelaySeconds" : 1,
+        "DelaySeconds" : 1.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2024-05-31 17:00:00",
         "Id" : 2020,
         "IsFixedMember" : false,
         "MemberAmount" : 2,
-        "MovieDelaySeconds" : 1,
+        "MovieDelaySeconds" : 1.0,
         "MusicMasterId" : 105,
         "MusicVideoDefaultCostumeGroupMasterId" : null,
         "Order" : 0
@@ -639,14 +639,14 @@
         "Id" : 2022,
         "IsFixedMember" : true,
         "MemberAmount" : 5,
-        "MovieDelaySeconds" : 0,
+        "MovieDelaySeconds" : 0.0,
         "MusicMasterId" : 10172,
         "MusicVideoDefaultCostumeGroupMasterId" : 3,
         "Order" : 10000
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3001,
@@ -659,20 +659,20 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3002,
         "IsFixedMember" : false,
         "MemberAmount" : 1,
-        "MovieDelaySeconds" : 1,
+        "MovieDelaySeconds" : 1.0,
         "MusicMasterId" : 1,
         "MusicVideoDefaultCostumeGroupMasterId" : 1,
         "Order" : 0
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3003,
@@ -685,7 +685,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3004,
@@ -698,7 +698,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3005,
@@ -711,7 +711,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3006,
@@ -724,7 +724,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3007,
@@ -737,7 +737,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3008,
@@ -750,20 +750,20 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3009,
         "IsFixedMember" : false,
         "MemberAmount" : 1,
-        "MovieDelaySeconds" : 1,
+        "MovieDelaySeconds" : 1.0,
         "MusicMasterId" : 10021,
         "MusicVideoDefaultCostumeGroupMasterId" : 1,
         "Order" : 0
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3010,
@@ -776,7 +776,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3011,
@@ -789,7 +789,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3012,
@@ -802,7 +802,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2023-01-01 00:00:00",
         "Id" : 3013,
@@ -815,7 +815,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2024-11-12 05:00:00",
         "Id" : 3014,
@@ -828,7 +828,7 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2024-12-25 17:00:00",
         "Id" : 3015,
@@ -841,20 +841,20 @@
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2025-01-25 17:00:00",
         "Id" : 3016,
         "IsFixedMember" : false,
         "MemberAmount" : 1,
-        "MovieDelaySeconds" : 1,
+        "MovieDelaySeconds" : 1.0,
         "MusicMasterId" : 201,
         "MusicVideoDefaultCostumeGroupMasterId" : 1,
         "Order" : 0
     },
     {
         "Characters" : [],
-        "DelaySeconds" : 0,
+        "DelaySeconds" : 0.0,
         "DisplayEndAt" : null,
         "DisplayStartAt" : "2025-01-26 17:00:00",
         "Id" : 3017,
