@@ -6370,6 +6370,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 130861,
+        "BloomBonusGroupMasterId" : 30003,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7054,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 31,
+        "CharacterBaseMasterId" : 305,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 311,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130860,
+        "LeaderSenseMasterId" : 124,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 84,
+            "Expression" : 66,
+            "Vocal" : 125
+        },
+        "Name" : "気分はプロフェッショナル！",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 312,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130860,
+        "StarActMasterId" : 130861,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -8659,8 +8712,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140400,
         "LeaderSenseMasterId" : 147,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-22 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 155,
@@ -9204,8 +9257,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140490,
         "LeaderSenseMasterId" : 100,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-22 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 107,
@@ -10681,8 +10734,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140780,
         "LeaderSenseMasterId" : 105,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-22 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 91,
@@ -11800,8 +11853,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140970,
         "LeaderSenseMasterId" : 88,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-04-22 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 140,
@@ -15359,6 +15412,120 @@
         "SenseEnhanceItemGroupMasterId" : 4,
         "SenseMasterId" : 141580,
         "StarActMasterId" : 141581,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141591,
+        "BloomBonusGroupMasterId" : 40159,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7054,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 301,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141590,
+        "LeaderSenseMasterId" : 213,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 173,
+            "Expression" : 83,
+            "Vocal" : 90
+        },
+        "Name" : "桜の精との待ち合わせ",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141590,
+        "StarActMasterId" : 141591,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141601,
+        "BloomBonusGroupMasterId" : 40160,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7054,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 302,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141600,
+        "LeaderSenseMasterId" : 110,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 93,
+            "Expression" : 156,
+            "Vocal" : 88
+        },
+        "Name" : "次の春まで別たれて",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141600,
+        "StarActMasterId" : 141601,
         "UnlockText" : "ガチャで入手"
     }
 ]

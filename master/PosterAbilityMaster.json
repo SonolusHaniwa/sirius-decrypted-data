@@ -5672,6 +5672,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022300,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22073001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "銀河座に所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 220730,
+        "Name" : "舞い散る桜に、今気づいて",
+        "PosterMasterId" : 220730,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -15142,6 +15174,70 @@
         "Id" : 2207202,
         "Name" : "スコアブースト",
         "PosterMasterId" : 220720,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10011300,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220730101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2207301,
+        "Name" : "演技力アップ＋",
+        "PosterMasterId" : 220730,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10110300,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220730201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の歌唱力が[:param11]％上昇　◆発動条件：銀河座に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2207302,
+        "Name" : "歌唱力アップ",
+        "PosterMasterId" : 220730,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
