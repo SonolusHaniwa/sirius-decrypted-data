@@ -19877,6 +19877,158 @@
         "Buffs" : 
         [
             {
+                "BuffValue" : 150,
+                "Id" : 10941,
+                "TargetValue" : 1,
+                "Type" : "Company"
+            },
+            {
+                "BuffValue" : 100,
+                "Id" : 10942,
+                "TargetValue" : 140800,
+                "Type" : "4"
+            },
+            {
+                "BuffValue" : 100,
+                "Id" : 10943,
+                "TargetValue" : 141050,
+                "Type" : "4"
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Id" : 1094102,
+                "Position" : 1,
+                "TimingSecond" : 103
+            },
+            {
+                "Id" : 1094103,
+                "Position" : 1,
+                "TimingSecond" : 148
+            },
+            {
+                "Id" : 1094104,
+                "Position" : 1,
+                "TimingSecond" : 218
+            },
+            {
+                "Id" : 1094201,
+                "Position" : 2,
+                "TimingSecond" : 24
+            },
+            {
+                "Id" : 1094202,
+                "Position" : 2,
+                "TimingSecond" : 74
+            },
+            {
+                "Id" : 1094203,
+                "Position" : 2,
+                "TimingSecond" : 89
+            },
+            {
+                "Id" : 1094204,
+                "Position" : 2,
+                "TimingSecond" : 184
+            },
+            {
+                "Id" : 1094101,
+                "Position" : 1,
+                "TimingSecond" : 38
+            },
+            {
+                "Id" : 1094205,
+                "Position" : 2,
+                "TimingSecond" : 199
+            },
+            {
+                "Id" : 1094206,
+                "Position" : 2,
+                "TimingSecond" : 214
+            },
+            {
+                "Id" : 1094301,
+                "Position" : 3,
+                "TimingSecond" : 11
+            },
+            {
+                "Id" : 1094302,
+                "Position" : 3,
+                "TimingSecond" : 61
+            },
+            {
+                "Id" : 1094303,
+                "Position" : 3,
+                "TimingSecond" : 121
+            },
+            {
+                "Id" : 1094304,
+                "Position" : 3,
+                "TimingSecond" : 161
+            },
+            {
+                "Id" : 1094305,
+                "Position" : 3,
+                "TimingSecond" : 206
+            },
+            {
+                "Id" : 1094401,
+                "Position" : 4,
+                "TimingSecond" : 44
+            },
+            {
+                "Id" : 1094402,
+                "Position" : 4,
+                "TimingSecond" : 94
+            },
+            {
+                "Id" : 1094403,
+                "Position" : 4,
+                "TimingSecond" : 139
+            },
+            {
+                "Id" : 1094404,
+                "Position" : 4,
+                "TimingSecond" : 179
+            },
+            {
+                "Id" : 1094405,
+                "Position" : 4,
+                "TimingSecond" : 224
+            },
+            {
+                "Id" : 1094501,
+                "Position" : 5,
+                "TimingSecond" : 7
+            },
+            {
+                "Id" : 1094502,
+                "Position" : 5,
+                "TimingSecond" : 52
+            },
+            {
+                "Id" : 1094503,
+                "Position" : 5,
+                "TimingSecond" : 112
+            },
+            {
+                "Id" : 1094504,
+                "Position" : 5,
+                "TimingSecond" : 152
+            },
+            {
+                "Id" : 1094505,
+                "Position" : 5,
+                "TimingSecond" : 202
+            }
+        ],
+        "Id" : 1094
+    },
+    {
+        "Buffs" : 
+        [
+            {
                 "BuffValue" : 50,
                 "Id" : 30011,
                 "TargetValue" : 1,
@@ -19891,6 +20043,11 @@
         ],
         "Details" : 
         [
+            {
+                "Id" : 3001101,
+                "Position" : 1,
+                "TimingSecond" : 33
+            },
             {
                 "Id" : 3001102,
                 "Position" : 1,
@@ -19925,11 +20082,6 @@
                 "Id" : 3001204,
                 "Position" : 2,
                 "TimingSecond" : 191
-            },
-            {
-                "Id" : 3001101,
-                "Position" : 1,
-                "TimingSecond" : 33
             },
             {
                 "Id" : 3001205,
@@ -20007,14 +20159,14 @@
                 "TimingSecond" : 137
             },
             {
-                "Id" : 3001504,
-                "Position" : 5,
-                "TimingSecond" : 187
-            },
-            {
                 "Id" : 3001505,
                 "Position" : 5,
                 "TimingSecond" : 222
+            },
+            {
+                "Id" : 3001504,
+                "Position" : 5,
+                "TimingSecond" : 187
             }
         ],
         "Id" : 3001
@@ -20128,14 +20280,14 @@
                 "TimingSecond" : 103
             },
             {
-                "Id" : 3002503,
-                "Position" : 5,
-                "TimingSecond" : 153
-            },
-            {
                 "Id" : 3002504,
                 "Position" : 5,
                 "TimingSecond" : 178
+            },
+            {
+                "Id" : 3002503,
+                "Position" : 5,
+                "TimingSecond" : 153
             }
         ],
         "Id" : 3002
@@ -20264,14 +20416,14 @@
                 "TimingSecond" : 75
             },
             {
-                "Id" : 3003504,
-                "Position" : 5,
-                "TimingSecond" : 200
-            },
-            {
                 "Id" : 3003503,
                 "Position" : 5,
                 "TimingSecond" : 150
+            },
+            {
+                "Id" : 3003504,
+                "Position" : 5,
+                "TimingSecond" : 200
             }
         ],
         "Id" : 3003
@@ -20410,14 +20562,14 @@
                 "TimingSecond" : 147
             },
             {
-                "Id" : 3004504,
-                "Position" : 5,
-                "TimingSecond" : 192
-            },
-            {
                 "Id" : 3004505,
                 "Position" : 5,
                 "TimingSecond" : 247
+            },
+            {
+                "Id" : 3004504,
+                "Position" : 5,
+                "TimingSecond" : 192
             }
         ],
         "Id" : 3004
@@ -20556,14 +20708,14 @@
                 "TimingSecond" : 107
             },
             {
-                "Id" : 3005505,
-                "Position" : 5,
-                "TimingSecond" : 222
-            },
-            {
                 "Id" : 3005504,
                 "Position" : 5,
                 "TimingSecond" : 152
+            },
+            {
+                "Id" : 3005505,
+                "Position" : 5,
+                "TimingSecond" : 222
             }
         ],
         "Id" : 3005
@@ -20702,14 +20854,14 @@
                 "TimingSecond" : 142
             },
             {
-                "Id" : 3006504,
-                "Position" : 5,
-                "TimingSecond" : 187
-            },
-            {
                 "Id" : 3006505,
                 "Position" : 5,
                 "TimingSecond" : 232
+            },
+            {
+                "Id" : 3006504,
+                "Position" : 5,
+                "TimingSecond" : 187
             }
         ],
         "Id" : 3006
@@ -20828,14 +20980,14 @@
                 "TimingSecond" : 113
             },
             {
-                "Id" : 3007505,
-                "Position" : 5,
-                "TimingSecond" : 193
-            },
-            {
                 "Id" : 3007504,
                 "Position" : 5,
                 "TimingSecond" : 163
+            },
+            {
+                "Id" : 3007505,
+                "Position" : 5,
+                "TimingSecond" : 193
             }
         ],
         "Id" : 3007
@@ -20959,14 +21111,14 @@
                 "TimingSecond" : 106
             },
             {
-                "Id" : 3008504,
-                "Position" : 5,
-                "TimingSecond" : 201
-            },
-            {
                 "Id" : 3008503,
                 "Position" : 5,
                 "TimingSecond" : 161
+            },
+            {
+                "Id" : 3008504,
+                "Position" : 5,
+                "TimingSecond" : 201
             }
         ],
         "Id" : 3008
@@ -21080,14 +21232,14 @@
                 "TimingSecond" : 68
             },
             {
-                "Id" : 3009504,
-                "Position" : 5,
-                "TimingSecond" : 173
-            },
-            {
                 "Id" : 3009503,
                 "Position" : 5,
                 "TimingSecond" : 113
+            },
+            {
+                "Id" : 3009504,
+                "Position" : 5,
+                "TimingSecond" : 173
             }
         ],
         "Id" : 3009
@@ -21186,14 +21338,14 @@
                 "TimingSecond" : 69
             },
             {
-                "Id" : 3010403,
-                "Position" : 4,
-                "TimingSecond" : 144
-            },
-            {
                 "Id" : 3010404,
                 "Position" : 4,
                 "TimingSecond" : 184
+            },
+            {
+                "Id" : 3010403,
+                "Position" : 4,
+                "TimingSecond" : 144
             }
         ],
         "Id" : 3010
@@ -21297,14 +21449,14 @@
                 "TimingSecond" : 71
             },
             {
-                "Id" : 3011503,
-                "Position" : 5,
-                "TimingSecond" : 121
-            },
-            {
                 "Id" : 3011504,
                 "Position" : 5,
                 "TimingSecond" : 171
+            },
+            {
+                "Id" : 3011503,
+                "Position" : 5,
+                "TimingSecond" : 121
             }
         ],
         "Id" : 3011
@@ -21413,14 +21565,14 @@
                 "TimingSecond" : 104
             },
             {
-                "Id" : 3012504,
-                "Position" : 5,
-                "TimingSecond" : 184
-            },
-            {
                 "Id" : 3012503,
                 "Position" : 5,
                 "TimingSecond" : 139
+            },
+            {
+                "Id" : 3012504,
+                "Position" : 5,
+                "TimingSecond" : 184
             }
         ],
         "Id" : 3012
@@ -21554,14 +21706,14 @@
                 "TimingSecond" : 83
             },
             {
-                "Id" : 3013504,
-                "Position" : 5,
-                "TimingSecond" : 203
-            },
-            {
                 "Id" : 3013503,
                 "Position" : 5,
                 "TimingSecond" : 153
+            },
+            {
+                "Id" : 3013504,
+                "Position" : 5,
+                "TimingSecond" : 203
             }
         ],
         "Id" : 3013
@@ -21695,14 +21847,14 @@
                 "TimingSecond" : 144
             },
             {
-                "Id" : 3014505,
-                "Position" : 5,
-                "TimingSecond" : 224
-            },
-            {
                 "Id" : 3014504,
                 "Position" : 5,
                 "TimingSecond" : 174
+            },
+            {
+                "Id" : 3014505,
+                "Position" : 5,
+                "TimingSecond" : 224
             }
         ],
         "Id" : 3014
@@ -31831,6 +31983,331 @@
             }
         ],
         "Id" : 100153
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100162101,
+                "Position" : 1,
+                "TimingSecond" : 37
+            },
+            {
+                "Id" : 100162102,
+                "Position" : 1,
+                "TimingSecond" : 87
+            },
+            {
+                "Id" : 100162201,
+                "Position" : 2,
+                "TimingSecond" : 3
+            },
+            {
+                "Id" : 100162202,
+                "Position" : 2,
+                "TimingSecond" : 43
+            },
+            {
+                "Id" : 100162401,
+                "Position" : 4,
+                "TimingSecond" : 20
+            },
+            {
+                "Id" : 100162402,
+                "Position" : 4,
+                "TimingSecond" : 60
+            },
+            {
+                "Id" : 100162501,
+                "Position" : 5,
+                "TimingSecond" : 12
+            },
+            {
+                "Id" : 100162502,
+                "Position" : 5,
+                "TimingSecond" : 72
+            }
+        ],
+        "Id" : 100162
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100163101,
+                "Position" : 1,
+                "TimingSecond" : 37
+            },
+            {
+                "Id" : 100163102,
+                "Position" : 1,
+                "TimingSecond" : 87
+            },
+            {
+                "Id" : 100163201,
+                "Position" : 2,
+                "TimingSecond" : 3
+            },
+            {
+                "Id" : 100163202,
+                "Position" : 2,
+                "TimingSecond" : 43
+            },
+            {
+                "Id" : 100163401,
+                "Position" : 4,
+                "TimingSecond" : 20
+            },
+            {
+                "Id" : 100163402,
+                "Position" : 4,
+                "TimingSecond" : 60
+            },
+            {
+                "Id" : 100163501,
+                "Position" : 5,
+                "TimingSecond" : 12
+            },
+            {
+                "Id" : 100163502,
+                "Position" : 5,
+                "TimingSecond" : 72
+            }
+        ],
+        "Id" : 100163
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100164101,
+                "Position" : 1,
+                "TimingSecond" : 37
+            },
+            {
+                "Id" : 100164102,
+                "Position" : 1,
+                "TimingSecond" : 87
+            },
+            {
+                "Id" : 100164201,
+                "Position" : 2,
+                "TimingSecond" : 3
+            },
+            {
+                "Id" : 100164202,
+                "Position" : 2,
+                "TimingSecond" : 43
+            },
+            {
+                "Id" : 100164203,
+                "Position" : 2,
+                "TimingSecond" : 93
+            },
+            {
+                "Id" : 100164401,
+                "Position" : 4,
+                "TimingSecond" : 20
+            },
+            {
+                "Id" : 100164402,
+                "Position" : 4,
+                "TimingSecond" : 60
+            },
+            {
+                "Id" : 100164403,
+                "Position" : 4,
+                "TimingSecond" : 100
+            },
+            {
+                "Id" : 100164501,
+                "Position" : 5,
+                "TimingSecond" : 12
+            },
+            {
+                "Id" : 100164502,
+                "Position" : 5,
+                "TimingSecond" : 72
+            },
+            {
+                "Id" : 100164503,
+                "Position" : 5,
+                "TimingSecond" : 132
+            }
+        ],
+        "Id" : 100164
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100165101,
+                "Position" : 1,
+                "TimingSecond" : 37
+            },
+            {
+                "Id" : 100165102,
+                "Position" : 1,
+                "TimingSecond" : 87
+            },
+            {
+                "Id" : 100165201,
+                "Position" : 2,
+                "TimingSecond" : 3
+            },
+            {
+                "Id" : 100165202,
+                "Position" : 2,
+                "TimingSecond" : 43
+            },
+            {
+                "Id" : 100165203,
+                "Position" : 2,
+                "TimingSecond" : 93
+            },
+            {
+                "Id" : 100165401,
+                "Position" : 4,
+                "TimingSecond" : 20
+            },
+            {
+                "Id" : 100165402,
+                "Position" : 4,
+                "TimingSecond" : 60
+            },
+            {
+                "Id" : 100165403,
+                "Position" : 4,
+                "TimingSecond" : 100
+            },
+            {
+                "Id" : 100165501,
+                "Position" : 5,
+                "TimingSecond" : 12
+            },
+            {
+                "Id" : 100165502,
+                "Position" : 5,
+                "TimingSecond" : 72
+            }
+        ],
+        "Id" : 100165
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100166101,
+                "Position" : 1,
+                "TimingSecond" : 34
+            },
+            {
+                "Id" : 100166102,
+                "Position" : 1,
+                "TimingSecond" : 84
+            },
+            {
+                "Id" : 100166103,
+                "Position" : 1,
+                "TimingSecond" : 144
+            },
+            {
+                "Id" : 100166104,
+                "Position" : 1,
+                "TimingSecond" : 194
+            },
+            {
+                "Id" : 100166105,
+                "Position" : 1,
+                "TimingSecond" : 244
+            },
+            {
+                "Id" : 100166301,
+                "Position" : 3,
+                "TimingSecond" : 11
+            },
+            {
+                "Id" : 100166302,
+                "Position" : 3,
+                "TimingSecond" : 51
+            },
+            {
+                "Id" : 100166303,
+                "Position" : 3,
+                "TimingSecond" : 91
+            },
+            {
+                "Id" : 100166304,
+                "Position" : 3,
+                "TimingSecond" : 131
+            },
+            {
+                "Id" : 100166305,
+                "Position" : 3,
+                "TimingSecond" : 181
+            },
+            {
+                "Id" : 100166306,
+                "Position" : 3,
+                "TimingSecond" : 131
+            },
+            {
+                "Id" : 100166401,
+                "Position" : 4,
+                "TimingSecond" : 6
+            },
+            {
+                "Id" : 100166402,
+                "Position" : 4,
+                "TimingSecond" : 46
+            },
+            {
+                "Id" : 100166403,
+                "Position" : 4,
+                "TimingSecond" : 106
+            },
+            {
+                "Id" : 100166404,
+                "Position" : 4,
+                "TimingSecond" : 156
+            },
+            {
+                "Id" : 100166405,
+                "Position" : 4,
+                "TimingSecond" : 206
+            },
+            {
+                "Id" : 100166501,
+                "Position" : 5,
+                "TimingSecond" : 23
+            },
+            {
+                "Id" : 100166502,
+                "Position" : 5,
+                "TimingSecond" : 73
+            },
+            {
+                "Id" : 100166503,
+                "Position" : 5,
+                "TimingSecond" : 123
+            },
+            {
+                "Id" : 100166504,
+                "Position" : 5,
+                "TimingSecond" : 172
+            },
+            {
+                "Id" : 100166505,
+                "Position" : 5,
+                "TimingSecond" : 222
+            }
+        ],
+        "Id" : 100166
     },
     {
         "Buffs" : [],

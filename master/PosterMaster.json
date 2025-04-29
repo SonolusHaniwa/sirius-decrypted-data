@@ -2250,6 +2250,30 @@
         "UnlockText" : "イベントで入手"
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 103 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-30 17:00:00",
+        "Id" : 220740,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "優しいあの子になれたなら",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "やさしいあのこになれたなら",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 512.00999999999999,
+        "SubTitlePositionX2" : 1024.1099999999999,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.1199999999999,
+        "SubTitlePositionY2" : 0.0,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "イベントで入手"
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 101, 103 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -4426,6 +4450,78 @@
         "UnlockText" : "ガチャ(期間限定)で入手"
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 201, 202, 203, 204, 205 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 3061,
+                "Phase" : 1
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-04 17:00:00",
+        "Id" : 230640,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "【フューチャーダイスター】Eden",
+        "OrganizeRestrictGroupId" : 2,
+        "Orientation" : "Landscape",
+        "PronounceName" : "Eden",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 5,
+        "SubTitleDisplayCondition" : "BreakThroughPhase",
+        "SubTitleDisplayConditionValue" : 3,
+        "SubTitlePositionX1" : 0.0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0.0,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 105, 106 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 2911,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 2912,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 2921,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 2922,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-30 17:00:00",
+        "Id" : 230650,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "大人な彼女と子供の僕と",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "おとななかのじょとこどものぼくと",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 0.0,
+        "SubTitlePositionX2" : 0.0,
+        "SubTitlePositionX3" : 1024.0899999999999,
+        "SubTitlePositionY1" : 1024.0799999999999,
+        "SubTitlePositionY2" : 0.0,
+        "SubTitlePositionY3" : 0.0,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 301, 302, 303, 304, 305 ],
         "Costumes" : 
         [
@@ -5917,6 +6013,30 @@
         "OrganizeRestrictGroupId" : null,
         "Orientation" : "Portrait",
         "PronounceName" : "せんじゅいろは",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 0.0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.02,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "特別な方法で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 402 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-05 00:00:00",
+        "Id" : 340180,
+        "IsRestrictItemBreakThrough" : true,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "【Birthday2025】白丸 美兎",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "しろまるみと",
         "Rarity" : "SSR",
         "ReleaseItemGroupId" : 3,
         "SubTitleDisplayCondition" : "None",

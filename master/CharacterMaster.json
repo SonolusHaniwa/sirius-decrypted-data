@@ -6424,6 +6424,59 @@
     {
         "AssetId" : null,
         "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 130871,
+        "BloomBonusGroupMasterId" : 30004,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7055,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 33,
+        "CharacterBaseMasterId" : 101,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 331,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130870,
+        "LeaderSenseMasterId" : 24,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 91,
+            "Expression" : 96,
+            "Vocal" : 83
+        },
+        "Name" : "変わるあの子を見て",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 332,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130870,
+        "StarActMasterId" : 130871,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
         "Categories" : 
@@ -9554,8 +9607,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140540,
         "LeaderSenseMasterId" : 20,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-06 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 123,
@@ -9611,8 +9664,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140550,
         "LeaderSenseMasterId" : 64,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-06 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 144,
@@ -10852,8 +10905,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140800,
         "LeaderSenseMasterId" : 16,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-06 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 106,
@@ -12333,8 +12386,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141050,
         "LeaderSenseMasterId" : 161,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-06 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 124,
@@ -15649,5 +15702,119 @@
         "SenseMasterId" : 141620,
         "StarActMasterId" : 141621,
         "UnlockText" : "ガチャ(ユメフェス)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141631,
+        "BloomBonusGroupMasterId" : 40163,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7055,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 103,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141630,
+        "LeaderSenseMasterId" : 171,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 114,
+            "Expression" : 107,
+            "Vocal" : 159
+        },
+        "Name" : "妖精は花園で舞って",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141630,
+        "StarActMasterId" : 141631,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141641,
+        "BloomBonusGroupMasterId" : 40164,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8008,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7055,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8002,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 105,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-04-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141640,
+        "LeaderSenseMasterId" : 216,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 98,
+            "Expression" : 156,
+            "Vocal" : 128
+        },
+        "Name" : "空を自由に！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141640,
+        "StarActMasterId" : 141641,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

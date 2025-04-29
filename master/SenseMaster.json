@@ -2763,6 +2763,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+        "Id" : 130870,
+        "LightCount" : 1,
+        "Name" : "変わるあの子を見て",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -7903,5 +7920,62 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 40,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／ライフが多いほどカトリナのスコア獲得量UP効果（最大＋100％）",
+        "Id" : 141630,
+        "LightCount" : 1,
+        "Name" : "妖精は花園で舞って",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28001,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20103,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、シリウスのアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141640,
+        "LightCount" : 2,
+        "Name" : "空を自由に！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
     }
 ]

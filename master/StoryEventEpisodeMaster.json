@@ -3886,5 +3886,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20054,
         "Title" : "彼女は、初めて桜を眺める"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005501,
+        "Id" : 2005501,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20055,
+        "Title" : "舞台はみんなで作るもの"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005502,
+        "Id" : 2005502,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005501,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20055,
+        "Title" : "幼馴染なんて知らないもの"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005503,
+        "Id" : 2005503,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005502,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20055,
+        "Title" : "焦燥"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005504,
+        "Id" : 2005504,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005503,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20055,
+        "Title" : "変われないもの"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005505,
+        "Id" : 2005505,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005504,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20055,
+        "Title" : "傷つけたくない"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005506,
+        "Id" : 2005506,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005505,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20055,
+        "Title" : "一緒に"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005507,
+        "Id" : 2005507,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005506,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20055,
+        "Title" : "せーの"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005508,
+        "Id" : 2005508,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005507,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20055,
+        "Title" : "ネバーエンド・ネバーランド"
     }
 ]
