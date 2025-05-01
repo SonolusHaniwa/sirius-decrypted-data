@@ -2766,7 +2766,24 @@
         "AcquirableScorePercent" : 190,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
-        "Branches" : [],
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1308701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
         "ConditionValue1" : null,
         "ConditionValue2" : null,
         "CoolTime" : 50,
