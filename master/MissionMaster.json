@@ -16273,6 +16273,374 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "Edenに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2025-05-12 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "稽古を[:param]回行おう",
+        "EndDate" : "2025-05-13 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「St. Bitter Sweet」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-14 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-13 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-13 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2025-05-15 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-05-14 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-14 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Blondie Revenge Tragedy」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-16 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-15 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-15 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを[:param]回発動しよう",
+        "EndDate" : "2025-05-17 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-05-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Blazing Break」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-18 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 38600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "Edenに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2025-05-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 38700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 38700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132029,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-05-18 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-18 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2025-05-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 38800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 2,
+        "Stages" : 
+        [
+            {
+                "Id" : 38800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38801,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38802,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38803,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 40,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38804,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38805,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 60,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38806,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 80,
+                "StartDate" : "2025-05-10 17:00:00"
+            },
+            {
+                "Id" : 38807,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132028,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2025-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -21599,6 +21967,546 @@
             }
         ],
         "StartDate" : "2025-04-05 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション1】「Invitation」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400940,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 13,
+        "Stages" : 
+        [
+            {
+                "Id" : 400940,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130001,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション2】「Blazing Break」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400950,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 14,
+        "Stages" : 
+        [
+            {
+                "Id" : 400950,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510004,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-12 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-12 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション3】「光線チューニング」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400960,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 15,
+        "Stages" : 
+        [
+            {
+                "Id" : 400960,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130072,
+                        "ThingQuantity" : 2,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-14 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-14 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション4】「〚隔絶〛～Flame of Determination」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400970,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 16,
+        "Stages" : 
+        [
+            {
+                "Id" : 400970,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130012,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-16 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-16 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【コラボ限定ミッション5】「蜘蛛の糸」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400980,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17,
+        "Stages" : 
+        [
+            {
+                "Id" : 400980,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130035,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-18 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-18 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "コラボ限定ミッション1～5のうち、いずれか3つをクリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 400990,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 18,
+        "Stages" : 
+        [
+            {
+                "Id" : 400990,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 80706,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "コラボ限定ミッション1～5のうち、いずれか4つをクリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401000,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 19,
+        "Stages" : 
+        [
+            {
+                "Id" : 401000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 80707,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 4,
+                "StartDate" : "2025-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "コラボ限定ミッション1～5を全てクリアしよう",
+        "EndDate" : "2025-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401010,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 20,
+        "Stages" : 
+        [
+            {
+                "Id" : 401010,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ1】公演を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401020,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 3,
+        "Stages" : 
+        [
+            {
+                "Id" : 401020,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120002,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2025-05-15 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-15 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ2】スタミナを[:param]消費しよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401030,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 4,
+        "Stages" : 
+        [
+            {
+                "Id" : 401030,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110002,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5000,
+                "StartDate" : "2025-05-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ3】アクターを1人覚醒しよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401040,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 5,
+        "Stages" : 
+        [
+            {
+                "Id" : 401040,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130043,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ4】フォトを[:param]枚現像しよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401050,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 6,
+        "Stages" : 
+        [
+            {
+                "Id" : 401050,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510005,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 6,
+                "StartDate" : "2025-05-18 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-18 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ5】稽古を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401060,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 7,
+        "Stages" : 
+        [
+            {
+                "Id" : 401060,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 7,
+                "StartDate" : "2025-05-19 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-19 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ6】「シリウスの輝きのように」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401070,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 8,
+        "Stages" : 
+        [
+            {
+                "Id" : 401070,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-20 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-20 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ7】「Faith in Expression」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401080,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 9,
+        "Stages" : 
+        [
+            {
+                "Id" : 401080,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-20 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-20 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ8】「プラネタリウム・レヴュー」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401090,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 10,
+        "Stages" : 
+        [
+            {
+                "Id" : 401090,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-20 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-20 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【IDOLY PRIDEコラボ9】「デアエ・エクス・マキナ！」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 11,
+        "Stages" : 
+        [
+            {
+                "Id" : 401100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-05-20 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-20 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "IDOLY PRIDEコラボ限定ミッション1～9を全てクリアしよう",
+        "EndDate" : "2025-05-31 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 401110,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 12,
+        "Stages" : 
+        [
+            {
+                "Id" : 401110,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 330290,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Poster"
+                    }
+                ],
+                "StageGoalValue" : 9,
+                "StartDate" : "2025-05-15 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-15 17:00:00",
         "Title" : ""
     }
 ]

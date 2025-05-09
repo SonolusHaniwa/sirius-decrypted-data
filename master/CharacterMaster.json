@@ -6476,6 +6476,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 130881,
+        "BloomBonusGroupMasterId" : 30002,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7510,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 34,
+        "CharacterBaseMasterId" : 205,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 341,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130880,
+        "LeaderSenseMasterId" : 53,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 101,
+            "Expression" : 85,
+            "Vocal" : 84
+        },
+        "Name" : "ピースメーカーは追い求める",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 342,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130880,
+        "StarActMasterId" : 130881,
+        "UnlockText" : "イベント(コラボ)で入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -12150,8 +12203,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141010,
         "LeaderSenseMasterId" : 160,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-15 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 121,
@@ -12500,8 +12553,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141070,
         "LeaderSenseMasterId" : 166,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-15 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 91,
@@ -12785,8 +12838,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141120,
         "LeaderSenseMasterId" : 169,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-15 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 108,
@@ -13249,8 +13302,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141200,
         "LeaderSenseMasterId" : 176,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-15 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 118,
@@ -15816,5 +15869,119 @@
         "SenseMasterId" : 141640,
         "StarActMasterId" : 141641,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141651,
+        "BloomBonusGroupMasterId" : 40165,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7510,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 201,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141650,
+        "LeaderSenseMasterId" : 203,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-10 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 166,
+            "Expression" : 119,
+            "Vocal" : 98
+        },
+        "Name" : "燃え尽きぬ復讐の炎",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141650,
+        "StarActMasterId" : 141651,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141661,
+        "BloomBonusGroupMasterId" : 40166,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7510,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 202,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141660,
+        "LeaderSenseMasterId" : 217,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-10 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 96,
+            "Expression" : 165,
+            "Vocal" : 122
+        },
+        "Name" : "夢現に絡めとられて",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141660,
+        "StarActMasterId" : 141661,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
     }
 ]

@@ -52253,7 +52253,7 @@
         "DurationSecond" : 0,
         "FireTimingType" : "Passive",
         "Id" : 1000080,
-        "Range" : "None",
+        "Range" : "Self",
         "Triggers" : [],
         "Type" : "PerformanceUp"
     },
@@ -52359,7 +52359,7 @@
         "DurationSecond" : 0,
         "FireTimingType" : "Passive",
         "Id" : 1000100,
-        "Range" : "None",
+        "Range" : "Self",
         "Triggers" : [],
         "Type" : "ExpressionUp"
     },
@@ -52465,7 +52465,7 @@
         "DurationSecond" : 0,
         "FireTimingType" : "Passive",
         "Id" : 1000120,
-        "Range" : "None",
+        "Range" : "Self",
         "Triggers" : 
         [
             {
@@ -76163,6 +76163,81 @@
             {
                 "Trigger" : "Company",
                 "Value" : 900
+            }
+        ],
+        "Type" : "AddSenseLightSelf"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 8,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 9,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 10,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 11,
+                "Value" : 1.0
+            },
+            {
+                "Level" : 12,
+                "Value" : 2.0
+            },
+            {
+                "Level" : 13,
+                "Value" : 2.0
+            },
+            {
+                "Level" : 14,
+                "Value" : 2.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 11820200,
+        "Range" : "Self",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 2
             }
         ],
         "Type" : "AddSenseLightSelf"

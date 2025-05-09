@@ -4480,7 +4480,7 @@
         "UnlockText" : "ガチャ(期間限定)で入手"
     },
     {
-        "AppearanceCharacterBaseMasterIds" : [ 105, 106 ],
+        "AppearanceCharacterBaseMasterIds" : [ 103, 105, 106 ],
         "Costumes" : 
         [
             {
@@ -4886,6 +4886,30 @@
         "SubTitlePositionY2" : null,
         "SubTitlePositionY3" : null,
         "UnlockText" : "特別な方法で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 203, 204 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-10 17:00:00",
+        "Id" : 320170,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "Chuning (your) Rhythm !",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "Chuning your Rhythm",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 512.00999999999999,
+        "SubTitlePositionX2" : 0.0,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.02,
+        "SubTitlePositionY2" : 0.0,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "イベント(コラボ)で入手"
     },
     {
         "AppearanceCharacterBaseMasterIds" : [ 401, 403 ],
@@ -5736,6 +5760,138 @@
         "SubTitlePositionY2" : null,
         "SubTitlePositionY3" : null,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 202 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 3071,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 3081,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 3091,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 3101,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-10 17:00:00",
+        "Id" : 330270,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "ふぁんしー・きゅーと・ラヴ",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "ふぁんしーきゅーとらヴ",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 512.0,
+        "SubTitlePositionX2" : 1024.1199999999999,
+        "SubTitlePositionX3" : 0.0,
+        "SubTitlePositionY1" : 1024.02,
+        "SubTitlePositionY2" : 128.0,
+        "SubTitlePositionY3" : 512.00999999999999,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 104, 201, 303, 404 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 3111,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 3121,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 3131,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 3141,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-10 17:00:00",
+        "Id" : 330280,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "CHUNITHMコラボ",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "CHUNITHMこらぼ",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 128.0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 256.0,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 101 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-15 12:00:00",
+        "Id" : 330290,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "Crossing VENUS",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "Crossing VENUS",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 0.0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0.0,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "特別な方法で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 101, 201, 301, 401 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-15 12:00:00",
+        "Id" : 330300,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "IDOLY PRIDEコラボ",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Landscape",
+        "PronounceName" : "IDOLY PRIDEこらぼ",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 0.0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0.0,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "特別な方法で入手"
     },
     {
         "AppearanceCharacterBaseMasterIds" : [ 101 ],
