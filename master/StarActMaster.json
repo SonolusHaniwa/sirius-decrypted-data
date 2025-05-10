@@ -5956,12 +5956,89 @@
     },
     {
         "AcquirableScorePercent" : 970,
-        "BranchCondition1" : "None",
+        "BranchCondition1" : "StorageSenseLightCount",
         "BranchCondition2" : "None",
-        "Branches" : [],
-        "ConditionValue1" : null,
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19026,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14165101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19027,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14165102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19028,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14165103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19029,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14165104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19030,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14165105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 5,
         "ConditionValue2" : null,
-        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている全ての光1個につき総演技力の[:param11]倍のスコアを獲得(最大5個)",
         "Id" : 141651,
         "Name" : "",
         "PreEffects" : [],
