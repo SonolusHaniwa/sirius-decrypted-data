@@ -1818,5 +1818,75 @@
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 22001,
+                "LiveMasterId" : 11304,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 22002,
+                "LiveMasterId" : 20304,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 22003,
+                "LiveMasterId" : 5004,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-06-02 00:00:00",
+        "Id" : 220,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第11回 ウィークリーコース【STELLA部門】",
+        "Order" : 21,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-05-26 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 22101,
+                "LiveMasterId" : 11205,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 22102,
+                "LiveMasterId" : 20305,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 22103,
+                "LiveMasterId" : 8505,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-06-02 00:00:00",
+        "Id" : 221,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第11回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 22,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-05-26 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
     }
 ]

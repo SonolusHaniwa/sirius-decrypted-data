@@ -2831,6 +2831,23 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 410,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得",
+        "Id" : 130890,
+        "LightCount" : 1,
+        "Name" : "料理も一流……？",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -8095,6 +8112,194 @@
         "Name" : "夢現に絡めとられて",
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 670,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21009,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416701,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21010,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416702,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21011,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416703,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21012,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416704,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21013,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416705,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 3,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／銀河座アクターのCTを、編成されている銀河座アクターの人数×2秒短縮",
+        "Id" : 141670,
+        "LightCount" : 2,
+        "Name" : "調合が味の秘訣",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 120,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20085,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416801,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20086,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416802,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20087,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416803,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20088,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416804,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20089,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416805,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 3,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／編成されている銀河座アクターの人数×20プリンシパルゲージを獲得",
+        "Id" : 141680,
+        "LightCount" : 1,
+        "Name" : "マジカル・ティーサーブ！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
         "Type" : "Amplification"
     }
 ]

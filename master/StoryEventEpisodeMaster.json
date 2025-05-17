@@ -3958,5 +3958,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20055,
         "Title" : "ネバーエンド・ネバーランド"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005601,
+        "Id" : 2005601,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20056,
+        "Title" : "彼女はそれでも休まない"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005602,
+        "Id" : 2005602,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005601,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20056,
+        "Title" : "私たちができること"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005603,
+        "Id" : 2005603,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005602,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20056,
+        "Title" : "私たち、アルバイト"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005604,
+        "Id" : 2005604,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005603,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20056,
+        "Title" : "そううまくはいかない"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005605,
+        "Id" : 2005605,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005604,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20056,
+        "Title" : "みんなで作る銀河座弁当"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005606,
+        "Id" : 2005606,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005605,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20056,
+        "Title" : "雪だからこそ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005607,
+        "Id" : 2005607,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005606,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20056,
+        "Title" : "ワタシにはお節介な弁当"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005608,
+        "Id" : 2005608,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005607,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20056,
+        "Title" : "ありがとうって言いたくて"
     }
 ]

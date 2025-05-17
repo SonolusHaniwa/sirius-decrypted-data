@@ -6529,6 +6529,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 130891,
+        "BloomBonusGroupMasterId" : 30004,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7056,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 31,
+        "CharacterBaseMasterId" : 301,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 311,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130890,
+        "LeaderSenseMasterId" : 124,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 90,
+            "Expression" : 93,
+            "Vocal" : 87
+        },
+        "Name" : "料理も一流……？",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 312,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130890,
+        "StarActMasterId" : 130891,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -8582,8 +8635,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140360,
         "LeaderSenseMasterId" : 120,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-20 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 124,
@@ -8700,8 +8753,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140380,
         "LeaderSenseMasterId" : 92,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-20 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 142,
@@ -10364,8 +10417,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140700,
         "LeaderSenseMasterId" : 129,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-20 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 94,
@@ -10897,8 +10950,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140790,
         "LeaderSenseMasterId" : 105,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-05-20 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 124,
@@ -15983,5 +16036,119 @@
         "SenseMasterId" : 141660,
         "StarActMasterId" : 141661,
         "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141671,
+        "BloomBonusGroupMasterId" : 40167,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7056,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4003,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 303,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141670,
+        "LeaderSenseMasterId" : 14,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 82,
+            "Expression" : 173,
+            "Vocal" : 90
+        },
+        "Name" : "調合が味の秘訣",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141670,
+        "StarActMasterId" : 141671,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141681,
+        "BloomBonusGroupMasterId" : 40168,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7056,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 305,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141680,
+        "LeaderSenseMasterId" : 190,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 76,
+            "Expression" : 86,
+            "Vocal" : 194
+        },
+        "Name" : "マジカル・ティーサーブ！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141680,
+        "StarActMasterId" : 141681,
+        "UnlockText" : "ガチャで入手"
     }
 ]
