@@ -16641,6 +16641,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「ハオダー？ハオアー！-好的？好啊！-」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 38900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 38900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-05-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「ハオダー？ハオアー！-好的？好啊！-」を[:param]回クリアしよう",
+        "EndDate" : "2025-05-31 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 39000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 22,
+        "Stages" : 
+        [
+            {
+                "Id" : 39000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-05-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
