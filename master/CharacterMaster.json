@@ -6582,6 +6582,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 130901,
+        "BloomBonusGroupMasterId" : 30003,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7057,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 32,
+        "CharacterBaseMasterId" : 202,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 321,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130900,
+        "LeaderSenseMasterId" : 53,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 79,
+            "Expression" : 103,
+            "Vocal" : 88
+        },
+        "Name" : "主の過去を知り……",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 322,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130900,
+        "StarActMasterId" : 130901,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -9892,8 +9945,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140570,
         "LeaderSenseMasterId" : 36,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-03 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 87,
@@ -11829,8 +11882,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140940,
         "LeaderSenseMasterId" : 66,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-03 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 94,
@@ -11894,8 +11947,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140950,
         "LeaderSenseMasterId" : 73,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-03 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 85,
@@ -14124,8 +14177,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141330,
         "LeaderSenseMasterId" : 189,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-03 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 106,
@@ -16150,5 +16203,119 @@
         "SenseMasterId" : 141680,
         "StarActMasterId" : 141681,
         "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141691,
+        "BloomBonusGroupMasterId" : 40169,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7057,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8002,
+                "IsAwaken" : true
+            },
+            {
+                "CategoryMasterId" : 6010,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 201,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141690,
+        "LeaderSenseMasterId" : 218,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 163,
+            "Expression" : 120,
+            "Vocal" : 100
+        },
+        "Name" : "賢王は泰平を見る",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141690,
+        "StarActMasterId" : 141691,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141701,
+        "BloomBonusGroupMasterId" : 40170,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7057,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            },
+            {
+                "CategoryMasterId" : 6010,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 203,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-05-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141700,
+        "LeaderSenseMasterId" : 219,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 108,
+            "Expression" : 155,
+            "Vocal" : 117
+        },
+        "Name" : "摂政は謎を読み解いて",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141700,
+        "StarActMasterId" : 141701,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]

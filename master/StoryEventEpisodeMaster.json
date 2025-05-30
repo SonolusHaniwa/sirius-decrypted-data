@@ -4030,5 +4030,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20056,
         "Title" : "ありがとうって言いたくて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005701,
+        "Id" : 2005701,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20057,
+        "Title" : "千秋楽の後に"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005702,
+        "Id" : 2005702,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005701,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20057,
+        "Title" : "集まりの誘い"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005703,
+        "Id" : 2005703,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005702,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20057,
+        "Title" : "実家の味"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005704,
+        "Id" : 2005704,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005703,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20057,
+        "Title" : "思い出をなぞる"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005705,
+        "Id" : 2005705,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005704,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20057,
+        "Title" : "変わらず見ていて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005706,
+        "Id" : 2005706,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005705,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20057,
+        "Title" : "あくる日のことを見せあって"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005707,
+        "Id" : 2005707,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005706,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20057,
+        "Title" : "こぼれる涙"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005708,
+        "Id" : 2005708,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005707,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20057,
+        "Title" : "変わった私のやりたいこと"
     }
 ]

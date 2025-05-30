@@ -2847,6 +2847,23 @@
         "Type" : "Special"
     },
     {
+        "AcquirableGauge" : 80,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130900,
+        "LightCount" : 1,
+        "Name" : "主の過去を知り……",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
@@ -8301,5 +8318,133 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 70,
         "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 100,
+        "AcquirableScorePercent" : 160,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20203,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1416901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／[:sec]秒間、Edenのアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141690,
+        "LightCount" : 1,
+        "Name" : "賢王は泰平を見る",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29111,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417001,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29112,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417002,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29113,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417003,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417004,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29115,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417005,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／付与されているライフガード1回につきプリンシパルゲージの上限値が20上昇（最大+100）",
+        "Id" : 141700,
+        "LightCount" : 2,
+        "Name" : "摂政は謎を読み解いて",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
     }
 ]

@@ -16701,6 +16701,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「Dear My Eden」を[:param]回クリアしよう",
+        "EndDate" : "2025-06-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 39100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 39100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-05-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Dear My Eden」を[:param]回クリアしよう",
+        "EndDate" : "2025-06-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 39200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 22,
+        "Stages" : 
+        [
+            {
+                "Id" : 39200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-05-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-05-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -22567,6 +22627,156 @@
             }
         ],
         "StartDate" : "2025-05-15 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2025-06-15 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401120,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 13,
+        "Stages" : 
+        [
+            {
+                "Id" : 401120,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137005,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-06-03 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-03 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2025-06-15 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401130,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 14,
+        "Stages" : 
+        [
+            {
+                "Id" : 401130,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137005,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2025-06-03 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-03 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2025-06-15 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401140,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 15,
+        "Stages" : 
+        [
+            {
+                "Id" : 401140,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137005,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2025-06-03 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-03 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2025-06-15 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401150,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 16,
+        "Stages" : 
+        [
+            {
+                "Id" : 401150,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137005,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 200,
+                "StartDate" : "2025-06-03 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-03 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2025-06-15 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401160,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17,
+        "Stages" : 
+        [
+            {
+                "Id" : 401160,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137005,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2025-06-03 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-03 17:00:00",
         "Title" : ""
     }
 ]

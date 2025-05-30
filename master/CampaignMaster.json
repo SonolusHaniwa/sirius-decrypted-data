@@ -662,6 +662,30 @@
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/3 17:00 ～ 6/11 17:00/n対象：公演、協力公演",
+        "EndDate" : "2025-06-11 17:00:00",
+        "IconImagePath" : "4",
+        "Id" : 57,
+        "Order" : 57,
+        "StartDate" : "2025-06-03 17:00:00",
+        "Title" : "公演の獲得EXP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "AccessoryDropRate",
+        "CampaignEffectValue" : 0,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/3 17:00 ～ 6/8 22:00/n対象：電姫空間",
+        "EndDate" : "2025-06-08 22:00:00",
+        "IconImagePath" : "1",
+        "Id" : 58,
+        "Order" : 58,
+        "StartDate" : "2025-06-03 17:00:00",
+        "Title" : "アクセサリーのドロップ率 50%UP"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
         "Description" : "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",
         "EndDate" : "2100-01-01 00:00:00",
