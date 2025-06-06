@@ -5800,6 +5800,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70022004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 22077001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 0,
+        "Hidden" : false,
+        "Id" : 220770,
+        "Name" : "June Bridal Working!",
+        "PosterMasterId" : 220770,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70041003,
                         "Order" : 1
                     }
@@ -12438,6 +12470,38 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 34014001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340140,
+        "Name" : "誰よりも早く先駆け、魅せて",
+        "PosterMasterId" : 340140,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 34015001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -15942,6 +16006,70 @@
         "Id" : 2207602,
         "Name" : "初期P.ゲージ上昇",
         "PosterMasterId" : 220760,
+        "ReleaseLevelAt" : 7,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10110004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220770101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の歌唱力が[:param11]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2207701,
+        "Name" : "歌唱力アップ",
+        "PosterMasterId" : 220770,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10910004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 220770201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2207702,
+        "Name" : "スコアブースト・歌唱力",
+        "PosterMasterId" : 220770,
         "ReleaseLevelAt" : 7,
         "Type" : "Normal"
     },
@@ -25050,6 +25178,102 @@
         "Id" : 3401303,
         "Name" : "「光」追加（SP）",
         "PosterMasterId" : 340130,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10030303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340140101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：雪が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3401401,
+        "Name" : "演技力アップⅢ",
+        "PosterMasterId" : 340140,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11410303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340140201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、Pゲージを[:param11]獲得　◆発動条件：雪が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3401402,
+        "Name" : "P.ゲージブースト＋",
+        "PosterMasterId" : 340140,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11910303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340140301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、SP光を[:param11]付与（効果は公演開始時1回のみ発動する）◆発動条件：雪が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3401403,
+        "Name" : "「光」追加（SP）",
+        "PosterMasterId" : 340140,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },

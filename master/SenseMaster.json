@@ -2864,6 +2864,23 @@
         "Type" : "Amplification"
     },
     {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+        "Id" : 130910,
+        "LightCount" : 1,
+        "Name" : "空想式場",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 220,
         "BranchCondition1" : "None",
@@ -8446,5 +8463,79 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 28006,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+        "Id" : 141710,
+        "LightCount" : 0,
+        "Name" : "ロイヤル・ウェディング！",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 20024,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "Alternative"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20404,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:sec]秒間、劇団電姫のアクターにスターアクトスコア[:param11]％UP効果",
+        "Id" : 141720,
+        "LightCount" : 1,
+        "Name" : "バラ園の中、花嫁は笑う",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
     }
 ]

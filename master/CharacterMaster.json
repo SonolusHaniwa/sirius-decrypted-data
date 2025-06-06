@@ -6635,6 +6635,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 130911,
+        "BloomBonusGroupMasterId" : 30002,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8006,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7511,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 34,
+        "CharacterBaseMasterId" : 304,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 341,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130910,
+        "LeaderSenseMasterId" : 81,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 106,
+            "Expression" : 86,
+            "Vocal" : 78
+        },
+        "Name" : "空想式場",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 342,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130910,
+        "StarActMasterId" : 130911,
+        "UnlockText" : "イベントで入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -10527,8 +10580,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140710,
         "LeaderSenseMasterId" : 51,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-17 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 107,
@@ -11353,8 +11406,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140850,
         "LeaderSenseMasterId" : 101,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-17 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 86,
@@ -12008,8 +12061,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140960,
         "LeaderSenseMasterId" : 123,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-17 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 107,
@@ -12773,8 +12826,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141090,
         "LeaderSenseMasterId" : 71,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-17 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 149,
@@ -16317,5 +16370,119 @@
         "SenseMasterId" : 141700,
         "StarActMasterId" : 141701,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141711,
+        "BloomBonusGroupMasterId" : 40171,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7511,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 102,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141710,
+        "LeaderSenseMasterId" : 220,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 87,
+            "Expression" : 171,
+            "Vocal" : 85
+        },
+        "Name" : "ロイヤル・ウェディング！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141710,
+        "StarActMasterId" : 141711,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 141721,
+        "BloomBonusGroupMasterId" : 40172,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4006,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7511,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 44,
+        "CharacterBaseMasterId" : 402,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141720,
+        "LeaderSenseMasterId" : 190,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 88,
+            "Expression" : 87,
+            "Vocal" : 167
+        },
+        "Name" : "バラ園の中、花嫁は笑う",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141720,
+        "StarActMasterId" : 141721,
+        "UnlockText" : "ガチャで入手"
     }
 ]

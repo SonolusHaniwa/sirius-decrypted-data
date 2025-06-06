@@ -6555,5 +6555,38 @@
             }
         ],
         "Id" : 219
+    },
+    {
+        "Description" : "「高校生」カテゴリの演技力30%上昇、「ファッション」カテゴリの表現力20％上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 1003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12004
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 3006,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12011
+            }
+        ],
+        "Id" : 220
     }
 ]
