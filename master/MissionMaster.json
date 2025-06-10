@@ -16761,6 +16761,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「Sunny day in June.」を[:param]回クリアしよう",
+        "EndDate" : "2025-06-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 39300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 39300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-06-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Sunny day in June.」を[:param]回クリアしよう",
+        "EndDate" : "2025-06-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 39400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 39400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-06-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "シリウスに所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
         "EndDate" : "2025-06-12 05:00:00",
         "EventMasterId" : null,
@@ -16971,7 +17031,7 @@
     },
     {
         "ComebackCampaignMasterId" : null,
-        "Description" : "銀河座に所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
+        "Description" : "劇団電姫に所属するアクターのみが歌唱する楽曲を[:param]回クリアしよう",
         "EndDate" : "2025-06-18 22:00:00",
         "EventMasterId" : null,
         "Id" : 40700,
