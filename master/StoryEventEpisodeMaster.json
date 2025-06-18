@@ -4102,5 +4102,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20057,
         "Title" : "変わった私のやりたいこと"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005801,
+        "Id" : 2005801,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20058,
+        "Title" : "大洗女子学園に体験入学です！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005802,
+        "Id" : 2005802,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2005801,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20058,
+        "Title" : "演習場で交流です！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005803,
+        "Id" : 2005803,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2005802,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20058,
+        "Title" : "初めての戦車です！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005804,
+        "Id" : 2005804,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2005803,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20058,
+        "Title" : "戦車、乗ります！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005805,
+        "Id" : 2005805,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2005804,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20058,
+        "Title" : "試合開始です！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005806,
+        "Id" : 2005806,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2005805,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20058,
+        "Title" : "狙い撃ちです！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005807,
+        "Id" : 2005807,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2005806,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20058,
+        "Title" : "ハプニングです……！？"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2005808,
+        "Id" : 2005808,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2005807,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20058,
+        "Title" : "見つけます！　僕の戦車道！"
     }
 ]

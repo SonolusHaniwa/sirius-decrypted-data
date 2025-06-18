@@ -6688,6 +6688,59 @@
     },
     {
         "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 130921,
+        "BloomBonusGroupMasterId" : 30001,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7058,
+                "IsAwaken" : false
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 31,
+        "CharacterBaseMasterId" : 403,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 311,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 130920,
+        "LeaderSenseMasterId" : 11,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 91,
+            "Expression" : 91,
+            "Vocal" : 88
+        },
+        "Name" : "演習の後はひとやすみ",
+        "Rarity" : "Rare3",
+        "SecondEpisodeReleaseItemGroupId" : 312,
+        "SenseEnhanceItemGroupMasterId" : 3,
+        "SenseMasterId" : 130920,
+        "StarActMasterId" : 130921,
+        "UnlockText" : "イベント(コラボ)で入手"
+    },
+    {
+        "AssetId" : null,
         "Attribute" : "Colorful",
         "AwakenStarActMasterId" : 140011,
         "BloomBonusGroupMasterId" : 40001,
@@ -12305,8 +12358,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141000,
         "LeaderSenseMasterId" : 159,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-24 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 95,
@@ -12655,8 +12708,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141060,
         "LeaderSenseMasterId" : 165,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-24 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 145,
@@ -13054,8 +13107,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141130,
         "LeaderSenseMasterId" : 170,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-24 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 119,
@@ -14344,8 +14397,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141350,
         "LeaderSenseMasterId" : 191,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-24 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 100,
@@ -16484,5 +16537,119 @@
         "SenseMasterId" : 141720,
         "StarActMasterId" : 141721,
         "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141731,
+        "BloomBonusGroupMasterId" : 40173,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7058,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8005,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 401,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141730,
+        "LeaderSenseMasterId" : 221,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-20 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 116,
+            "Expression" : 104,
+            "Vocal" : 161
+        },
+        "Name" : "雨上がりのアキバ・ウォー！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141730,
+        "StarActMasterId" : 141731,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141741,
+        "BloomBonusGroupMasterId" : 40174,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7058,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 404,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141740,
+        "LeaderSenseMasterId" : 210,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-06-20 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 133,
+            "Expression" : 134,
+            "Vocal" : 109
+        },
+        "Name" : "作戦立案中です！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141740,
+        "StarActMasterId" : 141741,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
     }
 ]

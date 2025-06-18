@@ -5026,6 +5026,30 @@
         "UnlockText" : "イベント(コラボ)で入手"
     },
     {
+        "AppearanceCharacterBaseMasterIds" : [ 401 ],
+        "Costumes" : [],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-20 17:00:00",
+        "Id" : 320180,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 2,
+        "Name" : "みんなで「ノリノリ」作戦です！",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "みんなでのりのりさくせんです！",
+        "Rarity" : "SR",
+        "ReleaseItemGroupId" : 2,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 512.02999999999997,
+        "SubTitlePositionX2" : 1024.0899999999999,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 1024.02,
+        "SubTitlePositionY2" : 0.0,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "イベント(コラボ)で入手"
+    },
+    {
         "AppearanceCharacterBaseMasterIds" : [ 401, 403 ],
         "Costumes" : [],
         "DisplayEndAt" : "2100-01-01 00:00:00",
@@ -6006,6 +6030,82 @@
         "SubTitlePositionY2" : null,
         "SubTitlePositionY3" : null,
         "UnlockText" : "特別な方法で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 103, 201, 205, 301, 303, 401 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 3181,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 3191,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : 3201,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : 3211,
+                "Phase" : 3
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-20 17:00:00",
+        "Id" : 330310,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "立ちはだかる強豪の先で",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "たちはだかるきょうごうのさきで",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 256.00999999999999,
+        "SubTitlePositionX2" : 0.0,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0.0,
+        "SubTitlePositionY2" : 0.0,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AppearanceCharacterBaseMasterIds" : [ 401, 402, 403, 404, 405 ],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : 3221,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : 3231,
+                "Phase" : 1
+            }
+        ],
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-20 17:00:00",
+        "Id" : 330320,
+        "IsRestrictItemBreakThrough" : false,
+        "LevelPatternGroupMasterId" : 3,
+        "Name" : "ガールズ＆パンツァー 最終章コラボ",
+        "OrganizeRestrictGroupId" : null,
+        "Orientation" : "Portrait",
+        "PronounceName" : "がーるず＆ぱんつぁーさいしゅうしょうこらぼ",
+        "Rarity" : "SSR",
+        "ReleaseItemGroupId" : 3,
+        "SubTitleDisplayCondition" : "None",
+        "SubTitleDisplayConditionValue" : null,
+        "SubTitlePositionX1" : 0.0,
+        "SubTitlePositionX2" : null,
+        "SubTitlePositionX3" : null,
+        "SubTitlePositionY1" : 0.0,
+        "SubTitlePositionY2" : null,
+        "SubTitlePositionY3" : null,
+        "UnlockText" : "ガチャ(コラボ限定)で入手"
     },
     {
         "AppearanceCharacterBaseMasterIds" : [ 101 ],
