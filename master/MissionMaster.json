@@ -23386,5 +23386,335 @@
         ],
         "StartDate" : "2025-06-03 17:00:00",
         "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ1】「DreamRiser」を[:param]回クリアしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401170,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 401170,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120003,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ2】劇団電姫のアクターの合計レベルを50にしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401180,
+        "JumpTargetId" : null,
+        "JumpType" : "Member",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 2,
+        "Stages" : 
+        [
+            {
+                "Id" : 401180,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130051,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ3】アクターを1人覚醒しよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401190,
+        "JumpTargetId" : null,
+        "JumpType" : "Member",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 3,
+        "Stages" : 
+        [
+            {
+                "Id" : 401190,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130041,
+                        "ThingQuantity" : 250,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ4】『みんなで「ノリノリ」作戦です！』を全て読了しよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401200,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 4,
+        "Stages" : 
+        [
+            {
+                "Id" : 401200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510002,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ5】フォトを[:param]枚現像しよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401210,
+        "JumpTargetId" : null,
+        "JumpType" : "Photo",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 5,
+        "Stages" : 
+        [
+            {
+                "Id" : 401210,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130025,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ6】稽古を[:param]回プレイしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401220,
+        "JumpTargetId" : null,
+        "JumpType" : "22",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 6,
+        "Stages" : 
+        [
+            {
+                "Id" : 401220,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130061,
+                        "ThingQuantity" : 400,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ7】「Enter Enter MISSION！」を[:param]回クリアしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401230,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 7,
+        "Stages" : 
+        [
+            {
+                "Id" : 401230,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130001,
+                        "ThingQuantity" : 30,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ガールズ＆パンツァー 最終章コラボ8】 劇団電姫に所属するアクターが歌唱する楽曲を[:param]回クリアしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401240,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 8,
+        "Stages" : 
+        [
+            {
+                "Id" : 401240,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110001,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ガールズ＆パンツァー 最終章コラボ限定ミッション1～8のうち、いずれか5つをクリアしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401250,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 9,
+        "Stages" : 
+        [
+            {
+                "Id" : 401250,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 81006,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ガールズ＆パンツァー 最終章コラボ限定ミッション1～8のうち、いずれか6つをクリアしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401260,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 10,
+        "Stages" : 
+        [
+            {
+                "Id" : 401260,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 81007,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 6,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ガールズ＆パンツァー 最終章コラボ限定ミッション1～8を全てクリアしよう",
+        "EndDate" : "2025-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401270,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 11,
+        "Stages" : 
+        [
+            {
+                "Id" : 401270,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2025-06-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
     }
 ]
