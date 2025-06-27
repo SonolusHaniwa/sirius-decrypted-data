@@ -720,6 +720,18 @@
         "Title" : "稽古の回数 +1回"
     },
     {
+        "CampaignEffectType" : "AccessoryDropRate",
+        "CampaignEffectValue" : 0,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/30 17:00 ～ 7/8 22:00/n対象：電姫空間",
+        "EndDate" : "2025-07-08 22:00:00",
+        "IconImagePath" : "1",
+        "Id" : 62,
+        "Order" : 62,
+        "StartDate" : "2025-06-30 17:00:00",
+        "Title" : "アクセサリーのドロップ率 50%UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
@@ -778,5 +790,29 @@
         "Order" : 1004,
         "StartDate" : "2024-11-20 05:00:00",
         "Title" : "稽古の獲得SP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 2,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ユメステデー！ 開催中！/n期間：7/7 5:00 ～ 7/8 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-07-08 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 2001,
+        "Order" : 2001,
+        "StartDate" : "2025-07-07 05:00:00",
+        "Title" : "稽古の回数 +2回"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ユメステデー！ 開催中！/n期間：7/7 5:00 ～ 7/8 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-07-08 05:00:00",
+        "IconImagePath" : "4",
+        "Id" : 2002,
+        "Order" : 2002,
+        "StartDate" : "2025-07-07 05:00:00",
+        "Title" : "公演の獲得EXP 50％UP"
     }
 ]

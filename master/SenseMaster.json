@@ -8622,5 +8622,208 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 40,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29130,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417501,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29131,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417502,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29132,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417503,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29133,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417504,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29134,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417505,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29135,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417506,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29136,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417507,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 7,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29137,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417508,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29138,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417509,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 9,
+                "Parameter1" : 9,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29139,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417510,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 10,
+                "Parameter1" : 10,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／センス発動時に、追加で「増幅の光」を1個獲得する／付与されているライフガード1回につきスコア獲得量8％上昇（最大＋80％）</size>",
+        "Id" : 141750,
+        "LightCount" : 1,
+        "Name" : "アーサー王のお通りよ！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 90,
+        "AcquirableScorePercent" : 170,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20082,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417601,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得</size>",
+        "Id" : 141760,
+        "LightCount" : 2,
+        "Name" : "お待ちしてました、勇者様♪",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
     }
 ]

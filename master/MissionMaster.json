@@ -17369,6 +17369,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「SECRET TRAINING!!!!」を[:param]回クリアしよう",
+        "EndDate" : "2025-07-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 41500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 29,
+        "Stages" : 
+        [
+            {
+                "Id" : 41500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-06-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「SECRET TRAINING!!!!」を[:param]回クリアしよう",
+        "EndDate" : "2025-07-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 41600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 30,
+        "Stages" : 
+        [
+            {
+                "Id" : 41600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-06-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-06-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -23715,6 +23775,96 @@
             }
         ],
         "StartDate" : "2025-06-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ユメステデー】ログインしよう",
+        "EndDate" : "2025-07-08 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 700001,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 1,
+        "Stages" : 
+        [
+            {
+                "Id" : 700001,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130071,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-07-07 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-07 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
+        "EndDate" : "2025-07-08 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 700002,
+        "JumpTargetId" : null,
+        "JumpType" : "22",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 2,
+        "Stages" : 
+        [
+            {
+                "Id" : 700002,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 215001,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 2,
+                "StartDate" : "2025-07-07 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-07 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
+        "EndDate" : "2025-07-08 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 700003,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 3,
+        "Stages" : 
+        [
+            {
+                "Id" : 700003,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 215002,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-07-07 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-07 05:00:00",
         "Title" : ""
     }
 ]

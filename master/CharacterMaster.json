@@ -12594,8 +12594,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141040,
         "LeaderSenseMasterId" : 162,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-01 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 146,
@@ -14169,8 +14169,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141310,
         "LeaderSenseMasterId" : 188,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-01 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 126,
@@ -14226,8 +14226,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141320,
         "LeaderSenseMasterId" : 164,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-01 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 154,
@@ -14340,8 +14340,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141340,
         "LeaderSenseMasterId" : 190,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-01 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 96,
@@ -16651,5 +16651,119 @@
         "SenseMasterId" : 141740,
         "StarActMasterId" : 141741,
         "UnlockText" : "ガチャ(コラボ限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141751,
+        "BloomBonusGroupMasterId" : 40175,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7059,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 205,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141750,
+        "LeaderSenseMasterId" : 223,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 107,
+            "Expression" : 148,
+            "Vocal" : 123
+        },
+        "Name" : "アーサー王のお通りよ！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141750,
+        "StarActMasterId" : 141751,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141761,
+        "BloomBonusGroupMasterId" : 40176,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7059,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8006,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 104,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-06-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141760,
+        "LeaderSenseMasterId" : 222,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 129,
+            "Expression" : 104,
+            "Vocal" : 146
+        },
+        "Name" : "お待ちしてました、勇者様♪",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141760,
+        "StarActMasterId" : 141761,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     }
 ]
