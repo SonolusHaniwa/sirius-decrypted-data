@@ -4637,7 +4637,29 @@
     },
     {
         "AppearanceCharacterBaseMasterIds" : [ 201 ],
-        "Costumes" : [],
+        "Costumes" : 
+        [
+            {
+                "CostumeMasterId" : null,
+                "Phase" : 0
+            },
+            {
+                "CostumeMasterId" : null,
+                "Phase" : 1
+            },
+            {
+                "CostumeMasterId" : null,
+                "Phase" : 2
+            },
+            {
+                "CostumeMasterId" : null,
+                "Phase" : 3
+            },
+            {
+                "CostumeMasterId" : null,
+                "Phase" : 4
+            }
+        ],
         "DisplayEndAt" : "2100-01-01 00:00:00",
         "DisplayStartAt" : "2025-06-30 17:00:00",
         "Id" : 230670,
