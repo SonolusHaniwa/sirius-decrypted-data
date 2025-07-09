@@ -8825,5 +8825,56 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 50,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20096,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、プリンシパルゲージの上限値が[:param11]上昇",
+        "Id" : 141770,
+        "LightCount" : 2,
+        "Name" : "Tropical Spa Time",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 100,
+        "AcquirableScorePercent" : 180,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動時に、追加で「支配の光」を1個獲得する",
+        "Id" : 141780,
+        "LightCount" : 1,
+        "Name" : "Dive to Azure!",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
     }
 ]

@@ -11402,8 +11402,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140840,
         "LeaderSenseMasterId" : 112,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-15 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 114,
@@ -13164,8 +13164,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141140,
         "LeaderSenseMasterId" : 178,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-15 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 115,
@@ -15317,8 +15317,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141510,
         "LeaderSenseMasterId" : 205,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-15 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 161,
@@ -15374,8 +15374,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141520,
         "LeaderSenseMasterId" : 194,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-15 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 85,
@@ -16765,5 +16765,119 @@
         "SenseMasterId" : 141760,
         "StarActMasterId" : 141761,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141771,
+        "BloomBonusGroupMasterId" : 40177,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7512,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 403,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-07-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141770,
+        "LeaderSenseMasterId" : 224,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 174,
+            "Expression" : 81,
+            "Vocal" : 90
+        },
+        "Name" : "Tropical Spa Time",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141770,
+        "StarActMasterId" : 141771,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 141781,
+        "BloomBonusGroupMasterId" : 40178,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5007,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7512,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 204,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-07-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141780,
+        "LeaderSenseMasterId" : 225,
+        "MaxTalentStage" : 5,
+        "MaxTalentStageReleaseDate" : null,
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 85,
+            "Expression" : 173,
+            "Vocal" : 87
+        },
+        "Name" : "Dive to Azure!",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141780,
+        "StarActMasterId" : 141781,
+        "UnlockText" : "ガチャで入手"
     }
 ]
