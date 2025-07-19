@@ -8876,5 +8876,85 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 60,
         "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20097,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1417901,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "<size=25%>[:score]倍のスコアを獲得／センス発動後、プリンシパルゲージの上限値が[:param11]上昇／ぱんだが隣に編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 141790,
+        "LightCount" : 2,
+        "Name" : "動乱の街を駆け抜けて",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28007,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20036,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1418001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "<size=25%>[:score]倍のスコアを獲得／[:sec]秒間、シリウスのアクターにセンススコア[:param11]％UP効果／知冴が隣に編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 141800,
+        "LightCount" : 1,
+        "Name" : "恵みの雨の下で",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28008,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
     }
 ]

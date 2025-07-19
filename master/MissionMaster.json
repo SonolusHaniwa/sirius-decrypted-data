@@ -17857,6 +17857,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「愛に生きる喜びを」を[:param]回クリアしよう",
+        "EndDate" : "2025-07-31 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 42800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 31,
+        "Stages" : 
+        [
+            {
+                "Id" : 42800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-07-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「愛に生きる喜びを」を[:param]回クリアしよう",
+        "EndDate" : "2025-07-31 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 42900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 32,
+        "Stages" : 
+        [
+            {
+                "Id" : 42900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-07-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "「甲賀忍法帖」を[:param]回クリアしよう",
         "EndDate" : "2025-07-29 17:00:00",
         "EventMasterId" : null,
@@ -17913,6 +17973,388 @@
             }
         ],
         "StartDate" : "2025-07-19 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "メインストーリー シリウス第4章を8話まで読もう",
+        "EndDate" : "2025-07-31 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 44110,
+        "JumpTargetId" : null,
+        "JumpType" : "Story",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 15,
+        "Stages" : 
+        [
+            {
+                "Id" : 44110,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2025-07-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "メインストーリー シリウス第4章を[:param]話読もう",
+        "EndDate" : "2025-09-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 45800,
+        "JumpTargetId" : null,
+        "JumpType" : "Story",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 7,
+        "Stages" : 
+        [
+            {
+                "Id" : 45800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130041,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45801,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130061,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 2,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45802,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510001,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45803,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 4,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45804,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211001,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45805,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130042,
+                        "ThingQuantity" : 150,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 6,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45806,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130062,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 7,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45807,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45808,
+                "MissionStageOrder" : 9,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510002,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 9,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45809,
+                "MissionStageOrder" : 10,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45810,
+                "MissionStageOrder" : 11,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130041,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 11,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45811,
+                "MissionStageOrder" : 12,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 12,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45812,
+                "MissionStageOrder" : 13,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130042,
+                        "ThingQuantity" : 150,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 13,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45813,
+                "MissionStageOrder" : 14,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130063,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 14,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45814,
+                "MissionStageOrder" : 15,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510003,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 15,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45815,
+                "MissionStageOrder" : 16,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 16,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45816,
+                "MissionStageOrder" : 17,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 17,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45817,
+                "MissionStageOrder" : 18,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130064,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 18,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45818,
+                "MissionStageOrder" : 19,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211001,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 19,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45819,
+                "MissionStageOrder" : 20,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130043,
+                        "ThingQuantity" : 150,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45820,
+                "MissionStageOrder" : 21,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 21,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45821,
+                "MissionStageOrder" : 22,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510004,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 22,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45822,
+                "MissionStageOrder" : 23,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 23,
+                "StartDate" : "2025-07-20 17:00:00"
+            },
+            {
+                "Id" : 45823,
+                "MissionStageOrder" : 24,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 24,
+                "StartDate" : "2025-07-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-20 17:00:00",
         "Title" : ""
     },
     {
