@@ -6561,5 +6561,122 @@
         ],
         "ScoreUpPerLevel" : 120,
         "StarActConditionMasterId" : 101142
+    },
+    {
+        "AcquirableScorePercent" : 1310,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）",
+        "Id" : 150011,
+        "Name" : "",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 19051,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 140,
+        "StarActConditionMasterId" : 103132
+    },
+    {
+        "AcquirableScorePercent" : 1310,
+        "BranchCondition1" : "11",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19301,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15001201,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15001202,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15001203,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19304,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15001204,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19305,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15001205,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 7,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）／編成されているシリウス・銀河座アクター1人につきその時のスコアの1％のスコアを獲得",
+        "Id" : 150012,
+        "Name" : "",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 19053,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 140,
+        "StarActConditionMasterId" : 103132
     }
 ]

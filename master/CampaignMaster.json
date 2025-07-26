@@ -733,6 +733,18 @@
     },
     {
         "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 150,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：7/26 0:00 ～ 7/31 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-07-31 05:00:00",
+        "IconImagePath" : "4",
+        "Id" : 63,
+        "Order" : 63,
+        "StartDate" : "2025-07-26 00:00:00",
+        "Title" : "公演の獲得EXP 150％UP"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
         "Description" : "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",
@@ -837,6 +849,30 @@
         "Id" : 2004,
         "Order" : 2004,
         "StartDate" : "2025-07-17 05:00:00",
+        "Title" : "公演の獲得EXP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 2,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ユメステデー！ 開催中！/n期間：7/27 5:00 ～ 7/28 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-07-28 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 2005,
+        "Order" : 2005,
+        "StartDate" : "2025-07-27 05:00:00",
+        "Title" : "稽古の回数 +2回"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "ユメステデー！ 開催中！/n期間：7/27 5:00 ～ 7/28 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-07-28 05:00:00",
+        "IconImagePath" : "4",
+        "Id" : 2006,
+        "Order" : 2006,
+        "StartDate" : "2025-07-27 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     }
 ]

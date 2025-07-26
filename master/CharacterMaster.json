@@ -11516,8 +11516,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140860,
         "LeaderSenseMasterId" : 149,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 124,
@@ -11573,8 +11573,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140870,
         "LeaderSenseMasterId" : 130,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 96,
@@ -11634,8 +11634,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140880,
         "LeaderSenseMasterId" : 136,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 121,
@@ -11695,8 +11695,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 140890,
         "LeaderSenseMasterId" : 131,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 125,
@@ -12936,8 +12936,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141100,
         "LeaderSenseMasterId" : 167,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 120,
@@ -12993,8 +12993,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141110,
         "LeaderSenseMasterId" : 168,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 113,
@@ -13628,8 +13628,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141220,
         "LeaderSenseMasterId" : 171,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 117,
@@ -13685,8 +13685,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141230,
         "LeaderSenseMasterId" : 38,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 122,
@@ -17001,5 +17001,62 @@
         "SenseMasterId" : 141800,
         "StarActMasterId" : 141801,
         "UnlockText" : "ガチャ(ユメフェス)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cheerful",
+        "AwakenStarActMasterId" : 150012,
+        "BloomBonusGroupMasterId" : 40500,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8011,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8012,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8009,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 54,
+        "CharacterBaseMasterId" : 103,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-07-26 00:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 441,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 150010,
+        "LeaderSenseMasterId" : 228,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-26 00:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 133,
+            "Expression" : 141,
+            "Vocal" : 155
+        },
+        "Name" : "一度道を違えた絆でも",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 442,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 150010,
+        "StarActMasterId" : 150011,
+        "UnlockText" : "特別な方法で入手"
     }
 ]
