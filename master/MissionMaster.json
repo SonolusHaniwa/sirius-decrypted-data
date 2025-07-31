@@ -18419,6 +18419,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「黄昏時、夏の余韻」を[:param]回クリアしよう",
+        "EndDate" : "2025-08-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 45900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 29,
+        "Stages" : 
+        [
+            {
+                "Id" : 45900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-07-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「黄昏時、夏の余韻」を[:param]回クリアしよう",
+        "EndDate" : "2025-08-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 46000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 30,
+        "Stages" : 
+        [
+            {
+                "Id" : 46000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-07-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -25357,18 +25417,48 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "【250曲追加記念10】「黄昏時、夏の余韻」を[:param]回クリアしよう",
+        "EndDate" : "2025-08-05 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401420,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 51,
+        "Stages" : 
+        [
+            {
+                "Id" : 401420,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110003,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-07-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-07-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2025-07-08 05:00:00",
+        "EndDate" : "2025-08-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700001,
         "JumpTargetId" : null,
         "JumpType" : "None",
-        "MissionCategory" : "Limit",
+        "MissionCategory" : "6",
         "MissionViewOrder" : 1,
         "Stages" : 
         [
             {
-                "Id" : 700001,
+                "Id" : 7000011,
                 "MissionStageOrder" : 1,
                 "Rewards" : 
                 [
@@ -25379,70 +25469,70 @@
                     }
                 ],
                 "StageGoalValue" : 1,
-                "StartDate" : "2025-07-07 05:00:00"
+                "StartDate" : "2025-08-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-07-07 05:00:00",
+        "StartDate" : "2025-08-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2025-07-08 05:00:00",
+        "EndDate" : "2025-08-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700002,
         "JumpTargetId" : null,
         "JumpType" : "22",
-        "MissionCategory" : "Limit",
+        "MissionCategory" : "6",
         "MissionViewOrder" : 2,
         "Stages" : 
         [
             {
-                "Id" : 700002,
+                "Id" : 7000021,
                 "MissionStageOrder" : 1,
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215001,
+                        "ThingId" : 215003,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
                 ],
-                "StageGoalValue" : 2,
-                "StartDate" : "2025-07-07 05:00:00"
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-08-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-07-07 05:00:00",
+        "StartDate" : "2025-08-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2025-07-08 05:00:00",
+        "EndDate" : "2025-08-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700003,
         "JumpTargetId" : null,
         "JumpType" : "Live",
-        "MissionCategory" : "Limit",
+        "MissionCategory" : "6",
         "MissionViewOrder" : 3,
         "Stages" : 
         [
             {
-                "Id" : 700003,
+                "Id" : 7000031,
                 "MissionStageOrder" : 1,
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215002,
+                        "ThingId" : 215004,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
                 ],
                 "StageGoalValue" : 10,
-                "StartDate" : "2025-07-07 05:00:00"
+                "StartDate" : "2025-08-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-07-07 05:00:00",
+        "StartDate" : "2025-08-07 05:00:00",
         "Title" : ""
     },
     {

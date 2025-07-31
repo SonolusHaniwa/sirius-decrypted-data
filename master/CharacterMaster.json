@@ -12476,8 +12476,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141020,
         "LeaderSenseMasterId" : 163,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-08-09 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 120,
@@ -14511,8 +14511,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141370,
         "LeaderSenseMasterId" : 194,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-08-09 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 85,
@@ -14625,8 +14625,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141390,
         "LeaderSenseMasterId" : 195,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-08-09 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 145,
@@ -16522,8 +16522,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141720,
         "LeaderSenseMasterId" : 190,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-08-09 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 88,
@@ -17001,6 +17001,120 @@
         "SenseMasterId" : 141800,
         "StarActMasterId" : 141801,
         "UnlockText" : "ガチャ(ユメフェス)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141811,
+        "BloomBonusGroupMasterId" : 40181,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7060,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 304,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-07-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141810,
+        "LeaderSenseMasterId" : 229,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-31 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 161,
+            "Expression" : 127,
+            "Vocal" : 95
+        },
+        "Name" : "麗しく凄惨なるもの",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141810,
+        "StarActMasterId" : 141811,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141821,
+        "BloomBonusGroupMasterId" : 40182,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7060,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 301,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-07-31 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141820,
+        "LeaderSenseMasterId" : 230,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-07-31 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 102,
+            "Expression" : 161,
+            "Vocal" : 119
+        },
+        "Name" : "鱗婦、妖しく誘う",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141820,
+        "StarActMasterId" : 141821,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     },
     {
         "AssetId" : null,

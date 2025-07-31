@@ -814,5 +814,73 @@
             }
         ],
         "StartDate" : "2025-07-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-09-01 05:00:00",
+        "Id" : 49,
+        "Phase" : 1,
+        "Rewards" : 
+        [
+            {
+                "Id" : 4901,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 49,
+                "ThingId" : 130021,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2025-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-09-01 05:00:00",
+        "Id" : 50,
+        "Phase" : 2,
+        "Rewards" : 
+        [
+            {
+                "Id" : 5001,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 50,
+                "ThingId" : 130031,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2025-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-09-01 05:00:00",
+        "Id" : 51,
+        "Phase" : 3,
+        "Rewards" : 
+        [
+            {
+                "Id" : 5101,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 51,
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ],
+        "StartDate" : "2025-08-01 05:00:00"
+    },
+    {
+        "EndDate" : "2025-09-01 05:00:00",
+        "Id" : 52,
+        "Phase" : 4,
+        "Rewards" : 
+        [
+            {
+                "Id" : 5201,
+                "IsSp" : false,
+                "MissionPassLoopRewardMasterId" : 52,
+                "ThingId" : 0,
+                "ThingQuantity" : 15,
+                "ThingType" : "Jewel"
+            }
+        ],
+        "StartDate" : "2025-08-01 05:00:00"
     }
 ]

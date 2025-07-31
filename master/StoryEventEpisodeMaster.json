@@ -4318,5 +4318,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20059,
         "Title" : "紅白、ぶつかり合う"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006001,
+        "Id" : 2006001,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20060,
+        "Title" : "暑い中でも"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006002,
+        "Id" : 2006002,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006001,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20060,
+        "Title" : "花火大会へ！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006003,
+        "Id" : 2006003,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006002,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20060,
+        "Title" : "雨、俯く顔"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006004,
+        "Id" : 2006004,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006003,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20060,
+        "Title" : "綺麗な物を見せたくて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006005,
+        "Id" : 2006005,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006004,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20060,
+        "Title" : "私は行きませんわよ！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006006,
+        "Id" : 2006006,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006005,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20060,
+        "Title" : "全ては演技の為に"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006007,
+        "Id" : 2006007,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006006,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20060,
+        "Title" : "海、BBQ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006008,
+        "Id" : 2006008,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006007,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20060,
+        "Title" : "茜差す海に見惚れて"
     }
 ]

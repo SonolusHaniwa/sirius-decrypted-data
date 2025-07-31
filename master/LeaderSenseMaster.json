@@ -6917,5 +6917,84 @@
             }
         ],
         "Id" : 228
+    },
+    {
+        "Description" : "「高校生」カテゴリの演技力40%上昇、「海」カテゴリの集中力20％上昇・歌唱力15%上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 1003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12005
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 5007,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12015
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 5007,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12022
+            }
+        ],
+        "Id" : 229
+    },
+    {
+        "Description" : "「銀河座」カテゴリの演技力40%上昇、「海」カテゴリを持つアクターの数に応じて初期プリンシパルゲージが20上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 2003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12005
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 5007,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12030
+            }
+        ],
+        "Id" : 230
     }
 ]

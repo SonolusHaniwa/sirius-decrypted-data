@@ -792,6 +792,61 @@
         "Description" : null,
         "Details" : [],
         "Hidden" : false,
+        "Id" : 9020,
+        "IsDefault" : false,
+        "Name" : "スター【シーズン3】",
+        "Order" : 9,
+        "UnlockText" : "演劇リーグ【シーズン3】のCL6「スター」初回到達で獲得できます。"
+    },
+    {
+        "ChangeType" : "DaiStarEnrollCount",
+        "ChangeValue1" : 3,
+        "ChangeValue2" : null,
+        "Description" : null,
+        "Details" : 
+        [
+            {
+                "ChangeValue1" : 0,
+                "ChangeValue2" : null,
+                "ClassType" : "None",
+                "EnrollCount" : 0,
+                "Id" : 9721,
+                "Name" : "ダイスター1【シーズン3】",
+                "Priority" : 0
+            },
+            {
+                "ChangeValue1" : 4,
+                "ChangeValue2" : null,
+                "ClassType" : "None",
+                "EnrollCount" : 4,
+                "Id" : 9722,
+                "Name" : "ダイスター2【シーズン3】",
+                "Priority" : 4
+            },
+            {
+                "ChangeValue1" : 8,
+                "ChangeValue2" : null,
+                "ClassType" : "None",
+                "EnrollCount" : 8,
+                "Id" : 9723,
+                "Name" : "ダイスター3【シーズン3】",
+                "Priority" : 8
+            }
+        ],
+        "Hidden" : false,
+        "Id" : 9021,
+        "IsDefault" : false,
+        "Name" : "ダイスター【シーズン3】",
+        "Order" : 10,
+        "UnlockText" : "演劇リーグ【シーズン3】のCL7「ダイスター」初回到達で獲得できます。"
+    },
+    {
+        "ChangeType" : "None",
+        "ChangeValue1" : null,
+        "ChangeValue2" : null,
+        "Description" : null,
+        "Details" : [],
+        "Hidden" : false,
         "Id" : 10000,
         "IsDefault" : false,
         "Name" : "スター【シーズン1】",
