@@ -1552,6 +1552,129 @@
         "Type" : "ScoreGainOnPerformance"
     },
     {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 2048.0900000000001
+            },
+            {
+                "Level" : 2,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 3,
+                "Value" : 2048.0999999999999
+            },
+            {
+                "Level" : 4,
+                "Value" : 2048.0599999999999
+            },
+            {
+                "Level" : 5,
+                "Value" : 2048.0799999999999
+            },
+            {
+                "Level" : 6,
+                "Value" : 2048.02
+            },
+            {
+                "Level" : 7,
+                "Value" : 2048.02
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19041,
+        "Range" : "All",
+        "Triggers" : [],
+        "Type" : "ScoreGainOnPerformance"
+    },
+    {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 2048.1399999999999
+            },
+            {
+                "Level" : 2,
+                "Value" : 2048.0300000000002
+            },
+            {
+                "Level" : 3,
+                "Value" : 2048.2199999999998
+            },
+            {
+                "Level" : 4,
+                "Value" : 2048.0999999999999
+            },
+            {
+                "Level" : 5,
+                "Value" : 2048.1599999999999
+            },
+            {
+                "Level" : 6,
+                "Value" : 4096.1700000000001
+            },
+            {
+                "Level" : 7,
+                "Value" : 4096.1700000000001
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19042,
+        "Range" : "All",
+        "Triggers" : [],
+        "Type" : "ScoreGainOnPerformance"
+    },
+    {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 2048.0300000000002
+            },
+            {
+                "Level" : 2,
+                "Value" : 2048.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 2048.02
+            },
+            {
+                "Level" : 4,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 5,
+                "Value" : 4096.1000000000004
+            },
+            {
+                "Level" : 6,
+                "Value" : 4096.0299999999997
+            },
+            {
+                "Level" : 7,
+                "Value" : 4096.0299999999997
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19043,
+        "Range" : "All",
+        "Triggers" : [],
+        "Type" : "ScoreGainOnPerformance"
+    },
+    {
         "CalculationType" : "PercentageAddition",
         "Conditions" : [],
         "Details" : 

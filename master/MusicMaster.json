@@ -7409,6 +7409,44 @@
     },
     {
         "Arranger" : "-",
+        "Composer" : "HoneyWorks",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 212,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "HoneyWorks",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 93,
+        "MusicVideoType" : "None",
+        "Name" : "ファンサ",
+        "PronounceName" : "ふぁんさ",
+        "ReleasedAt" : "2025-08-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 105 ],
+                "Id" : 21201,
+                "MusicMasterId" : 212,
+                "MusicTimeSecond" : 93,
+                "MusicVideoType" : "None",
+                "Name" : "ファンサ",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "柳場ぱんだ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
         "Composer" : "れるりり",
         "DelaySeconds" : 0.0,
         "Description" : "",
@@ -7470,7 +7508,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 201, 202, 203, 205, 204 ],
+                "Characters" : [ 201, 205, 202, 203, 204 ],
                 "Id" : 21601,
                 "MusicMasterId" : 216,
                 "MusicTimeSecond" : 163,
@@ -7750,6 +7788,44 @@
         ]
     },
     {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 225,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 105,
+        "MusicVideoType" : "None",
+        "Name" : "VIVID BIT AT HOME！",
+        "PronounceName" : "vividbitathome",
+        "ReleasedAt" : "2025-08-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 27,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 105, 401 ],
+                "Id" : 22501,
+                "MusicMasterId" : 225,
+                "MusicTimeSecond" : 105,
+                "MusicVideoType" : "None",
+                "Name" : "VIVID BIT AT HOME！",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "柳場ぱんだ、千寿いろは",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "EFFY（FirstCall）",
         "Composer" : "志村真白（FirstCall）",
         "DelaySeconds" : 0.0,
@@ -7774,7 +7850,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 202, 203 ],
+                "Characters" : [ 203, 202 ],
                 "Id" : 23601,
                 "MusicMasterId" : 236,
                 "MusicTimeSecond" : 157,
@@ -8306,7 +8382,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 203, 201 ],
+                "Characters" : [ 201, 203 ],
                 "Id" : 1003001,
                 "MusicMasterId" : 10030,
                 "MusicTimeSecond" : 276,
