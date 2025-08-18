@@ -6741,6 +6741,156 @@
         "StarActConditionMasterId" : 101141
     },
     {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "StorageSenseLightCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19026,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19027,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19028,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19029,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19030,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185105,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19041,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185106,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19042,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185107,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 7,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19043,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14185108,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 1,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得／ストックされている支援系の光1個につき総演技力の[:param11]倍のスコアを獲得(最大8個)",
+        "Id" : 141851,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 103121
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 141861,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101141
+    },
+    {
         "AcquirableScorePercent" : 1310,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
