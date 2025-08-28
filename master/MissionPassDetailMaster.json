@@ -289,9 +289,9 @@
                 "Id" : 1102,
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 11,
-                "ThingId" : 0,
-                "ThingQuantity" : 50000,
-                "ThingType" : "Coin"
+                "ThingId" : 130051,
+                "ThingQuantity" : 20,
+                "ThingType" : "Item"
             }
         ],
         "StartDate" : "2023-01-01 00:00:00"
@@ -560,7 +560,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 21,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 52500,
                 "ThingType" : "Coin"
             }
         ],
@@ -614,7 +614,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 23,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 52500,
                 "ThingType" : "Coin"
             }
         ],
@@ -695,7 +695,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 26,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 52500,
                 "ThingType" : "Coin"
             }
         ],
@@ -749,7 +749,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 28,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 52500,
                 "ThingType" : "Coin"
             }
         ],
@@ -830,7 +830,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 31,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 55000,
                 "ThingType" : "Coin"
             }
         ],
@@ -884,7 +884,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 33,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 55000,
                 "ThingType" : "Coin"
             }
         ],
@@ -965,7 +965,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 36,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 55000,
                 "ThingType" : "Coin"
             }
         ],
@@ -1019,7 +1019,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 38,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 55000,
                 "ThingType" : "Coin"
             }
         ],
@@ -1100,7 +1100,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 41,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 57500,
                 "ThingType" : "Coin"
             }
         ],
@@ -1154,7 +1154,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 43,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 57500,
                 "ThingType" : "Coin"
             }
         ],
@@ -1235,7 +1235,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 46,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 57500,
                 "ThingType" : "Coin"
             }
         ],
@@ -1289,7 +1289,7 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 48,
                 "ThingId" : 0,
-                "ThingQuantity" : 50000,
+                "ThingQuantity" : 57500,
                 "ThingType" : "Coin"
             }
         ],
@@ -4799,6 +4799,141 @@
                 "IsSp" : true,
                 "MissionPassDetailMasterId" : 2550,
                 "ThingId" : 230710,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 4000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 2610,
+        "MissionPassMasterId" : 26,
+        "Phase" : 10,
+        "Rewards" : 
+        [
+            {
+                "Id" : 261001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 2610,
+                "ThingId" : 0,
+                "ThingQuantity" : 50,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 261002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 2610,
+                "ThingId" : 230750,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 8000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 2620,
+        "MissionPassMasterId" : 26,
+        "Phase" : 20,
+        "Rewards" : 
+        [
+            {
+                "Id" : 262001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 2620,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 262002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 2620,
+                "ThingId" : 230750,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 12000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 2630,
+        "MissionPassMasterId" : 26,
+        "Phase" : 30,
+        "Rewards" : 
+        [
+            {
+                "Id" : 263001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 2630,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 263002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 2630,
+                "ThingId" : 230750,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 16000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 2640,
+        "MissionPassMasterId" : 26,
+        "Phase" : 40,
+        "Rewards" : 
+        [
+            {
+                "Id" : 264001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 2640,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 264002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 2640,
+                "ThingId" : 230750,
+                "ThingQuantity" : 1,
+                "ThingType" : "Poster"
+            }
+        ],
+        "StartDate" : "1-01-01 00:00:00"
+    },
+    {
+        "ClearPoint" : 20000,
+        "EndDate" : "1-01-01 00:00:00",
+        "Id" : 2650,
+        "MissionPassMasterId" : 26,
+        "Phase" : 50,
+        "Rewards" : 
+        [
+            {
+                "Id" : 265001,
+                "IsSp" : false,
+                "MissionPassDetailMasterId" : 2650,
+                "ThingId" : 130013,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 265002,
+                "IsSp" : true,
+                "MissionPassDetailMasterId" : 2650,
+                "ThingId" : 230750,
                 "ThingQuantity" : 1,
                 "ThingType" : "Poster"
             }

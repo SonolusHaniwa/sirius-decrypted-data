@@ -9135,6 +9135,138 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20403,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20096,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1418701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 35,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／[:sec11]秒間、劇団電姫のアクターにスターアクトスコア[:param11]％UP効果／センス発動後、プリンシパルゲージの上限値が[:param21]上昇</size>",
+        "Id" : 141870,
+        "LightCount" : 1,
+        "Name" : "アタシを起こしたの、アンタ？",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 120,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20090,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1418801,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20091,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1418802,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20092,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1418803,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20093,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1418804,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20094,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1418805,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 4,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動時、劇団電姫アクターの人数×20のプリンシパルゲージを獲得",
+        "Id" : 141880,
+        "LightCount" : 1,
+        "Name" : "彼岸花は呪い嗤う",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",
