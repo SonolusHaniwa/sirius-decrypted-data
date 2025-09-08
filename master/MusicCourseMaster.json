@@ -2943,6 +2943,76 @@
         "Details" : 
         [
             {
+                "Id" : 25201,
+                "LiveMasterId" : 7004,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 25202,
+                "LiveMasterId" : 22904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 25203,
+                "LiveMasterId" : 17004,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-09-22 00:00:00",
+        "Id" : 252,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第27回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-09-15 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 25301,
+                "LiveMasterId" : 22905,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 25302,
+                "LiveMasterId" : 17005,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 25303,
+                "LiveMasterId" : 21905,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-09-22 00:00:00",
+        "Id" : 253,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第27回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-09-15 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 50001,
                 "LiveMasterId" : 17904,
                 "SetListNumber" : 1,
@@ -3328,6 +3398,41 @@
         "Details" : 
         [
             {
+                "Id" : 101001,
+                "LiveMasterId" : 21904,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 101002,
+                "LiveMasterId" : 3904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 101003,
+                "LiveMasterId" : 4204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-01 05:00:00",
+        "Id" : 1010,
+        "InitialLife" : 30,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【十段】段位認定2025 2nd Season",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-09-12 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 1009
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 150101,
                 "LiveMasterId" : 22105,
                 "SetListNumber" : 1,
@@ -3638,5 +3743,40 @@
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "ClearedMMusicCourseId",
         "UnlockConditionValue" : 1508
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 151001,
+                "LiveMasterId" : 5705,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 151002,
+                "LiveMasterId" : 14905,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 151003,
+                "LiveMasterId" : 4205,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-01 05:00:00",
+        "Id" : 1510,
+        "InitialLife" : 60,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【十段】段位認定2025 2nd Seasonウラ",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-09-12 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 1509
     }
 ]

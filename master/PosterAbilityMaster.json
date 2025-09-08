@@ -13398,6 +13398,70 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 34026001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340260,
+        "Name" : "心の声で微睡んで",
+        "PosterMasterId" : 340260,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 34029001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340290,
+        "Name" : "激情も今は夢の中",
+        "PosterMasterId" : 340290,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 34037001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -28282,6 +28346,198 @@
         "Id" : 3402403,
         "Name" : "CTダウンⅣ",
         "PosterMasterId" : 340240,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10040105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340260101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：ぱんだが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3402601,
+        "Name" : "演技力アップⅣ",
+        "PosterMasterId" : 340260,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340260201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：ぱんだが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3402602,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 340260,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12430105,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340260301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTを[:param11]秒短縮　◆発動条件：ぱんだが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3402603,
+        "Name" : "CTダウンⅣ",
+        "PosterMasterId" : 340260,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10040202,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340290101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：大黒が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3402901,
+        "Name" : "演技力アップⅣ",
+        "PosterMasterId" : 340290,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810202,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340290201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：大黒が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3402902,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 340290,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12430202,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340290301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTを[:param11]秒短縮　◆発動条件：大黒が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3402903,
+        "Name" : "CTダウンⅣ",
+        "PosterMasterId" : 340290,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },

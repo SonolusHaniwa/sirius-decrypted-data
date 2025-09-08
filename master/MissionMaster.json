@@ -7531,6 +7531,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "スコアの下3桁が「777」の状態で公演をクリアしよう",
+        "EndDate" : "2100-01-01 00:00:00",
+        "EventMasterId" : null,
+        "Id" : 5020,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Normal",
+        "MissionViewOrder" : 3501,
+        "Stages" : 
+        [
+            {
+                "Id" : 5021,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 190002,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "19"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-09-09 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-09 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "メインストーリー シリウス第2章を1話まで読もう",
         "EndDate" : "2023-09-01 05:00:00",
         "EventMasterId" : null,
@@ -19117,6 +19147,494 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "銀河座に所属するアクターのみが歌唱する楽曲を3回クリアしよう",
+        "EndDate" : "2025-09-12 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 47900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 47900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-09-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "稽古を1回行おう",
+        "EndDate" : "2025-09-13 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 48000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-09-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「アクト・レゾナンス」を1回クリアしよう",
+        "EndDate" : "2025-09-14 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 48100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-09-13 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-13 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを10回発動しよう",
+        "EndDate" : "2025-09-15 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 48200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-14 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-14 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Blondie Revenge Tragedy」を1回クリアしよう",
+        "EndDate" : "2025-09-16 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 48300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-09-15 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-15 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを10回発動しよう",
+        "EndDate" : "2025-09-17 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 48400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「陰陽幻燈譚」を1回クリアしよう",
+        "EndDate" : "2025-09-18 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 48500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-09-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "Edenに所属するアクターのみが歌唱する楽曲を3回クリアしよう",
+        "EndDate" : "2025-09-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 48600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 48600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132041,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2025-09-18 05:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-18 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2025-09-18 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 48700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 22,
+        "Stages" : 
+        [
+            {
+                "Id" : 48700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48701,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48702,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48703,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 40,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48704,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48705,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 60,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48706,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 80,
+                "StartDate" : "2025-09-10 17:00:00"
+            },
+            {
+                "Id" : 48707,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132040,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2025-09-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「陰陽幻燈譚」を[:param]回クリアしよう",
+        "EndDate" : "2025-09-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 48800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 29,
+        "Stages" : 
+        [
+            {
+                "Id" : 48800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-09-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「陰陽幻燈譚」を[:param]回クリアしよう",
+        "EndDate" : "2025-09-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 48900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 30,
+        "Stages" : 
+        [
+            {
+                "Id" : 48900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Bling-Bang-Bang-Born」を[:param]回クリアしよう",
+        "EndDate" : "2025-09-29 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 31,
+        "Stages" : 
+        [
+            {
+                "Id" : 49000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-09-19 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-19 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Bling-Bang-Bang-Born」を[:param]回クリアしよう",
+        "EndDate" : "2025-09-29 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 32,
+        "Stages" : 
+        [
+            {
+                "Id" : 49100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-19 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-19 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -26176,7 +26694,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2025-08-18 05:00:00",
+        "EndDate" : "2025-09-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700007,
         "JumpTargetId" : null,
@@ -26200,13 +26718,13 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2025-08-17 05:00:00",
+        "StartDate" : "2025-09-17 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2025-08-18 05:00:00",
+        "EndDate" : "2025-09-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700008,
         "JumpTargetId" : null,
@@ -26221,7 +26739,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215003,
+                        "ThingId" : 215005,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -26230,13 +26748,13 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2025-08-17 05:00:00",
+        "StartDate" : "2025-09-17 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2025-08-18 05:00:00",
+        "EndDate" : "2025-09-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700009,
         "JumpTargetId" : null,
@@ -26251,7 +26769,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215004,
+                        "ThingId" : 215006,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -26260,7 +26778,7 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2025-08-17 05:00:00",
+        "StartDate" : "2025-09-17 05:00:00",
         "Title" : ""
     },
     {
