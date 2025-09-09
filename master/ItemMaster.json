@@ -3248,6 +3248,34 @@
         "TabCategory" : "Normal"
     },
     {
+        "Category" : "ConsumeItem",
+        "Consumable" : false,
+        "Description" : "14日間の間、「公演の獲得EXP 100％UP」の効果を得ることができるチケット。",
+        "DisplayEndDate" : null,
+        "DisplayOrder" : 139998,
+        "Id" : 139998,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "EXPブーストチケット【月】",
+        "Rarity" : "SSR",
+        "TabCategory" : "Ticket"
+    },
+    {
+        "Category" : "ConsumeItem",
+        "Consumable" : false,
+        "Description" : "14日間の間、「稽古の獲得SP  100％UP」の効果を得ることができるチケット。",
+        "DisplayEndDate" : null,
+        "DisplayOrder" : 139999,
+        "Id" : 139999,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "SPブーストチケット【月】",
+        "Rarity" : "SSR",
+        "TabCategory" : "Ticket"
+    },
+    {
         "Category" : "TalentBloom",
         "Consumable" : false,
         "Description" : "ジュゴンをかたどった像。アクターの才能開花に使われる。イベントやミッションなどで入手できる。",
@@ -19766,6 +19794,34 @@
         "Name" : "稽古編成数+1",
         "Rarity" : "R",
         "TabCategory" : "Hidden"
+    },
+    {
+        "Category" : "71",
+        "Consumable" : false,
+        "Description" : "14日間の間、「公演の獲得EXP 100％UP」の効果を得ることができるチケット。",
+        "DisplayEndDate" : null,
+        "DisplayOrder" : 710002,
+        "Id" : 710002,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "EXPブーストチケット【月】",
+        "Rarity" : "SSR",
+        "TabCategory" : "Ticket"
+    },
+    {
+        "Category" : "71",
+        "Consumable" : false,
+        "Description" : "14日間の間、「稽古の獲得SP  100％UP」の効果を得ることができるチケット。",
+        "DisplayEndDate" : null,
+        "DisplayOrder" : 712002,
+        "Id" : 712002,
+        "JumpTargetId" : null,
+        "JumpType" : 0,
+        "MaxStock" : 99999,
+        "Name" : "SPブーストチケット【月】",
+        "Rarity" : "SSR",
+        "TabCategory" : "Ticket"
     },
     {
         "Category" : "EventPoint",
