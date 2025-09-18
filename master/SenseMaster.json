@@ -9335,6 +9335,80 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 740,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20096,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1419101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、プリンシパルゲージの上限値が[:param11]上昇",
+        "Id" : 141910,
+        "LightCount" : 2,
+        "Name" : "ずっと一緒だよ、お父様",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20535,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1419201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／センス発動直後、自身の表現力の[:param11]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）",
+        "Id" : 141920,
+        "LightCount" : 1,
+        "Name" : "困窮の果て、娘のために",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28006,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",

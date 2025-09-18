@@ -19635,6 +19635,96 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "メインストーリー シリウス第4章第24話を読もう",
+        "EndDate" : "2025-09-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49200,
+        "JumpTargetId" : null,
+        "JumpType" : "Story",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 8,
+        "Stages" : 
+        [
+            {
+                "Id" : 49200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2025-09-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「STARRY STORY！」を[:param]回クリアしよう",
+        "EndDate" : "2025-09-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 33,
+        "Stages" : 
+        [
+            {
+                "Id" : 49300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-09-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「STARRY STORY！」を[:param]回クリアしよう",
+        "EndDate" : "2025-09-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 34,
+        "Stages" : 
+        [
+            {
+                "Id" : 49400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -26784,7 +26874,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2025-08-28 05:00:00",
+        "EndDate" : "2025-09-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700010,
         "JumpTargetId" : null,
@@ -26808,13 +26898,13 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2025-08-27 05:00:00",
+        "StartDate" : "2025-09-27 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2025-08-28 05:00:00",
+        "EndDate" : "2025-09-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700011,
         "JumpTargetId" : null,
@@ -26829,7 +26919,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215003,
+                        "ThingId" : 215005,
                         "ThingQuantity" : 4,
                         "ThingType" : "Item"
                     }
@@ -26838,13 +26928,13 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2025-08-27 05:00:00",
+        "StartDate" : "2025-09-27 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2025-08-28 05:00:00",
+        "EndDate" : "2025-09-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700012,
         "JumpTargetId" : null,
@@ -26859,7 +26949,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215004,
+                        "ThingId" : 215006,
                         "ThingQuantity" : 4,
                         "ThingType" : "Item"
                     }
@@ -26868,7 +26958,7 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2025-08-27 05:00:00",
+        "StartDate" : "2025-09-27 05:00:00",
         "Title" : ""
     }
 ]

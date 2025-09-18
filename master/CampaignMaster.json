@@ -794,6 +794,30 @@
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：9/19 17:00 ～ 9/24 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-09-24 05:00:00",
+        "IconImagePath" : "4",
+        "Id" : 68,
+        "Order" : 68,
+        "StartDate" : "2025-09-19 17:00:00",
+        "Title" : "公演の獲得EXP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "StarPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：9/24 5:00 ～ 9/29 5:00/n対象：稽古",
+        "EndDate" : "2025-09-29 05:00:00",
+        "IconImagePath" : "3",
+        "Id" : 69,
+        "Order" : 69,
+        "StartDate" : "2025-09-24 05:00:00",
+        "Title" : "稽古の獲得SP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
         "Description" : "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",
         "EndDate" : "2100-01-01 00:00:00",
@@ -903,24 +927,24 @@
         "CampaignEffectType" : "LessonCount",
         "CampaignEffectValue" : 2,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：8/27 5:00 ～ 8/28 5:00/n対象：稽古",
-        "EndDate" : "2025-08-28 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：9/27 5:00 ～ 9/28 5:00/n対象：稽古",
+        "EndDate" : "2025-09-28 05:00:00",
         "IconImagePath" : "1001",
         "Id" : 2005,
         "Order" : 2005,
-        "StartDate" : "2025-08-27 05:00:00",
+        "StartDate" : "2025-09-27 05:00:00",
         "Title" : "稽古の回数 +2回"
     },
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：8/27 5:00 ～ 8/28 5:00/n対象：公演、協力公演",
-        "EndDate" : "2025-08-28 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：9/27 5:00 ～ 9/28 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-09-28 05:00:00",
         "IconImagePath" : "4",
         "Id" : 2006,
         "Order" : 2006,
-        "StartDate" : "2025-08-27 05:00:00",
+        "StartDate" : "2025-09-27 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     }
 ]
