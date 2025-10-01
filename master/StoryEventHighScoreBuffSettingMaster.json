@@ -2910,5 +2910,117 @@
         },
         "StoryEventHighScoreBuffMasterId" : 204,
         "StoryEventHighScoreMasterId" : 20061
+    },
+    {
+        "Id" : 2006201,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの集中力が[:param1]上昇する",
+            "EffectMasterId" : 80003,
+            "EffectName" : "舞台照明",
+            "IconImagePath" : "11",
+            "Id" : 11,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 11,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006202,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの表現力が[:param1]上昇する",
+            "EffectMasterId" : 80002,
+            "EffectName" : "舞台スピーカー",
+            "IconImagePath" : "12",
+            "Id" : 12,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 12,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006203,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの歌唱力が[:param1]上昇する",
+            "EffectMasterId" : 80001,
+            "EffectName" : "舞台マイク",
+            "IconImagePath" : "13",
+            "Id" : 13,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 13,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006204,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの演技力が[:param1]％上昇する",
+            "EffectMasterId" : 80004,
+            "EffectName" : "舞台カーテン",
+            "IconImagePath" : "14",
+            "Id" : 14,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 14,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006205,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの演技力上限が[:param1]％上昇する　※Edenに所属するアクターのみ対象",
+            "EffectMasterId" : 80109,
+            "EffectName" : "Edenのロゴ",
+            "IconImagePath" : "188",
+            "Id" : 205,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 205,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006206,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "Edenに所属するアクター1人につき、公演開始時にプリンシパルゲージが[:param1]上昇する",
+            "EffectMasterId" : 80110,
+            "EffectName" : "小悪魔リボン【凛】",
+            "IconImagePath" : "207",
+            "Id" : 206,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 206,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006207,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動）　※<color=#33B4DF>凛属性</color>の舎人 仁花子のみ対象",
+            "EffectMasterId" : 80111,
+            "EffectName" : "フラワーグラス【凛】",
+            "IconImagePath" : "190",
+            "Id" : 207,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 207,
+        "StoryEventHighScoreMasterId" : 20062
+    },
+    {
+        "Id" : 2006208,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "公演開始時にプリンシパルゲージの上限値が[:param1]上昇する　　※<color=#33B4DF>凛属性</color>の烏森 大黒のみ対象",
+            "EffectMasterId" : 80112,
+            "EffectName" : "積怨の日記【凛】",
+            "IconImagePath" : "206",
+            "Id" : 208,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 208,
+        "StoryEventHighScoreMasterId" : 20062
     }
 ]

@@ -4606,5 +4606,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20061,
         "Title" : "夏の終わり綴る絵日記"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006201,
+        "Id" : 2006201,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20062,
+        "Title" : "よりにもよって"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006202,
+        "Id" : 2006202,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006201,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20062,
+        "Title" : "目に物見せてやる"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006203,
+        "Id" : 2006203,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006202,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20062,
+        "Title" : "聞いちゃった～♪"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006204,
+        "Id" : 2006204,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006203,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20062,
+        "Title" : "みんなで行こうよ！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006205,
+        "Id" : 2006205,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006204,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20062,
+        "Title" : "苦い過去"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006206,
+        "Id" : 2006206,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006205,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20062,
+        "Title" : "別れて回る"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006207,
+        "Id" : 2006207,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006206,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20062,
+        "Title" : "避けられ、蹴られる"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006208,
+        "Id" : 2006208,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006207,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20062,
+        "Title" : "思い切って触れてみる"
     }
 ]

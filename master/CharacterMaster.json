@@ -15659,8 +15659,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141570,
         "LeaderSenseMasterId" : 211,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-09-30 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 86,
@@ -15716,8 +15716,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141580,
         "LeaderSenseMasterId" : 212,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-09-30 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 105,
@@ -16237,8 +16237,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141670,
         "LeaderSenseMasterId" : 14,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-07 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 82,
@@ -16294,8 +16294,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141680,
         "LeaderSenseMasterId" : 190,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-07 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 76,
@@ -17685,6 +17685,120 @@
         "SenseMasterId" : 141920,
         "StarActMasterId" : 141921,
         "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141931,
+        "BloomBonusGroupMasterId" : 40193,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7062,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 202,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-09-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141930,
+        "LeaderSenseMasterId" : 236,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-09-30 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 135,
+            "Expression" : 141,
+            "Vocal" : 102
+        },
+        "Name" : "ち、近づかないでっ！",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141930,
+        "StarActMasterId" : 141931,
+        "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 141941,
+        "BloomBonusGroupMasterId" : 40194,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7062,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 203,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-09-30 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141940,
+        "LeaderSenseMasterId" : 237,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-09-30 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 132,
+            "Expression" : 107,
+            "Vocal" : 138
+        },
+        "Name" : "ふわふわ集まる原っぱで",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141940,
+        "StarActMasterId" : 141941,
+        "UnlockText" : "ガチャ(期間限定)で入手"
     },
     {
         "AssetId" : null,

@@ -886,6 +886,78 @@
         ]
     },
     {
+        "Id" : 692,
+        "MusicCourseMasterId" : 69,
+        "RequiredCertificationGrade" : "NormalGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130051,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130201,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ]
+    },
+    {
+        "Id" : 693,
+        "MusicCourseMasterId" : 69,
+        "RequiredCertificationGrade" : "HotGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130051,
+                "ThingQuantity" : 10,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130201,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ]
+    },
+    {
+        "Id" : 702,
+        "MusicCourseMasterId" : 70,
+        "RequiredCertificationGrade" : "NormalGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130051,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130201,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ]
+    },
+    {
+        "Id" : 703,
+        "MusicCourseMasterId" : 70,
+        "RequiredCertificationGrade" : "HotGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130051,
+                "ThingQuantity" : 10,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130201,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ]
+    },
+    {
         "Id" : 10012,
         "MusicCourseMasterId" : 1001,
         "RequiredCertificationGrade" : "NormalGaugeCertificate",
@@ -1146,6 +1218,32 @@
         ]
     },
     {
+        "Id" : 10112,
+        "MusicCourseMasterId" : 1011,
+        "RequiredCertificationGrade" : "NormalGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 270011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Trophy"
+            }
+        ]
+    },
+    {
+        "Id" : 10113,
+        "MusicCourseMasterId" : 1011,
+        "RequiredCertificationGrade" : "HotGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 270022,
+                "ThingQuantity" : 1,
+                "ThingType" : "Trophy"
+            }
+        ]
+    },
+    {
         "Id" : 15012,
         "MusicCourseMasterId" : 1501,
         "RequiredCertificationGrade" : "NormalGaugeCertificate",
@@ -1400,6 +1498,32 @@
         [
             {
                 "ThingId" : 270043,
+                "ThingQuantity" : 1,
+                "ThingType" : "Trophy"
+            }
+        ]
+    },
+    {
+        "Id" : 15112,
+        "MusicCourseMasterId" : 1511,
+        "RequiredCertificationGrade" : "NormalGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 270033,
+                "ThingQuantity" : 1,
+                "ThingType" : "Trophy"
+            }
+        ]
+    },
+    {
+        "Id" : 15113,
+        "MusicCourseMasterId" : 1511,
+        "RequiredCertificationGrade" : "HotGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 270044,
                 "ThingQuantity" : 1,
                 "ThingType" : "Trophy"
             }

@@ -816,6 +816,30 @@
         "Title" : "稽古の獲得SP 50％UP"
     },
     {
+        "CampaignEffectType" : "LiveReward",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：10/2 17:00～10/8 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-10-08 05:00:00",
+        "IconImagePath" : "1",
+        "Id" : 70,
+        "Order" : 70,
+        "StartDate" : "2025-10-02 17:00:00",
+        "Title" : "公演の報酬量 50%UP"
+    },
+    {
+        "CampaignEffectType" : "StarPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：10/8 5:00～10/12 5:00/n対象：稽古",
+        "EndDate" : "2025-10-12 05:00:00",
+        "IconImagePath" : "3",
+        "Id" : 71,
+        "Order" : 71,
+        "StartDate" : "2025-10-08 05:00:00",
+        "Title" : "稽古の獲得SP 50％UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
@@ -879,24 +903,24 @@
         "CampaignEffectType" : "LessonCount",
         "CampaignEffectValue" : 2,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：9/7 5:00 ～ 9/8 5:00/n対象：稽古",
-        "EndDate" : "2025-09-08 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：10/7 5:00 ～ 10/8 5:00/n対象：稽古",
+        "EndDate" : "2025-10-08 05:00:00",
         "IconImagePath" : "1001",
         "Id" : 2001,
         "Order" : 2001,
-        "StartDate" : "2025-09-07 05:00:00",
+        "StartDate" : "2025-10-07 05:00:00",
         "Title" : "稽古の回数 +2回"
     },
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：9/7 5:00 ～ 9/8 5:00/n対象：公演、協力公演",
-        "EndDate" : "2025-09-08 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：10/7 5:00 ～ 10/8 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-10-08 05:00:00",
         "IconImagePath" : "4",
         "Id" : 2002,
         "Order" : 2002,
-        "StartDate" : "2025-09-07 05:00:00",
+        "StartDate" : "2025-10-07 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     },
     {

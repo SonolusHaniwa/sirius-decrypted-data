@@ -19725,6 +19725,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「アンチ・サニーデイズ・カレンダー」を[:param]回クリアしよう",
+        "EndDate" : "2025-10-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 31,
+        "Stages" : 
+        [
+            {
+                "Id" : 49500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2025-09-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「アンチ・サニーデイズ・カレンダー」を[:param]回クリアしよう",
+        "EndDate" : "2025-10-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 49600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 32,
+        "Stages" : 
+        [
+            {
+                "Id" : 49600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-09-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2025-09-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -26694,7 +26754,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2025-09-08 05:00:00",
+        "EndDate" : "2025-10-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700001,
         "JumpTargetId" : null,
@@ -26718,13 +26778,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-09-07 05:00:00",
+        "StartDate" : "2025-10-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2025-09-08 05:00:00",
+        "EndDate" : "2025-10-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700002,
         "JumpTargetId" : null,
@@ -26739,7 +26799,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215005,
+                        "ThingId" : 215007,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -26748,13 +26808,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-09-07 05:00:00",
+        "StartDate" : "2025-10-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2025-09-08 05:00:00",
+        "EndDate" : "2025-10-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700003,
         "JumpTargetId" : null,
@@ -26769,7 +26829,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215006,
+                        "ThingId" : 215008,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -26778,7 +26838,7 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-09-07 05:00:00",
+        "StartDate" : "2025-10-07 05:00:00",
         "Title" : ""
     },
     {
