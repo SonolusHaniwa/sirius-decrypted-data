@@ -858,7 +858,36 @@
         "ChangeValue1" : 1,
         "ChangeValue2" : null,
         "Description" : null,
-        "Details" : [],
+        "Details" : 
+        [
+            {
+                "ChangeValue1" : 0,
+                "ChangeValue2" : null,
+                "ClassType" : "None",
+                "EnrollCount" : 0,
+                "Id" : 10701,
+                "Name" : "ダイスター1【シーズン1】",
+                "Priority" : 0
+            },
+            {
+                "ChangeValue1" : 4,
+                "ChangeValue2" : null,
+                "ClassType" : "None",
+                "EnrollCount" : 4,
+                "Id" : 10702,
+                "Name" : "ダイスター2【シーズン1】",
+                "Priority" : 4
+            },
+            {
+                "ChangeValue1" : 8,
+                "ChangeValue2" : null,
+                "ClassType" : "None",
+                "EnrollCount" : 8,
+                "Id" : 10703,
+                "Name" : "ダイスター3【シーズン1】",
+                "Priority" : 8
+            }
+        ],
         "Hidden" : false,
         "Id" : 10001,
         "IsDefault" : false,
