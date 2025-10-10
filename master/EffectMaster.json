@@ -7571,6 +7571,39 @@
         [
             {
                 "Level" : 1,
+                "Value" : 16.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 16.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 32.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 20542,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "ScoreGainOnScore"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
                 "Value" : 32.0
             },
             {

@@ -3582,5 +3582,262 @@
         ],
         "UnlockConditionType" : "RouletteEventPoint",
         "UnlockConditionValue" : 2014
+    },
+    {
+        "ClearEventPointQuantity" : 10000,
+        "EventMasterId" : 25015,
+        "FirstClearEventPointQuantity" : 50000,
+        "Id" : 15,
+        "Stages" : 
+        [
+            {
+                "BonusLiveMasterId" : 15,
+                "ClearScore" : 30195,
+                "ClearStarActCount" : null,
+                "Id" : 1501,
+                "MusicMasterId" : 224,
+                "Order" : 1,
+                "RecommendedCompany" : null,
+                "RecommendedLevel" : 10,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 15010101,
+                        "IsFirstClear" : true,
+                        "ThingId" : 132044,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15010102,
+                        "IsFirstClear" : true,
+                        "ThingId" : 210001,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15010103,
+                        "IsFirstClear" : true,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    },
+                    {
+                        "Id" : 15010201,
+                        "IsFirstClear" : false,
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "SenseNotationMasterId" : 250151,
+                "StartDate" : "2025-10-10 17:00:00",
+                "UnlockConditionValue" : 1000,
+                "VocalVersion" : 1
+            },
+            {
+                "BonusLiveMasterId" : 15,
+                "ClearScore" : 35145,
+                "ClearStarActCount" : null,
+                "Id" : 1502,
+                "MusicMasterId" : 129,
+                "Order" : 2,
+                "RecommendedCompany" : null,
+                "RecommendedLevel" : 10,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 15020101,
+                        "IsFirstClear" : true,
+                        "ThingId" : 132044,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15020102,
+                        "IsFirstClear" : true,
+                        "ThingId" : 210001,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15020103,
+                        "IsFirstClear" : true,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    },
+                    {
+                        "Id" : 15020201,
+                        "IsFirstClear" : false,
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 60,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "SenseNotationMasterId" : 250152,
+                "StartDate" : "2025-10-12 05:00:00",
+                "UnlockConditionValue" : 15000,
+                "VocalVersion" : 1
+            },
+            {
+                "BonusLiveMasterId" : 15,
+                "ClearScore" : 82045,
+                "ClearStarActCount" : null,
+                "Id" : 1503,
+                "MusicMasterId" : 163,
+                "Order" : 3,
+                "RecommendedCompany" : null,
+                "RecommendedLevel" : 20,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 15030101,
+                        "IsFirstClear" : true,
+                        "ThingId" : 130071,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15030102,
+                        "IsFirstClear" : true,
+                        "ThingId" : 210001,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15030103,
+                        "IsFirstClear" : true,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    },
+                    {
+                        "Id" : 15030201,
+                        "IsFirstClear" : false,
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 70,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "SenseNotationMasterId" : 250153,
+                "StartDate" : "2025-10-13 05:00:00",
+                "UnlockConditionValue" : 30000,
+                "VocalVersion" : 1
+            },
+            {
+                "BonusLiveMasterId" : 15,
+                "ClearScore" : 122395,
+                "ClearStarActCount" : null,
+                "Id" : 1504,
+                "MusicMasterId" : 84,
+                "Order" : 4,
+                "RecommendedCompany" : null,
+                "RecommendedLevel" : 20,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 15040101,
+                        "IsFirstClear" : true,
+                        "ThingId" : 132045,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15040102,
+                        "IsFirstClear" : true,
+                        "ThingId" : 210001,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15040103,
+                        "IsFirstClear" : true,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    },
+                    {
+                        "Id" : 15040201,
+                        "IsFirstClear" : false,
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 80,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15040202,
+                        "IsFirstClear" : false,
+                        "ThingId" : 132044,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "SenseNotationMasterId" : 250154,
+                "StartDate" : "2025-10-15 05:00:00",
+                "UnlockConditionValue" : 50000,
+                "VocalVersion" : 1
+            },
+            {
+                "BonusLiveMasterId" : 15,
+                "ClearScore" : 342435,
+                "ClearStarActCount" : 2,
+                "Id" : 1505,
+                "MusicMasterId" : 228,
+                "Order" : 5,
+                "RecommendedCompany" : null,
+                "RecommendedLevel" : 30,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 15050101,
+                        "IsFirstClear" : true,
+                        "ThingId" : 150000,
+                        "ThingQuantity" : 30,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15050102,
+                        "IsFirstClear" : true,
+                        "ThingId" : 210001,
+                        "ThingQuantity" : 2,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15050103,
+                        "IsFirstClear" : true,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    },
+                    {
+                        "Id" : 15050201,
+                        "IsFirstClear" : false,
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15050202,
+                        "IsFirstClear" : false,
+                        "ThingId" : 132045,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    },
+                    {
+                        "Id" : 15050203,
+                        "IsFirstClear" : false,
+                        "ThingId" : 132044,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "SenseNotationMasterId" : 250155,
+                "StartDate" : "2025-10-16 05:00:00",
+                "UnlockConditionValue" : 100000,
+                "VocalVersion" : 1
+            }
+        ],
+        "UnlockConditionType" : "RouletteEventPoint",
+        "UnlockConditionValue" : 2015
     }
 ]

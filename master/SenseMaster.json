@@ -9541,6 +9541,123 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 670,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20542,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20536,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1419501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／センス発動直後、その時のスコアの[:param11]％のスコアを獲得／センス発動直後、自身の歌唱力の[:param12]倍のスコアを獲得",
+        "Id" : 141950,
+        "LightCount" : 1,
+        "Name" : "水鏡に映える月を掬って",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29111,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1419601,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29112,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1419602,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29113,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1419603,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1419604,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "[:score]倍のスコアを獲得／センス発動後、付与されているライフガード1回につきプリンシパルゲージの上限値が20上昇（最大+80）",
+        "Id" : 141960,
+        "LightCount" : 2,
+        "Name" : "Bordeaux Rendez-vous",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",

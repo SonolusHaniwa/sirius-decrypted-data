@@ -14673,6 +14673,1093 @@
         "StartDate" : "2025-09-10 17:00:00"
     },
     {
+        "BonusAttribute" : 1,
+        "BonusCategoryMasterId10" : 7515,
+        "BonusCategoryMasterId20" : 7515,
+        "Bonuses" : 
+        [
+            {
+                "BonusTargetId" : 3,
+                "BonusTargetType" : "Company",
+                "Id" : 2501501
+            },
+            {
+                "BonusTargetId" : 2,
+                "BonusTargetType" : "Company",
+                "Id" : 2501502
+            }
+        ],
+        "EndDate" : "2025-10-18 22:00:00",
+        "EventPointItemMasterId" : 425015,
+        "EventType" : "RouletteEvent",
+        "ExchangeShopMasterId" : 25015,
+        "ForceEndDate" : "2025-10-20 17:00:00",
+        "Id" : 25015,
+        "IsAsideLiveButton" : false,
+        "Name" : "夜半の月とその瞳",
+        "PointRewards" : 
+        [
+            {
+                "Id" : 2501501,
+                "RequiredPoint" : 1000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501502,
+                "RequiredPoint" : 3000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501503,
+                "RequiredPoint" : 6000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501504,
+                "RequiredPoint" : 10000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501505,
+                "RequiredPoint" : 15000,
+                "ThingId" : 0,
+                "ThingQuantity" : 200000,
+                "ThingType" : "Coin"
+            },
+            {
+                "Id" : 2501506,
+                "RequiredPoint" : 20000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501507,
+                "RequiredPoint" : 25000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 50,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501508,
+                "RequiredPoint" : 30000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501509,
+                "RequiredPoint" : 35000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 50,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501510,
+                "RequiredPoint" : 40000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501511,
+                "RequiredPoint" : 45000,
+                "ThingId" : 130015,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501512,
+                "RequiredPoint" : 50000,
+                "ThingId" : 0,
+                "ThingQuantity" : 100,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 2501513,
+                "RequiredPoint" : 50000,
+                "ThingId" : 132043,
+                "ThingQuantity" : 100,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501514,
+                "RequiredPoint" : 60000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501515,
+                "RequiredPoint" : 70000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 50,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501516,
+                "RequiredPoint" : 80000,
+                "ThingId" : 111075,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501517,
+                "RequiredPoint" : 90000,
+                "ThingId" : 0,
+                "ThingQuantity" : 300000,
+                "ThingType" : "Coin"
+            },
+            {
+                "Id" : 2501518,
+                "RequiredPoint" : 100000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501519,
+                "RequiredPoint" : 100000,
+                "ThingId" : 132044,
+                "ThingQuantity" : 10,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501520,
+                "RequiredPoint" : 110000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 80,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501521,
+                "RequiredPoint" : 120000,
+                "ThingId" : 111075,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501522,
+                "RequiredPoint" : 130000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 80,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501523,
+                "RequiredPoint" : 140000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501524,
+                "RequiredPoint" : 150000,
+                "ThingId" : 130015,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501525,
+                "RequiredPoint" : 160000,
+                "ThingId" : 111075,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501526,
+                "RequiredPoint" : 170000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 100,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501527,
+                "RequiredPoint" : 180000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501528,
+                "RequiredPoint" : 190000,
+                "ThingId" : 130015,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501529,
+                "RequiredPoint" : 200000,
+                "ThingId" : 130013,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501530,
+                "RequiredPoint" : 220000,
+                "ThingId" : 130064,
+                "ThingQuantity" : 20,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501531,
+                "RequiredPoint" : 240000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501532,
+                "RequiredPoint" : 260000,
+                "ThingId" : 130064,
+                "ThingQuantity" : 30,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501533,
+                "RequiredPoint" : 280000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501534,
+                "RequiredPoint" : 300000,
+                "ThingId" : 0,
+                "ThingQuantity" : 500,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 2501535,
+                "RequiredPoint" : 350000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501536,
+                "RequiredPoint" : 400000,
+                "ThingId" : 140000,
+                "ThingQuantity" : 100,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501537,
+                "RequiredPoint" : 450000,
+                "ThingId" : 211002,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501538,
+                "RequiredPoint" : 500000,
+                "ThingId" : 130013,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501539,
+                "RequiredPoint" : 600000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501540,
+                "RequiredPoint" : 700000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501541,
+                "RequiredPoint" : 800000,
+                "ThingId" : 130064,
+                "ThingQuantity" : 50,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501542,
+                "RequiredPoint" : 900000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501543,
+                "RequiredPoint" : 1000000,
+                "ThingId" : 151015,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501544,
+                "RequiredPoint" : 1000000,
+                "ThingId" : 132045,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501545,
+                "RequiredPoint" : 1100000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 60,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501546,
+                "RequiredPoint" : 1200000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501547,
+                "RequiredPoint" : 1300000,
+                "ThingId" : 130011,
+                "ThingQuantity" : 90,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501548,
+                "RequiredPoint" : 1400000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501549,
+                "RequiredPoint" : 1500000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501550,
+                "RequiredPoint" : 1500000,
+                "ThingId" : 150000,
+                "ThingQuantity" : 20,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501551,
+                "RequiredPoint" : 1600000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501552,
+                "RequiredPoint" : 1700000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501553,
+                "RequiredPoint" : 1800000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501554,
+                "RequiredPoint" : 1900000,
+                "ThingId" : 130013,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501555,
+                "RequiredPoint" : 2000000,
+                "ThingId" : 151007,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501556,
+                "RequiredPoint" : 2000000,
+                "ThingId" : 132045,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501557,
+                "RequiredPoint" : 2200000,
+                "ThingId" : 130015,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501558,
+                "RequiredPoint" : 2400000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501559,
+                "RequiredPoint" : 2500000,
+                "ThingId" : 150000,
+                "ThingQuantity" : 40,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501560,
+                "RequiredPoint" : 2600000,
+                "ThingId" : 0,
+                "ThingQuantity" : 200,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 2501561,
+                "RequiredPoint" : 2800000,
+                "ThingId" : 130072,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501562,
+                "RequiredPoint" : 3000000,
+                "ThingId" : 130071,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501563,
+                "RequiredPoint" : 3200000,
+                "ThingId" : 111075,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501564,
+                "RequiredPoint" : 3400000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501565,
+                "RequiredPoint" : 3600000,
+                "ThingId" : 130013,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501566,
+                "RequiredPoint" : 3800000,
+                "ThingId" : 130015,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501567,
+                "RequiredPoint" : 4000000,
+                "ThingId" : 0,
+                "ThingQuantity" : 200,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 2501568,
+                "RequiredPoint" : 4200000,
+                "ThingId" : 111075,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501569,
+                "RequiredPoint" : 4400000,
+                "ThingId" : 130012,
+                "ThingQuantity" : 3,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501570,
+                "RequiredPoint" : 4600000,
+                "ThingId" : 130013,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501571,
+                "RequiredPoint" : 4800000,
+                "ThingId" : 130015,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501572,
+                "RequiredPoint" : 5000000,
+                "ThingId" : 130071,
+                "ThingQuantity" : 2,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501573,
+                "RequiredPoint" : 5000000,
+                "ThingId" : 120003,
+                "ThingQuantity" : 50,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501574,
+                "RequiredPoint" : 5500000,
+                "ThingId" : 111075,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501575,
+                "RequiredPoint" : 6000000,
+                "ThingId" : 0,
+                "ThingQuantity" : 200,
+                "ThingType" : "Jewel"
+            },
+            {
+                "Id" : 2501576,
+                "RequiredPoint" : 6500000,
+                "ThingId" : 120003,
+                "ThingQuantity" : 100,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501577,
+                "RequiredPoint" : 7000000,
+                "ThingId" : 140000,
+                "ThingQuantity" : 100,
+                "ThingType" : "Item"
+            },
+            {
+                "Id" : 2501578,
+                "RequiredPoint" : 7500000,
+                "ThingId" : 150000,
+                "ThingQuantity" : 60,
+                "ThingType" : "Item"
+            }
+        ],
+        "RankingRewards" : 
+        [
+            {
+                "Id" : 2501501,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150101,
+                        "ThingId" : 2501501,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150111,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 2000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 1,
+                "TargetLowestRank" : 1
+            },
+            {
+                "Id" : 2501502,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150201,
+                        "ThingId" : 2501502,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150211,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 2000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 2,
+                "TargetLowestRank" : 2
+            },
+            {
+                "Id" : 2501503,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150301,
+                        "ThingId" : 2501503,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150311,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 2000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 3,
+                "TargetLowestRank" : 3
+            },
+            {
+                "Id" : 2501504,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150401,
+                        "ThingId" : 2501504,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150411,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 2000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 4,
+                "TargetLowestRank" : 10
+            },
+            {
+                "Id" : 2501505,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150501,
+                        "ThingId" : 2501505,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150511,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 11,
+                "TargetLowestRank" : 20
+            },
+            {
+                "Id" : 2501506,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150601,
+                        "ThingId" : 2501506,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150611,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 21,
+                "TargetLowestRank" : 30
+            },
+            {
+                "Id" : 2501507,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150701,
+                        "ThingId" : 2501507,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150711,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 31,
+                "TargetLowestRank" : 40
+            },
+            {
+                "Id" : 2501508,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150801,
+                        "ThingId" : 2501508,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150811,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 41,
+                "TargetLowestRank" : 50
+            },
+            {
+                "Id" : 2501509,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250150901,
+                        "ThingId" : 2501509,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250150911,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1200,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 51,
+                "TargetLowestRank" : 100
+            },
+            {
+                "Id" : 2501510,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151001,
+                        "ThingId" : 2501510,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151011,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 101,
+                "TargetLowestRank" : 200
+            },
+            {
+                "Id" : 2501511,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151101,
+                        "ThingId" : 2501511,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151111,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 201,
+                "TargetLowestRank" : 300
+            },
+            {
+                "Id" : 2501512,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151201,
+                        "ThingId" : 2501512,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151211,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 301,
+                "TargetLowestRank" : 400
+            },
+            {
+                "Id" : 2501513,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151301,
+                        "ThingId" : 2501513,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151311,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 401,
+                "TargetLowestRank" : 500
+            },
+            {
+                "Id" : 2501514,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151401,
+                        "ThingId" : 2501514,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151411,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 750,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 501,
+                "TargetLowestRank" : 1000
+            },
+            {
+                "Id" : 2501515,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151501,
+                        "ThingId" : 2501515,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151511,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 1001,
+                "TargetLowestRank" : 2000
+            },
+            {
+                "Id" : 2501516,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151601,
+                        "ThingId" : 2501516,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151611,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 2001,
+                "TargetLowestRank" : 3000
+            },
+            {
+                "Id" : 2501517,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151701,
+                        "ThingId" : 2501517,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151711,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 3001,
+                "TargetLowestRank" : 4000
+            },
+            {
+                "Id" : 2501518,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151801,
+                        "ThingId" : 2501518,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151811,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 4001,
+                "TargetLowestRank" : 5000
+            },
+            {
+                "Id" : 2501519,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250151901,
+                        "ThingId" : 2501519,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250151911,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 400,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 5001,
+                "TargetLowestRank" : 10000
+            },
+            {
+                "Id" : 2501520,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152001,
+                        "ThingId" : 2501520,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250152011,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 10001,
+                "TargetLowestRank" : 20000
+            },
+            {
+                "Id" : 2501521,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152101,
+                        "ThingId" : 2501521,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250152111,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 20001,
+                "TargetLowestRank" : 30000
+            },
+            {
+                "Id" : 2501522,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152201,
+                        "ThingId" : 2501522,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250152211,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 30001,
+                "TargetLowestRank" : 40000
+            },
+            {
+                "Id" : 2501523,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152301,
+                        "ThingId" : 2501523,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250152311,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 40001,
+                "TargetLowestRank" : 50000
+            },
+            {
+                "Id" : 2501524,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152401,
+                        "ThingId" : 2501524,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    },
+                    {
+                        "Id" : 250152411,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 250,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 50001,
+                "TargetLowestRank" : 100000
+            },
+            {
+                "Id" : 2501525,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152511,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 100001,
+                "TargetLowestRank" : 200000
+            },
+            {
+                "Id" : 2501526,
+                "Rewards" : 
+                [
+                    {
+                        "Id" : 250152611,
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "TargetHighestRank" : 200001,
+                "TargetLowestRank" : 9999999
+            }
+        ],
+        "StartDate" : "2025-10-10 17:00:00"
+    },
+    {
         "BonusAttribute" : null,
         "BonusCategoryMasterId10" : null,
         "BonusCategoryMasterId20" : null,
