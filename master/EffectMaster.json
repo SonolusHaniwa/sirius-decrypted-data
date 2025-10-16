@@ -2350,6 +2350,252 @@
         "Type" : "PrincipalGaugeLimitUp"
     },
     {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 64.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19070,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeLimitUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 128.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 128.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 128.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 128.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 128.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 128.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19071,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeLimitUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 256.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19072,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeLimitUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 256.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 256.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19073,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeLimitUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 512.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19074,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "PrincipalGaugeLimitUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 3,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 4,
+                "Value" : 1024.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 6,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 7,
+                "Value" : 1024.01
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StarAct",
+        "Id" : 19090,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "52"
+    },
+    {
         "CalculationType" : "PercentageAddition",
         "Conditions" : 
         [
@@ -7803,6 +8049,39 @@
     },
     {
         "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 512.00999999999999
+            },
+            {
+                "Level" : 3,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 512.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 20631,
+        "Range" : "Self",
+        "Triggers" : [],
+        "Type" : "52"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
         "Conditions" : 
         [
             {
@@ -8900,6 +9179,45 @@
         "DurationSecond" : 0,
         "FireTimingType" : "Sense",
         "Id" : 28008,
+        "Range" : "All",
+        "Triggers" : [],
+        "Type" : "50"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : 
+        [
+            {
+                "Condition" : "CharacterBase",
+                "Value" : 305
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 0.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 0.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 0.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 0.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 0.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 28009,
         "Range" : "All",
         "Triggers" : [],
         "Type" : "50"
@@ -66342,6 +66660,81 @@
         [
             {
                 "Level" : 1,
+                "Value" : 2048.0999999999999
+            },
+            {
+                "Level" : 2,
+                "Value" : 4096.1700000000001
+            },
+            {
+                "Level" : 3,
+                "Value" : 4096.29
+            },
+            {
+                "Level" : 4,
+                "Value" : 4096.0600000000004
+            },
+            {
+                "Level" : 5,
+                "Value" : 4096.4499999999998
+            },
+            {
+                "Level" : 6,
+                "Value" : 4096.21
+            },
+            {
+                "Level" : 7,
+                "Value" : 4096.3199999999997
+            },
+            {
+                "Level" : 8,
+                "Value" : 8192.3400000000001
+            },
+            {
+                "Level" : 9,
+                "Value" : 8193.5499999999993
+            },
+            {
+                "Level" : 10,
+                "Value" : 8192.5699999999997
+            },
+            {
+                "Level" : 11,
+                "Value" : 8193.0200000000004
+            },
+            {
+                "Level" : 12,
+                "Value" : 8192.1200000000008
+            },
+            {
+                "Level" : 13,
+                "Value" : 8193.9500000000007
+            },
+            {
+                "Level" : 14,
+                "Value" : 8192.8899999999994
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 10131300,
+        "Range" : "Self",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 3
+            }
+        ],
+        "Type" : "VocalUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
                 "Value" : 1024.01
             },
             {
@@ -73507,6 +73900,81 @@
             {
                 "Trigger" : "Company",
                 "Value" : 1
+            }
+        ],
+        "Type" : "ScoreGainOnVocal"
+    },
+    {
+        "CalculationType" : "Multiplication",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 512.00999999999999
+            },
+            {
+                "Level" : 2,
+                "Value" : 512.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 512.00999999999999
+            },
+            {
+                "Level" : 4,
+                "Value" : 1024.0
+            },
+            {
+                "Level" : 5,
+                "Value" : 1024.03
+            },
+            {
+                "Level" : 6,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 7,
+                "Value" : 1024.02
+            },
+            {
+                "Level" : 8,
+                "Value" : 1024.0
+            },
+            {
+                "Level" : 9,
+                "Value" : 1024.03
+            },
+            {
+                "Level" : 10,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 11,
+                "Value" : 2048.0900000000001
+            },
+            {
+                "Level" : 12,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 13,
+                "Value" : 2048.0999999999999
+            },
+            {
+                "Level" : 14,
+                "Value" : 2048.0500000000002
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 10931300,
+        "Range" : "None",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Company",
+                "Value" : 3
             }
         ],
         "Type" : "ScoreGainOnVocal"

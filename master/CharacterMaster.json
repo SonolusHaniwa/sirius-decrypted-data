@@ -14975,8 +14975,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141450,
         "LeaderSenseMasterId" : 201,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-20 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 84,
@@ -15032,8 +15032,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141460,
         "LeaderSenseMasterId" : 202,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-20 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 91,
@@ -15431,8 +15431,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141530,
         "LeaderSenseMasterId" : 207,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-21 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 174,
@@ -15488,8 +15488,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141540,
         "LeaderSenseMasterId" : 208,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-21 05:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 81,
@@ -17913,6 +17913,128 @@
         "SenseMasterId" : 141960,
         "StarActMasterId" : 141961,
         "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141971,
+        "BloomBonusGroupMasterId" : 40197,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 5005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 6012,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8007,
+                "IsAwaken" : true
+            },
+            {
+                "CategoryMasterId" : 4007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 305,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-10-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141970,
+        "LeaderSenseMasterId" : 239,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-20 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 118,
+            "Expression" : 102,
+            "Vocal" : 163
+        },
+        "Name" : "散る紅葉、終の手合わせ",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141970,
+        "StarActMasterId" : 141971,
+        "UnlockText" : "ガチャ(ユメフェス)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Colorful",
+        "AwakenStarActMasterId" : 141981,
+        "BloomBonusGroupMasterId" : 40198,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 6012,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8002,
+                "IsAwaken" : true
+            },
+            {
+                "CategoryMasterId" : 4007,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 43,
+        "CharacterBaseMasterId" : 303,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-10-20 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 431,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 141980,
+        "LeaderSenseMasterId" : 240,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-20 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 130,
+            "Expression" : 133,
+            "Vocal" : 112
+        },
+        "Name" : "涙、子の凶行を引き止めて",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 432,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 141980,
+        "StarActMasterId" : 141981,
+        "UnlockText" : "ガチャ(ユメフェス)で入手"
     },
     {
         "AssetId" : null,

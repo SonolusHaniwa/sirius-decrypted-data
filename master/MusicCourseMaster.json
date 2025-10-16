@@ -1193,6 +1193,41 @@
         "Details" : 
         [
             {
+                "Id" : 7101,
+                "LiveMasterId" : 17703,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 7102,
+                "LiveMasterId" : 7403,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 7103,
+                "LiveMasterId" : 4003,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-01 05:00:00",
+        "Id" : 71,
+        "InitialLife" : 9,
+        "MusicCourseType" : "Special",
+        "Name" : "PERFECTコース",
+        "Order" : 11,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2025-10-30 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 20001,
                 "LiveMasterId" : 104,
                 "SetListNumber" : 1,
@@ -3355,6 +3390,146 @@
         "RequiredAmount" : 1,
         "RequiredItemMasterId" : 130201,
         "StartDate" : "2025-10-13 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 26201,
+                "LiveMasterId" : 22004,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26202,
+                "LiveMasterId" : 8504,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26203,
+                "LiveMasterId" : 9604,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-10-27 00:00:00",
+        "Id" : 262,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第32回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-10-20 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 26301,
+                "LiveMasterId" : 22005,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26302,
+                "LiveMasterId" : 8505,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26303,
+                "LiveMasterId" : 9605,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-10-27 00:00:00",
+        "Id" : 263,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第32回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-10-20 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 26401,
+                "LiveMasterId" : 16404,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26402,
+                "LiveMasterId" : 12304,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26403,
+                "LiveMasterId" : 4004,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-11-03 00:00:00",
+        "Id" : 264,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第33回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-10-27 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 26501,
+                "LiveMasterId" : 16405,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26502,
+                "LiveMasterId" : 9305,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 26503,
+                "LiveMasterId" : 12305,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2025-11-03 00:00:00",
+        "Id" : 265,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第33回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2025-10-27 17:00:00",
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null
