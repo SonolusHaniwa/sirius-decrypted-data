@@ -7268,5 +7268,377 @@
         ],
         "ScoreUpPerLevel" : 140,
         "StarActConditionMasterId" : 103132
+    },
+    {
+        "AcquirableScorePercent" : 1310,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19002,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19004,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19005,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002105,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19006,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002106,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19007,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002107,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 7,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19008,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002108,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19009,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002109,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 9,
+                "Parameter1" : 9,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19010,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15002110,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 10,
+                "Parameter1" : 10,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得/付与されているライフガード1回につきスコア獲得量10％上昇（最大＋100％）",
+        "Id" : 150021,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 140,
+        "StarActConditionMasterId" : 102412
+    },
+    {
+        "AcquirableScorePercent" : 1310,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19011,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19075,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002201,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19012,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19076,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002202,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19013,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19077,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002203,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19014,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19078,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002204,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19015,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19079,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002205,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19016,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19081,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002206,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19017,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19082,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002207,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 7,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19018,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19083,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002208,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19019,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19084,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002209,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 9,
+                "Parameter1" : 9,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19020,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19085,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15002210,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 10,
+                "Parameter1" : 10,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<size=23%>総演技力の[:score]倍のスコアを獲得／付与されているライフガード1回につきスコア獲得量12％上昇（最大＋120％）／付与されているライフガード1回につき15プリンシパルゲージの上限を上昇（最大＋150）</size>",
+        "Id" : 150022,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 140,
+        "StarActConditionMasterId" : 102412
     }
 ]

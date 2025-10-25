@@ -18092,5 +18092,62 @@
         "SenseMasterId" : 150010,
         "StarActMasterId" : 150011,
         "UnlockText" : "特別な方法で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 150022,
+        "BloomBonusGroupMasterId" : 40502,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2004,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 2002,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8012,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8013,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8009,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 405,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2025-10-26 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 150020,
+        "LeaderSenseMasterId" : 241,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2025-10-26 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 152,
+            "Expression" : 139,
+            "Vocal" : 139
+        },
+        "Name" : "Bomb Interruption !!",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 150020,
+        "StarActMasterId" : 150021,
+        "UnlockText" : "特別な方法で入手"
     }
 ]

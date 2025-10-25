@@ -68101,6 +68101,69 @@
         "StartDate" : "2025-10-20 17:00:00"
     },
     {
+        "BannerPath" : "8690",
+        "Category" : "Gacha",
+        "DisplayItemMasterId" : 418690,
+        "DisplayThingType" : "Item",
+        "EndDate" : "2025-11-12 17:00:00",
+        "Id" : 8690,
+        "IsDisplayRequiredHavingItem" : false,
+        "LastRefreshedAt" : "1-01-01 00:00:00",
+        "Lineup" : 
+        [
+            {
+                "EndDate" : "2025-11-12 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 8690001,
+                "IsDisplayLocked" : false,
+                "Order" : 8690001,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 418690,
+                "RequiredQuantity" : 200,
+                "StartDate" : "2025-10-26 17:00:00",
+                "ThingId" : 150020,
+                "ThingQuantity" : 1,
+                "ThingType" : "Character",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2025-11-12 17:00:00",
+                "ExchangeLimit" : 5,
+                "Id" : 8690002,
+                "IsDisplayLocked" : false,
+                "Order" : 8690002,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 418690,
+                "RequiredQuantity" : 50,
+                "StartDate" : "2025-10-26 17:00:00",
+                "ThingId" : 145002,
+                "ThingQuantity" : 800,
+                "ThingType" : "Item",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            },
+            {
+                "EndDate" : "2025-11-12 17:00:00",
+                "ExchangeLimit" : null,
+                "Id" : 8690003,
+                "IsDisplayLocked" : false,
+                "Order" : 8690003,
+                "ReplaceType" : null,
+                "RequiredItemMasterId" : 418690,
+                "RequiredQuantity" : 1,
+                "StartDate" : "2025-10-26 17:00:00",
+                "ThingId" : 130011,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item",
+                "UnlockType" : null,
+                "UnlockValue" : null
+            }
+        ],
+        "Name" : "ステラフェスガチャ(アクター)",
+        "StartDate" : "2025-10-26 17:00:00"
+    },
+    {
         "BannerPath" : "20001",
         "Category" : "Event",
         "DisplayItemMasterId" : 420001,
