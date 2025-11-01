@@ -24952,6 +24952,162 @@
         "Buffs" : 
         [
             {
+                "BuffValue" : 150,
+                "Id" : 11201,
+                "TargetValue" : 2,
+                "Type" : "Company"
+            },
+            {
+                "BuffValue" : 50,
+                "Id" : 11202,
+                "TargetValue" : 2,
+                "Type" : "Attribute"
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Id" : 1120101,
+                "Position" : 1,
+                "TimingSecond" : 6
+            },
+            {
+                "Id" : 1120102,
+                "Position" : 1,
+                "TimingSecond" : 51
+            },
+            {
+                "Id" : 1120103,
+                "Position" : 1,
+                "TimingSecond" : 101
+            },
+            {
+                "Id" : 1120104,
+                "Position" : 1,
+                "TimingSecond" : 121
+            },
+            {
+                "Id" : 1120105,
+                "Position" : 1,
+                "TimingSecond" : 171
+            },
+            {
+                "Id" : 1120106,
+                "Position" : 1,
+                "TimingSecond" : 181
+            },
+            {
+                "Id" : 1120107,
+                "Position" : 1,
+                "TimingSecond" : 216
+            },
+            {
+                "Id" : 1120201,
+                "Position" : 2,
+                "TimingSecond" : 36
+            },
+            {
+                "Id" : 1120202,
+                "Position" : 2,
+                "TimingSecond" : 96
+            },
+            {
+                "Id" : 1120203,
+                "Position" : 2,
+                "TimingSecond" : 141
+            },
+            {
+                "Id" : 1120204,
+                "Position" : 2,
+                "TimingSecond" : 186
+            },
+            {
+                "Id" : 1120205,
+                "Position" : 2,
+                "TimingSecond" : 236
+            },
+            {
+                "Id" : 1120301,
+                "Position" : 3,
+                "TimingSecond" : 43
+            },
+            {
+                "Id" : 1120302,
+                "Position" : 3,
+                "TimingSecond" : 88
+            },
+            {
+                "Id" : 1120303,
+                "Position" : 3,
+                "TimingSecond" : 153
+            },
+            {
+                "Id" : 1120304,
+                "Position" : 3,
+                "TimingSecond" : 203
+            },
+            {
+                "Id" : 1120305,
+                "Position" : 3,
+                "TimingSecond" : 243
+            },
+            {
+                "Id" : 1120401,
+                "Position" : 4,
+                "TimingSecond" : 11
+            },
+            {
+                "Id" : 1120402,
+                "Position" : 4,
+                "TimingSecond" : 76
+            },
+            {
+                "Id" : 1120403,
+                "Position" : 4,
+                "TimingSecond" : 116
+            },
+            {
+                "Id" : 1120404,
+                "Position" : 4,
+                "TimingSecond" : 166
+            },
+            {
+                "Id" : 1120405,
+                "Position" : 4,
+                "TimingSecond" : 221
+            },
+            {
+                "Id" : 1120501,
+                "Position" : 5,
+                "TimingSecond" : 22
+            },
+            {
+                "Id" : 1120502,
+                "Position" : 5,
+                "TimingSecond" : 62
+            },
+            {
+                "Id" : 1120503,
+                "Position" : 5,
+                "TimingSecond" : 132
+            },
+            {
+                "Id" : 1120504,
+                "Position" : 5,
+                "TimingSecond" : 192
+            },
+            {
+                "Id" : 1120505,
+                "Position" : 5,
+                "TimingSecond" : 232
+            }
+        ],
+        "Id" : 1120
+    },
+    {
+        "Buffs" : 
+        [
+            {
                 "BuffValue" : 50,
                 "Id" : 30011,
                 "TargetValue" : 1,
@@ -25082,14 +25238,14 @@
                 "TimingSecond" : 137
             },
             {
-                "Id" : 3001504,
-                "Position" : 5,
-                "TimingSecond" : 187
-            },
-            {
                 "Id" : 3001505,
                 "Position" : 5,
                 "TimingSecond" : 222
+            },
+            {
+                "Id" : 3001504,
+                "Position" : 5,
+                "TimingSecond" : 187
             }
         ],
         "Id" : 3001
@@ -25203,14 +25359,14 @@
                 "TimingSecond" : 103
             },
             {
-                "Id" : 3002503,
-                "Position" : 5,
-                "TimingSecond" : 153
-            },
-            {
                 "Id" : 3002504,
                 "Position" : 5,
                 "TimingSecond" : 178
+            },
+            {
+                "Id" : 3002503,
+                "Position" : 5,
+                "TimingSecond" : 153
             }
         ],
         "Id" : 3002
@@ -25339,14 +25495,14 @@
                 "TimingSecond" : 75
             },
             {
-                "Id" : 3003504,
-                "Position" : 5,
-                "TimingSecond" : 200
-            },
-            {
                 "Id" : 3003503,
                 "Position" : 5,
                 "TimingSecond" : 150
+            },
+            {
+                "Id" : 3003504,
+                "Position" : 5,
+                "TimingSecond" : 200
             }
         ],
         "Id" : 3003
@@ -25485,14 +25641,14 @@
                 "TimingSecond" : 147
             },
             {
-                "Id" : 3004504,
-                "Position" : 5,
-                "TimingSecond" : 192
-            },
-            {
                 "Id" : 3004505,
                 "Position" : 5,
                 "TimingSecond" : 247
+            },
+            {
+                "Id" : 3004504,
+                "Position" : 5,
+                "TimingSecond" : 192
             }
         ],
         "Id" : 3004
@@ -25631,14 +25787,14 @@
                 "TimingSecond" : 107
             },
             {
-                "Id" : 3005505,
-                "Position" : 5,
-                "TimingSecond" : 222
-            },
-            {
                 "Id" : 3005504,
                 "Position" : 5,
                 "TimingSecond" : 152
+            },
+            {
+                "Id" : 3005505,
+                "Position" : 5,
+                "TimingSecond" : 222
             }
         ],
         "Id" : 3005
@@ -25777,14 +25933,14 @@
                 "TimingSecond" : 142
             },
             {
-                "Id" : 3006504,
-                "Position" : 5,
-                "TimingSecond" : 187
-            },
-            {
                 "Id" : 3006505,
                 "Position" : 5,
                 "TimingSecond" : 232
+            },
+            {
+                "Id" : 3006504,
+                "Position" : 5,
+                "TimingSecond" : 187
             }
         ],
         "Id" : 3006
@@ -25903,14 +26059,14 @@
                 "TimingSecond" : 113
             },
             {
-                "Id" : 3007505,
-                "Position" : 5,
-                "TimingSecond" : 193
-            },
-            {
                 "Id" : 3007504,
                 "Position" : 5,
                 "TimingSecond" : 163
+            },
+            {
+                "Id" : 3007505,
+                "Position" : 5,
+                "TimingSecond" : 193
             }
         ],
         "Id" : 3007
@@ -26034,14 +26190,14 @@
                 "TimingSecond" : 106
             },
             {
-                "Id" : 3008504,
-                "Position" : 5,
-                "TimingSecond" : 201
-            },
-            {
                 "Id" : 3008503,
                 "Position" : 5,
                 "TimingSecond" : 161
+            },
+            {
+                "Id" : 3008504,
+                "Position" : 5,
+                "TimingSecond" : 201
             }
         ],
         "Id" : 3008
@@ -26155,14 +26311,14 @@
                 "TimingSecond" : 68
             },
             {
-                "Id" : 3009504,
-                "Position" : 5,
-                "TimingSecond" : 173
-            },
-            {
                 "Id" : 3009503,
                 "Position" : 5,
                 "TimingSecond" : 113
+            },
+            {
+                "Id" : 3009504,
+                "Position" : 5,
+                "TimingSecond" : 173
             }
         ],
         "Id" : 3009
@@ -26261,14 +26417,14 @@
                 "TimingSecond" : 69
             },
             {
-                "Id" : 3010403,
-                "Position" : 4,
-                "TimingSecond" : 144
-            },
-            {
                 "Id" : 3010404,
                 "Position" : 4,
                 "TimingSecond" : 184
+            },
+            {
+                "Id" : 3010403,
+                "Position" : 4,
+                "TimingSecond" : 144
             }
         ],
         "Id" : 3010
@@ -26372,14 +26528,14 @@
                 "TimingSecond" : 71
             },
             {
-                "Id" : 3011503,
-                "Position" : 5,
-                "TimingSecond" : 121
-            },
-            {
                 "Id" : 3011504,
                 "Position" : 5,
                 "TimingSecond" : 171
+            },
+            {
+                "Id" : 3011503,
+                "Position" : 5,
+                "TimingSecond" : 121
             }
         ],
         "Id" : 3011
@@ -26488,14 +26644,14 @@
                 "TimingSecond" : 104
             },
             {
-                "Id" : 3012504,
-                "Position" : 5,
-                "TimingSecond" : 184
-            },
-            {
                 "Id" : 3012503,
                 "Position" : 5,
                 "TimingSecond" : 139
+            },
+            {
+                "Id" : 3012504,
+                "Position" : 5,
+                "TimingSecond" : 184
             }
         ],
         "Id" : 3012
@@ -26629,14 +26785,14 @@
                 "TimingSecond" : 83
             },
             {
-                "Id" : 3013504,
-                "Position" : 5,
-                "TimingSecond" : 203
-            },
-            {
                 "Id" : 3013503,
                 "Position" : 5,
                 "TimingSecond" : 153
+            },
+            {
+                "Id" : 3013504,
+                "Position" : 5,
+                "TimingSecond" : 203
             }
         ],
         "Id" : 3013
@@ -26770,14 +26926,14 @@
                 "TimingSecond" : 144
             },
             {
-                "Id" : 3014505,
-                "Position" : 5,
-                "TimingSecond" : 224
-            },
-            {
                 "Id" : 3014504,
                 "Position" : 5,
                 "TimingSecond" : 174
+            },
+            {
+                "Id" : 3014505,
+                "Position" : 5,
+                "TimingSecond" : 224
             }
         ],
         "Id" : 3014
@@ -26916,14 +27072,14 @@
                 "TimingSecond" : 126
             },
             {
-                "Id" : 3015504,
-                "Position" : 5,
-                "TimingSecond" : 166
-            },
-            {
                 "Id" : 3015505,
                 "Position" : 5,
                 "TimingSecond" : 211
+            },
+            {
+                "Id" : 3015504,
+                "Position" : 5,
+                "TimingSecond" : 166
             }
         ],
         "Id" : 3015
@@ -27062,14 +27218,14 @@
                 "TimingSecond" : 133
             },
             {
-                "Id" : 3016505,
-                "Position" : 5,
-                "TimingSecond" : 213
-            },
-            {
                 "Id" : 3016504,
                 "Position" : 5,
                 "TimingSecond" : 173
+            },
+            {
+                "Id" : 3016505,
+                "Position" : 5,
+                "TimingSecond" : 213
             }
         ],
         "Id" : 3016
@@ -27213,14 +27369,14 @@
                 "TimingSecond" : 121
             },
             {
-                "Id" : 3017505,
-                "Position" : 5,
-                "TimingSecond" : 221
-            },
-            {
                 "Id" : 3017504,
                 "Position" : 5,
                 "TimingSecond" : 166
+            },
+            {
+                "Id" : 3017505,
+                "Position" : 5,
+                "TimingSecond" : 221
             }
         ],
         "Id" : 3017
@@ -27364,14 +27520,14 @@
                 "TimingSecond" : 153
             },
             {
-                "Id" : 3018506,
-                "Position" : 5,
-                "TimingSecond" : 233
-            },
-            {
                 "Id" : 3018505,
                 "Position" : 5,
                 "TimingSecond" : 203
+            },
+            {
+                "Id" : 3018506,
+                "Position" : 5,
+                "TimingSecond" : 233
             }
         ],
         "Id" : 3018
@@ -27485,14 +27641,14 @@
                 "TimingSecond" : 102
             },
             {
-                "Id" : 3019504,
-                "Position" : 5,
-                "TimingSecond" : 207
-            },
-            {
                 "Id" : 3019503,
                 "Position" : 5,
                 "TimingSecond" : 147
+            },
+            {
+                "Id" : 3019504,
+                "Position" : 5,
+                "TimingSecond" : 207
             }
         ],
         "Id" : 3019
@@ -27606,14 +27762,14 @@
                 "TimingSecond" : 66
             },
             {
-                "Id" : 3020504,
-                "Position" : 5,
-                "TimingSecond" : 186
-            },
-            {
                 "Id" : 3020503,
                 "Position" : 5,
                 "TimingSecond" : 116
+            },
+            {
+                "Id" : 3020504,
+                "Position" : 5,
+                "TimingSecond" : 186
             }
         ],
         "Id" : 3020
@@ -27727,14 +27883,14 @@
                 "TimingSecond" : 58
             },
             {
-                "Id" : 3021504,
-                "Position" : 5,
-                "TimingSecond" : 163
-            },
-            {
                 "Id" : 3021503,
                 "Position" : 5,
                 "TimingSecond" : 113
+            },
+            {
+                "Id" : 3021504,
+                "Position" : 5,
+                "TimingSecond" : 163
             }
         ],
         "Id" : 3021
@@ -27848,14 +28004,14 @@
                 "TimingSecond" : 107
             },
             {
-                "Id" : 3022505,
-                "Position" : 5,
-                "TimingSecond" : 192
-            },
-            {
                 "Id" : 3022504,
                 "Position" : 5,
                 "TimingSecond" : 152
+            },
+            {
+                "Id" : 3022505,
+                "Position" : 5,
+                "TimingSecond" : 192
             }
         ],
         "Id" : 3022
@@ -27954,14 +28110,14 @@
                 "TimingSecond" : 49
             },
             {
-                "Id" : 3023503,
-                "Position" : 5,
-                "TimingSecond" : 94
-            },
-            {
                 "Id" : 3023504,
                 "Position" : 5,
                 "TimingSecond" : 154
+            },
+            {
+                "Id" : 3023503,
+                "Position" : 5,
+                "TimingSecond" : 94
             }
         ],
         "Id" : 3023
@@ -28070,14 +28226,14 @@
                 "TimingSecond" : 87
             },
             {
-                "Id" : 3024504,
-                "Position" : 5,
-                "TimingSecond" : 182
-            },
-            {
                 "Id" : 3024503,
                 "Position" : 5,
                 "TimingSecond" : 142
+            },
+            {
+                "Id" : 3024504,
+                "Position" : 5,
+                "TimingSecond" : 182
             }
         ],
         "Id" : 3024
@@ -28201,14 +28357,14 @@
                 "TimingSecond" : 57
             },
             {
-                "Id" : 3025504,
-                "Position" : 5,
-                "TimingSecond" : 182
-            },
-            {
                 "Id" : 3025503,
                 "Position" : 5,
                 "TimingSecond" : 127
+            },
+            {
+                "Id" : 3025504,
+                "Position" : 5,
+                "TimingSecond" : 182
             }
         ],
         "Id" : 3025
@@ -28332,14 +28488,14 @@
                 "TimingSecond" : 43
             },
             {
-                "Id" : 3026504,
-                "Position" : 5,
-                "TimingSecond" : 193
-            },
-            {
                 "Id" : 3026503,
                 "Position" : 5,
                 "TimingSecond" : 108
+            },
+            {
+                "Id" : 3026504,
+                "Position" : 5,
+                "TimingSecond" : 193
             }
         ],
         "Id" : 3026
@@ -28473,14 +28629,14 @@
                 "TimingSecond" : 136
             },
             {
-                "Id" : 3027505,
-                "Position" : 5,
-                "TimingSecond" : 196
-            },
-            {
                 "Id" : 3027504,
                 "Position" : 5,
                 "TimingSecond" : 166
+            },
+            {
+                "Id" : 3027505,
+                "Position" : 5,
+                "TimingSecond" : 196
             }
         ],
         "Id" : 3027
@@ -28599,14 +28755,14 @@
                 "TimingSecond" : 90
             },
             {
-                "Id" : 3028503,
-                "Position" : 5,
-                "TimingSecond" : 162
-            },
-            {
                 "Id" : 3028504,
                 "Position" : 5,
                 "TimingSecond" : 212
+            },
+            {
+                "Id" : 3028503,
+                "Position" : 5,
+                "TimingSecond" : 162
             }
         ],
         "Id" : 3028
@@ -28720,14 +28876,14 @@
                 "TimingSecond" : 120
             },
             {
-                "Id" : 3029503,
-                "Position" : 5,
-                "TimingSecond" : 180
-            },
-            {
                 "Id" : 3029504,
                 "Position" : 5,
                 "TimingSecond" : 240
+            },
+            {
+                "Id" : 3029503,
+                "Position" : 5,
+                "TimingSecond" : 180
             }
         ],
         "Id" : 3029
@@ -28841,14 +28997,14 @@
                 "TimingSecond" : 126
             },
             {
-                "Id" : 3030504,
-                "Position" : 5,
-                "TimingSecond" : 186
-            },
-            {
                 "Id" : 3030505,
                 "Position" : 5,
                 "TimingSecond" : 246
+            },
+            {
+                "Id" : 3030504,
+                "Position" : 5,
+                "TimingSecond" : 186
             }
         ],
         "Id" : 3030
@@ -28962,14 +29118,14 @@
                 "TimingSecond" : 91
             },
             {
-                "Id" : 3031503,
-                "Position" : 5,
-                "TimingSecond" : 140
-            },
-            {
                 "Id" : 3031504,
                 "Position" : 5,
                 "TimingSecond" : 170
+            },
+            {
+                "Id" : 3031503,
+                "Position" : 5,
+                "TimingSecond" : 140
             }
         ],
         "Id" : 3031
@@ -29093,14 +29249,14 @@
                 "TimingSecond" : 92
             },
             {
-                "Id" : 3032503,
-                "Position" : 5,
-                "TimingSecond" : 147
-            },
-            {
                 "Id" : 3032504,
                 "Position" : 5,
                 "TimingSecond" : 195
+            },
+            {
+                "Id" : 3032503,
+                "Position" : 5,
+                "TimingSecond" : 147
             }
         ],
         "Id" : 3032
@@ -29214,14 +29370,14 @@
                 "TimingSecond" : 81
             },
             {
-                "Id" : 3033503,
-                "Position" : 5,
-                "TimingSecond" : 141
-            },
-            {
                 "Id" : 3033504,
                 "Position" : 5,
                 "TimingSecond" : 201
+            },
+            {
+                "Id" : 3033503,
+                "Position" : 5,
+                "TimingSecond" : 141
             }
         ],
         "Id" : 3033
@@ -29335,14 +29491,14 @@
                 "TimingSecond" : 119
             },
             {
-                "Id" : 3034503,
-                "Position" : 5,
-                "TimingSecond" : 170
-            },
-            {
                 "Id" : 3034504,
                 "Position" : 5,
                 "TimingSecond" : 215
+            },
+            {
+                "Id" : 3034503,
+                "Position" : 5,
+                "TimingSecond" : 170
             }
         ],
         "Id" : 3034
@@ -29446,14 +29602,14 @@
                 "TimingSecond" : 15
             },
             {
-                "Id" : 3035502,
-                "Position" : 5,
-                "TimingSecond" : 110
-            },
-            {
                 "Id" : 3035503,
                 "Position" : 5,
                 "TimingSecond" : 195
+            },
+            {
+                "Id" : 3035502,
+                "Position" : 5,
+                "TimingSecond" : 110
             }
         ],
         "Id" : 3035
@@ -29552,14 +29708,14 @@
                 "TimingSecond" : 65
             },
             {
-                "Id" : 3036504,
-                "Position" : 5,
-                "TimingSecond" : 185
-            },
-            {
                 "Id" : 3036503,
                 "Position" : 5,
                 "TimingSecond" : 115
+            },
+            {
+                "Id" : 3036504,
+                "Position" : 5,
+                "TimingSecond" : 185
             }
         ],
         "Id" : 3036
@@ -29673,14 +29829,14 @@
                 "TimingSecond" : 85
             },
             {
-                "Id" : 3037404,
-                "Position" : 4,
-                "TimingSecond" : 200
-            },
-            {
                 "Id" : 3037403,
                 "Position" : 4,
                 "TimingSecond" : 145
+            },
+            {
+                "Id" : 3037404,
+                "Position" : 4,
+                "TimingSecond" : 200
             }
         ],
         "Id" : 3037
@@ -29794,14 +29950,14 @@
                 "TimingSecond" : 140
             },
             {
-                "Id" : 3038505,
-                "Position" : 5,
-                "TimingSecond" : 220
-            },
-            {
                 "Id" : 3038504,
                 "Position" : 5,
                 "TimingSecond" : 180
+            },
+            {
+                "Id" : 3038505,
+                "Position" : 5,
+                "TimingSecond" : 220
             }
         ],
         "Id" : 3038
@@ -29920,14 +30076,14 @@
                 "TimingSecond" : 73
             },
             {
-                "Id" : 3039503,
-                "Position" : 5,
-                "TimingSecond" : 141
-            },
-            {
                 "Id" : 3039504,
                 "Position" : 5,
                 "TimingSecond" : 198
+            },
+            {
+                "Id" : 3039503,
+                "Position" : 5,
+                "TimingSecond" : 141
             }
         ],
         "Id" : 3039
@@ -30046,14 +30202,14 @@
                 "TimingSecond" : 153
             },
             {
-                "Id" : 3040504,
-                "Position" : 5,
-                "TimingSecond" : 223
-            },
-            {
                 "Id" : 3040503,
                 "Position" : 5,
                 "TimingSecond" : 173
+            },
+            {
+                "Id" : 3040504,
+                "Position" : 5,
+                "TimingSecond" : 223
             }
         ],
         "Id" : 3040
@@ -30172,14 +30328,14 @@
                 "TimingSecond" : 70
             },
             {
-                "Id" : 3041502,
-                "Position" : 5,
-                "TimingSecond" : 175
-            },
-            {
                 "Id" : 3041503,
                 "Position" : 5,
                 "TimingSecond" : 240
+            },
+            {
+                "Id" : 3041502,
+                "Position" : 5,
+                "TimingSecond" : 175
             }
         ],
         "Id" : 3041
@@ -30313,14 +30469,14 @@
                 "TimingSecond" : 117
             },
             {
-                "Id" : 3042504,
-                "Position" : 5,
-                "TimingSecond" : 182
-            },
-            {
                 "Id" : 3042505,
                 "Position" : 5,
                 "TimingSecond" : 222
+            },
+            {
+                "Id" : 3042504,
+                "Position" : 5,
+                "TimingSecond" : 182
             }
         ],
         "Id" : 3042
@@ -30434,14 +30590,14 @@
                 "TimingSecond" : 91
             },
             {
-                "Id" : 3043503,
-                "Position" : 5,
-                "TimingSecond" : 140
-            },
-            {
                 "Id" : 3043504,
                 "Position" : 5,
                 "TimingSecond" : 170
+            },
+            {
+                "Id" : 3043503,
+                "Position" : 5,
+                "TimingSecond" : 140
             }
         ],
         "Id" : 3043
@@ -30555,14 +30711,14 @@
                 "TimingSecond" : 77
             },
             {
-                "Id" : 3044503,
-                "Position" : 5,
-                "TimingSecond" : 137
-            },
-            {
                 "Id" : 3044504,
                 "Position" : 5,
                 "TimingSecond" : 187
+            },
+            {
+                "Id" : 3044503,
+                "Position" : 5,
+                "TimingSecond" : 137
             }
         ],
         "Id" : 3044
@@ -30676,14 +30832,14 @@
                 "TimingSecond" : 88
             },
             {
-                "Id" : 3045503,
-                "Position" : 5,
-                "TimingSecond" : 138
-            },
-            {
                 "Id" : 3045504,
                 "Position" : 5,
                 "TimingSecond" : 178
+            },
+            {
+                "Id" : 3045503,
+                "Position" : 5,
+                "TimingSecond" : 138
             }
         ],
         "Id" : 3045
@@ -30797,14 +30953,14 @@
                 "TimingSecond" : 91
             },
             {
-                "Id" : 3046503,
-                "Position" : 5,
-                "TimingSecond" : 136
-            },
-            {
                 "Id" : 3046504,
                 "Position" : 5,
                 "TimingSecond" : 176
+            },
+            {
+                "Id" : 3046503,
+                "Position" : 5,
+                "TimingSecond" : 136
             }
         ],
         "Id" : 3046
@@ -30923,14 +31079,14 @@
                 "TimingSecond" : 78
             },
             {
-                "Id" : 3047504,
-                "Position" : 5,
-                "TimingSecond" : 183
-            },
-            {
                 "Id" : 3047503,
                 "Position" : 5,
                 "TimingSecond" : 128
+            },
+            {
+                "Id" : 3047504,
+                "Position" : 5,
+                "TimingSecond" : 183
             }
         ],
         "Id" : 3047
@@ -31055,6 +31211,359 @@
             }
         ],
         "Id" : 3048
+    },
+    {
+        "Buffs" : 
+        [
+            {
+                "BuffValue" : 50,
+                "Id" : 30491,
+                "TargetValue" : 4,
+                "Type" : "Company"
+            },
+            {
+                "BuffValue" : 50,
+                "Id" : 30492,
+                "TargetValue" : 0,
+                "Type" : "0"
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Id" : 3049101,
+                "Position" : 1,
+                "TimingSecond" : 22
+            },
+            {
+                "Id" : 3049102,
+                "Position" : 1,
+                "TimingSecond" : 90
+            },
+            {
+                "Id" : 3049103,
+                "Position" : 1,
+                "TimingSecond" : 159
+            },
+            {
+                "Id" : 3049104,
+                "Position" : 1,
+                "TimingSecond" : 219
+            },
+            {
+                "Id" : 3049201,
+                "Position" : 2,
+                "TimingSecond" : 26
+            },
+            {
+                "Id" : 3049202,
+                "Position" : 2,
+                "TimingSecond" : 66
+            },
+            {
+                "Id" : 3049203,
+                "Position" : 2,
+                "TimingSecond" : 106
+            },
+            {
+                "Id" : 3049204,
+                "Position" : 2,
+                "TimingSecond" : 146
+            },
+            {
+                "Id" : 3049205,
+                "Position" : 2,
+                "TimingSecond" : 186
+            },
+            {
+                "Id" : 3049301,
+                "Position" : 3,
+                "TimingSecond" : 8
+            },
+            {
+                "Id" : 3049302,
+                "Position" : 3,
+                "TimingSecond" : 48
+            },
+            {
+                "Id" : 3049303,
+                "Position" : 3,
+                "TimingSecond" : 88
+            },
+            {
+                "Id" : 3049304,
+                "Position" : 3,
+                "TimingSecond" : 128
+            },
+            {
+                "Id" : 3049305,
+                "Position" : 3,
+                "TimingSecond" : 168
+            },
+            {
+                "Id" : 3049306,
+                "Position" : 3,
+                "TimingSecond" : 208
+            },
+            {
+                "Id" : 3049401,
+                "Position" : 4,
+                "TimingSecond" : 204
+            },
+            {
+                "Id" : 3049501,
+                "Position" : 5,
+                "TimingSecond" : 4
+            },
+            {
+                "Id" : 3049502,
+                "Position" : 5,
+                "TimingSecond" : 73
+            },
+            {
+                "Id" : 3049503,
+                "Position" : 5,
+                "TimingSecond" : 141
+            },
+            {
+                "Id" : 3049504,
+                "Position" : 5,
+                "TimingSecond" : 198
+            }
+        ],
+        "Id" : 3049
+    },
+    {
+        "Buffs" : 
+        [
+            {
+                "BuffValue" : 50,
+                "Id" : 30501,
+                "TargetValue" : 4,
+                "Type" : "Company"
+            },
+            {
+                "BuffValue" : 50,
+                "Id" : 30502,
+                "TargetValue" : 0,
+                "Type" : "0"
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Id" : 3050101,
+                "Position" : 1,
+                "TimingSecond" : 28
+            },
+            {
+                "Id" : 3050102,
+                "Position" : 1,
+                "TimingSecond" : 78
+            },
+            {
+                "Id" : 3050103,
+                "Position" : 1,
+                "TimingSecond" : 133
+            },
+            {
+                "Id" : 3050104,
+                "Position" : 1,
+                "TimingSecond" : 218
+            },
+            {
+                "Id" : 3050105,
+                "Position" : 1,
+                "TimingSecond" : 220
+            },
+            {
+                "Id" : 3050201,
+                "Position" : 2,
+                "TimingSecond" : 14
+            },
+            {
+                "Id" : 3050202,
+                "Position" : 2,
+                "TimingSecond" : 94
+            },
+            {
+                "Id" : 3050203,
+                "Position" : 2,
+                "TimingSecond" : 149
+            },
+            {
+                "Id" : 3050204,
+                "Position" : 2,
+                "TimingSecond" : 199
+            },
+            {
+                "Id" : 3050301,
+                "Position" : 3,
+                "TimingSecond" : 33
+            },
+            {
+                "Id" : 3050302,
+                "Position" : 3,
+                "TimingSecond" : 83
+            },
+            {
+                "Id" : 3050303,
+                "Position" : 3,
+                "TimingSecond" : 128
+            },
+            {
+                "Id" : 3050304,
+                "Position" : 3,
+                "TimingSecond" : 168
+            },
+            {
+                "Id" : 3050305,
+                "Position" : 3,
+                "TimingSecond" : 208
+            },
+            {
+                "Id" : 3050306,
+                "Position" : 3,
+                "TimingSecond" : 206
+            },
+            {
+                "Id" : 3050401,
+                "Position" : 4,
+                "TimingSecond" : 155
+            },
+            {
+                "Id" : 3050402,
+                "Position" : 4,
+                "TimingSecond" : 217
+            },
+            {
+                "Id" : 3050501,
+                "Position" : 5,
+                "TimingSecond" : 7
+            },
+            {
+                "Id" : 3050502,
+                "Position" : 5,
+                "TimingSecond" : 57
+            },
+            {
+                "Id" : 3050504,
+                "Position" : 5,
+                "TimingSecond" : 172
+            },
+            {
+                "Id" : 3050503,
+                "Position" : 5,
+                "TimingSecond" : 107
+            }
+        ],
+        "Id" : 3050
+    },
+    {
+        "Buffs" : 
+        [
+            {
+                "BuffValue" : 50,
+                "Id" : 30511,
+                "TargetValue" : 4,
+                "Type" : "Company"
+            },
+            {
+                "BuffValue" : 50,
+                "Id" : 30512,
+                "TargetValue" : 0,
+                "Type" : "0"
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Id" : 3051101,
+                "Position" : 1,
+                "TimingSecond" : 21
+            },
+            {
+                "Id" : 3051102,
+                "Position" : 1,
+                "TimingSecond" : 81
+            },
+            {
+                "Id" : 3051103,
+                "Position" : 1,
+                "TimingSecond" : 141
+            },
+            {
+                "Id" : 3051104,
+                "Position" : 1,
+                "TimingSecond" : 191
+            },
+            {
+                "Id" : 3051201,
+                "Position" : 2,
+                "TimingSecond" : 14
+            },
+            {
+                "Id" : 3051202,
+                "Position" : 2,
+                "TimingSecond" : 74
+            },
+            {
+                "Id" : 3051203,
+                "Position" : 2,
+                "TimingSecond" : 124
+            },
+            {
+                "Id" : 3051204,
+                "Position" : 2,
+                "TimingSecond" : 174
+            },
+            {
+                "Id" : 3051301,
+                "Position" : 3,
+                "TimingSecond" : 37
+            },
+            {
+                "Id" : 3051302,
+                "Position" : 3,
+                "TimingSecond" : 112
+            },
+            {
+                "Id" : 3051303,
+                "Position" : 3,
+                "TimingSecond" : 162
+            },
+            {
+                "Id" : 3051304,
+                "Position" : 3,
+                "TimingSecond" : 207
+            },
+            {
+                "Id" : 3051401,
+                "Position" : 4,
+                "TimingSecond" : 7
+            },
+            {
+                "Id" : 3051402,
+                "Position" : 4,
+                "TimingSecond" : 57
+            },
+            {
+                "Id" : 3051403,
+                "Position" : 4,
+                "TimingSecond" : 107
+            },
+            {
+                "Id" : 3051404,
+                "Position" : 4,
+                "TimingSecond" : 152
+            },
+            {
+                "Id" : 3051405,
+                "Position" : 4,
+                "TimingSecond" : 217
+            }
+        ],
+        "Id" : 3051
     },
     {
         "Buffs" : 
@@ -33167,6 +33676,76 @@
             }
         ],
         "Id" : 20062
+    },
+    {
+        "Buffs" : 
+        [
+            {
+                "BuffValue" : 50,
+                "Id" : 200631,
+                "TargetValue" : 1,
+                "Type" : "Company"
+            }
+        ],
+        "Details" : 
+        [
+            {
+                "Id" : 20063101,
+                "Position" : 1,
+                "TimingSecond" : 12
+            },
+            {
+                "Id" : 20063102,
+                "Position" : 1,
+                "TimingSecond" : 72
+            },
+            {
+                "Id" : 20063201,
+                "Position" : 2,
+                "TimingSecond" : 3
+            },
+            {
+                "Id" : 20063202,
+                "Position" : 2,
+                "TimingSecond" : 53
+            },
+            {
+                "Id" : 20063301,
+                "Position" : 3,
+                "TimingSecond" : 31
+            },
+            {
+                "Id" : 20063302,
+                "Position" : 3,
+                "TimingSecond" : 81
+            },
+            {
+                "Id" : 20063401,
+                "Position" : 4,
+                "TimingSecond" : 43
+            },
+            {
+                "Id" : 20063402,
+                "Position" : 4,
+                "TimingSecond" : 101
+            },
+            {
+                "Id" : 20063501,
+                "Position" : 5,
+                "TimingSecond" : 26
+            },
+            {
+                "Id" : 20063502,
+                "Position" : 5,
+                "TimingSecond" : 61
+            },
+            {
+                "Id" : 20063503,
+                "Position" : 5,
+                "TimingSecond" : 96
+            }
+        ],
+        "Id" : 20063
     },
     {
         "Buffs" : [],
@@ -47335,6 +47914,187 @@
             }
         ],
         "Id" : 100246
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100247101,
+                "Position" : 1,
+                "TimingSecond" : 5
+            },
+            {
+                "Id" : 100247102,
+                "Position" : 1,
+                "TimingSecond" : 40
+            },
+            {
+                "Id" : 100247103,
+                "Position" : 1,
+                "TimingSecond" : 92
+            },
+            {
+                "Id" : 100247201,
+                "Position" : 2,
+                "TimingSecond" : 27
+            },
+            {
+                "Id" : 100247202,
+                "Position" : 2,
+                "TimingSecond" : 52
+            },
+            {
+                "Id" : 100247301,
+                "Position" : 3,
+                "TimingSecond" : 22
+            },
+            {
+                "Id" : 100247302,
+                "Position" : 3,
+                "TimingSecond" : 57
+            },
+            {
+                "Id" : 100247401,
+                "Position" : 4,
+                "TimingSecond" : 10
+            },
+            {
+                "Id" : 100247402,
+                "Position" : 4,
+                "TimingSecond" : 65
+            },
+            {
+                "Id" : 100247501,
+                "Position" : 5,
+                "TimingSecond" : 35
+            },
+            {
+                "Id" : 100247502,
+                "Position" : 5,
+                "TimingSecond" : 70
+            }
+        ],
+        "Id" : 100247
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100248101,
+                "Position" : 1,
+                "TimingSecond" : 45
+            },
+            {
+                "Id" : 100248301,
+                "Position" : 3,
+                "TimingSecond" : 38
+            },
+            {
+                "Id" : 100248302,
+                "Position" : 3,
+                "TimingSecond" : 70
+            },
+            {
+                "Id" : 100248303,
+                "Position" : 3,
+                "TimingSecond" : 102
+            },
+            {
+                "Id" : 100248401,
+                "Position" : 4,
+                "TimingSecond" : 15
+            },
+            {
+                "Id" : 100248402,
+                "Position" : 4,
+                "TimingSecond" : 80
+            },
+            {
+                "Id" : 100248501,
+                "Position" : 5,
+                "TimingSecond" : 55
+            },
+            {
+                "Id" : 100248502,
+                "Position" : 5,
+                "TimingSecond" : 90
+            }
+        ],
+        "Id" : 100248
+    },
+    {
+        "Buffs" : [],
+        "Details" : 
+        [
+            {
+                "Id" : 100249101,
+                "Position" : 1,
+                "TimingSecond" : 17
+            },
+            {
+                "Id" : 100249102,
+                "Position" : 1,
+                "TimingSecond" : 52
+            },
+            {
+                "Id" : 100249103,
+                "Position" : 1,
+                "TimingSecond" : 90
+            },
+            {
+                "Id" : 100249201,
+                "Position" : 2,
+                "TimingSecond" : 25
+            },
+            {
+                "Id" : 100249202,
+                "Position" : 2,
+                "TimingSecond" : 70
+            },
+            {
+                "Id" : 100249301,
+                "Position" : 3,
+                "TimingSecond" : 8
+            },
+            {
+                "Id" : 100249302,
+                "Position" : 3,
+                "TimingSecond" : 56
+            },
+            {
+                "Id" : 100249303,
+                "Position" : 3,
+                "TimingSecond" : 101
+            },
+            {
+                "Id" : 100249401,
+                "Position" : 4,
+                "TimingSecond" : 13
+            },
+            {
+                "Id" : 100249402,
+                "Position" : 4,
+                "TimingSecond" : 48
+            },
+            {
+                "Id" : 100249403,
+                "Position" : 4,
+                "TimingSecond" : 83
+            },
+            {
+                "Id" : 100249501,
+                "Position" : 5,
+                "TimingSecond" : 30
+            },
+            {
+                "Id" : 100249502,
+                "Position" : 5,
+                "TimingSecond" : 60
+            }
+        ],
+        "Id" : 100249
     },
     {
         "Buffs" : [],

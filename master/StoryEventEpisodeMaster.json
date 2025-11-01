@@ -4750,5 +4750,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20062,
         "Title" : "思い切って触れてみる"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006301,
+        "Id" : 2006301,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20063,
+        "Title" : "内心の焦りは消えず"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006302,
+        "Id" : 2006302,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006301,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20063,
+        "Title" : "あの日、ガラスの靴を落とした"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006303,
+        "Id" : 2006303,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006302,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20063,
+        "Title" : "割れたガラスの靴の音"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006304,
+        "Id" : 2006304,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006303,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20063,
+        "Title" : "灰被りは日々励む"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006305,
+        "Id" : 2006305,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006304,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20063,
+        "Title" : "何のためにやってるの？"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006306,
+        "Id" : 2006306,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006305,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20063,
+        "Title" : "今度こそ、失敗しないから"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006307,
+        "Id" : 2006307,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006306,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20063,
+        "Title" : "魔法にかけられて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006308,
+        "Id" : 2006308,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006307,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20063,
+        "Title" : "手の中の切符"
     }
 ]
