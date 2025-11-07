@@ -9806,6 +9806,214 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 670,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20098,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1420101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20099,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1420102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20100,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1420103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20111,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1420104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20534,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20112,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1420105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 1,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "<size=26%>[:score]倍のスコアを獲得／センス発動直後、自身の集中力の[:param11]倍のスコアを獲得／編成されているシリウスアクターの人数×20プリンシパルゲージを獲得</size>",
+        "Id" : 142010,
+        "LightCount" : 1,
+        "Name" : "グレイ・ヒッチハイカー！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 740,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21014,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1420201,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21015,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1420202,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21016,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1420203,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21017,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1420204,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 21018,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1420205,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 4,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／劇団電姫アクターのCTを、編成されている劇団電姫アクターの人数×2秒短縮",
+        "Id" : 142020,
+        "LightCount" : 2,
+        "Name" : "テキサス・カウガール♪",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",

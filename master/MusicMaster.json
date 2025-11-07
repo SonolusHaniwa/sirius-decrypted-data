@@ -4901,7 +4901,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 301, 302, 303, 304, 305 ],
+                "Characters" : [ 301, 302, 303, 305, 304 ],
                 "Id" : 14101,
                 "MusicMasterId" : 141,
                 "MusicTimeSecond" : 161,
@@ -4939,7 +4939,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 103, 102 ],
+                "Characters" : [ 102, 101, 103 ],
                 "Id" : 14201,
                 "MusicMasterId" : 142,
                 "MusicTimeSecond" : 160,
@@ -5015,7 +5015,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 304, 305, 405 ],
+                "Characters" : [ 304, 405, 305 ],
                 "Id" : 14401,
                 "MusicMasterId" : 144,
                 "MusicTimeSecond" : 155,
@@ -5053,7 +5053,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 201, 301, 401 ],
+                "Characters" : [ 201, 101, 401, 301 ],
                 "Id" : 14501,
                 "MusicMasterId" : 145,
                 "MusicTimeSecond" : 158,
@@ -5091,7 +5091,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 104, 405, 205 ],
+                "Characters" : [ 205, 104, 405 ],
                 "Id" : 14601,
                 "MusicMasterId" : 146,
                 "MusicTimeSecond" : 144,
@@ -5129,7 +5129,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 302, 301, 303 ],
+                "Characters" : [ 301, 303, 302 ],
                 "Id" : 14701,
                 "MusicMasterId" : 147,
                 "MusicTimeSecond" : 158,
@@ -5965,7 +5965,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 102, 201, 401, 301 ],
+                "Characters" : [ 101, 102, 201, 301, 401 ],
                 "Id" : 17201,
                 "MusicMasterId" : 172,
                 "MusicTimeSecond" : 95,
@@ -6003,7 +6003,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 305, 403, 105 ],
+                "Characters" : [ 105, 403, 305 ],
                 "Id" : 17301,
                 "MusicMasterId" : 173,
                 "MusicTimeSecond" : 124,
@@ -6041,7 +6041,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 302, 305, 303 ],
+                "Characters" : [ 303, 302, 305 ],
                 "Id" : 17401,
                 "MusicMasterId" : 174,
                 "MusicTimeSecond" : 123,
@@ -6345,7 +6345,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 104, 103 ],
+                "Characters" : [ 103, 104 ],
                 "Id" : 18201,
                 "MusicMasterId" : 182,
                 "MusicTimeSecond" : 120,
@@ -6702,6 +6702,44 @@
     },
     {
         "Arranger" : "-",
+        "Composer" : "田淵智也",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 192,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "田淵智也",
+        "MusicCoverType" : "Cover",
+        "MusicTimeSecond" : 94,
+        "MusicVideoType" : "None",
+        "Name" : "カオスが極まる",
+        "PronounceName" : "かおすがきわまる",
+        "ReleasedAt" : "2025-11-19 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Buy",
+        "UnlockConditionValue" : null,
+        "UnlockText" : "楽曲ショップで購入",
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 204 ],
+                "Id" : 19201,
+                "MusicMasterId" : 192,
+                "MusicTimeSecond" : 94,
+                "MusicVideoType" : "None",
+                "Name" : "カオスが極まる",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "萬容",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "-",
         "Composer" : "まふまふ",
         "DelaySeconds" : 0.0,
         "Description" : "",
@@ -7050,8 +7088,8 @@
                     401,
                     402,
                     403,
-                    404,
-                    405
+                    405,
+                    404
                 ],
                 "Id" : 20101,
                 "MusicMasterId" : 201,
@@ -7584,7 +7622,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 201, 202, 203, 205, 204 ],
+                "Characters" : [ 201, 202, 203, 204, 205 ],
                 "Id" : 21601,
                 "MusicMasterId" : 216,
                 "MusicTimeSecond" : 163,
@@ -8130,6 +8168,44 @@
         ]
     },
     {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 231,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "志村真白（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 128,
+        "MusicVideoType" : "None",
+        "Name" : "ハロー・マイ・ロケット",
+        "PronounceName" : "はろーまいろけっと",
+        "ReleasedAt" : "2025-11-10 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 31,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 106, 402 ],
+                "Id" : 23101,
+                "MusicMasterId" : 231,
+                "MusicTimeSecond" : 128,
+                "MusicVideoType" : "None",
+                "Name" : "ハロー・マイ・ロケット",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "流石知冴、白丸美兎",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "糴川柊太(SUPA LOVE)",
         "Composer" : "糴川柊太(SUPA LOVE)",
         "DelaySeconds" : 0.0,
@@ -8534,7 +8610,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 301, 302, 303, 304, 305 ],
+                "Characters" : [ 301, 302, 303, 305, 304 ],
                 "Id" : 1002101,
                 "MusicMasterId" : 10021,
                 "MusicTimeSecond" : 219,
@@ -8572,7 +8648,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 401, 402, 403, 404, 405 ],
+                "Characters" : [ 402, 401, 403, 404, 405 ],
                 "Id" : 1002301,
                 "MusicMasterId" : 10023,
                 "MusicTimeSecond" : 211,
@@ -8762,7 +8838,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 203, 201 ],
+                "Characters" : [ 201, 203 ],
                 "Id" : 1003001,
                 "MusicMasterId" : 10030,
                 "MusicTimeSecond" : 276,
@@ -9256,7 +9332,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 401, 402, 403, 404, 405 ],
+                "Characters" : [ 401, 402, 403, 405, 404 ],
                 "Id" : 1006401,
                 "MusicMasterId" : 10064,
                 "MusicTimeSecond" : 215,
@@ -9393,7 +9469,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 204, 202 ],
+                "Characters" : [ 202, 204 ],
                 "Id" : 1007001,
                 "MusicMasterId" : 10070,
                 "MusicTimeSecond" : 255,
@@ -10191,7 +10267,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 102, 201, 401, 301 ],
+                "Characters" : [ 101, 102, 201, 301, 401 ],
                 "Id" : 1017201,
                 "MusicMasterId" : 10172,
                 "MusicTimeSecond" : 97,

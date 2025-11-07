@@ -12914,6 +12914,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70031000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 33037001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 330370,
+        "Name" : "Sunroom Broom!",
+        "PosterMasterId" : 330370,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70050000,
                         "Order" : 1
                     }
@@ -27227,6 +27259,70 @@
         "Name" : "「光」追加（SP）Ⅱ",
         "PosterMasterId" : 330360,
         "ReleaseLevelAt" : 10,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10020000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330370101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3303701,
+        "Name" : "演技力アップⅡ",
+        "PosterMasterId" : 330370,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11510000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330370201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "公演開始時、P.ゲージが[:param11]上昇",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3303702,
+        "Name" : "初期P.ゲージ上昇",
+        "PosterMasterId" : 330370,
+        "ReleaseLevelAt" : 5,
         "Type" : "Normal"
     },
     {
