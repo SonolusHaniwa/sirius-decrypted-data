@@ -98295,6 +98295,75 @@
     },
     {
         "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1024.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 3,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 4,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 5,
+                "Value" : 2048.02
+            },
+            {
+                "Level" : 6,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 7,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 8,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 9,
+                "Value" : 4096.0500000000002
+            },
+            {
+                "Level" : 10,
+                "Value" : 4096.0299999999997
+            },
+            {
+                "Level" : 11,
+                "Value" : 4096.0500000000002
+            },
+            {
+                "Level" : 12,
+                "Value" : 4096.04
+            },
+            {
+                "Level" : 13,
+                "Value" : 4096.0600000000004
+            },
+            {
+                "Level" : 14,
+                "Value" : 4096.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 70062000,
+        "Range" : "All",
+        "Triggers" : [],
+        "Type" : "PerformanceUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
         "Conditions" : 
         [
             {
