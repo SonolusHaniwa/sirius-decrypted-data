@@ -11178,6 +11178,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70042300,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23082001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "銀河座に所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 230820,
+        "Name" : "全天の舞台で星々は魅せる",
+        "PosterMasterId" : 230820,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70022004,
                         "Order" : 1
                     }
@@ -22490,6 +22522,102 @@
         "Id" : 2308103,
         "Name" : "公演の獲得EXPアップ",
         "PosterMasterId" : 230810,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10231000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230820101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の表現力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2308201,
+        "Name" : "表現力アップⅢ＋",
+        "PosterMasterId" : 230820,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11221300,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230820201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、ライフを[:param11]回復　◆発動条件：銀河座に所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2308202,
+        "Name" : "ライフブーストⅡ＋",
+        "PosterMasterId" : 230820,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11031300,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 230820301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：銀河座に所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2308203,
+        "Name" : "スコアブースト・表現力Ⅲ＋",
+        "PosterMasterId" : 230820,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },

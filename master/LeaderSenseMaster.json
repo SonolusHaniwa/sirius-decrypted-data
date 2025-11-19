@@ -7464,5 +7464,71 @@
             }
         ],
         "Id" : 243
+    },
+    {
+        "Description" : "「高校生」カテゴリの演技力30%上昇、「和風」カテゴリの歌唱力20％上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 1003,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12004
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 4007,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12007
+            }
+        ],
+        "Id" : 244
+    },
+    {
+        "Description" : "「舞台」カテゴリの演技力30%上昇、「主人公」カテゴリの歌唱力20％上昇",
+        "Details" : 
+        [
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8002,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12004
+            },
+            {
+                "Conditions" : 
+                [
+                    {
+                        "CategoryMasterId1" : 8007,
+                        "CategoryMasterId2" : null,
+                        "CategoryMasterId3" : null,
+                        "CategoryMasterId4" : null,
+                        "CategoryMasterId5" : null
+                    }
+                ],
+                "EffectMasterId" : 12007
+            }
+        ],
+        "Id" : 245
     }
 ]
