@@ -10082,6 +10082,84 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29303,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20084,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1420501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 35,
+        "Description" : "[:score]倍のスコアを獲得／センス発動時、追加で「ライフガード」を[:param11]回獲得する／センス発動後、追加で[:param12]のプリンシパルゲージを獲得",
+        "Id" : 142050,
+        "LightCount" : 1,
+        "Name" : "Runway Majesty",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 250,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20204,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1420601,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 50,
+        "Description" : "<size=25%>[:score]倍のスコアを獲得／[:sec]秒間、Edenのアクターにスターアクトスコア[:param11]％UP効果／仁花子が隣に編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 142060,
+        "LightCount" : 2,
+        "Name" : "Beauty Fragment",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28011,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",

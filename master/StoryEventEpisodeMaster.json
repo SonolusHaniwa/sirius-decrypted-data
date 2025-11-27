@@ -4894,5 +4894,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20063,
         "Title" : "手の中の切符"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006401,
+        "Id" : 2006401,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20064,
+        "Title" : "どっちが良い？"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006402,
+        "Id" : 2006402,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006401,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20064,
+        "Title" : "それはあまりにナンセンスで"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006403,
+        "Id" : 2006403,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006402,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20064,
+        "Title" : "全身コーディネイト"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006404,
+        "Id" : 2006404,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006403,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20064,
+        "Title" : "純粋かつ無自覚"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006405,
+        "Id" : 2006405,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006404,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20064,
+        "Title" : "事前準備"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006406,
+        "Id" : 2006406,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006405,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20064,
+        "Title" : "誰が選ばれる？"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006407,
+        "Id" : 2006407,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006406,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20064,
+        "Title" : "流行とキミらしさ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006408,
+        "Id" : 2006408,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006407,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20064,
+        "Title" : "選ばれたのは……。"
     }
 ]
