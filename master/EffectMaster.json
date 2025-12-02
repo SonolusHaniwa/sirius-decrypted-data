@@ -10748,7 +10748,17 @@
     },
     {
         "CalculationType" : "FixedAddition",
-        "Conditions" : [],
+        "Conditions" : 
+        [
+            {
+                "Condition" : "CharacterBase",
+                "Value" : 203
+            },
+            {
+                "Condition" : "7",
+                "Value" : 1
+            }
+        ],
         "Details" : 
         [
             {
