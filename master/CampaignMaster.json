@@ -840,6 +840,42 @@
         "Title" : "稽古の獲得SP 50％UP"
     },
     {
+        "CampaignEffectType" : "LiveReward",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：12/10 17:00～12/18 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-12-18 05:00:00",
+        "IconImagePath" : "1",
+        "Id" : 72,
+        "Order" : 72,
+        "StartDate" : "2025-12-10 17:00:00",
+        "Title" : "公演の報酬量 50%UP"
+    },
+    {
+        "CampaignEffectType" : "StarPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：12/18 5:00～12/25 5:00/n対象：稽古",
+        "EndDate" : "2025-12-25 05:00:00",
+        "IconImagePath" : "3",
+        "Id" : 73,
+        "Order" : 73,
+        "StartDate" : "2025-12-18 05:00:00",
+        "Title" : "稽古の獲得SP 50％UP"
+    },
+    {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 1,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：12/25 5:00 ～ 12/29 5:00/n対象：稽古",
+        "EndDate" : "2025-12-29 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 74,
+        "Order" : 74,
+        "StartDate" : "2025-12-25 05:00:00",
+        "Title" : "稽古の回数 +1回"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
@@ -927,24 +963,24 @@
         "CampaignEffectType" : "LessonCount",
         "CampaignEffectValue" : 2,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：11/17 5:00 ～ 11/18 5:00/n対象：稽古",
-        "EndDate" : "2025-11-18 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：12/17 5:00 ～ 12/18 5:00/n対象：稽古",
+        "EndDate" : "2025-12-18 05:00:00",
         "IconImagePath" : "1001",
         "Id" : 2003,
         "Order" : 2003,
-        "StartDate" : "2025-11-17 05:00:00",
+        "StartDate" : "2025-12-17 05:00:00",
         "Title" : "稽古の回数 +2回"
     },
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：11/17 5:00 ～ 11/18 5:00/n対象：公演、協力公演",
-        "EndDate" : "2025-11-18 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：12/17 5:00 ～ 12/18 5:00/n対象：公演、協力公演",
+        "EndDate" : "2025-12-18 05:00:00",
         "IconImagePath" : "4",
         "Id" : 2004,
         "Order" : 2004,
-        "StartDate" : "2025-11-17 05:00:00",
+        "StartDate" : "2025-12-17 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     },
     {

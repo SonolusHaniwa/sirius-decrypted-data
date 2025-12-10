@@ -13938,6 +13938,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 34040001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340400,
+        "Name" : "高枕無憂に寝静まり",
+        "PosterMasterId" : 340400,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10011004,
                         "Order" : 1
                     }
@@ -30426,6 +30458,102 @@
         "Id" : 3403803,
         "Name" : "演技力上限上昇",
         "PosterMasterId" : 340380,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10040403,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340400101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：カミラが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3404001,
+        "Name" : "演技力アップⅣ",
+        "PosterMasterId" : 340400,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810403,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340400201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：カミラが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3404002,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 340400,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12430403,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340400301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTを[:param11]秒短縮　◆発動条件：カミラが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3404003,
+        "Name" : "CTダウンⅣ",
+        "PosterMasterId" : 340400,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     }
