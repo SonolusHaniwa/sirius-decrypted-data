@@ -301,7 +301,7 @@
         "Id" : 1030410,
         "Order" : 10,
         "RequiredReadEpisodeMasterId" : 1030409,
-        "RequiredTotalAcquiredPoint" : 2000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "惑う星"
     },
@@ -310,7 +310,7 @@
         "Id" : 1030411,
         "Order" : 11,
         "RequiredReadEpisodeMasterId" : 1030410,
-        "RequiredTotalAcquiredPoint" : 4000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "孤独なスター"
     },
@@ -319,7 +319,7 @@
         "Id" : 1030412,
         "Order" : 12,
         "RequiredReadEpisodeMasterId" : 1030411,
-        "RequiredTotalAcquiredPoint" : 8000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "霧の中の牛若"
     },
@@ -328,7 +328,7 @@
         "Id" : 1030413,
         "Order" : 13,
         "RequiredReadEpisodeMasterId" : 1030412,
-        "RequiredTotalAcquiredPoint" : 16000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "対峙"
     },
@@ -337,7 +337,7 @@
         "Id" : 1030414,
         "Order" : 14,
         "RequiredReadEpisodeMasterId" : 1030413,
-        "RequiredTotalAcquiredPoint" : 32000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "光明"
     },
@@ -346,7 +346,7 @@
         "Id" : 1030415,
         "Order" : 15,
         "RequiredReadEpisodeMasterId" : 1030414,
-        "RequiredTotalAcquiredPoint" : 64000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "それぞれの思い"
     },
@@ -355,9 +355,81 @@
         "Id" : 1030416,
         "Order" : 16,
         "RequiredReadEpisodeMasterId" : 1030415,
-        "RequiredTotalAcquiredPoint" : 128000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "為すべきを知る"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030417,
+        "Id" : 1030417,
+        "Order" : 17,
+        "RequiredReadEpisodeMasterId" : 1030416,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 10304,
+        "Title" : "たどり着いた答え"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030418,
+        "Id" : 1030418,
+        "Order" : 18,
+        "RequiredReadEpisodeMasterId" : 1030417,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 10304,
+        "Title" : "一陽来復"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030419,
+        "Id" : 1030419,
+        "Order" : 19,
+        "RequiredReadEpisodeMasterId" : 1030418,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 10304,
+        "Title" : "兆し"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030420,
+        "Id" : 1030420,
+        "Order" : 20,
+        "RequiredReadEpisodeMasterId" : 1030419,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 10304,
+        "Title" : "目覚める光"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030421,
+        "Id" : 1030421,
+        "Order" : 21,
+        "RequiredReadEpisodeMasterId" : 1030420,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 10304,
+        "Title" : "並び立つ星"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030422,
+        "Id" : 1030422,
+        "Order" : 22,
+        "RequiredReadEpisodeMasterId" : 1030421,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 10304,
+        "Title" : "煌めく銀河"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030423,
+        "Id" : 1030423,
+        "Order" : 23,
+        "RequiredReadEpisodeMasterId" : 1030422,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 10304,
+        "Title" : "銀河のダイスター誕生"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1030424,
+        "Id" : 1030424,
+        "Order" : 24,
+        "RequiredReadEpisodeMasterId" : 1030423,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 10304,
+        "Title" : "銀河のひずみ"
     },
     {
         "EpisodeRewardPackageMasterId" : 2000101,
