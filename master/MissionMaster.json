@@ -21623,6 +21623,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「開運御礼初詣！」を[:param]回クリアしよう",
+        "EndDate" : "2026-01-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 54100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 27,
+        "Stages" : 
+        [
+            {
+                "Id" : 54100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-01-01 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-01-01 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「開運御礼初詣！」を[:param]回クリアしよう",
+        "EndDate" : "2026-01-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 54200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 28,
+        "Stages" : 
+        [
+            {
+                "Id" : 54200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-01-01 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-01-01 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -29041,8 +29101,158 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2026-01-13 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401580,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 13,
+        "Stages" : 
+        [
+            {
+                "Id" : 401580,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137006,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2025-12-31 15:00:00"
+            }
+        ],
+        "StartDate" : "2025-12-31 15:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2026-01-13 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401590,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 14,
+        "Stages" : 
+        [
+            {
+                "Id" : 401590,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137006,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2025-12-31 15:00:00"
+            }
+        ],
+        "StartDate" : "2025-12-31 15:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2026-01-13 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 15,
+        "Stages" : 
+        [
+            {
+                "Id" : 401600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137006,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2025-12-31 15:00:00"
+            }
+        ],
+        "StartDate" : "2025-12-31 15:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2026-01-13 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401610,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 16,
+        "Stages" : 
+        [
+            {
+                "Id" : 401610,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137006,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 200,
+                "StartDate" : "2025-12-31 15:00:00"
+            }
+        ],
+        "StartDate" : "2025-12-31 15:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スタミナを[:param]消費しよう",
+        "EndDate" : "2026-01-13 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401620,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17,
+        "Stages" : 
+        [
+            {
+                "Id" : 401620,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 137006,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2025-12-31 15:00:00"
+            }
+        ],
+        "StartDate" : "2025-12-31 15:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2025-12-08 05:00:00",
+        "EndDate" : "2026-01-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700001,
         "JumpTargetId" : null,
@@ -29066,13 +29276,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-12-07 05:00:00",
+        "StartDate" : "2026-01-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2025-12-08 05:00:00",
+        "EndDate" : "2026-01-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700002,
         "JumpTargetId" : null,
@@ -29087,7 +29297,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215011,
+                        "ThingId" : 215013,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -29096,13 +29306,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-12-07 05:00:00",
+        "StartDate" : "2026-01-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2025-12-08 05:00:00",
+        "EndDate" : "2026-01-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700003,
         "JumpTargetId" : null,
@@ -29117,7 +29327,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215012,
+                        "ThingId" : 215014,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -29126,7 +29336,7 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2025-12-07 05:00:00",
+        "StartDate" : "2026-01-07 05:00:00",
         "Title" : ""
     },
     {

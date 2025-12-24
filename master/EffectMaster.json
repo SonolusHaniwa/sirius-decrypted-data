@@ -527,6 +527,23 @@
         "Type" : "SenseRecastDown"
     },
     {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 64.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "StartLive",
+        "Id" : 12060,
+        "Range" : "None",
+        "Triggers" : [],
+        "Type" : "LifeHealing"
+    },
+    {
         "CalculationType" : "PercentageAddition",
         "Conditions" : [],
         "Details" : 
@@ -95400,6 +95417,81 @@
             },
             {
                 "Level" : 5,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 6,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 7,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 8,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 9,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 10,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 11,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 12,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 13,
+                "Value" : 64.0
+            },
+            {
+                "Level" : 14,
+                "Value" : 64.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Sense",
+        "Id" : 13100003,
+        "Range" : "Self",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Attribute",
+                "Value" : 3
+            }
+        ],
+        "Type" : "PrincipalGaugeLimitUp"
+    },
+    {
+        "CalculationType" : "FixedAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 2,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 4,
+                "Value" : 32.0
+            },
+            {
+                "Level" : 5,
                 "Value" : 64.0
             },
             {
@@ -95598,6 +95690,81 @@
             {
                 "Trigger" : "Company",
                 "Value" : 4
+            }
+        ],
+        "Type" : "SenseScoreUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 2,
+                "Value" : 1024.0
+            },
+            {
+                "Level" : 3,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 4,
+                "Value" : 1024.01
+            },
+            {
+                "Level" : 5,
+                "Value" : 2048.0500000000002
+            },
+            {
+                "Level" : 6,
+                "Value" : 2048.0100000000002
+            },
+            {
+                "Level" : 7,
+                "Value" : 2048.04
+            },
+            {
+                "Level" : 8,
+                "Value" : 2048.0300000000002
+            },
+            {
+                "Level" : 9,
+                "Value" : 2048.0599999999999
+            },
+            {
+                "Level" : 10,
+                "Value" : 2048.0
+            },
+            {
+                "Level" : 11,
+                "Value" : 2048.04
+            },
+            {
+                "Level" : 12,
+                "Value" : 2048.02
+            },
+            {
+                "Level" : 13,
+                "Value" : 2048.0500000000002
+            },
+            {
+                "Level" : 14,
+                "Value" : 2048.0100000000002
+            }
+        ],
+        "DurationSecond" : 999,
+        "FireTimingType" : "StartLive",
+        "Id" : 13230003,
+        "Range" : "Self",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "Attribute",
+                "Value" : 3
             }
         ],
         "Type" : "SenseScoreUp"

@@ -5038,5 +5038,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20064,
         "Title" : "選ばれたのは……。"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006501,
+        "Id" : 2006501,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20065,
+        "Title" : "電姫のお正月"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006502,
+        "Id" : 2006502,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006501,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20065,
+        "Title" : "シリウスのお正月"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006503,
+        "Id" : 2006503,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006502,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20065,
+        "Title" : "買い出しはみんなで"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006504,
+        "Id" : 2006504,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006503,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20065,
+        "Title" : "おせちづくり、しかし……"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006505,
+        "Id" : 2006505,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006504,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20065,
+        "Title" : "ゲームセンター・ニューエイジ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006506,
+        "Id" : 2006506,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006505,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20065,
+        "Title" : "おもちがない！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006507,
+        "Id" : 2006507,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006506,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20065,
+        "Title" : "餅つきにおいでよ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006508,
+        "Id" : 2006508,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006507,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20065,
+        "Title" : "良い年になりますように"
     }
 ]
