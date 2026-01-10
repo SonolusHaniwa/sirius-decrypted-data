@@ -1333,6 +1333,76 @@
         "Details" : 
         [
             {
+                "Id" : 7501,
+                "LiveMasterId" : 5404,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 7502,
+                "LiveMasterId" : 9704,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 7503,
+                "LiveMasterId" : 21904,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-01 05:00:00",
+        "Id" : 75,
+        "InitialLife" : 300,
+        "MusicCourseType" : "Special",
+        "Name" : "譜面チームベストセレクトコース Vol.1【STELLA部門】",
+        "Order" : 15,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-01-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 7601,
+                "LiveMasterId" : 11805,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 7602,
+                "LiveMasterId" : 6205,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 7603,
+                "LiveMasterId" : 20205,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-01 05:00:00",
+        "Id" : 76,
+        "InitialLife" : 300,
+        "MusicCourseType" : "Special",
+        "Name" : "譜面チームベストセレクトコース Vol.1【OLIVIER部門】",
+        "Order" : 16,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-01-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 20001,
                 "LiveMasterId" : 104,
                 "SetListNumber" : 1,
@@ -4335,6 +4405,146 @@
         "RequiredAmount" : 1,
         "RequiredItemMasterId" : 130201,
         "StartDate" : "2026-01-05 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 28601,
+                "LiveMasterId" : 24304,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28602,
+                "LiveMasterId" : 10904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28603,
+                "LiveMasterId" : 19404,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-01-19 00:00:00",
+        "Id" : 286,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第44回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-01-12 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 28701,
+                "LiveMasterId" : 19505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28702,
+                "LiveMasterId" : 20305,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28703,
+                "LiveMasterId" : 24305,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-01-19 00:00:00",
+        "Id" : 287,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第44回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-01-12 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 28801,
+                "LiveMasterId" : 604,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28802,
+                "LiveMasterId" : 18404,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28803,
+                "LiveMasterId" : 10204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-01-26 00:00:00",
+        "Id" : 288,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第45回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-01-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 28901,
+                "LiveMasterId" : 805,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28902,
+                "LiveMasterId" : 605,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 28903,
+                "LiveMasterId" : 18405,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-01-26 00:00:00",
+        "Id" : 289,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第45回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-01-19 17:00:00",
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null

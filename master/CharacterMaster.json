@@ -16009,8 +16009,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141630,
         "LeaderSenseMasterId" : 171,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-01-12 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 114,
@@ -16066,8 +16066,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141640,
         "LeaderSenseMasterId" : 216,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-01-12 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 98,
@@ -16750,8 +16750,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141760,
         "LeaderSenseMasterId" : 222,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-01-12 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 129,
@@ -18833,6 +18833,120 @@
         "SenseMasterId" : 142120,
         "StarActMasterId" : 142121,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 142131,
+        "BloomBonusGroupMasterId" : 40213,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7602,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 4004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 303,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2026-01-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 142130,
+        "LeaderSenseMasterId" : 211,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-01-10 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 71,
+            "Expression" : 104,
+            "Vocal" : 205
+        },
+        "Name" : "雪山駆ける白狼と",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 142130,
+        "StarActMasterId" : 142131,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cute",
+        "AwakenStarActMasterId" : 142141,
+        "BloomBonusGroupMasterId" : 40214,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 3005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7602,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 41,
+        "CharacterBaseMasterId" : 102,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2026-01-10 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 411,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 142140,
+        "LeaderSenseMasterId" : 249,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-01-10 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 166,
+            "Expression" : 78,
+            "Vocal" : 116
+        },
+        "Name" : "Snow Queen Temptation",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 412,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 142140,
+        "StarActMasterId" : 142141,
+        "UnlockText" : "ガチャで入手"
     },
     {
         "AssetId" : null,
