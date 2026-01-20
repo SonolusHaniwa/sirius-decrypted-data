@@ -7,6 +7,20 @@
         "Variety" : null
     },
     {
+        "Description" : "公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 700001,
+        "Id" : 102,
+        "Name" : "初期P.ゲージ獲得",
+        "Variety" : null
+    },
+    {
+        "Description" : "公演開始時、P.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 700002,
+        "Id" : 103,
+        "Name" : "P.ゲージ上限上昇",
+        "Variety" : null
+    },
+    {
         "Description" : "ここなの演技力が[:param1]%上昇",
         "EffectMasterId" : 710111,
         "Id" : 101101,
@@ -131,6 +145,146 @@
         "Id" : 101118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 101119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 101120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 101121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 101122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 101123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 101124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 101125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 101126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 101127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 101128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 101129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 101130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 101131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 101132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 101133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 101134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 101135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 101136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 101137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 101138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "静香の演技力が[:param1]%上昇",
@@ -259,6 +413,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 102119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 102120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 102121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 102122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 102123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 102124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 102125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 102126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 102127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 102128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 102129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 102130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 102131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 102132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 102133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 102134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 102135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 102136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 102137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 102138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "カトリナの演技力が[:param1]%上昇",
         "EffectMasterId" : 710311,
         "Id" : 103101,
@@ -383,6 +677,146 @@
         "Id" : 103118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 103119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 103120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 103121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 103122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 103123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 103124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 103125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 103126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 103127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 103128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 103129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 103130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 103131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 103132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 103133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 103134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 103135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 103136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 103137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 103138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "八恵の演技力が[:param1]%上昇",
@@ -511,6 +945,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 104119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 104120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 104121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 104122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 104123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 104124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 104125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 104126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 104127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 104128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 104129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 104130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 104131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 104132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 104133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 104134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 104135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 104136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 104137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 104138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "ぱんだの演技力が[:param1]%上昇",
         "EffectMasterId" : 710511,
         "Id" : 105101,
@@ -635,6 +1209,146 @@
         "Id" : 105118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 105119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 105120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 105121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 105122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 105123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 105124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 105125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 105126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 105127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 105128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 105129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 105130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 105131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 105132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 105133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 105134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 105135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 105136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 105137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 105138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "知冴の演技力が[:param1]%上昇",
@@ -763,6 +1477,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 106119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 106120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 106121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 106122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 106123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 106124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 106125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 106126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 106127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 106128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 106129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 106130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 106131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 106132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 106133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 106134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 106135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 106136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 106137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 106138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "初魅の演技力が[:param1]%上昇",
         "EffectMasterId" : 720111,
         "Id" : 201101,
@@ -887,6 +1741,146 @@
         "Id" : 201118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 201119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 201120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 201121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 201122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 201123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 201124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 201125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 201126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 201127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 201128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 201129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 201130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 201131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 201132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 201133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 201134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 201135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 201136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 201137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 201138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "大黒の演技力が[:param1]%上昇",
@@ -1015,6 +2009,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 202119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 202120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 202121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 202122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 202123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 202124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 202125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 202126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 202127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 202128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 202129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 202130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 202131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 202132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 202133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 202134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 202135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 202136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 202137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 202138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "仁花子の演技力が[:param1]%上昇",
         "EffectMasterId" : 720311,
         "Id" : 203101,
@@ -1139,6 +2273,146 @@
         "Id" : 203118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 203119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 203120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 203121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 203122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 203123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 203124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 203125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 203126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 203127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 203128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 203129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 203130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 203131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 203132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 203133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 203134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 203135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 203136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 203137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 203138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "容の演技力が[:param1]%上昇",
@@ -1267,6 +2541,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 204119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 204120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 204121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 204122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 204123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 204124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 204125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 204126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 204127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 204128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 204129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 204130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 204131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 204132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 204133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 204134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 204135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 204136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 204137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 204138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "しぐれの演技力が[:param1]%上昇",
         "EffectMasterId" : 720511,
         "Id" : 205101,
@@ -1391,6 +2805,146 @@
         "Id" : 205118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 205119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 205120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 205121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 205122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 205123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 205124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 205125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 205126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 205127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 205128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 205129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 205130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 205131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 205132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 205133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 205134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 205135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 205136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 205137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 205138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "暦の演技力が[:param1]%上昇",
@@ -1519,6 +3073,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 301119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 301120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 301121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 301122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 301123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 301124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 301125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 301126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 301127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 301128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 301129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 301130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 301131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 301132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 301133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 301134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 301135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 301136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 301137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 301138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "ラモーナの演技力が[:param1]%上昇",
         "EffectMasterId" : 730211,
         "Id" : 302101,
@@ -1643,6 +3337,146 @@
         "Id" : 302118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 302119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 302120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 302121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 302122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 302123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 302124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 302125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 302126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 302127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 302128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 302129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 302130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 302131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 302132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 302133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 302134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 302135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 302136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 302137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 302138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "雪の演技力が[:param1]%上昇",
@@ -1771,6 +3605,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 303119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 303120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 303121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 303122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 303123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 303124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 303125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 303126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 303127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 303128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 303129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 303130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 303131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 303132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 303133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 303134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 303135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 303136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 303137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 303138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "リリヤの演技力が[:param1]%上昇",
         "EffectMasterId" : 730411,
         "Id" : 304101,
@@ -1895,6 +3869,146 @@
         "Id" : 304118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 304119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 304120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 304121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 304122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 304123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 304124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 304125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 304126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 304127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 304128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 304129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 304130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 304131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 304132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 304133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 304134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 304135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 304136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 304137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 304138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "緋花里の演技力が[:param1]%上昇",
@@ -2023,6 +4137,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 305119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 305120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 305121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 305122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 305123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 305124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 305125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 305126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 305127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 305128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 305129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 305130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 305131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 305132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 305133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 305134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 305135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 305136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 305137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 305138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "いろはの演技力が[:param1]%上昇",
         "EffectMasterId" : 740111,
         "Id" : 401101,
@@ -2147,6 +4401,146 @@
         "Id" : 401118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 401119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 401120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 401121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 401122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 401123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 401124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 401125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 401126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 401127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 401128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 401129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 401130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 401131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 401132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 401133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 401134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 401135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 401136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 401137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 401138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "美兎の演技力が[:param1]%上昇",
@@ -2275,6 +4669,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 402119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 402120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 402121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 402122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 402123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 402124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 402125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 402126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 402127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 402128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 402129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 402130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 402131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 402132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 402133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 402134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 402135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 402136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 402137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 402138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "カミラの演技力が[:param1]%上昇",
         "EffectMasterId" : 740311,
         "Id" : 403101,
@@ -2399,6 +4933,146 @@
         "Id" : 403118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 403119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 403120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 403121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 403122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 403123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 403124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 403125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 403126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 403127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 403128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 403129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 403130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 403131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 403132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 403133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 403134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 403135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 403136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 403137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 403138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "蕾の演技力が[:param1]%上昇",
@@ -2527,6 +5201,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 404119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 404120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 404121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 404122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 404123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 404124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 404125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 404126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 404127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 404128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 404129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 404130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 404131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 404132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 404133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 404134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 404135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 404136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 404137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 404138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "叶羽の演技力が[:param1]%上昇",
         "EffectMasterId" : 740511,
         "Id" : 405101,
@@ -2651,6 +5465,146 @@
         "Id" : 405118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 405119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 405120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 405121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 405122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 405123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 405124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 405125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 405126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 405127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 405128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 405129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 405130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 405131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 405132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 405133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 405134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 405135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 405136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 405137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 405138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "千歌の演技力が[:param1]%上昇",
@@ -2779,6 +5733,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 901119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 901120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 901121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 901122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 901123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 901124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 901125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 901126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 901127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 901128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 901129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 901130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 901131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 901132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 901133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 901134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 901135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 901136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 901137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 901138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "梨子の演技力が[:param1]%上昇",
         "EffectMasterId" : 790211,
         "Id" : 902101,
@@ -2903,6 +5997,146 @@
         "Id" : 902118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 902119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 902120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 902121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 902122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 902123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 902124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 902125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 902126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 902127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 902128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 902129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 902130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 902131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 902132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 902133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 902134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 902135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 902136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 902137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 902138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     },
     {
         "Description" : "ダイヤの演技力が[:param1]%上昇",
@@ -3031,6 +6265,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 904119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 904120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 904121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 904122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 904123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 904124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 904125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 904126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 904127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 904128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 904129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 904130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 904131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 904132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 904133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 904134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 904135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 904136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 904137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 904138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "善子の演技力が[:param1]%上昇",
         "EffectMasterId" : 790611,
         "Id" : 906101,
@@ -3157,6 +6531,146 @@
         "Variety" : 5
     },
     {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 906119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 906120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 906121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 906122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 906123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 906124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 906125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 906126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 906127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 906128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 906129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 906130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 906131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 906132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 906133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 906134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 906135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 906136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 906137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 906138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
+    },
+    {
         "Description" : "ルビィの演技力が[:param1]%上昇",
         "EffectMasterId" : 790911,
         "Id" : 909101,
@@ -3281,5 +6795,145 @@
         "Id" : 909118,
         "Name" : "集中力アップ +5",
         "Variety" : 5
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710161,
+        "Id" : 909119,
+        "Name" : "演技力アップ +1【憐】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710162,
+        "Id" : 909120,
+        "Name" : "演技力アップ +2【憐】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710163,
+        "Id" : 909121,
+        "Name" : "演技力アップ +3【憐】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710164,
+        "Id" : 909122,
+        "Name" : "演技力アップ +1【凛】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710165,
+        "Id" : 909123,
+        "Name" : "演技力アップ +2【凛】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710166,
+        "Id" : 909124,
+        "Name" : "演技力アップ +3【凛】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710167,
+        "Id" : 909125,
+        "Name" : "演技力アップ +1【彩】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710168,
+        "Id" : 909126,
+        "Name" : "演技力アップ +2【彩】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710169,
+        "Id" : 909127,
+        "Name" : "演技力アップ +3【彩】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710170,
+        "Id" : 909128,
+        "Name" : "演技力アップ +1【陽】",
+        "Variety" : 1
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710171,
+        "Id" : 909129,
+        "Name" : "演技力アップ +2【陽】",
+        "Variety" : 2
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>の演技力が[:param1]%上昇",
+        "EffectMasterId" : 710172,
+        "Id" : 909130,
+        "Name" : "演技力アップ +3【陽】",
+        "Variety" : 3
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710181,
+        "Id" : 909131,
+        "Name" : "初期Pゲージ獲得【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710182,
+        "Id" : 909132,
+        "Name" : "初期Pゲージ獲得【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710183,
+        "Id" : 909133,
+        "Name" : "初期Pゲージ獲得【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているとき公演開始時、P.ゲージが[:param1]上昇",
+        "EffectMasterId" : 710184,
+        "Id" : 909134,
+        "Name" : "初期Pゲージ獲得【陽】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#ff679d>憐属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710191,
+        "Id" : 909135,
+        "Name" : "PG上限上昇【憐】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#33B4DF>凛属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710192,
+        "Id" : 909136,
+        "Name" : "PG上限上昇【凛】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#7AC940>彩属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710193,
+        "Id" : 909137,
+        "Name" : "PG上限上昇【彩】",
+        "Variety" : null
+    },
+    {
+        "Description" : "<color=#FF9314>陽属性アクター</color>が編成されているときP.ゲージの上限が[:param1]上昇",
+        "EffectMasterId" : 710194,
+        "Id" : 909138,
+        "Name" : "PG上限上昇【陽】",
+        "Variety" : null
     }
 ]

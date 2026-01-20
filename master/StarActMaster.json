@@ -7460,6 +7460,132 @@
         "StarActConditionMasterId" : 103121
     },
     {
+        "AcquirableScorePercent" : 1140,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19400,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19095,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 14215101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<size=25%>公演中の一番最後に発動するスターアクトで、スターアクトの発動回数×総演技力の[:score]倍のスコアを獲得／スターアクト発動後、追加で[:param12]のプリンシパルゲージを獲得</size>",
+        "Id" : 142151,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 120,
+        "StarActConditionMasterId" : 101223
+    },
+    {
+        "AcquirableScorePercent" : 1140,
+        "BranchCondition1" : "CompanyMemberCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19100,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14216101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19101,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14216102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19102,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14216103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19103,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14216104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19104,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14216105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 4,
+        "ConditionValue2" : null,
+        "Description" : "<size=26%>総演技力の[:score]倍のスコアを獲得／編成されている劇団電姫アクターの演技力と演技力上限を、編成されている劇団電姫アクターの人数×10%上昇させる(この効果は重複する)</size>",
+        "Id" : 142161,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 120,
+        "StarActConditionMasterId" : 104121
+    },
+    {
         "AcquirableScorePercent" : 1310,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",
@@ -7947,5 +8073,377 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 140,
         "StarActConditionMasterId" : 102412
+    },
+    {
+        "AcquirableScorePercent" : 1310,
+        "BranchCondition1" : "12",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19219,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003101,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 20,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19218,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003102,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 18,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19217,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003103,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 16,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19216,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003104,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 14,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19215,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 12,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19214,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003106,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 10,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19213,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003107,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19212,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003108,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19211,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003109,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 9,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19210,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 15003110,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 10,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得/公演中のセンス発動回数2回につきスコア獲得量15％上昇（最大＋150％）",
+        "Id" : 150031,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 140,
+        "StarActConditionMasterId" : 101314
+    },
+    {
+        "AcquirableScorePercent" : 1310,
+        "BranchCondition1" : "12",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19274,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003201,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 20,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19273,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003202,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 18,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19272,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003203,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 16,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19271,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003204,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 14,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19270,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003205,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 12,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19269,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003206,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 10,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19268,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003207,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19267,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003208,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19266,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003209,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 9,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19265,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 19086,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 15003210,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 10,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<size=26%>総演技力の[:score]倍のスコアを獲得/公演中のセンス発動回数2回につきスコア獲得量18％上昇（最大＋180％）／スターアクト発動後、プリンシパルゲージの上限値が[:param12]上昇</size>",
+        "Id" : 150032,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 140,
+        "StarActConditionMasterId" : 101314
     }
 ]

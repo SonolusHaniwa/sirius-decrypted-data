@@ -52,6 +52,71 @@
         "RequiredCoin" : 200
     },
     {
+        "BaseLevel" : 5,
+        "Id" : 105,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 5
+            }
+        ],
+        "Rarity" : "Rare1",
+        "RequiredCoin" : 250
+    },
+    {
+        "BaseLevel" : 6,
+        "Id" : 106,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 6
+            }
+        ],
+        "Rarity" : "Rare1",
+        "RequiredCoin" : 300
+    },
+    {
+        "BaseLevel" : 7,
+        "Id" : 107,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 7
+            }
+        ],
+        "Rarity" : "Rare1",
+        "RequiredCoin" : 350
+    },
+    {
+        "BaseLevel" : 8,
+        "Id" : 108,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 8
+            }
+        ],
+        "Rarity" : "Rare1",
+        "RequiredCoin" : 400
+    },
+    {
+        "BaseLevel" : 9,
+        "Id" : 109,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 9
+            }
+        ],
+        "Rarity" : "Rare1",
+        "RequiredCoin" : 450
+    },
+    {
         "BaseLevel" : 1,
         "Id" : 201,
         "Items" : 
@@ -187,10 +252,99 @@
             {
                 "ItemMasterId" : 130035,
                 "RequiredQuantity" : 10
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 4
             }
         ],
         "Rarity" : "Rare2",
         "RequiredCoin" : 2000
+    },
+    {
+        "BaseLevel" : 10,
+        "Id" : 210,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 24
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 12
+            }
+        ],
+        "Rarity" : "Rare2",
+        "RequiredCoin" : 2800
+    },
+    {
+        "BaseLevel" : 11,
+        "Id" : 211,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 28
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 14
+            }
+        ],
+        "Rarity" : "Rare2",
+        "RequiredCoin" : 3800
+    },
+    {
+        "BaseLevel" : 12,
+        "Id" : 212,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 32
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 16
+            }
+        ],
+        "Rarity" : "Rare2",
+        "RequiredCoin" : 5000
+    },
+    {
+        "BaseLevel" : 13,
+        "Id" : 213,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 36
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 18
+            }
+        ],
+        "Rarity" : "Rare2",
+        "RequiredCoin" : 6400
+    },
+    {
+        "BaseLevel" : 14,
+        "Id" : 214,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 40
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 20
+            }
+        ],
+        "Rarity" : "Rare2",
+        "RequiredCoin" : 8000
     },
     {
         "BaseLevel" : 1,
@@ -421,6 +575,95 @@
         ],
         "Rarity" : "Rare3",
         "RequiredCoin" : 20000
+    },
+    {
+        "BaseLevel" : 15,
+        "Id" : 315,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 96
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 48
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 12
+            }
+        ],
+        "Rarity" : "Rare3",
+        "RequiredCoin" : 28000
+    },
+    {
+        "BaseLevel" : 16,
+        "Id" : 316,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 112
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 56
+            }
+        ],
+        "Rarity" : "Rare3",
+        "RequiredCoin" : 36000
+    },
+    {
+        "BaseLevel" : 17,
+        "Id" : 317,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 128
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 64
+            }
+        ],
+        "Rarity" : "Rare3",
+        "RequiredCoin" : 52000
+    },
+    {
+        "BaseLevel" : 18,
+        "Id" : 318,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 144
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 72
+            }
+        ],
+        "Rarity" : "Rare3",
+        "RequiredCoin" : 68000
+    },
+    {
+        "BaseLevel" : 19,
+        "Id" : 319,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 160
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 80
+            }
+        ],
+        "Rarity" : "Rare3",
+        "RequiredCoin" : 100000
     },
     {
         "BaseLevel" : 1,
@@ -740,6 +983,95 @@
         ],
         "Rarity" : "Rare4",
         "RequiredCoin" : 60000
+    },
+    {
+        "BaseLevel" : 20,
+        "Id" : 420,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 288
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 144
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 24
+            }
+        ],
+        "Rarity" : "Rare4",
+        "RequiredCoin" : 72000
+    },
+    {
+        "BaseLevel" : 21,
+        "Id" : 421,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 336
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 168
+            }
+        ],
+        "Rarity" : "Rare4",
+        "RequiredCoin" : 84000
+    },
+    {
+        "BaseLevel" : 22,
+        "Id" : 422,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 384
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 192
+            }
+        ],
+        "Rarity" : "Rare4",
+        "RequiredCoin" : 96000
+    },
+    {
+        "BaseLevel" : 23,
+        "Id" : 423,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 432
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 216
+            }
+        ],
+        "Rarity" : "Rare4",
+        "RequiredCoin" : 120000
+    },
+    {
+        "BaseLevel" : 24,
+        "Id" : 424,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 480
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 240
+            }
+        ],
+        "Rarity" : "Rare4",
+        "RequiredCoin" : 150000
     },
     {
         "BaseLevel" : 1,
@@ -1164,5 +1496,110 @@
         ],
         "Rarity" : "Rare5",
         "RequiredCoin" : 150000
+    },
+    {
+        "BaseLevel" : 25,
+        "Id" : 525,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 1200
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 700
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 50
+            }
+        ],
+        "Rarity" : "Rare5",
+        "RequiredCoin" : 170000
+    },
+    {
+        "BaseLevel" : 26,
+        "Id" : 526,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 1500
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 1000
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 20
+            }
+        ],
+        "Rarity" : "Rare5",
+        "RequiredCoin" : 210000
+    },
+    {
+        "BaseLevel" : 27,
+        "Id" : 527,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 1900
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 1400
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 20
+            }
+        ],
+        "Rarity" : "Rare5",
+        "RequiredCoin" : 270000
+    },
+    {
+        "BaseLevel" : 28,
+        "Id" : 528,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 2400
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 1900
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 20
+            }
+        ],
+        "Rarity" : "Rare5",
+        "RequiredCoin" : 350000
+    },
+    {
+        "BaseLevel" : 29,
+        "Id" : 529,
+        "Items" : 
+        [
+            {
+                "ItemMasterId" : 130025,
+                "RequiredQuantity" : 3000
+            },
+            {
+                "ItemMasterId" : 130035,
+                "RequiredQuantity" : 2500
+            },
+            {
+                "ItemMasterId" : 130091,
+                "RequiredQuantity" : 20
+            }
+        ],
+        "Rarity" : "Rare5",
+        "RequiredCoin" : 450000
     }
 ]
