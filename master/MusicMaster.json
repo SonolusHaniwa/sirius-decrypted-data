@@ -4901,7 +4901,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 301, 302, 303, 304, 305 ],
+                "Characters" : [ 301, 302, 303, 305, 304 ],
                 "Id" : 14101,
                 "MusicMasterId" : 141,
                 "MusicTimeSecond" : 161,
@@ -4939,7 +4939,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 103, 102 ],
+                "Characters" : [ 102, 101, 103 ],
                 "Id" : 14201,
                 "MusicMasterId" : 142,
                 "MusicTimeSecond" : 160,
@@ -5015,7 +5015,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 304, 305, 405 ],
+                "Characters" : [ 304, 405, 305 ],
                 "Id" : 14401,
                 "MusicMasterId" : 144,
                 "MusicTimeSecond" : 155,
@@ -5053,7 +5053,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 201, 301, 401 ],
+                "Characters" : [ 201, 101, 401, 301 ],
                 "Id" : 14501,
                 "MusicMasterId" : 145,
                 "MusicTimeSecond" : 158,
@@ -5091,7 +5091,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 104, 405, 205 ],
+                "Characters" : [ 205, 104, 405 ],
                 "Id" : 14601,
                 "MusicMasterId" : 146,
                 "MusicTimeSecond" : 144,
@@ -5129,7 +5129,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 302, 301, 303 ],
+                "Characters" : [ 301, 303, 302 ],
                 "Id" : 14701,
                 "MusicMasterId" : 147,
                 "MusicTimeSecond" : 158,
@@ -5965,7 +5965,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 102, 201, 401, 301 ],
+                "Characters" : [ 101, 102, 201, 301, 401 ],
                 "Id" : 17201,
                 "MusicMasterId" : 172,
                 "MusicTimeSecond" : 95,
@@ -6003,7 +6003,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 305, 403, 105 ],
+                "Characters" : [ 105, 403, 305 ],
                 "Id" : 17301,
                 "MusicMasterId" : 173,
                 "MusicTimeSecond" : 124,
@@ -6041,7 +6041,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 302, 305, 303 ],
+                "Characters" : [ 303, 302, 305 ],
                 "Id" : 17401,
                 "MusicMasterId" : 174,
                 "MusicTimeSecond" : 123,
@@ -6345,7 +6345,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 104, 103 ],
+                "Characters" : [ 103, 104 ],
                 "Id" : 18201,
                 "MusicMasterId" : 182,
                 "MusicTimeSecond" : 120,
@@ -7088,8 +7088,8 @@
                     401,
                     402,
                     403,
-                    404,
-                    405
+                    405,
+                    404
                 ],
                 "Id" : 20101,
                 "MusicMasterId" : 201,
@@ -7622,7 +7622,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 201, 202, 203, 205, 204 ],
+                "Characters" : [ 201, 202, 203, 204, 205 ],
                 "Id" : 21601,
                 "MusicMasterId" : 216,
                 "MusicTimeSecond" : 163,
@@ -8420,7 +8420,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 404, 105 ],
+                "Characters" : [ 105, 404 ],
                 "Id" : 23901,
                 "MusicMasterId" : 239,
                 "MusicTimeSecond" : 107,
@@ -8496,7 +8496,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 301, 302, 303, 304, 305 ],
+                "Characters" : [ 301, 302, 303, 305, 304 ],
                 "Id" : 24101,
                 "MusicMasterId" : 241,
                 "MusicTimeSecond" : 112,
@@ -8619,6 +8619,44 @@
                 "SampleEndSeconds" : 0.0,
                 "SampleStartSeconds" : 0.0,
                 "Singer" : "猫足蕾",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "古河 夕（FirstCall）",
+        "Composer" : "古河 夕（FirstCall）",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 245,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 137,
+        "MusicVideoType" : "None",
+        "Name" : "未来への前奏曲-Prelude-",
+        "PronounceName" : "みらいへのぷれりゅーど",
+        "ReleasedAt" : "2026-01-31 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 33,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 303, 304, 305 ],
+                "Id" : 24501,
+                "MusicMasterId" : 245,
+                "MusicTimeSecond" : 137,
+                "MusicVideoType" : "None",
+                "Name" : "未来への前奏曲-Prelude-",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "リリヤ・クルトベイ、与那国緋花里、王雪",
                 "VocalVersion" : 1
             }
         ]
@@ -8838,7 +8876,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 104, 101 ],
+                "Characters" : [ 101, 104 ],
                 "Id" : 1001201,
                 "MusicMasterId" : 10012,
                 "MusicTimeSecond" : 233,
@@ -8914,7 +8952,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 202, 203, 204, 201, 205 ],
+                "Characters" : [ 202, 201, 203, 204, 205 ],
                 "Id" : 1001901,
                 "MusicMasterId" : 10019,
                 "MusicTimeSecond" : 261,
@@ -8952,7 +8990,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 301, 302, 303, 304, 305 ],
+                "Characters" : [ 301, 302, 303, 305, 304 ],
                 "Id" : 1002101,
                 "MusicMasterId" : 10021,
                 "MusicTimeSecond" : 219,
@@ -8990,7 +9028,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 401, 402, 403, 404, 405 ],
+                "Characters" : [ 402, 403, 404, 401, 405 ],
                 "Id" : 1002301,
                 "MusicMasterId" : 10023,
                 "MusicTimeSecond" : 211,
@@ -9674,7 +9712,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 401, 402, 403, 404, 405 ],
+                "Characters" : [ 401, 402, 403, 405, 404 ],
                 "Id" : 1006401,
                 "MusicMasterId" : 10064,
                 "MusicTimeSecond" : 215,
@@ -9811,7 +9849,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 204, 202 ],
+                "Characters" : [ 202, 204 ],
                 "Id" : 1007001,
                 "MusicMasterId" : 10070,
                 "MusicTimeSecond" : 255,
@@ -10039,7 +10077,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 102, 103 ],
+                "Characters" : [ 101, 103, 102 ],
                 "Id" : 1007901,
                 "MusicMasterId" : 10079,
                 "MusicTimeSecond" : 236,
@@ -10609,7 +10647,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 102, 201, 401, 301 ],
+                "Characters" : [ 101, 102, 201, 301, 401 ],
                 "Id" : 1017201,
                 "MusicMasterId" : 10172,
                 "MusicTimeSecond" : 97,

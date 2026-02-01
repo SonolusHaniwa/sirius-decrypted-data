@@ -936,6 +936,30 @@
         "Title" : "公演の報酬量 200%UP"
     },
     {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 1,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：1/31 5:00 ～ 2/5 5:00/n対象：稽古",
+        "EndDate" : "2026-02-05 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 80,
+        "Order" : 80,
+        "StartDate" : "2026-01-31 05:00:00",
+        "Title" : "稽古の回数 +1回"
+    },
+    {
+        "CampaignEffectType" : "AccessoryDropRate",
+        "CampaignEffectValue" : 100,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：1/31 17:00 ～ 2/8 22:00/n対象：電姫空間",
+        "EndDate" : "2026-02-08 22:00:00",
+        "IconImagePath" : "1",
+        "Id" : 81,
+        "Order" : 81,
+        "StartDate" : "2026-01-31 17:00:00",
+        "Title" : "アクセサリーのドロップ率 100%UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
@@ -999,24 +1023,24 @@
         "CampaignEffectType" : "LessonCount",
         "CampaignEffectValue" : 2,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：1/7 5:00 ～ 1/8 5:00/n対象：稽古",
-        "EndDate" : "2026-01-08 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：2/7 5:00 ～ 2/8 5:00/n対象：稽古",
+        "EndDate" : "2026-02-08 05:00:00",
         "IconImagePath" : "1001",
         "Id" : 2001,
         "Order" : 2001,
-        "StartDate" : "2026-01-07 05:00:00",
+        "StartDate" : "2026-02-07 05:00:00",
         "Title" : "稽古の回数 +2回"
     },
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：1/7 5:00 ～ 1/8 5:00/n対象：公演、協力公演",
-        "EndDate" : "2026-01-08 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：2/7 5:00 ～ 2/8 5:00/n対象：公演、協力公演",
+        "EndDate" : "2026-02-08 05:00:00",
         "IconImagePath" : "4",
         "Id" : 2002,
         "Order" : 2002,
-        "StartDate" : "2026-01-07 05:00:00",
+        "StartDate" : "2026-02-07 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     },
     {

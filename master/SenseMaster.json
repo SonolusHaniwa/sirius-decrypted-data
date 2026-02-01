@@ -10531,6 +10531,80 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 840,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20632,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1421701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 65,
+        "Description" : "<size=27%>[:score]倍のスコアを獲得／センス発動時に、追加で「特殊の光」を1個獲得する／センス発動後、現在のプリンシパルゲージ上限の[:param11]%分のプリンシパルゲージを獲得する。</size>",
+        "Id" : 142170,
+        "LightCount" : 1,
+        "Name" : "復讐の魔女は墳墓にて",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 220,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20304,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1421801,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "<size=26%>[:score]倍のスコアを獲得／[:sec]秒間、銀河座のアクターにスターアクトスコア[:param11]％UP効果／雪が隣に編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 142180,
+        "LightCount" : 2,
+        "Name" : "薄幸の麗妃は王棺を悼み",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28013,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",

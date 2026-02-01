@@ -5182,5 +5182,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20065,
         "Title" : "良い年になりますように"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006601,
+        "Id" : 2006601,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20066,
+        "Title" : "身の振り方"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006602,
+        "Id" : 2006602,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006601,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20066,
+        "Title" : "残留か、脱退か"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006603,
+        "Id" : 2006603,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006602,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20066,
+        "Title" : "久方ぶりの主演"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006604,
+        "Id" : 2006604,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006603,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20066,
+        "Title" : "貴女だからこそ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006605,
+        "Id" : 2006605,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006604,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20066,
+        "Title" : "怯えと決意"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006606,
+        "Id" : 2006606,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006605,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20066,
+        "Title" : "王は再び"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006607,
+        "Id" : 2006607,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006606,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20066,
+        "Title" : "例え破滅が見えようと"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006608,
+        "Id" : 2006608,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006607,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20066,
+        "Title" : "星雲"
     }
 ]

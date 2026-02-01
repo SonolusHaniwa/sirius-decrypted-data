@@ -22245,6 +22245,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「未来への前奏曲-Prelude-」を[:param]回クリアしよう",
+        "EndDate" : "2026-02-09 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 55100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 55100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-01-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-01-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「未来への前奏曲-Prelude-」を[:param]回クリアしよう",
+        "EndDate" : "2026-02-09 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 55200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 55200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-01-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-01-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -29814,7 +29874,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2026-01-08 05:00:00",
+        "EndDate" : "2026-02-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700001,
         "JumpTargetId" : null,
@@ -29838,13 +29898,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2026-01-07 05:00:00",
+        "StartDate" : "2026-02-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2026-01-08 05:00:00",
+        "EndDate" : "2026-02-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700002,
         "JumpTargetId" : null,
@@ -29859,7 +29919,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215013,
+                        "ThingId" : 215015,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -29868,13 +29928,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2026-01-07 05:00:00",
+        "StartDate" : "2026-02-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2026-01-08 05:00:00",
+        "EndDate" : "2026-02-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700003,
         "JumpTargetId" : null,
@@ -29889,7 +29949,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215014,
+                        "ThingId" : 215016,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -29898,7 +29958,7 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2026-01-07 05:00:00",
+        "StartDate" : "2026-02-07 05:00:00",
         "Title" : ""
     },
     {

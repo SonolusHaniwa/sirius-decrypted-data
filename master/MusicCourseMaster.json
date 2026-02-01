@@ -1141,7 +1141,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 69,
         "InitialLife" : 400,
         "MusicCourseType" : "Special",
@@ -1176,7 +1176,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 70,
         "InitialLife" : 1000,
         "MusicCourseType" : "Special",
@@ -1211,7 +1211,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 71,
         "InitialLife" : 9,
         "MusicCourseType" : "Special",
@@ -1246,7 +1246,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 72,
         "InitialLife" : 80,
         "MusicCourseType" : "Special",
@@ -1281,7 +1281,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 73,
         "InitialLife" : 700,
         "MusicCourseType" : "Special",
@@ -1316,7 +1316,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 74,
         "InitialLife" : 300,
         "MusicCourseType" : "Special",
@@ -1351,7 +1351,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 75,
         "InitialLife" : 300,
         "MusicCourseType" : "Special",
@@ -1386,7 +1386,7 @@
                 "VocalVersion" : 1
             }
         ],
-        "EndDate" : "2026-02-01 05:00:00",
+        "EndDate" : null,
         "Id" : 76,
         "InitialLife" : 300,
         "MusicCourseType" : "Special",
@@ -4623,6 +4623,76 @@
         "Details" : 
         [
             {
+                "Id" : 29201,
+                "LiveMasterId" : 12904,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 29202,
+                "LiveMasterId" : 24504,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 29203,
+                "LiveMasterId" : 20204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-09 00:00:00",
+        "Id" : 292,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第47回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-02 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 29301,
+                "LiveMasterId" : 24505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 29302,
+                "LiveMasterId" : 20205,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 29303,
+                "LiveMasterId" : 22805,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-02-09 00:00:00",
+        "Id" : 293,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第47回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-02 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 50001,
                 "LiveMasterId" : 17904,
                 "SetListNumber" : 1,
@@ -5458,5 +5528,565 @@
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "ClearedMMusicCourseId",
         "UnlockConditionValue" : 1510
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200101,
+                "LiveMasterId" : 15002,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200102,
+                "LiveMasterId" : 14002,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200103,
+                "LiveMasterId" : 16202,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2001,
+        "InitialLife" : 150,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【初段】段位認定2025 3rd Season",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200201,
+                "LiveMasterId" : 2602,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200202,
+                "LiveMasterId" : 8602,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200203,
+                "LiveMasterId" : 1003,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2002,
+        "InitialLife" : 140,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【二段】段位認定2025 3rd Season",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200301,
+                "LiveMasterId" : 22703,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200302,
+                "LiveMasterId" : 2903,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200303,
+                "LiveMasterId" : 4903,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2003,
+        "InitialLife" : 130,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【三段】段位認定2025 3rd Season",
+        "Order" : 3,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200401,
+                "LiveMasterId" : 19703,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200402,
+                "LiveMasterId" : 18003,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200403,
+                "LiveMasterId" : 11303,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2004,
+        "InitialLife" : 120,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【四段】段位認定2025 3rd Season",
+        "Order" : 4,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200501,
+                "LiveMasterId" : 13703,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200502,
+                "LiveMasterId" : 22304,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200503,
+                "LiveMasterId" : 5404,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2005,
+        "InitialLife" : 110,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【五段】段位認定2025 3rd Season",
+        "Order" : 5,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200601,
+                "LiveMasterId" : 16004,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200602,
+                "LiveMasterId" : 18904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200603,
+                "LiveMasterId" : 12204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2006,
+        "InitialLife" : 100,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【六段】段位認定2025 3rd Season",
+        "Order" : 6,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200701,
+                "LiveMasterId" : 11104,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200702,
+                "LiveMasterId" : 11704,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200703,
+                "LiveMasterId" : 20704,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2007,
+        "InitialLife" : 85,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【七段】段位認定2025 3rd Season",
+        "Order" : 7,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 200801,
+                "LiveMasterId" : 18804,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200802,
+                "LiveMasterId" : 8904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 200803,
+                "LiveMasterId" : 5504,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2008,
+        "InitialLife" : 70,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【八段】段位認定2025 3rd Season",
+        "Order" : 8,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250101,
+                "LiveMasterId" : 24405,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250102,
+                "LiveMasterId" : 22705,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250103,
+                "LiveMasterId" : 1005,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2501,
+        "InitialLife" : 160,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【初段】段位認定2025 3rd Seasonウラ",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250201,
+                "LiveMasterId" : 18605,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250202,
+                "LiveMasterId" : 16305,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250203,
+                "LiveMasterId" : 7705,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2502,
+        "InitialLife" : 150,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【二段】段位認定2025 3rd Seasonウラ",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250301,
+                "LiveMasterId" : 20505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250302,
+                "LiveMasterId" : 22405,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250303,
+                "LiveMasterId" : 20805,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2503,
+        "InitialLife" : 140,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【三段】段位認定2025 3rd Seasonウラ",
+        "Order" : 3,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250401,
+                "LiveMasterId" : 18505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250402,
+                "LiveMasterId" : 23705,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250403,
+                "LiveMasterId" : 18405,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2504,
+        "InitialLife" : 130,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【四段】段位認定2025 3rd Seasonウラ",
+        "Order" : 4,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250501,
+                "LiveMasterId" : 24105,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250502,
+                "LiveMasterId" : 21605,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250503,
+                "LiveMasterId" : 17505,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2505,
+        "InitialLife" : 120,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【五段】段位認定2025 3rd Seasonウラ",
+        "Order" : 5,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250601,
+                "LiveMasterId" : 8505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250602,
+                "LiveMasterId" : 19205,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250603,
+                "LiveMasterId" : 14805,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2506,
+        "InitialLife" : 110,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【六段】段位認定2025 3rd Seasonウラ",
+        "Order" : 6,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250701,
+                "LiveMasterId" : 1205,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250702,
+                "LiveMasterId" : 14105,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250703,
+                "LiveMasterId" : 24305,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2507,
+        "InitialLife" : 100,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【七段】段位認定2025 3rd Seasonウラ",
+        "Order" : 7,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 250801,
+                "LiveMasterId" : 23805,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250802,
+                "LiveMasterId" : 21805,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 250803,
+                "LiveMasterId" : 22905,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2508,
+        "InitialLife" : 85,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【八段】段位認定2025 3rd Seasonウラ",
+        "Order" : 8,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-02-01 05:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
     }
 ]
