@@ -8662,6 +8662,44 @@
         ]
     },
     {
+        "Arranger" : "志村真白（FirstCall）",
+        "Composer" : "志村真白（FirstCall）",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 246,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平、志村真白（FirstCall）",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 94,
+        "MusicVideoType" : "None",
+        "Name" : "Astral×Relation",
+        "PronounceName" : "あすとらるりれーしょん",
+        "ReleasedAt" : "2026-02-09 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 25,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 302 ],
+                "Id" : 24601,
+                "MusicMasterId" : 246,
+                "MusicTimeSecond" : 94,
+                "MusicVideoType" : "None",
+                "Name" : "Astral×Relation",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "ラモーナ・ウォルフ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
         "Arranger" : "-",
         "Composer" : "-",
         "DelaySeconds" : 0.0,
@@ -9142,7 +9180,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 402, 401 ],
+                "Characters" : [ 401, 402 ],
                 "Id" : 1002801,
                 "MusicMasterId" : 10028,
                 "MusicTimeSecond" : 222,
@@ -9218,7 +9256,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 201, 203 ],
+                "Characters" : [ 203, 201 ],
                 "Id" : 1003001,
                 "MusicMasterId" : 10030,
                 "MusicTimeSecond" : 276,

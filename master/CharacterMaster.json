@@ -16351,8 +16351,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141690,
         "LeaderSenseMasterId" : 218,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-02-09 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 163,
@@ -16408,8 +16408,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141700,
         "LeaderSenseMasterId" : 219,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-02-09 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 108,
@@ -16693,8 +16693,8 @@
         "ForbidGenericItemBloom" : false,
         "Id" : 141750,
         "LeaderSenseMasterId" : 223,
-        "MaxTalentStage" : 5,
-        "MaxTalentStageReleaseDate" : null,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-02-09 17:00:00",
         "MinLevelStatus" : 
         {
             "Concentration" : 107,
@@ -19183,6 +19183,120 @@
         "SenseMasterId" : 142180,
         "StarActMasterId" : 142181,
         "UnlockText" : "ガチャ(期間限定)で入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 142191,
+        "BloomBonusGroupMasterId" : 40219,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2001,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 6005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7517,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8004,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 103,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2026-02-09 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 142190,
+        "LeaderSenseMasterId" : 190,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-02-09 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 76,
+            "Expression" : 104,
+            "Vocal" : 194
+        },
+        "Name" : "キミの為、闇の中へ",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 142190,
+        "StarActMasterId" : 142191,
+        "UnlockText" : "ガチャで入手"
+    },
+    {
+        "AssetId" : null,
+        "Attribute" : "Cool",
+        "AwakenStarActMasterId" : 142201,
+        "BloomBonusGroupMasterId" : 40220,
+        "Categories" : 
+        [
+            {
+                "CategoryMasterId" : 2003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 1003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8003,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 6005,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 7517,
+                "IsAwaken" : false
+            },
+            {
+                "CategoryMasterId" : 8002,
+                "IsAwaken" : true
+            }
+        ],
+        "CharacterAwakeningItemGroupMasterId" : 42,
+        "CharacterBaseMasterId" : 302,
+        "Description" : "",
+        "DisplayEndAt" : "2100-01-01 00:00:00",
+        "DisplayStartAt" : "2026-02-09 17:00:00",
+        "FirstEpisodeReleaseItemGroupId" : 421,
+        "ForbidGenericItemBloom" : false,
+        "Id" : 142200,
+        "LeaderSenseMasterId" : 253,
+        "MaxTalentStage" : 6,
+        "MaxTalentStageReleaseDate" : "2026-02-09 17:00:00",
+        "MinLevelStatus" : 
+        {
+            "Concentration" : 106,
+            "Expression" : 171,
+            "Vocal" : 84
+        },
+        "Name" : "嗚呼、クリスティーヌ",
+        "Rarity" : "Rare4",
+        "SecondEpisodeReleaseItemGroupId" : 422,
+        "SenseEnhanceItemGroupMasterId" : 4,
+        "SenseMasterId" : 142200,
+        "StarActMasterId" : 142201,
+        "UnlockText" : "ガチャで入手"
     },
     {
         "AssetId" : null,

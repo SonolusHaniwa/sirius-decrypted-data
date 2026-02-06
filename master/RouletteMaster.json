@@ -11014,5 +11014,691 @@
         "RouletteImagePath" : "20014",
         "RouletteTicketItemMasterId" : 132048,
         "RouletteType" : "Item"
+    },
+    {
+        "Id" : 20171,
+        "Name" : "ポイントルーレット",
+        "Order" : 1,
+        "Prizes" : 
+        [
+            {
+                "AcquirePointQuantity" : 250,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017101,
+                "Slot" : 1
+            },
+            {
+                "AcquirePointQuantity" : 100,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017102,
+                "Slot" : 2
+            },
+            {
+                "AcquirePointQuantity" : 100,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017103,
+                "Slot" : 3
+            },
+            {
+                "AcquirePointQuantity" : 150,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017104,
+                "Slot" : 4
+            },
+            {
+                "AcquirePointQuantity" : 100,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017105,
+                "Slot" : 5
+            },
+            {
+                "AcquirePointQuantity" : 200,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017106,
+                "Slot" : 6
+            },
+            {
+                "AcquirePointQuantity" : 100,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017107,
+                "Slot" : 7
+            },
+            {
+                "AcquirePointQuantity" : 150,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017108,
+                "Slot" : 8
+            },
+            {
+                "AcquirePointQuantity" : 100,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017109,
+                "Slot" : 9
+            },
+            {
+                "AcquirePointQuantity" : 120,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017110,
+                "Slot" : 10
+            },
+            {
+                "AcquirePointQuantity" : 120,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017111,
+                "Slot" : 11
+            },
+            {
+                "AcquirePointQuantity" : 100,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017112,
+                "Slot" : 12
+            }
+        ],
+        "RequiredTicketQuantity" : 10,
+        "RollRewards" : 
+        [
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 10
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 20
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 50
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 100
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 250
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 500
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 750
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 30,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 1000
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 30,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 1500
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 40,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 2000
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 40,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 3000
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 5000
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 8000
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 10000
+            }
+        ],
+        "RouletteEventMasterId" : 2017,
+        "RouletteImagePath" : "20011",
+        "RouletteTicketItemMasterId" : 132049,
+        "RouletteType" : "Point"
+    },
+    {
+        "Id" : 20172,
+        "Name" : "ポイントルーレット【SP】",
+        "Order" : 2,
+        "Prizes" : 
+        [
+            {
+                "AcquirePointQuantity" : 5000,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017201,
+                "Slot" : 1
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017202,
+                "Slot" : 2
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017203,
+                "Slot" : 3
+            },
+            {
+                "AcquirePointQuantity" : 2500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017204,
+                "Slot" : 4
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017205,
+                "Slot" : 5
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017206,
+                "Slot" : 6
+            },
+            {
+                "AcquirePointQuantity" : 2000,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017207,
+                "Slot" : 7
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017208,
+                "Slot" : 8
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017209,
+                "Slot" : 9
+            },
+            {
+                "AcquirePointQuantity" : 3500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017210,
+                "Slot" : 10
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017211,
+                "Slot" : 11
+            },
+            {
+                "AcquirePointQuantity" : 1500,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : null,
+                    "ThingQuantity" : null,
+                    "ThingType" : ""
+                },
+                "Id" : 2017212,
+                "Slot" : 12
+            }
+        ],
+        "RequiredTicketQuantity" : 1,
+        "RollRewards" : 
+        [
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 10
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 50
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 100
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132051,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 500
+            }
+        ],
+        "RouletteEventMasterId" : 2017,
+        "RouletteImagePath" : "20012",
+        "RouletteTicketItemMasterId" : 132050,
+        "RouletteType" : "Point"
+    },
+    {
+        "Id" : 20173,
+        "Name" : "ダイスタールーレット",
+        "Order" : 3,
+        "Prizes" : 
+        [
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 150000,
+                    "ThingQuantity" : 30,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017301,
+                "Slot" : 1
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 110002,
+                    "ThingQuantity" : 3,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017302,
+                "Slot" : 2
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 130071,
+                    "ThingQuantity" : 3,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017303,
+                "Slot" : 3
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 130012,
+                    "ThingQuantity" : 50,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017304,
+                "Slot" : 4
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 110003,
+                    "ThingQuantity" : 3,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017305,
+                "Slot" : 5
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 0,
+                    "ThingQuantity" : 500,
+                    "ThingType" : "Jewel"
+                },
+                "Id" : 2017306,
+                "Slot" : 6
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 140000,
+                    "ThingQuantity" : 200,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017307,
+                "Slot" : 7
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 130011,
+                    "ThingQuantity" : 500,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017308,
+                "Slot" : 8
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 130071,
+                    "ThingQuantity" : 3,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017309,
+                "Slot" : 9
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 0,
+                    "ThingQuantity" : 200,
+                    "ThingType" : "Jewel"
+                },
+                "Id" : 2017310,
+                "Slot" : 10
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 140000,
+                    "ThingQuantity" : 100,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017311,
+                "Slot" : 11
+            },
+            {
+                "AcquirePointQuantity" : null,
+                "AcquirePrizeThing" : 
+                {
+                    "ThingId" : 130064,
+                    "ThingQuantity" : 50,
+                    "ThingType" : "Item"
+                },
+                "Id" : 2017312,
+                "Slot" : 12
+            }
+        ],
+        "RequiredTicketQuantity" : 1,
+        "RollRewards" : 
+        [
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 1
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130013,
+                        "ThingQuantity" : 2,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 2
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "RollCount" : 5
+            },
+            {
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 150000,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "RollCount" : 10
+            }
+        ],
+        "RouletteEventMasterId" : 2017,
+        "RouletteImagePath" : "20014",
+        "RouletteTicketItemMasterId" : 132051,
+        "RouletteType" : "Item"
     }
 ]

@@ -22305,6 +22305,434 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "シリウスに所属するアクターのみが歌唱する楽曲を3回クリアしよう",
+        "EndDate" : "2026-02-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2026-02-09 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-09 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "稽古を1回行おう",
+        "EndDate" : "2026-02-12 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-02-11 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-11 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Decide」を1回クリアしよう",
+        "EndDate" : "2026-02-13 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55500,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55500,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-02-12 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-12 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを10回発動しよう",
+        "EndDate" : "2026-02-14 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55600,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55600,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-02-13 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-13 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「暁星アストレーション」を1回クリアしよう",
+        "EndDate" : "2026-02-15 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55700,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-02-14 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-14 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "スターアクトを10回発動しよう",
+        "EndDate" : "2026-02-16 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-02-15 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-15 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Astral×Relation」を1回クリアしよう",
+        "EndDate" : "2026-02-17 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 55900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 55900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-02-16 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-16 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "銀河座に所属するアクターのみが歌唱する楽曲を3回クリアしよう",
+        "EndDate" : "2026-02-17 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 56000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 56000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132050,
+                        "ThingQuantity" : 20,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2026-02-17 05:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-17 05:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "公演を[:param]回クリアしよう",
+        "EndDate" : "2026-02-17 22:00:00",
+        "EventMasterId" : null,
+        "Id" : 56100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 22,
+        "Stages" : 
+        [
+            {
+                "Id" : 56100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56101,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56102,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 30,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56103,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 40,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56104,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 50,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56105,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 60,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56106,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 80,
+                "StartDate" : "2026-02-09 17:00:00"
+            },
+            {
+                "Id" : 56107,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 132049,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 100,
+                "StartDate" : "2026-02-09 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-09 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Astral×Relation」を[:param]回クリアしよう",
+        "EndDate" : "2026-02-18 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 56200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 56200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-02-09 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-09 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Astral×Relation」を[:param]回クリアしよう",
+        "EndDate" : "2026-02-18 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 56300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 56300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-02-09 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-02-09 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -29964,7 +30392,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2026-01-18 05:00:00",
+        "EndDate" : "2026-02-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700007,
         "JumpTargetId" : null,
@@ -29988,13 +30416,13 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2026-01-17 05:00:00",
+        "StartDate" : "2026-02-17 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2026-01-18 05:00:00",
+        "EndDate" : "2026-02-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700008,
         "JumpTargetId" : null,
@@ -30009,7 +30437,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215013,
+                        "ThingId" : 215015,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -30018,13 +30446,13 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2026-01-17 05:00:00",
+        "StartDate" : "2026-02-17 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2026-01-18 05:00:00",
+        "EndDate" : "2026-02-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700009,
         "JumpTargetId" : null,
@@ -30039,7 +30467,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215014,
+                        "ThingId" : 215016,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -30048,7 +30476,7 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2026-01-17 05:00:00",
+        "StartDate" : "2026-02-17 05:00:00",
         "Title" : ""
     },
     {

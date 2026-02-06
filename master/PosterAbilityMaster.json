@@ -13330,6 +13330,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70053000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 33039001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 330390,
+        "Name" : "華々しく和やかな夜宴",
+        "PosterMasterId" : 330390,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70050000,
                         "Order" : 1
                     }
@@ -28955,6 +28987,166 @@
         "Name" : "P.ゲージ上限ブーストⅡ",
         "PosterMasterId" : 330380,
         "ReleaseLevelAt" : 10,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10031000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330390101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3303901,
+        "Name" : "演技力アップⅢ＋",
+        "PosterMasterId" : 330390,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 13120001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330390201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、P.ゲージの上限が[:param11]上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3303902,
+        "Name" : "P.ゲージ上限ブースト＋",
+        "PosterMasterId" : 330390,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11622001,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330390301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスによるP.ゲージの獲得量が[:param11]％UP　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3303903,
+        "Name" : "P.ゲージ獲得量アップⅡ＋",
+        "PosterMasterId" : 330390,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11820003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330390401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3303904,
+        "Name" : "「光」獲得数増加Ⅱ",
+        "PosterMasterId" : 330390,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10821003,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 330390501,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3303905,
+        "Name" : "スコアブーストⅡ＋",
+        "PosterMasterId" : 330390,
+        "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },
     {
