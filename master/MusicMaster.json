@@ -8674,7 +8674,7 @@
         "MusicTimeSecond" : 94,
         "MusicVideoType" : "None",
         "Name" : "Astral×Relation",
-        "PronounceName" : "あすとらるりれーしょん",
+        "PronounceName" : "astralrelation",
         "ReleasedAt" : "2026-02-09 17:00:00",
         "RewardRuleMasterId" : 1,
         "SampleEndSeconds" : 0.0,
@@ -8695,6 +8695,44 @@
                 "SampleEndSeconds" : 0.0,
                 "SampleStartSeconds" : 0.0,
                 "Singer" : "ラモーナ・ウォルフ",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "光増ハジメ（FirstCall）",
+        "Composer" : "光増ハジメ（FirstCall）",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
+        "Id" : 247,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 101,
+        "MusicVideoType" : "None",
+        "Name" : "空っぽのギフトボックス",
+        "PronounceName" : "からっぽのぎふとぼっくす",
+        "ReleasedAt" : "2026-02-18 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 26,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 401, 405 ],
+                "Id" : 24701,
+                "MusicMasterId" : 247,
+                "MusicTimeSecond" : 101,
+                "MusicVideoType" : "None",
+                "Name" : "空っぽのギフトボックス",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "千寿いろは、本巣叶羽",
                 "VocalVersion" : 1
             }
         ]

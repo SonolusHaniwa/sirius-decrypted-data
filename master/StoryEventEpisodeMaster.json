@@ -445,7 +445,7 @@
         "Id" : 1040402,
         "Order" : 2,
         "RequiredReadEpisodeMasterId" : 1040401,
-        "RequiredTotalAcquiredPoint" : 2000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "どうして電姫に？"
     },
@@ -454,7 +454,7 @@
         "Id" : 1040403,
         "Order" : 3,
         "RequiredReadEpisodeMasterId" : 1040402,
-        "RequiredTotalAcquiredPoint" : 4000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "電姫の新章に向けて"
     },
@@ -463,7 +463,7 @@
         "Id" : 1040404,
         "Order" : 4,
         "RequiredReadEpisodeMasterId" : 1040403,
-        "RequiredTotalAcquiredPoint" : 8000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "ダイスターになれたら"
     },
@@ -472,7 +472,7 @@
         "Id" : 1040405,
         "Order" : 5,
         "RequiredReadEpisodeMasterId" : 1040404,
-        "RequiredTotalAcquiredPoint" : 16000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "演じる役を選ぶということ"
     },
@@ -481,7 +481,7 @@
         "Id" : 1040406,
         "Order" : 6,
         "RequiredReadEpisodeMasterId" : 1040405,
-        "RequiredTotalAcquiredPoint" : 32000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "オーディションに向けて"
     },
@@ -490,7 +490,7 @@
         "Id" : 1040407,
         "Order" : 7,
         "RequiredReadEpisodeMasterId" : 1040406,
-        "RequiredTotalAcquiredPoint" : 64000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "星として輝くために"
     },
@@ -499,9 +499,81 @@
         "Id" : 1040408,
         "Order" : 8,
         "RequiredReadEpisodeMasterId" : 1040407,
-        "RequiredTotalAcquiredPoint" : 128000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "塔の予見"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040409,
+        "Id" : 1040409,
+        "Order" : 9,
+        "RequiredReadEpisodeMasterId" : 1040408,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 10404,
+        "Title" : "美兎の心情"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040410,
+        "Id" : 1040410,
+        "Order" : 10,
+        "RequiredReadEpisodeMasterId" : 1040409,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 10404,
+        "Title" : "異変"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040411,
+        "Id" : 1040411,
+        "Order" : 11,
+        "RequiredReadEpisodeMasterId" : 1040410,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 10404,
+        "Title" : "悪い予感"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040412,
+        "Id" : 1040412,
+        "Order" : 12,
+        "RequiredReadEpisodeMasterId" : 1040411,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 10404,
+        "Title" : "トラウマ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040413,
+        "Id" : 1040413,
+        "Order" : 13,
+        "RequiredReadEpisodeMasterId" : 1040412,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 10404,
+        "Title" : "動揺"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040414,
+        "Id" : 1040414,
+        "Order" : 14,
+        "RequiredReadEpisodeMasterId" : 1040413,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 10404,
+        "Title" : "すれ違うふたり"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040415,
+        "Id" : 1040415,
+        "Order" : 15,
+        "RequiredReadEpisodeMasterId" : 1040414,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 10404,
+        "Title" : "いろはの過去"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040416,
+        "Id" : 1040416,
+        "Order" : 16,
+        "RequiredReadEpisodeMasterId" : 1040415,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 10404,
+        "Title" : "決意"
     },
     {
         "EpisodeRewardPackageMasterId" : 2000101,
