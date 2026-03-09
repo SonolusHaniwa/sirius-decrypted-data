@@ -1543,6 +1543,76 @@
         "Details" : 
         [
             {
+                "Id" : 8101,
+                "LiveMasterId" : 20904,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8102,
+                "LiveMasterId" : 4804,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8103,
+                "LiveMasterId" : 23604,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : null,
+        "Id" : 81,
+        "InitialLife" : 500,
+        "MusicCourseType" : "Special",
+        "Name" : "カジュアル皆伝コース～2nd Season～【オモテ】",
+        "Order" : 21,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-03-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 8201,
+                "LiveMasterId" : 17905,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8202,
+                "LiveMasterId" : 20905,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8203,
+                "LiveMasterId" : 23605,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : null,
+        "Id" : 82,
+        "InitialLife" : 1000,
+        "MusicCourseType" : "Special",
+        "Name" : "カジュアル皆伝コース～2nd Season～【ウラ】",
+        "Order" : 22,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-03-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 20001,
                 "LiveMasterId" : 104,
                 "SetListNumber" : 1,
@@ -5183,6 +5253,76 @@
         "Details" : 
         [
             {
+                "Id" : 30401,
+                "LiveMasterId" : 2904,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 30402,
+                "LiveMasterId" : 1004,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 30403,
+                "LiveMasterId" : 15204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-03-23 00:00:00",
+        "Id" : 304,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第53回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-03-16 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 30501,
+                "LiveMasterId" : 1005,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 30502,
+                "LiveMasterId" : 16005,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 30503,
+                "LiveMasterId" : 8305,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-03-23 00:00:00",
+        "Id" : 305,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第53回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-03-16 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 50001,
                 "LiveMasterId" : 17904,
                 "SetListNumber" : 1,
@@ -6338,6 +6478,41 @@
         "Details" : 
         [
             {
+                "Id" : 201001,
+                "LiveMasterId" : 3904,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 201002,
+                "LiveMasterId" : 23904,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 201003,
+                "LiveMasterId" : 17904,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2010,
+        "InitialLife" : 30,
+        "MusicCourseType" : "DanClass",
+        "Name" : "【十段】段位認定2026 3rd Season",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-03-16 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 2009
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 250101,
                 "LiveMasterId" : 24405,
                 "SetListNumber" : 1,
@@ -6648,5 +6823,40 @@
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "ClearedMMusicCourseId",
         "UnlockConditionValue" : 2508
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 251001,
+                "LiveMasterId" : 5705,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 251002,
+                "LiveMasterId" : 23905,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 251003,
+                "LiveMasterId" : 705,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-08-01 05:00:00",
+        "Id" : 2510,
+        "InitialLife" : 65,
+        "MusicCourseType" : "AdvancedDanClass",
+        "Name" : "【十段】段位認定2026 3rd Seasonウラ",
+        "Order" : 10,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-03-16 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "ClearedMMusicCourseId",
+        "UnlockConditionValue" : 2509
     }
 ]

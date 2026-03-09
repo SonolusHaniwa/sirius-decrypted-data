@@ -10870,6 +10870,214 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 440,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20015,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 29111,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1422501,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20016,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 29112,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1422502,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20017,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 29113,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1422503,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20018,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1422504,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20019,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1422505,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 25,
+        "Description" : "<size=24%>[:score]倍のスコアを獲得／センス発動後、付与されているライフガード1回につきライフを120回復(最大600回復)／付与されているライフガード1回につきプリンシパルゲージの上限値が20上昇（最大+80）</size>",
+        "Id" : 142250,
+        "LightCount" : 2,
+        "Name" : "Flamante Bailaora！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 610,
+        "BranchCondition1" : "11",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20671,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1422601,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20672,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1422602,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20673,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1422603,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20674,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1422604,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20675,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1422605,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 300,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／センス発動時、編成されている銀河座アクターの演技力と演技力上限を、編成されている銀河座アクターの人数×2%上昇させる(この効果は重複する)</size>",
+        "Id" : 142260,
+        "LightCount" : 1,
+        "Name" : "Tropical Carnival！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",
