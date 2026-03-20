@@ -11078,6 +11078,63 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 510,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20095,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1422701,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 30,
+        "Description" : "[:score]倍のスコアを獲得／センス発動時に、追加で「特殊の光」を1個獲得する／センス発動後、プリンシパルゲージの上限値が[:param11]上昇",
+        "Id" : 142270,
+        "LightCount" : 1,
+        "Name" : "やっぱりおうちが一番！",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 130,
+        "AcquirableScorePercent" : 240,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 65,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／叶羽が隣に編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 142280,
+        "LightCount" : 1,
+        "Name" : "新たなる王、翠玉の戴冠",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28016,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",

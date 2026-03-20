@@ -517,7 +517,7 @@
         "Id" : 1040410,
         "Order" : 10,
         "RequiredReadEpisodeMasterId" : 1040409,
-        "RequiredTotalAcquiredPoint" : 2000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "異変"
     },
@@ -526,7 +526,7 @@
         "Id" : 1040411,
         "Order" : 11,
         "RequiredReadEpisodeMasterId" : 1040410,
-        "RequiredTotalAcquiredPoint" : 4000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "悪い予感"
     },
@@ -535,7 +535,7 @@
         "Id" : 1040412,
         "Order" : 12,
         "RequiredReadEpisodeMasterId" : 1040411,
-        "RequiredTotalAcquiredPoint" : 8000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "トラウマ"
     },
@@ -544,7 +544,7 @@
         "Id" : 1040413,
         "Order" : 13,
         "RequiredReadEpisodeMasterId" : 1040412,
-        "RequiredTotalAcquiredPoint" : 16000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "動揺"
     },
@@ -553,7 +553,7 @@
         "Id" : 1040414,
         "Order" : 14,
         "RequiredReadEpisodeMasterId" : 1040413,
-        "RequiredTotalAcquiredPoint" : 32000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "すれ違うふたり"
     },
@@ -562,7 +562,7 @@
         "Id" : 1040415,
         "Order" : 15,
         "RequiredReadEpisodeMasterId" : 1040414,
-        "RequiredTotalAcquiredPoint" : 64000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "いろはの過去"
     },
@@ -571,9 +571,81 @@
         "Id" : 1040416,
         "Order" : 16,
         "RequiredReadEpisodeMasterId" : 1040415,
-        "RequiredTotalAcquiredPoint" : 128000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10404,
         "Title" : "決意"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040417,
+        "Id" : 1040417,
+        "Order" : 17,
+        "RequiredReadEpisodeMasterId" : 1040416,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 10404,
+        "Title" : "美兎の想い"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040418,
+        "Id" : 1040418,
+        "Order" : 18,
+        "RequiredReadEpisodeMasterId" : 1040417,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 10404,
+        "Title" : "話す勇気"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040419,
+        "Id" : 1040419,
+        "Order" : 19,
+        "RequiredReadEpisodeMasterId" : 1040418,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 10404,
+        "Title" : "打ち明けた先に"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040420,
+        "Id" : 1040420,
+        "Order" : 20,
+        "RequiredReadEpisodeMasterId" : 1040419,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 10404,
+        "Title" : "どこまでも高く"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040421,
+        "Id" : 1040421,
+        "Order" : 21,
+        "RequiredReadEpisodeMasterId" : 1040420,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 10404,
+        "Title" : "センスは輝く"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040422,
+        "Id" : 1040422,
+        "Order" : 22,
+        "RequiredReadEpisodeMasterId" : 1040421,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 10404,
+        "Title" : "銀の靴の魔法で"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040423,
+        "Id" : 1040423,
+        "Order" : 23,
+        "RequiredReadEpisodeMasterId" : 1040422,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 10404,
+        "Title" : "初演を終えて"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1040424,
+        "Id" : 1040424,
+        "Order" : 24,
+        "RequiredReadEpisodeMasterId" : 1040423,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 10404,
+        "Title" : "黄色い道の先へ"
     },
     {
         "EpisodeRewardPackageMasterId" : 2000101,
@@ -5352,7 +5424,7 @@
         "RequiredReadEpisodeMasterId" : 2006702,
         "RequiredTotalAcquiredPoint" : 4000,
         "StoryMasterId" : 20067,
-        "Title" : "なんで今やるのか"
+        "Title" : "なぜ今やるのか"
     },
     {
         "EpisodeRewardPackageMasterId" : 2006704,
