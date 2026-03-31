@@ -5470,5 +5470,77 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 20067,
         "Title" : "アンタが居たから"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006801,
+        "Id" : 2006801,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 20068,
+        "Title" : "配信ネタ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006802,
+        "Id" : 2006802,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 2006801,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 20068,
+        "Title" : "イースター"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006803,
+        "Id" : 2006803,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 2006802,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 20068,
+        "Title" : "一緒に撮ろう！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006804,
+        "Id" : 2006804,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 2006803,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 20068,
+        "Title" : "いざ、テーマパークへ！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006805,
+        "Id" : 2006805,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 2006804,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 20068,
+        "Title" : "撮影開始！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006806,
+        "Id" : 2006806,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 2006805,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 20068,
+        "Title" : "エッグハント！"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006807,
+        "Id" : 2006807,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 2006806,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 20068,
+        "Title" : "相対する壁"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 2006808,
+        "Id" : 2006808,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 2006807,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 20068,
+        "Title" : "バズってる！？"
     }
 ]
