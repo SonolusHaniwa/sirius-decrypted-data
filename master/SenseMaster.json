@@ -11199,6 +11199,63 @@
         "Type" : "Support"
     },
     {
+        "AcquirableGauge" : 120,
+        "AcquirableScorePercent" : 190,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20096,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 60,
+        "Description" : "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、プリンシパルゲージの上限値が[:param11]上昇",
+        "Id" : 142310,
+        "LightCount" : 2,
+        "Name" : "暴かれた真の歌姫",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+        "Id" : 142320,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 20024,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "Alternative"
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
