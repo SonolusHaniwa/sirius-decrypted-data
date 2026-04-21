@@ -8970,6 +8970,44 @@
         "Composer" : "EFFY（FirstCall）",
         "DelaySeconds" : 0.0,
         "Description" : "",
+        "Id" : 255,
+        "Invisible" : false,
+        "IsLongVersion" : false,
+        "LyricWriter" : "松井洋平",
+        "MusicCoverType" : "Original",
+        "MusicTimeSecond" : 118,
+        "MusicVideoType" : "None",
+        "Name" : "私の愛は愛を殺す",
+        "PronounceName" : "わたしのあいはあいをころす",
+        "ReleasedAt" : "2026-04-20 17:00:00",
+        "RewardRuleMasterId" : 1,
+        "SampleEndSeconds" : 0.0,
+        "SampleStartSeconds" : 0.0,
+        "StaminaConsumption" : 29,
+        "UnlockConditionType" : "Default",
+        "UnlockConditionValue" : null,
+        "UnlockText" : null,
+        "VocalVersions" : 
+        [
+            {
+                "Characters" : [ 203 ],
+                "Id" : 25501,
+                "MusicMasterId" : 255,
+                "MusicTimeSecond" : 118,
+                "MusicVideoType" : "None",
+                "Name" : "私の愛は愛を殺す",
+                "SampleEndSeconds" : 0.0,
+                "SampleStartSeconds" : 0.0,
+                "Singer" : "舎人仁花子",
+                "VocalVersion" : 1
+            }
+        ]
+    },
+    {
+        "Arranger" : "EFFY（FirstCall）",
+        "Composer" : "EFFY（FirstCall）",
+        "DelaySeconds" : 0.0,
+        "Description" : "",
         "Id" : 262,
         "Invisible" : false,
         "IsLongVersion" : false,
@@ -10913,7 +10951,7 @@
         "VocalVersions" : 
         [
             {
-                "Characters" : [ 101, 102, 201, 401, 301 ],
+                "Characters" : [ 101, 102, 201, 301, 401 ],
                 "Id" : 1017201,
                 "MusicMasterId" : 10172,
                 "MusicTimeSecond" : 97,

@@ -216,6 +216,78 @@
         "Title" : "届かなかったけど"
     },
     {
+        "EpisodeRewardPackageMasterId" : 1020401,
+        "Id" : 1020401,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 10204,
+        "Title" : "初魅の決定"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020402,
+        "Id" : 1020402,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 1020401,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 10204,
+        "Title" : "Edenの夢"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020403,
+        "Id" : 1020403,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 1020402,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 10204,
+        "Title" : "違和感"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020404,
+        "Id" : 1020404,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 1020403,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 10204,
+        "Title" : "焦燥"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020405,
+        "Id" : 1020405,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 1020404,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 10204,
+        "Title" : "隠し事"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020406,
+        "Id" : 1020406,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 1020405,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 10204,
+        "Title" : "暗中模索"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020407,
+        "Id" : 1020407,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 1020406,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 10204,
+        "Title" : "ムードメーカー"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020408,
+        "Id" : 1020408,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 1020407,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 10204,
+        "Title" : "翳り"
+    },
+    {
         "EpisodeRewardPackageMasterId" : 1030401,
         "Id" : 1030401,
         "Order" : 1,

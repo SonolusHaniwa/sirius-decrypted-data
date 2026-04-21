@@ -11257,6 +11257,215 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 610,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 45,
+        "Description" : "<size=24%>[:score]倍のスコアを獲得／センス発動時にライフガードを[:param11]個獲得／初魅が2つ隣までに編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 142330,
+        "LightCount" : 1,
+        "Name" : "伯爵はエンゲージリングに嗤う",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28017,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 60,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 840,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29111,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423401,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29112,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423402,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29113,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423403,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423404,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29115,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423405,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29121,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423406,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 6,
+                "Parameter1" : 6,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29122,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423407,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 7,
+                "Parameter1" : 7,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29123,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423408,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 8,
+                "Parameter1" : 8,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29124,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423409,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 9,
+                "Parameter1" : 9,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29125,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423410,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 10,
+                "Parameter1" : 10,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 65,
+        "Description" : "<size=26%>[:score]倍のスコアを獲得／センス発動時、追加で「SP光」を1個獲得する／センス発動時、付与されているライフガード1回につきプリンシパルゲージの上限値が20上昇（最大+200）</size>",
+        "Id" : 142340,
+        "LightCount" : 1,
+        "Name" : "歪んだ愛の成れの果て",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 70,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",
@@ -11839,5 +12048,70 @@
         "PreEffects" : [],
         "ScoreUpPerLevel" : 40,
         "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 1030,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29126,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20083,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1500401,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 75,
+        "Description" : "<size=22%>[:score]倍のスコアを獲得／センス発動時、プリンシパルゲージの上限値が[:param11]上昇／センス発動後、追加で[:param12]のプリンシパルゲージを獲得／ラモーナ・叶羽が隣に編成された状態でセンスを発動したとき、自身もセンスを発動する(センスの光は獲得出来ない)</size>",
+        "Id" : 150040,
+        "LightCount" : 1,
+        "Name" : "姉妹は手を取り合って",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 28012,
+                "Order" : 1
+            },
+            {
+                "EffectMasterId" : 28016,
+                "Order" : 2
+            }
+        ],
+        "ScoreUpPerLevel" : 90,
+        "Type" : "Special"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 0,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 0,
+        "Description" : "効果無し（所持している「光」は維持される）",
+        "Id" : 150043,
+        "LightCount" : 0,
+        "Name" : "なし",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 0,
+        "Type" : "None"
     }
 ]

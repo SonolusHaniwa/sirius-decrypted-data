@@ -4788,6 +4788,20 @@
                 ],
                 "StageGoalValue" : 1000,
                 "StartDate" : "2023-01-01 00:00:00"
+            },
+            {
+                "Id" : 1920,
+                "MissionStageOrder" : 11,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 200511,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 1100,
+                "StartDate" : "2023-01-01 00:00:00"
             }
         ],
         "StartDate" : "2023-01-01 00:00:00",
@@ -23521,6 +23535,448 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "メインストーリー Eden第4章を[:param]話読もう",
+        "EndDate" : "2026-06-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 58700,
+        "JumpTargetId" : null,
+        "JumpType" : "Story",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 20,
+        "Stages" : 
+        [
+            {
+                "Id" : 58700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130041,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58701,
+                "MissionStageOrder" : 2,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130061,
+                        "ThingQuantity" : 300,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 2,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58702,
+                "MissionStageOrder" : 3,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510001,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 3,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58703,
+                "MissionStageOrder" : 4,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 4,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58704,
+                "MissionStageOrder" : 5,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211001,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58705,
+                "MissionStageOrder" : 6,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130042,
+                        "ThingQuantity" : 150,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 6,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58706,
+                "MissionStageOrder" : 7,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130062,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 7,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58707,
+                "MissionStageOrder" : 8,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58708,
+                "MissionStageOrder" : 9,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510002,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 9,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58709,
+                "MissionStageOrder" : 10,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58710,
+                "MissionStageOrder" : 11,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130041,
+                        "ThingQuantity" : 500,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 11,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58711,
+                "MissionStageOrder" : 12,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 12,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58712,
+                "MissionStageOrder" : 13,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130042,
+                        "ThingQuantity" : 150,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 13,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58713,
+                "MissionStageOrder" : 14,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130063,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 14,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58714,
+                "MissionStageOrder" : 15,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510003,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 15,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58715,
+                "MissionStageOrder" : 16,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 16,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58716,
+                "MissionStageOrder" : 17,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 17,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58717,
+                "MissionStageOrder" : 18,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130064,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 18,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58718,
+                "MissionStageOrder" : 19,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 211001,
+                        "ThingQuantity" : 5,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 19,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58719,
+                "MissionStageOrder" : 20,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130043,
+                        "ThingQuantity" : 150,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 20,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58720,
+                "MissionStageOrder" : 21,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 140000,
+                        "ThingQuantity" : 200,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 21,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58721,
+                "MissionStageOrder" : 22,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510004,
+                        "ThingQuantity" : 3,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 22,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58722,
+                "MissionStageOrder" : 23,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 15,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 23,
+                "StartDate" : "2026-04-20 17:00:00"
+            },
+            {
+                "Id" : 58723,
+                "MissionStageOrder" : 24,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 24,
+                "StartDate" : "2026-04-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "メインストーリー Eden第4章を8話まで読もう",
+        "EndDate" : "2026-04-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 58800,
+        "JumpTargetId" : null,
+        "JumpType" : "Story",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 21,
+        "Stages" : 
+        [
+            {
+                "Id" : 58800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 8,
+                "StartDate" : "2026-04-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「私の愛は愛を殺す」を[:param]回クリアしよう",
+        "EndDate" : "2026-04-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 58900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 58900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-04-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「私の愛は愛を殺す」を[:param]回クリアしよう",
+        "EndDate" : "2026-04-30 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59000,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 59000,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-04-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -31389,6 +31845,426 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "【1000日記念】公演を10回クリアしよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401730,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 13,
+        "Stages" : 
+        [
+            {
+                "Id" : 401730,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110001,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-04-20 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【1000日記念】スタミナを1000消費しよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401740,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 14,
+        "Stages" : 
+        [
+            {
+                "Id" : 401740,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 120001,
+                        "ThingQuantity" : 1000,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2026-04-20 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【1000日記念】ノーツを累計1000回タップしよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401750,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 15,
+        "Stages" : 
+        [
+            {
+                "Id" : 401750,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510003,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2026-04-20 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【1000日記念】スコアを合計で10,000,000獲得しよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401760,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 16,
+        "Stages" : 
+        [
+            {
+                "Id" : 401760,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130001,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 10000000,
+                "StartDate" : "2026-04-20 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【1000日記念】「スターバッジ【1000日記念】」を1000個集めよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401770,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 17,
+        "Stages" : 
+        [
+            {
+                "Id" : 401770,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 130091,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1000,
+                "StartDate" : "2026-04-20 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "1000日記念限定ミッションを全てクリアしよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 401780,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 18,
+        "Stages" : 
+        [
+            {
+                "Id" : 401780,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 400020,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-04-20 00:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-20 00:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】ノーツ1010回タップしよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401790,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 5,
+        "Stages" : 
+        [
+            {
+                "Id" : 401790,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 210002,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1010,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】スタミナ168消費しよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 6,
+        "Stages" : 
+        [
+            {
+                "Id" : 401800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 110001,
+                        "ThingQuantity" : 10,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 168,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】いろはうたBLOOMINGを1回クリアしよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401810,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 7,
+        "Stages" : 
+        [
+            {
+                "Id" : 401810,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 510005,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Item"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】Like Blooming Flowersを1回クリアしよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401820,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 8,
+        "Stages" : 
+        [
+            {
+                "Id" : 401820,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 33,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "AlbumTheme"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】巡る暦の花のようにを1回クリアしよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401830,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 9,
+        "Stages" : 
+        [
+            {
+                "Id" : 401830,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 391540,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】スタミナ543消費しよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401840,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 10,
+        "Stages" : 
+        [
+            {
+                "Id" : 401840,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 391550,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Decoration"
+                    }
+                ],
+                "StageGoalValue" : 543,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "【千寿にセンキュー！】合計101,021,009スコア獲得しよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401850,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 11,
+        "Stages" : 
+        [
+            {
+                "Id" : 401850,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 400019,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Trophy"
+                    }
+                ],
+                "StageGoalValue" : 101021009,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "千寿にセンキュー！ミッションを全てクリアしよう",
+        "EndDate" : "2026-05-11 05:00:00",
+        "EventMasterId" : null,
+        "Id" : 401860,
+        "JumpTargetId" : null,
+        "JumpType" : "None",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 12,
+        "Stages" : 
+        [
+            {
+                "Id" : 401860,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 108,
+                        "ThingQuantity" : 1,
+                        "ThingType" : "Nameplate"
+                    }
+                ],
+                "StageGoalValue" : 7,
+                "StartDate" : "2026-04-29 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-29 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
         "EndDate" : "2026-04-08 05:00:00",
         "EventMasterId" : null,
@@ -31570,7 +32446,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2026-03-28 05:00:00",
+        "EndDate" : "2026-04-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700010,
         "JumpTargetId" : null,
@@ -31594,13 +32470,13 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2026-03-27 05:00:00",
+        "StartDate" : "2026-04-27 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2026-03-28 05:00:00",
+        "EndDate" : "2026-04-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700011,
         "JumpTargetId" : null,
@@ -31615,7 +32491,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215017,
+                        "ThingId" : 215019,
                         "ThingQuantity" : 4,
                         "ThingType" : "Item"
                     }
@@ -31624,13 +32500,13 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2026-03-27 05:00:00",
+        "StartDate" : "2026-04-27 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2026-03-28 05:00:00",
+        "EndDate" : "2026-04-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700012,
         "JumpTargetId" : null,
@@ -31645,7 +32521,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215018,
+                        "ThingId" : 215020,
                         "ThingQuantity" : 4,
                         "ThingType" : "Item"
                     }
@@ -31654,7 +32530,7 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2026-03-27 05:00:00",
+        "StartDate" : "2026-04-27 05:00:00",
         "Title" : ""
     }
 ]
