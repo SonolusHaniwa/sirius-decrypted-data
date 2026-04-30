@@ -23977,6 +23977,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「Besties' Place!」を[:param]回クリアしよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59100,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 59100,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-04-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Besties' Place!」を[:param]回クリアしよう",
+        "EndDate" : "2026-05-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59200,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 59200,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-04-30 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-04-30 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,

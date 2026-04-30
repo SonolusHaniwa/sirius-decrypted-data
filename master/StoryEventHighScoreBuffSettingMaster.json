@@ -3582,5 +3582,117 @@
         },
         "StoryEventHighScoreBuffMasterId" : 228,
         "StoryEventHighScoreMasterId" : 20068
+    },
+    {
+        "Id" : 2006901,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの集中力が[:param1]上昇する",
+            "EffectMasterId" : 80003,
+            "EffectName" : "舞台照明",
+            "IconImagePath" : "11",
+            "Id" : 11,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 11,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006902,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの表現力が[:param1]上昇する",
+            "EffectMasterId" : 80002,
+            "EffectName" : "舞台スピーカー",
+            "IconImagePath" : "12",
+            "Id" : 12,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 12,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006903,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの歌唱力が[:param1]上昇する",
+            "EffectMasterId" : 80001,
+            "EffectName" : "舞台マイク",
+            "IconImagePath" : "13",
+            "Id" : 13,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 13,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006904,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの演技力が[:param1]％上昇する",
+            "EffectMasterId" : 80004,
+            "EffectName" : "舞台カーテン",
+            "IconImagePath" : "14",
+            "Id" : 14,
+            "StoryEventHighScoreBuffPatternGroupId" : 1
+        },
+        "StoryEventHighScoreBuffMasterId" : 14,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006905,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "アクターの演技力上限が[:param1]％上昇する　※<color=#FF9314>陽属性</color>のアクターのみ対象",
+            "EffectMasterId" : 80133,
+            "EffectName" : "劇団電姫のロゴ",
+            "IconImagePath" : "181",
+            "Id" : 229,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 229,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006906,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "<color=#FF9314>陽属性</color>のアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
+            "EffectMasterId" : 80134,
+            "EffectName" : "蝶のブローチ【陽】",
+            "IconImagePath" : "228",
+            "Id" : 230,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 230,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006907,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "公演開始時にプリンシパルゲージが[:param1]上昇する　※<color=#FF9314>陽属性</color>の本巣 叶羽のみ対象",
+            "EffectMasterId" : 80135,
+            "EffectName" : "天使のオーブ【陽】",
+            "IconImagePath" : "226",
+            "Id" : 231,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 231,
+        "StoryEventHighScoreMasterId" : 20069
+    },
+    {
+        "Id" : 2006908,
+        "StoryEventHighScoreBuffMaster" : 
+        {
+            "EffectDescription" : "スターアクト発動に必要な増幅の光が[:param1]個減少する（必要な光の数は1個未満にならない）　※<color=#FF9314>陽属性</color>の陽属性のいろはのみ対象        ",
+            "EffectMasterId" : 80136,
+            "EffectName" : "猫耳ヘッドフォン【陽】",
+            "IconImagePath" : "225",
+            "Id" : 232,
+            "StoryEventHighScoreBuffPatternGroupId" : 2
+        },
+        "StoryEventHighScoreBuffMasterId" : 232,
+        "StoryEventHighScoreMasterId" : 20069
     }
 ]
