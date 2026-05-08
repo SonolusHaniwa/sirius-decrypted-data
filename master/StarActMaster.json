@@ -8425,6 +8425,111 @@
         "StarActConditionMasterId" : 101411
     },
     {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 142371,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101114
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "11",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19111,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14238101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19112,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14238102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19113,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14238103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19114,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14238104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19115,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14238105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 400,
+        "ConditionValue2" : null,
+        "Description" : "<size=26%>総演技力の[:score]倍のスコアを獲得／編成されている劇団電姫アクターの演技力と演技力上限を、編成されている劇団電姫アクターの人数×10%上昇させる(この効果は重複する)</size>",
+        "Id" : 142381,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 101114
+    },
+    {
         "AcquirableScorePercent" : 1310,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",

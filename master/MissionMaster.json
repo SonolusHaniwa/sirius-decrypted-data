@@ -24037,6 +24037,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「ふろうてぃんぐ・ていすてぃ」を[:param]回クリアしよう",
+        "EndDate" : "2026-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59300,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 59300,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「ふろうてぃんぐ・ていすてぃ」を[:param]回クリアしよう",
+        "EndDate" : "2026-05-20 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59400,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 59400,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-05-10 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-05-10 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -32416,7 +32476,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2026-04-18 05:00:00",
+        "EndDate" : "2026-05-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700007,
         "JumpTargetId" : null,
@@ -32440,13 +32500,13 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2026-04-17 05:00:00",
+        "StartDate" : "2026-05-17 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2026-04-18 05:00:00",
+        "EndDate" : "2026-05-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700008,
         "JumpTargetId" : null,
@@ -32461,7 +32521,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215019,
+                        "ThingId" : 215021,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -32470,13 +32530,13 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2026-04-17 05:00:00",
+        "StartDate" : "2026-05-17 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2026-04-18 05:00:00",
+        "EndDate" : "2026-05-18 05:00:00",
         "EventMasterId" : null,
         "Id" : 700009,
         "JumpTargetId" : null,
@@ -32491,7 +32551,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215020,
+                        "ThingId" : 215022,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -32500,7 +32560,7 @@
                 "StartDate" : "2025-07-17 05:00:00"
             }
         ],
-        "StartDate" : "2026-04-17 05:00:00",
+        "StartDate" : "2026-05-17 05:00:00",
         "Title" : ""
     },
     {

@@ -1683,6 +1683,41 @@
         "Details" : 
         [
             {
+                "Id" : 8501,
+                "LiveMasterId" : null,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8502,
+                "LiveMasterId" : null,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8503,
+                "LiveMasterId" : null,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : null,
+        "Id" : 85,
+        "InitialLife" : 1000,
+        "MusicCourseType" : "Special",
+        "Name" : "ヤネウラ狂奏曲",
+        "Order" : 25,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-05-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 20001,
                 "LiveMasterId" : 104,
                 "SetListNumber" : 1,
@@ -5875,6 +5910,146 @@
         "RequiredAmount" : 1,
         "RequiredItemMasterId" : 130201,
         "StartDate" : "2026-05-04 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 32001,
+                "LiveMasterId" : 21104,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32002,
+                "LiveMasterId" : 25704,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32003,
+                "LiveMasterId" : 9504,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-05-18 00:00:00",
+        "Id" : 320,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第61回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-05-11 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 32101,
+                "LiveMasterId" : 25705,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32102,
+                "LiveMasterId" : 21705,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32103,
+                "LiveMasterId" : 23905,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-05-18 00:00:00",
+        "Id" : 321,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第61回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-05-11 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 32201,
+                "LiveMasterId" : 17804,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32202,
+                "LiveMasterId" : 13704,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32203,
+                "LiveMasterId" : 4204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-05-25 00:00:00",
+        "Id" : 322,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第62回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-05-18 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 32301,
+                "LiveMasterId" : 14705,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32302,
+                "LiveMasterId" : 13705,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 32303,
+                "LiveMasterId" : 22905,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-05-25 00:00:00",
+        "Id" : 323,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第62回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-05-18 17:00:00",
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null

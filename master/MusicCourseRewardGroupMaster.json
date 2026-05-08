@@ -1462,6 +1462,42 @@
         ]
     },
     {
+        "Id" : 852,
+        "MusicCourseMasterId" : 85,
+        "RequiredCertificationGrade" : "NormalGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130051,
+                "ThingQuantity" : 5,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130201,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ]
+    },
+    {
+        "Id" : 853,
+        "MusicCourseMasterId" : 85,
+        "RequiredCertificationGrade" : "HotGaugeCertificate",
+        "Rewards" : 
+        [
+            {
+                "ThingId" : 130051,
+                "ThingQuantity" : 10,
+                "ThingType" : "Item"
+            },
+            {
+                "ThingId" : 130201,
+                "ThingQuantity" : 1,
+                "ThingType" : "Item"
+            }
+        ]
+    },
+    {
         "Id" : 10012,
         "MusicCourseMasterId" : 1001,
         "RequiredCertificationGrade" : "NormalGaugeCertificate",
