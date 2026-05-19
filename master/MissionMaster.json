@@ -24097,6 +24097,36 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "メインストーリーEden第4章第16話を読もう",
+        "EndDate" : "2026-05-31 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59700,
+        "JumpTargetId" : null,
+        "JumpType" : "Story",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 12,
+        "Stages" : 
+        [
+            {
+                "Id" : 59700,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 100,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 1,
+                "StartDate" : "2026-05-20 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-05-20 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -32566,7 +32596,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2026-04-28 05:00:00",
+        "EndDate" : "2026-05-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700010,
         "JumpTargetId" : null,
@@ -32590,13 +32620,13 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2026-04-27 05:00:00",
+        "StartDate" : "2026-05-27 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2026-04-28 05:00:00",
+        "EndDate" : "2026-05-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700011,
         "JumpTargetId" : null,
@@ -32611,7 +32641,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215019,
+                        "ThingId" : 215021,
                         "ThingQuantity" : 4,
                         "ThingType" : "Item"
                     }
@@ -32620,13 +32650,13 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2026-04-27 05:00:00",
+        "StartDate" : "2026-05-27 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2026-04-28 05:00:00",
+        "EndDate" : "2026-05-28 05:00:00",
         "EventMasterId" : null,
         "Id" : 700012,
         "JumpTargetId" : null,
@@ -32641,7 +32671,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215020,
+                        "ThingId" : 215022,
                         "ThingQuantity" : 4,
                         "ThingType" : "Item"
                     }
@@ -32650,7 +32680,7 @@
                 "StartDate" : "2025-07-27 05:00:00"
             }
         ],
-        "StartDate" : "2026-04-27 05:00:00",
+        "StartDate" : "2026-05-27 05:00:00",
         "Title" : ""
     }
 ]

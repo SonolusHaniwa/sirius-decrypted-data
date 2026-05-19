@@ -11754,6 +11754,38 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 70052200,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 23100001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "Edenに所属するアクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 231000,
+        "Name" : "楽園は、理想へと進み続ける",
+        "PosterMasterId" : 231000,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 70022004,
                         "Order" : 1
                     }
@@ -14486,6 +14518,38 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 34028001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340280,
+        "Name" : "楽園の主は微睡んで",
+        "PosterMasterId" : 340280,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 34029001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -14598,6 +14662,38 @@
         "Id" : 340330,
         "Name" : "今宵こそは眠り安らいで――",
         "PosterMasterId" : 340330,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 34034001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340340,
+        "Name" : "星を束ねる光は夢の中で",
+        "PosterMasterId" : 340340,
         "ReleaseLevelAt" : 0,
         "Type" : "Leader"
     },
@@ -25478,6 +25574,102 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10231000,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 231000101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の表現力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 2310001,
+        "Name" : "表現力アップⅢ＋",
+        "PosterMasterId" : 231000,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11221200,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 231000201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、ライフを[:param11]回復　◆発動条件：Edenに所属するアクターが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 2310002,
+        "Name" : "ライフブーストⅡ＋",
+        "PosterMasterId" : 231000,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11031200,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 231000301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：Edenに所属するアクターが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 2310003,
+        "Name" : "スコアブースト・表現力Ⅲ＋",
+        "PosterMasterId" : 231000,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 11311004,
                         "Order" : 1
                     }
@@ -33126,6 +33318,102 @@
                 "BranchEffects" : 
                 [
                     {
+                        "EffectMasterId" : 10040201,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340280101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：初魅が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3402801,
+        "Name" : "演技力アップⅣ",
+        "PosterMasterId" : 340280,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810201,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340280201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：初魅が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3402802,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 340280,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12430201,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340280301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTを[:param11]秒短縮　◆発動条件：初魅が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3402803,
+        "Name" : "CTダウンⅣ",
+        "PosterMasterId" : 340280,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
                         "EffectMasterId" : 10040202,
                         "Order" : 1
                     }
@@ -33498,6 +33786,102 @@
         "Id" : 3403303,
         "Name" : "CTダウンⅣ",
         "PosterMasterId" : 340330,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10040302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340340101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：ラモーナが装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3403401,
+        "Name" : "演技力アップⅣ",
+        "PosterMasterId" : 340340,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340340201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：ラモーナが装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3403402,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 340340,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12430302,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340340301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTを[:param11]秒短縮　◆発動条件：ラモーナが装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3403403,
+        "Name" : "CTダウンⅣ",
+        "PosterMasterId" : 340340,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },

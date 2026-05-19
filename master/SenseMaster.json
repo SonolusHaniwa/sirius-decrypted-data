@@ -11573,6 +11573,194 @@
         "Type" : "Special"
     },
     {
+        "AcquirableGauge" : 70,
+        "AcquirableScorePercent" : 120,
+        "BranchCondition1" : "LifeGuardCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29111,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423901,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29112,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423902,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29113,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423903,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29114,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423904,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 29115,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1423905,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 25,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／付与されているライフガード1回につきプリンシパルゲージの上限値が20上昇（最大+100）</size>",
+        "Id" : 142390,
+        "LightCount" : 1,
+        "Name" : "竜騎兵は妹の為、立ち上がり",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Support"
+    },
+    {
+        "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 900,
+        "BranchCondition1" : "11",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20676,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1424001,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20677,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1424002,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20678,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1424003,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20679,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1424004,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20680,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1424005,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 200,
+        "ConditionValue2" : null,
+        "CoolTime" : 70,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／センス発動時、編成されているEdenアクターの演技力と演技力上限を、編成されているEdenアクターの人数×[:param11]上昇させる(この効果は重複する)</size>",
+        "Id" : 142400,
+        "LightCount" : 2,
+        "Name" : "花嫁は愛に溺れ、還らず",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 80,
+        "Type" : "Special"
+    },
+    {
         "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
