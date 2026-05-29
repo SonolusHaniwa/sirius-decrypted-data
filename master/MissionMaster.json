@@ -24187,6 +24187,66 @@
     },
     {
         "ComebackCampaignMasterId" : null,
+        "Description" : "「Fly to the WORLD」を[:param]回クリアしよう",
+        "EndDate" : "2026-06-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59800,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 23,
+        "Stages" : 
+        [
+            {
+                "Id" : 59800,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 5,
+                "StartDate" : "2026-05-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-05-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
+        "Description" : "「Fly to the WORLD」を[:param]回クリアしよう",
+        "EndDate" : "2026-06-10 17:00:00",
+        "EventMasterId" : null,
+        "Id" : 59900,
+        "JumpTargetId" : null,
+        "JumpType" : "Live",
+        "MissionCategory" : "Limit",
+        "MissionViewOrder" : 24,
+        "Stages" : 
+        [
+            {
+                "Id" : 59900,
+                "MissionStageOrder" : 1,
+                "Rewards" : 
+                [
+                    {
+                        "ThingId" : 0,
+                        "ThingQuantity" : 50,
+                        "ThingType" : "Jewel"
+                    }
+                ],
+                "StageGoalValue" : 10,
+                "StartDate" : "2026-05-31 17:00:00"
+            }
+        ],
+        "StartDate" : "2026-05-31 17:00:00",
+        "Title" : ""
+    },
+    {
+        "ComebackCampaignMasterId" : null,
         "Description" : "スタミナを[:param]消費しよう",
         "EndDate" : "2099-12-31 05:00:00",
         "EventMasterId" : null,
@@ -32476,7 +32536,7 @@
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】ログインしよう",
-        "EndDate" : "2026-05-08 05:00:00",
+        "EndDate" : "2026-06-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700001,
         "JumpTargetId" : null,
@@ -32500,13 +32560,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2026-05-07 05:00:00",
+        "StartDate" : "2026-06-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】稽古を[:param]回プレイしよう",
-        "EndDate" : "2026-05-08 05:00:00",
+        "EndDate" : "2026-06-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700002,
         "JumpTargetId" : null,
@@ -32521,7 +32581,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215021,
+                        "ThingId" : 215023,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -32530,13 +32590,13 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2026-05-07 05:00:00",
+        "StartDate" : "2026-06-07 05:00:00",
         "Title" : ""
     },
     {
         "ComebackCampaignMasterId" : null,
         "Description" : "【ユメステデー】公演を[:param]回クリアしよう",
-        "EndDate" : "2026-05-08 05:00:00",
+        "EndDate" : "2026-06-08 05:00:00",
         "EventMasterId" : null,
         "Id" : 700003,
         "JumpTargetId" : null,
@@ -32551,7 +32611,7 @@
                 "Rewards" : 
                 [
                     {
-                        "ThingId" : 215022,
+                        "ThingId" : 215024,
                         "ThingQuantity" : 3,
                         "ThingType" : "Item"
                     }
@@ -32560,7 +32620,7 @@
                 "StartDate" : "2025-07-07 05:00:00"
             }
         ],
-        "StartDate" : "2026-05-07 05:00:00",
+        "StartDate" : "2026-06-07 05:00:00",
         "Title" : ""
     },
     {

@@ -11762,6 +11762,78 @@
     },
     {
         "AcquirableGauge" : 0,
+        "AcquirableScorePercent" : 600,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20097,
+                        "Order" : 1
+                    },
+                    {
+                        "EffectMasterId" : 20544,
+                        "Order" : 2
+                    }
+                ],
+                "Id" : 1424101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 40,
+        "Description" : "<size=26%>[:score]倍のスコアを獲得／センス発動時、追加で「特殊の光」を1個獲得する／センス発動後、プリンシパルゲージの上限値が[:param11]上昇／センス発動直後、その時のスコアの[:param12]％のスコアを獲得</size>",
+        "Id" : 142410,
+        "LightCount" : 1,
+        "Name" : "揺蕩歌姫、透き通る",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 50,
+        "Type" : "Control"
+    },
+    {
+        "AcquirableGauge" : 70,
+        "AcquirableScorePercent" : 120,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 20601,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 1424201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "CoolTime" : 25,
+        "Description" : "<size=28%>[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得／センス発動後、現在のプリンシパルゲージ[:param11]%分のプリンシパルゲージを追加で獲得する</size>",
+        "Id" : 142420,
+        "LightCount" : 2,
+        "Name" : "乙姫リラクゼーション",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 40,
+        "Type" : "Amplification"
+    },
+    {
+        "AcquirableGauge" : 0,
         "AcquirableScorePercent" : 1170,
         "BranchCondition1" : "11",
         "BranchCondition2" : "None",
