@@ -1008,6 +1008,30 @@
         "Title" : "アクセサリーのドロップ率 100%UP"
     },
     {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 1,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/10 17:00 ～ 6/21 5:00/n対象：稽古",
+        "EndDate" : "2026-06-21 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 86,
+        "Order" : 86,
+        "StartDate" : "2026-06-10 17:00:00",
+        "Title" : "稽古の回数 +1回"
+    },
+    {
+        "CampaignEffectType" : "StarPoint",
+        "CampaignEffectValue" : 75,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：6/13 5:00～6/15 5:00/n対象：稽古",
+        "EndDate" : "2026-06-15 05:00:00",
+        "IconImagePath" : "3",
+        "Id" : 87,
+        "Order" : 87,
+        "StartDate" : "2026-06-13 05:00:00",
+        "Title" : "稽古の獲得SP 75％UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
@@ -1131,24 +1155,24 @@
         "CampaignEffectType" : "LessonCount",
         "CampaignEffectValue" : 2,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：5/17 5:00 ～ 5/18 5:00/n対象：稽古",
-        "EndDate" : "2026-05-18 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：6/17 5:00 ～ 6/18 5:00/n対象：稽古",
+        "EndDate" : "2026-06-18 05:00:00",
         "IconImagePath" : "1001",
         "Id" : 2003,
         "Order" : 2003,
-        "StartDate" : "2026-05-17 05:00:00",
+        "StartDate" : "2026-06-17 05:00:00",
         "Title" : "稽古の回数 +2回"
     },
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：5/17 5:00 ～ 5/18 5:00/n対象：公演、協力公演",
-        "EndDate" : "2026-05-18 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：6/17 5:00 ～ 6/18 5:00/n対象：公演、協力公演",
+        "EndDate" : "2026-06-18 05:00:00",
         "IconImagePath" : "4",
         "Id" : 2004,
         "Order" : 2004,
-        "StartDate" : "2026-05-17 05:00:00",
+        "StartDate" : "2026-06-17 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     },
     {

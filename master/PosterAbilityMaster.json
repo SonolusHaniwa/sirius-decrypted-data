@@ -14806,6 +14806,38 @@
                         "Order" : 1
                     }
                 ],
+                "Id" : 34035001,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "全アクターの演技力が[:param11]％上昇",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 340350,
+        "Name" : "たまにはのんびり夢心地",
+        "PosterMasterId" : 340350,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Leader"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 70050000,
+                        "Order" : 1
+                    }
+                ],
                 "Id" : 34036001,
                 "JudgeType1" : null,
                 "JudgeType2" : null,
@@ -34330,6 +34362,102 @@
         "Id" : 3403403,
         "Name" : "CTダウンⅣ",
         "PosterMasterId" : 340340,
+        "ReleaseLevelAt" : 8,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 10040303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340350101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身の演技力が[:param11]%上昇　◆発動条件：雪が装備",
+        "FrameNumber" : 1,
+        "Hidden" : false,
+        "Id" : 3403501,
+        "Name" : "演技力アップⅣ",
+        "PosterMasterId" : 340350,
+        "ReleaseLevelAt" : 0,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 11810303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340350201,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：雪が装備",
+        "FrameNumber" : 2,
+        "Hidden" : false,
+        "Id" : 3403502,
+        "Name" : "「光」獲得数増加",
+        "PosterMasterId" : 340350,
+        "ReleaseLevelAt" : 5,
+        "Type" : "Normal"
+    },
+    {
+        "BranchConditionType1" : "None",
+        "BranchConditionType2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 12430303,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 340350301,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "自身のセンスのCTを[:param11]秒短縮　◆発動条件：雪が装備",
+        "FrameNumber" : 3,
+        "Hidden" : false,
+        "Id" : 3403503,
+        "Name" : "CTダウンⅣ",
+        "PosterMasterId" : 340350,
         "ReleaseLevelAt" : 8,
         "Type" : "Normal"
     },
