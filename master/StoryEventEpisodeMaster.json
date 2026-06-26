@@ -301,7 +301,7 @@
         "Id" : 1020410,
         "Order" : 10,
         "RequiredReadEpisodeMasterId" : 1020409,
-        "RequiredTotalAcquiredPoint" : 2000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "氷解"
     },
@@ -310,7 +310,7 @@
         "Id" : 1020411,
         "Order" : 11,
         "RequiredReadEpisodeMasterId" : 1020410,
-        "RequiredTotalAcquiredPoint" : 4000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "前へ進むために"
     },
@@ -319,7 +319,7 @@
         "Id" : 1020412,
         "Order" : 12,
         "RequiredReadEpisodeMasterId" : 1020411,
-        "RequiredTotalAcquiredPoint" : 8000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "それぞれの想い"
     },
@@ -328,7 +328,7 @@
         "Id" : 1020413,
         "Order" : 13,
         "RequiredReadEpisodeMasterId" : 1020412,
-        "RequiredTotalAcquiredPoint" : 16000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "しぐれの告白"
     },
@@ -337,7 +337,7 @@
         "Id" : 1020414,
         "Order" : 14,
         "RequiredReadEpisodeMasterId" : 1020413,
-        "RequiredTotalAcquiredPoint" : 32000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "新たな道"
     },
@@ -346,7 +346,7 @@
         "Id" : 1020415,
         "Order" : 15,
         "RequiredReadEpisodeMasterId" : 1020414,
-        "RequiredTotalAcquiredPoint" : 64000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "プロメテウス賞"
     },
@@ -355,9 +355,81 @@
         "Id" : 1020416,
         "Order" : 16,
         "RequiredReadEpisodeMasterId" : 1020415,
-        "RequiredTotalAcquiredPoint" : 128000,
+        "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10204,
         "Title" : "青髪公、始動"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020417,
+        "Id" : 1020417,
+        "Order" : 17,
+        "RequiredReadEpisodeMasterId" : 1020416,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 10204,
+        "Title" : "本稽古開始"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020418,
+        "Id" : 1020418,
+        "Order" : 18,
+        "RequiredReadEpisodeMasterId" : 1020417,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 10204,
+        "Title" : "各位、邁進"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020419,
+        "Id" : 1020419,
+        "Order" : 19,
+        "RequiredReadEpisodeMasterId" : 1020418,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 10204,
+        "Title" : "連なる道"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020420,
+        "Id" : 1020420,
+        "Order" : 20,
+        "RequiredReadEpisodeMasterId" : 1020419,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 10204,
+        "Title" : "集うピース"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020421,
+        "Id" : 1020421,
+        "Order" : 21,
+        "RequiredReadEpisodeMasterId" : 1020420,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 10204,
+        "Title" : "新たなる楽園"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020422,
+        "Id" : 1020422,
+        "Order" : 22,
+        "RequiredReadEpisodeMasterId" : 1020421,
+        "RequiredTotalAcquiredPoint" : 32000,
+        "StoryMasterId" : 10204,
+        "Title" : "変わりゆくもの"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020423,
+        "Id" : 1020423,
+        "Order" : 23,
+        "RequiredReadEpisodeMasterId" : 1020422,
+        "RequiredTotalAcquiredPoint" : 64000,
+        "StoryMasterId" : 10204,
+        "Title" : "幕間、そして"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1020424,
+        "Id" : 1020424,
+        "Order" : 24,
+        "RequiredReadEpisodeMasterId" : 1020423,
+        "RequiredTotalAcquiredPoint" : 128000,
+        "StoryMasterId" : 10204,
+        "Title" : "次なる舞台へ"
     },
     {
         "EpisodeRewardPackageMasterId" : 1030401,
