@@ -8642,6 +8642,168 @@
         "StarActConditionMasterId" : 101411
     },
     {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 142471,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 104111
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19091,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14248101,
+                "JudgeType1" : null,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : null,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "<size=24%>総演技力の[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋ 120%）／スターアクト発動後、現在のプリンシパルゲージ上限の[:param11]%分のプリンシパルゲージを獲得する</size>",
+        "Id" : 142481,
+        "Name" : "",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 19052,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 103121
+    },
+    {
+        "AcquirableScorePercent" : 970,
+        "BranchCondition1" : "None",
+        "BranchCondition2" : "None",
+        "Branches" : [],
+        "ConditionValue1" : null,
+        "ConditionValue2" : null,
+        "Description" : "総演技力の[:score]倍のスコアを獲得",
+        "Id" : 142491,
+        "Name" : "",
+        "PreEffects" : [],
+        "ScoreUpPerLevel" : 100,
+        "StarActConditionMasterId" : 104111
+    },
+    {
+        "AcquirableScorePercent" : 1140,
+        "BranchCondition1" : "StorageSenseLightCount",
+        "BranchCondition2" : "None",
+        "Branches" : 
+        [
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19036,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14250101,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 1,
+                "Parameter1" : 1,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19037,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14250102,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 2,
+                "Parameter1" : 2,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19038,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14250103,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 3,
+                "Parameter1" : 3,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19039,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14250104,
+                "JudgeType1" : 1,
+                "JudgeType2" : null,
+                "Order" : 4,
+                "Parameter1" : 4,
+                "Parameter2" : null
+            },
+            {
+                "BranchEffects" : 
+                [
+                    {
+                        "EffectMasterId" : 19040,
+                        "Order" : 1
+                    }
+                ],
+                "Id" : 14250105,
+                "JudgeType1" : 2,
+                "JudgeType2" : null,
+                "Order" : 5,
+                "Parameter1" : 5,
+                "Parameter2" : null
+            }
+        ],
+        "ConditionValue1" : 5,
+        "ConditionValue2" : null,
+        "Description" : "<size=26%>総演技力の[:score]倍のスコアを獲得／ライフが多いほどスコア獲得量UP効果（最大＋ 100%）／ストックされている全ての光1個につき総演技力の[:param11]倍のスコアを獲得(最大5個)</size>",
+        "Id" : 142501,
+        "Name" : "",
+        "PreEffects" : 
+        [
+            {
+                "EffectMasterId" : 19051,
+                "Order" : 1
+            }
+        ],
+        "ScoreUpPerLevel" : 120,
+        "StarActConditionMasterId" : 101241
+    },
+    {
         "AcquirableScorePercent" : 1310,
         "BranchCondition1" : "None",
         "BranchCondition2" : "None",

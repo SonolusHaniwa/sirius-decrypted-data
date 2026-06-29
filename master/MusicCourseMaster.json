@@ -1788,6 +1788,76 @@
         "Details" : 
         [
             {
+                "Id" : 8801,
+                "LiveMasterId" : 8204,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8802,
+                "LiveMasterId" : 4804,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8803,
+                "LiveMasterId" : 26304,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : null,
+        "Id" : 88,
+        "InitialLife" : 420,
+        "MusicCourseType" : "Special",
+        "Name" : "二人の軌跡コース【STELLA部門】",
+        "Order" : 28,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-07-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 8901,
+                "LiveMasterId" : 2505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8902,
+                "LiveMasterId" : 7305,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 8903,
+                "LiveMasterId" : 26305,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : null,
+        "Id" : 89,
+        "InitialLife" : 550,
+        "MusicCourseType" : "Special",
+        "Name" : "二人の軌跡コース【OLIVIER部門】",
+        "Order" : 29,
+        "RequiredAmount" : 0,
+        "RequiredItemMasterId" : null,
+        "StartDate" : "2026-07-19 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
                 "Id" : 20001,
                 "LiveMasterId" : 104,
                 "SetListNumber" : 1,
@@ -6540,6 +6610,146 @@
         "RequiredAmount" : 1,
         "RequiredItemMasterId" : 130201,
         "StartDate" : "2026-06-29 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 33601,
+                "LiveMasterId" : 9404,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33602,
+                "LiveMasterId" : 104,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33603,
+                "LiveMasterId" : 204,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-07-13 00:00:00",
+        "Id" : 336,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第69回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-07-06 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 33701,
+                "LiveMasterId" : 9405,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33702,
+                "LiveMasterId" : 105,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33703,
+                "LiveMasterId" : 205,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-07-13 00:00:00",
+        "Id" : 337,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第69回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-07-06 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 33801,
+                "LiveMasterId" : 25604,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33802,
+                "LiveMasterId" : 15604,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33803,
+                "LiveMasterId" : 14604,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-07-20 00:00:00",
+        "Id" : 338,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第70回 ウィークリーコース【STELLA部門】",
+        "Order" : 1,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-07-13 17:00:00",
+        "TournamentQualifyingMasterId" : null,
+        "UnlockCondition" : "None",
+        "UnlockConditionValue" : null
+    },
+    {
+        "Details" : 
+        [
+            {
+                "Id" : 33901,
+                "LiveMasterId" : 12505,
+                "SetListNumber" : 1,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33902,
+                "LiveMasterId" : 25605,
+                "SetListNumber" : 2,
+                "VocalVersion" : 1
+            },
+            {
+                "Id" : 33903,
+                "LiveMasterId" : 14605,
+                "SetListNumber" : 3,
+                "VocalVersion" : 1
+            }
+        ],
+        "EndDate" : "2026-07-20 00:00:00",
+        "Id" : 339,
+        "InitialLife" : 300,
+        "MusicCourseType" : "5",
+        "Name" : "第70回 ウィークリーコース【OLIVIER部門】",
+        "Order" : 2,
+        "RequiredAmount" : 1,
+        "RequiredItemMasterId" : 130201,
+        "StartDate" : "2026-07-13 17:00:00",
         "TournamentQualifyingMasterId" : null,
         "UnlockCondition" : "None",
         "UnlockConditionValue" : null
