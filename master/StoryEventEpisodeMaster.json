@@ -3,7 +3,7 @@
         "EpisodeRewardPackageMasterId" : 1010401,
         "Id" : 1010401,
         "Order" : 1,
-        "RequiredReadEpisodeMasterId" : 1010320,
+        "RequiredReadEpisodeMasterId" : null,
         "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10104,
         "Title" : "星を見つける季節"
@@ -435,7 +435,7 @@
         "EpisodeRewardPackageMasterId" : 1030401,
         "Id" : 1030401,
         "Order" : 1,
-        "RequiredReadEpisodeMasterId" : 1030320,
+        "RequiredReadEpisodeMasterId" : null,
         "RequiredTotalAcquiredPoint" : 0,
         "StoryMasterId" : 10304,
         "Title" : "来たる季節に向けて"
@@ -862,6 +862,186 @@
         "RequiredTotalAcquiredPoint" : 128000,
         "StoryMasterId" : 10404,
         "Title" : "黄色い道の先へ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050101,
+        "Id" : 1050101,
+        "Order" : 1,
+        "RequiredReadEpisodeMasterId" : null,
+        "RequiredTotalAcquiredPoint" : 0,
+        "StoryMasterId" : 10501,
+        "Title" : "星々が集まって　前編"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050102,
+        "Id" : 1050102,
+        "Order" : 2,
+        "RequiredReadEpisodeMasterId" : 1050101,
+        "RequiredTotalAcquiredPoint" : 2000,
+        "StoryMasterId" : 10501,
+        "Title" : "星々が集まって　後編"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050103,
+        "Id" : 1050103,
+        "Order" : 3,
+        "RequiredReadEpisodeMasterId" : 1050102,
+        "RequiredTotalAcquiredPoint" : 3000,
+        "StoryMasterId" : 10501,
+        "Title" : "ダイスターたち"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050104,
+        "Id" : 1050104,
+        "Order" : 4,
+        "RequiredReadEpisodeMasterId" : 1050103,
+        "RequiredTotalAcquiredPoint" : 4000,
+        "StoryMasterId" : 10501,
+        "Title" : "選ばれし星の中の輝き"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050105,
+        "Id" : 1050105,
+        "Order" : 5,
+        "RequiredReadEpisodeMasterId" : 1050104,
+        "RequiredTotalAcquiredPoint" : 5000,
+        "StoryMasterId" : 10501,
+        "Title" : "原石の星に光を見出す"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050106,
+        "Id" : 1050106,
+        "Order" : 6,
+        "RequiredReadEpisodeMasterId" : 1050105,
+        "RequiredTotalAcquiredPoint" : 6000,
+        "StoryMasterId" : 10501,
+        "Title" : "銀河座・電姫の最終稽古"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050107,
+        "Id" : 1050107,
+        "Order" : 7,
+        "RequiredReadEpisodeMasterId" : 1050106,
+        "RequiredTotalAcquiredPoint" : 7000,
+        "StoryMasterId" : 10501,
+        "Title" : "Eden・シリウスの最終稽古"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050108,
+        "Id" : 1050108,
+        "Order" : 8,
+        "RequiredReadEpisodeMasterId" : 1050107,
+        "RequiredTotalAcquiredPoint" : 8000,
+        "StoryMasterId" : 10501,
+        "Title" : "悪戯な神々"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050109,
+        "Id" : 1050109,
+        "Order" : 9,
+        "RequiredReadEpisodeMasterId" : 1050108,
+        "RequiredTotalAcquiredPoint" : 9000,
+        "StoryMasterId" : 10501,
+        "Title" : "感化　前編"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050110,
+        "Id" : 1050110,
+        "Order" : 10,
+        "RequiredReadEpisodeMasterId" : 1050109,
+        "RequiredTotalAcquiredPoint" : 10000,
+        "StoryMasterId" : 10501,
+        "Title" : "感化　後編"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050111,
+        "Id" : 1050111,
+        "Order" : 11,
+        "RequiredReadEpisodeMasterId" : 1050110,
+        "RequiredTotalAcquiredPoint" : 11000,
+        "StoryMasterId" : 10501,
+        "Title" : "戦友たち"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050112,
+        "Id" : 1050112,
+        "Order" : 12,
+        "RequiredReadEpisodeMasterId" : 1050111,
+        "RequiredTotalAcquiredPoint" : 12000,
+        "StoryMasterId" : 10501,
+        "Title" : "麗しき女神の為のセプテット"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050113,
+        "Id" : 1050113,
+        "Order" : 13,
+        "RequiredReadEpisodeMasterId" : 1050112,
+        "RequiredTotalAcquiredPoint" : 13000,
+        "StoryMasterId" : 10501,
+        "Title" : "革命"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050114,
+        "Id" : 1050114,
+        "Order" : 14,
+        "RequiredReadEpisodeMasterId" : 1050113,
+        "RequiredTotalAcquiredPoint" : 14000,
+        "StoryMasterId" : 10501,
+        "Title" : "忘れられた神の慟哭と飢え"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050115,
+        "Id" : 1050115,
+        "Order" : 15,
+        "RequiredReadEpisodeMasterId" : 1050114,
+        "RequiredTotalAcquiredPoint" : 15000,
+        "StoryMasterId" : 10501,
+        "Title" : "願い"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050116,
+        "Id" : 1050116,
+        "Order" : 16,
+        "RequiredReadEpisodeMasterId" : 1050115,
+        "RequiredTotalAcquiredPoint" : 16000,
+        "StoryMasterId" : 10501,
+        "Title" : "School war Justice!!"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050117,
+        "Id" : 1050117,
+        "Order" : 17,
+        "RequiredReadEpisodeMasterId" : 1050116,
+        "RequiredTotalAcquiredPoint" : 17000,
+        "StoryMasterId" : 10501,
+        "Title" : "夢の舞台へ"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050118,
+        "Id" : 1050118,
+        "Order" : 18,
+        "RequiredReadEpisodeMasterId" : 1050117,
+        "RequiredTotalAcquiredPoint" : 18000,
+        "StoryMasterId" : 10501,
+        "Title" : "ネクタルの注がれる先"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050119,
+        "Id" : 1050119,
+        "Order" : 19,
+        "RequiredReadEpisodeMasterId" : 1050118,
+        "RequiredTotalAcquiredPoint" : 19000,
+        "StoryMasterId" : 10501,
+        "Title" : "結果発表"
+    },
+    {
+        "EpisodeRewardPackageMasterId" : 1050120,
+        "Id" : 1050120,
+        "Order" : 20,
+        "RequiredReadEpisodeMasterId" : 1050119,
+        "RequiredTotalAcquiredPoint" : 20000,
+        "StoryMasterId" : 10501,
+        "Title" : "そして、これからも"
     },
     {
         "EpisodeRewardPackageMasterId" : 2000101,

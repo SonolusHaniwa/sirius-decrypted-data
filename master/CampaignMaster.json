@@ -1032,6 +1032,66 @@
         "Title" : "稽古の獲得SP 75％UP"
     },
     {
+        "CampaignEffectType" : "LessonCount",
+        "CampaignEffectValue" : 2,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：7/26 5:00～8/10 5:00/n対象：稽古",
+        "EndDate" : "2026-08-10 05:00:00",
+        "IconImagePath" : "1001",
+        "Id" : 88,
+        "Order" : 88,
+        "StartDate" : "2026-07-26 05:00:00",
+        "Title" : "稽古の回数 +2回"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 300,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：7/26 0:00 ～ 8/10 5:00/n対象：公演、協力公演",
+        "EndDate" : "2026-08-10 05:00:00",
+        "IconImagePath" : "4",
+        "Id" : 89,
+        "Order" : 89,
+        "StartDate" : "2026-07-26 00:00:00",
+        "Title" : "公演の獲得EXP 300％UP"
+    },
+    {
+        "CampaignEffectType" : "LiveReward",
+        "CampaignEffectValue" : 150,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：8/10 5:00 ～ 9/29 14:00/n対象：公演、協力公演",
+        "EndDate" : "2026-09-29 14:00:00",
+        "IconImagePath" : "1",
+        "Id" : 90,
+        "Order" : 90,
+        "StartDate" : "2026-08-10 05:00:00",
+        "Title" : "公演の報酬量 150%UP"
+    },
+    {
+        "CampaignEffectType" : "RankPoint",
+        "CampaignEffectValue" : 150,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：8/10 5:00 ～ 9/29 14:00/n対象：公演、協力公演",
+        "EndDate" : "2026-09-29 14:00:00",
+        "IconImagePath" : "4",
+        "Id" : 91,
+        "Order" : 91,
+        "StartDate" : "2026-08-10 05:00:00",
+        "Title" : "公演の獲得EXP 150％UP"
+    },
+    {
+        "CampaignEffectType" : "StarPoint",
+        "CampaignEffectValue" : 50,
+        "ComebackCampaignMasterId" : null,
+        "Description" : "期間：8/10 5:00 ～ 9/29 14:00/n対象：稽古",
+        "EndDate" : "2026-09-29 14:00:00",
+        "IconImagePath" : "3",
+        "Id" : 92,
+        "Order" : 92,
+        "StartDate" : "2026-08-10 05:00:00",
+        "Title" : "稽古の獲得SP 50％UP"
+    },
+    {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : 1,
@@ -1179,24 +1239,24 @@
         "CampaignEffectType" : "LessonCount",
         "CampaignEffectValue" : 2,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：6/27 5:00 ～ 6/28 5:00/n対象：稽古",
-        "EndDate" : "2026-06-28 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：7/27 5:00 ～ 7/28 5:00/n対象：稽古",
+        "EndDate" : "2026-07-28 05:00:00",
         "IconImagePath" : "1001",
         "Id" : 2005,
         "Order" : 2005,
-        "StartDate" : "2026-06-27 05:00:00",
+        "StartDate" : "2026-07-27 05:00:00",
         "Title" : "稽古の回数 +2回"
     },
     {
         "CampaignEffectType" : "RankPoint",
         "CampaignEffectValue" : 50,
         "ComebackCampaignMasterId" : null,
-        "Description" : "ユメステデー！ 開催中！/n期間：6/27 5:00 ～ 6/28 5:00/n対象：公演、協力公演",
-        "EndDate" : "2026-06-28 05:00:00",
+        "Description" : "ユメステデー！ 開催中！/n期間：7/27 5:00 ～ 7/28 5:00/n対象：公演、協力公演",
+        "EndDate" : "2026-07-28 05:00:00",
         "IconImagePath" : "4",
         "Id" : 2006,
         "Order" : 2006,
-        "StartDate" : "2026-06-27 05:00:00",
+        "StartDate" : "2026-07-27 05:00:00",
         "Title" : "公演の獲得EXP 50％UP"
     }
 ]
