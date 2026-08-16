@@ -18527,8 +18527,8 @@
         "Triggers" : 
         [
             {
-                "Trigger" : "11",
-                "Value" : 5
+                "Trigger" : "10",
+                "Value" : 1
             }
         ],
         "Type" : "PerformanceUp"
@@ -18623,6 +18623,75 @@
         "Range" : "None",
         "Triggers" : [],
         "Type" : "AddSenseLightSpecial"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 60008,
+        "Range" : "All",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "10",
+                "Value" : 2
+            }
+        ],
+        "Type" : "PerformanceUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 60009,
+        "Range" : "All",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "10",
+                "Value" : 3
+            }
+        ],
+        "Type" : "PerformanceUp"
+    },
+    {
+        "CalculationType" : "PercentageAddition",
+        "Conditions" : [],
+        "Details" : 
+        [
+            {
+                "Level" : 1,
+                "Value" : 128.0
+            }
+        ],
+        "DurationSecond" : 0,
+        "FireTimingType" : "Passive",
+        "Id" : 60010,
+        "Range" : "All",
+        "Triggers" : 
+        [
+            {
+                "Trigger" : "10",
+                "Value" : 4
+            }
+        ],
+        "Type" : "PerformanceUp"
     },
     {
         "CalculationType" : "FixedAddition",
